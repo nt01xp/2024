@@ -26,7 +26,7 @@ https://useragent.onlinealat.com/
 
 ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-范明明IPTV6,https://fanmingming.com/txt?url=https://live.fanmingming.com/tv/m3u/ipv6.m3u
+范明明IPTV6,https://fanmingming.com/txt?url=https://live.fanmingming.cn/tv/m3u/ipv6.m3u
 
 https://live.fanmingming.com
 
