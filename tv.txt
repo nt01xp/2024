@@ -82,7 +82,6 @@ CCTV4,https://www.youtube.com/watch?v=twhG7_jvA8g
 三國24H,https://www.youtube.com/watch?v=Njvo1ce2v90
 水滸傳24H,https://www.youtube.com/watch?v=hP4sQJikwCk
 
-日本新聞,#genre#
 JapaNews24,https://www.youtube.com/watch?v=coYw-eVU0Ks
 日テレNEWS LIVE,https://www.youtube.com/watch?v=VDhPBOOSDlw
 TBS NEWS DIG,https://www.youtube.com/watch?v=ohI356mwBp8
