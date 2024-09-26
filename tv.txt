@@ -18,6 +18,7 @@ CBeebies,udp://@224.1.4.75:11111
 
 油管新聞,#genre#
 parse=1
+
 TVBS新聞1,https://today.line.me/tw/v2/article/jggMBa
 TVBS新聞2,https://www.youtube.com/watch?v=m_dhMSvUCIc
 東森新聞,https://www.youtube.com/watch?v=V1p33hqPrUk
