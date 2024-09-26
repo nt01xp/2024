@@ -1,4 +1,4 @@
-
+https://raw.githubusercontent.com/nt01xp/2024/refs/heads/main/tv.json
 
 节点分享 | 快嘴科技-V2ray资源站-ai资源站
 
