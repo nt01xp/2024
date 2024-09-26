@@ -10,12 +10,12 @@ CBeebies,udp://@224.1.4.75:11111
 中視,rtmp://f13h.mine.nu/sat/tv091
 台視,https://www.youtube.com/watch?v=uDqQo8a7Xmk
 
-TVBS新聞,
-東森新聞,
-靖天日本,
-民視旅遊,
-亞洲旅遊,
-Smart知識台,
+TVBS新聞,https://qq01xp.serv00.net/litv.php?id=4gtv-4gtv072
+東森新聞,https://qq01xp.serv00.net/litv.php?id=4gtv-4gtv152
+靖天日本,https://qq01xp.serv00.net/litv.php?id=4gtv-4gtv047
+民視旅遊,https://qq01xp.serv00.net/litv.php?id=litv-ftv07
+亞洲旅遊,hhttps://qq01xp.serv00.net/litv.php?id=litv-longturn17
+Smart知識台,https://qq01xp.serv00.net/litv.php?id=litv-longturn19
 
 緯來日本,rtmp://f13h.mine.nu/sat/tv771
 緯來育樂,rtmp://f13h.mine.nu/sat/tv701
