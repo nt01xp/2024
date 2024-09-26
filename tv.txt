@@ -62,7 +62,7 @@ KansaiNews24,https://www.youtube.com/watch?v=sTAqx_1Yrww
 広島ニュース24,https://www.youtube.com/watch?v=e2pgLUmaxGs
 
 
-央視,#genre#
+央視頻道,#genre#
 CHC影迷電影,http://[2001:250:5800:1005::155]:80/liverespath/bca6167afdef7fc773405c38e695b342c1d1eca0/index.m3u8
 CHC動作電影,http://[2001:250:5800:1005::155]:80/liverespath/e0096742f0c5be4c5225cf3c7ab1077177bec05f/index.m3u8
 CHC家庭影院,http://[2001:250:5800:1005::155]:80/liverespath/449d51febadb152094085d373b9af94a6ac5f1dd/index.m3u8
@@ -92,7 +92,7 @@ CHC家庭影院,http://[2001:250:5800:1005::155]:80/liverespath/449d51febadb1520
 16奧林匹克,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
 17農業農村,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 
-衛視,#genre#
+衛視頻道,#genre#
 江蘇衛視,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225613/index.m3u8
 江蘇衛視,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226310/index.m3u8
 浙江衛視,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225612/index.m3u8
@@ -132,7 +132,7 @@ CHC家庭影院,http://[2001:250:5800:1005::155]:80/liverespath/449d51febadb1520
 黑龍江衛視,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226582/index.m3u8
 黑龍江衛視,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226585/index.m3u8
 
-黑龍江,#genre#
+黑龍江頻道,#genre#
 黑龍江少兒,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226304/index.m3u8
 黑龍江文體,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226239/index.m3u8
 黑龍江都市,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226301/index.m3u8
@@ -140,7 +140,7 @@ CHC家庭影院,http://[2001:250:5800:1005::155]:80/liverespath/449d51febadb1520
 黑龍江農業科教,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226242/index.m3u8
 黑龍江影視,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226298/index.m3u8
 
-數字,#genre#
+數字頻道,#genre#
 紀實人文,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8
 紀實科教,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8
 超級電影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
