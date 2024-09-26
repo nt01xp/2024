@@ -54,6 +54,13 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 華視新聞,https://www.youtube.com/watch?v=wM0g8EoUZ_E
 中視新聞,https://www.youtube.com/watch?v=TCnaIE_SAtM
 台視新聞,https://www.youtube.com/watch?v=xL0ch83RAK8
+JapaNews24,https://www.youtube.com/watch?v=coYw-eVU0Ks
+日テレNEWS LIVE,https://www.youtube.com/watch?v=VDhPBOOSDlw
+TBS NEWS DIG,https://www.youtube.com/watch?v=ohI356mwBp8
+KansaiNews24,https://www.youtube.com/watch?v=sTAqx_1Yrww
+メ～テレ NEWS LIVE 24,https://www.youtube.com/watch?v=-C6FE2m7kX8
+北海道ニュース24,https://www.youtube.com/watch?v=d8CrKBU99Hg
+広島ニュース24,https://www.youtube.com/watch?v=e2pgLUmaxGs
 
 油管直播,#genre#
 
@@ -73,15 +80,6 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 大陸尋奇24H,https://www.youtube.com/watch?v=h0mUy0edJK0
 三國24H,https://www.youtube.com/watch?v=Njvo1ce2v90
 水滸傳24H,https://www.youtube.com/watch?v=hP4sQJikwCk
-
-JapaNews24,https://www.youtube.com/watch?v=coYw-eVU0Ks
-日テレNEWS LIVE,https://www.youtube.com/watch?v=VDhPBOOSDlw
-TBS NEWS DIG,https://www.youtube.com/watch?v=ohI356mwBp8
-KansaiNews24,https://www.youtube.com/watch?v=sTAqx_1Yrww
-メ～テレ NEWS LIVE 24,https://www.youtube.com/watch?v=-C6FE2m7kX8
-北海道ニュース24,https://www.youtube.com/watch?v=d8CrKBU99Hg
-広島ニュース24,https://www.youtube.com/watch?v=e2pgLUmaxGs
-
 
 央視頻道,#genre#
 CHC影迷電影,http://[2001:250:5800:1005::155]:80/liverespath/bca6167afdef7fc773405c38e695b342c1d1eca0/index.m3u8
