@@ -10,8 +10,6 @@ CBeebies,udp://@224.1.4.75:11111
 中視,rtmp://f13h.mine.nu/sat/tv091
 台視,https://www.youtube.com/watch?v=uDqQo8a7Xmk
 
-TVBS新聞,https://today.line.me/tw/v2/article/jggMBa
-
 緯來日本,rtmp://f13h.mine.nu/sat/tv771
 緯來育樂,rtmp://f13h.mine.nu/sat/tv701
 緯來體育,rtmp://f13h.mine.nu/sat/tv721
@@ -19,7 +17,9 @@ TVBS新聞,https://today.line.me/tw/v2/article/jggMBa
 八大綜合,http://61.221.215.25:8800/hls/56/index.m3u8
 
 油管新聞,#genre#
-TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
+parse=1
+TVBS新聞1,https://today.line.me/tw/v2/article/jggMBa
+TVBS新聞2,https://www.youtube.com/watch?v=m_dhMSvUCIc
 東森新聞,https://www.youtube.com/watch?v=V1p33hqPrUk
 民視新聞,https://www.youtube.com/watch?v=ylYJSBUgaMA
 中天新聞,https://www.youtube.com/watch?v=oIgbl7t0S_w
