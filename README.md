@@ -1,11 +1,5 @@
 https://raw.githubusercontent.com/nt01xp/2024/refs/heads/main/tv.json
 
-节点分享 | 快嘴科技-V2ray资源站-ai资源站
-
-https://kkzui.com/jd
-
-fm json https://raw.githubusercontent.com/shawn82/fm/f7d61d6b58566bf6086a1ebb06045acff77fa8e2/fm.json
-
 黑鳥直播源列表格式轉換 https://guihet.com/tvlistconvert.html
 
 4gtv豪華頻道餐,https://www.4gtv.tv/channel?channelSet_id=1
@@ -20,15 +14,7 @@ TVBS新聞24,https://www.youtube.com/watch?v=2mCSYvcfhtc
 
 JSON https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/0827.json
 
-UA查詢 查看瀏覽器的UserAgent用戶代理
-
-https://useragent.onlinealat.com/
-
-ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
 范明明IPTV6,https://fanmingming.com/txt?url=https://live.fanmingming.cn/tv/m3u/ipv6.m3u
-
-https://live.fanmingming.com
 
 CCTV直播,https://tv.cctv.com/live
 
@@ -42,37 +28,33 @@ CCTV直播,https://tv.cctv.com/live
 
 ETHTV機上盒使用教學 https://www.tv6868.com/
 
-電視盒子IPTV交流群 https://t.me/aitvbox
+=============================
 
-今日影視 https://t.me/jin365m
-
-酷96群 https://t.me/ku9cat888
-
-阿黃tv https://t.me/ahuangtv
-
-ourtv 电报群： https://t.me/+z1BOPITtAmI4ZWZl 新版本将在该群第一时间放出。
-
-极致播放器交流群 https://t.me/jizhi222
-
-影視TV https://t.me/fongmi_offical
-
-肥羊影音数码综合交流群 https://t.me/feiyangdigital
+pixman.io & livednow.com 交流群 https://t.me/livednowgroup
 
 智能电视盒子直播源 https://t.me/meitu007
+
+電視盒子IPTV交流群 https://t.me/aitvbox
 
 大宇的大家庭（电视盒子） https://t.me/Dayuptv
 
 夏天 https://t.me/atv168
 
-必勝影視交流群 https://t.me/beatsingdrama
+酷96群 https://t.me/ku9cat888
 
-智能电视盒子应用分享和交流 https://t.me/tvbox002
+阿黃tv https://t.me/ahuangtv
 
-epg.pw https://t.me/epg_chinese
+极致播放器交流群 https://t.me/jizhi222
 
-Box醒人室 https://t.me/TVBoxxoo
+影視TV https://t.me/fongmi_offical
 
-pixman.io & livednow.com 交流群 https://t.me/livednowgroup
+ourtv 电报群： https://t.me/+z1BOPITtAmI4ZWZl 新版本将在该群第一时间放出。
+
+肥羊影音数码综合交流群 https://t.me/feiyangdigital
+
+xxxx 必勝影視交流群 https://t.me/beatsingdrama
+
+xxxx 智能电视盒子应用分享和交流 https://t.me/tvbox002
 
 ＋＋＋＋＋＋＋＋＋
 
