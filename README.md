@@ -62,8 +62,6 @@ xxxx 智能电视盒子应用分享和交流 https://t.me/tvbox002
 
 安卓免費破解 https://t.me/pojieshare
 
-日語梁小雨 https://t.me/ookamiame
-
 八度破解 https://t.me/pjrjzy
 
 影視軟件安裝大全 https://t.me/tvboxjk
