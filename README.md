@@ -38,7 +38,7 @@ pixman.io & livednow.com 交流群 https://t.me/livednowgroup
 
 大宇的大家庭（电视盒子） https://t.me/Dayuptv
 
-夏天 https://t.me/atv168
+影视资源交流群 https://t.me/atv168
 
 酷96群 https://t.me/ku9cat888
 
