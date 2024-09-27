@@ -84,8 +84,6 @@ pixman.io & livednow.com 交流群 https://t.me/livednowgroup
 
 八度破解 https://t.me/pjrjzy
 
-TM科技 https://t.me/p_fenxiang
-
 影視軟件安裝大全 https://t.me/tvboxjk
 
 肥羊 https://t.me/feiyangofficalchannel
