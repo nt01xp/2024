@@ -6,7 +6,7 @@ TVBS新聞,https://qq01xp.serv00.net/litv.php?id=4gtv-4gtv072
 東森新聞台,https://qq01xp.serv00.net/litv.php?id=4gtv-4gtv152
 靖天日本台,https://qq01xp.serv00.net/litv.php?id=4gtv-4gtv047
 亞洲旅遊台,https://qq01xp.serv00.net/litv.php?id=litv-longturn17
-ELTA生活旅遊,https://compact-tobye-nt01xp-717a8a06.koyeb.app/4gtv237
+ELTA生活旅遊,https://compact-tobye-nt01xp-717a8a06.koyeb.app/4gtv/237
 Smart知識台,https://qq01xp.serv00.net/litv.php?id=litv-longturn19
 
 華視,rtmp://f13h.mine.nu/sat/tv111
