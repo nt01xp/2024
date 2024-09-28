@@ -8,6 +8,7 @@ MOMO親子,http://cookies.elementfx.com/ublive/ublive.php?id=2767
 TVBS新聞,https://kaytse4gtv.koyeb.app/litv/4gtv-4gtv072
 東森新聞台,https://kaytse4gtv.koyeb.app/litv/4gtv-4gtv152
 靖天日本台,https://kaytse4gtv.koyeb.app/litv/4gtv-4gtv047
+民視旅遊台,https://kaytse4gtv.koyeb.app/litv/litv-ftv07
 亞洲旅遊台,https://kaytse4gtv.koyeb.app/litv/litv-longturn17
 ELTA生活旅遊,https://kaytse4gtv.koyeb.app/4gtv/237
 Smart知識台,https://kaytse4gtv.koyeb.app/litv/litv-longturn19
