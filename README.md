@@ -76,8 +76,6 @@ ok影視 https://t.me/tvb_ys
 
 tvbox接口 https://t.me/TVBoxjkou
 
-ethtv https://t.me/ETH_TV
-
 iptv epg.pw https://t.me/iptv_crawl
 
 EPG機器人 @myepg_bot
