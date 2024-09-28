@@ -1,7 +1,8 @@
 卡通新聞,#genre#
 CBeebies,udp://@224.1.4.75:11111
-Nick Jr. 兒童頻道,https://compact-tobye-nt01xp-717a8a06.koyeb.app/4gtv/219
-Nickelodeon,https://compact-tobye-nt01xp-717a8a06.koyeb.app/4gtv/185
+
+東森幼幼,http://cookies.elementfx.com/ublive/ublive.php?id=371
+MOMO親子,http://cookies.elementfx.com/ublive/ublive.php?id=2767
 柯南劇場,http://cfss.cc/cdn/dyu/6484910.m3u8
 
 北京淘電影,http://1.203.76.193:7788/udp/225.1.8.38:8002
