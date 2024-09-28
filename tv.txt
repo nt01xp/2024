@@ -10,15 +10,14 @@ MOMO親子,http://cookies.elementfx.com/ublive/ublive.php?id=2767
 北京淘劇場,http://1.203.76.193:7788/udp/225.1.8.37:8002
 
 CATCHPLAY電影台,https://qq01xp.serv00.net/litv.php?id=4gtv-4gtv076
-TVBS新聞,https://qq01xp.serv00.net/litv.php?id=4gtv-4gtv072
-東森新聞台,https://qq01xp.serv00.net/litv.php?id=4gtv-4gtv152
-靖天日本台,https://qq01xp.serv00.net/litv.php?id=4gtv-4gtv047
-亞洲旅遊台,https://qq01xp.serv00.net/litv.php?id=litv-longturn17
-ELTA生活旅遊,https://compact-tobye-nt01xp-717a8a06.koyeb.app/4gtv/237
-Smart知識台,https://qq01xp.serv00.net/litv.php?id=litv-longturn19
-采昌影劇台,https://compact-tobye-nt01xp-717a8a06.koyeb.app/litv/4gtv-4gtv049
-霹靂布袋戲,https://compact-tobye-nt01xp-717a8a06.koyeb.app/4gtv/301
-Love Nature,https://compact-tobye-nt01xp-717a8a06.koyeb.app/4gtv/139
+TVBS新聞,https://kaytse4gtv.koyeb.app/litv/4gtv-4gtv072
+東森新聞台,https://kaytse4gtv.koyeb.app/litv/4gtv-4gtv152
+靖天日本台,https://kaytse4gtv.koyeb.app/litv/4gtv-4gtv047
+亞洲旅遊台,https://kaytse4gtv.koyeb.app/litv/litv-longturn17
+ELTA生活旅遊,https://kaytse4gtv.koyeb.app/4gtv/237
+Smart知識台,https://kaytse4gtv.koyeb.app/litv/litv-longturn19
+Love Nature,https://kaytse4gtv.koyeb.app/4gtv/139
+采昌影劇台,https://kaytse4gtv.koyeb.app/litv/4gtv-4gtv049
 
 華視,rtmp://f13h.mine.nu/sat/tv111
 中視,rtmp://f13h.mine.nu/sat/tv091
