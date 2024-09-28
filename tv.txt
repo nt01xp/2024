@@ -3,13 +3,6 @@ CBeebies,udp://@224.1.4.75:11111
 Nick Jr. 兒童頻道,https://compact-tobye-nt01xp-717a8a06.koyeb.app/4gtv/219
 Nickelodeon,https://compact-tobye-nt01xp-717a8a06.koyeb.app/4gtv/185
 柯南劇場,http://cfss.cc/cdn/dyu/6484910.m3u8
-櫻桃小丸子1,http://159.75.85.63:35455/huya/11342394
-櫻桃小丸子2,http://cfss.cc/cdn/hy/11342394.m3u8
-蠟筆小新1,http://159.75.85.63:35455/huya/11352970
-蠟筆小新2,http://cfss.cc/cdn/hy/11352970.m3u8
-哆啦A夢1,http://159.75.85.63:35455/huya/11601963
-哆啦A夢2,http://cfss.cc/cdn/hy/11601963.m3u8
-
 
 CATCHPLAY電影台,https://qq01xp.serv00.net/litv.php?id=4gtv-4gtv076
 TVBS新聞,https://qq01xp.serv00.net/litv.php?id=4gtv-4gtv072
