@@ -50,6 +50,9 @@ ourtv 电报群： https://t.me/+z1BOPITtAmI4ZWZl 新版本将在该群第一时
 
 肥羊影音数码综合交流群 https://t.me/feiyangdigital
 
+Timi交流群 
+https://t.me/Timi_gg
+
 xxxx 必勝影視交流群 https://t.me/beatsingdrama
 
 xxxx 智能电视盒子应用分享和交流 https://t.me/tvbox002
