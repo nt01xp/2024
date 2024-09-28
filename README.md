@@ -40,8 +40,6 @@ pixman.io & livednow.com 交流群 https://t.me/livednowgroup
 
 影视资源交流群 https://t.me/atv168
 
-酷96群 https://t.me/ku9cat888
-
 阿黃tv https://t.me/ahuangtv
 
 极致播放器交流群 https://t.me/jizhi222
