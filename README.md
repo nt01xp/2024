@@ -80,8 +80,6 @@ iptv epg.pw https://t.me/iptv_crawl
 
 EPG機器人 @myepg_bot
 
-mytvsuper @Tm_super_bot
-
 霸霸 @baba_xbot
 
 香港源 @hkanime_bot
