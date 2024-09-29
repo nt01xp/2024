@@ -34,8 +34,6 @@ pixman.io & livednow.com 交流群 https://t.me/livednowgroup
 
 智能电视盒子直播源 https://t.me/meitu007
 
-電視盒子IPTV交流群 https://t.me/aitvbox
-
 大宇的大家庭（电视盒子） https://t.me/Dayuptv
 
 影视资源交流群 https://t.me/atv168
