@@ -79,7 +79,3 @@ EPG機器人 @myepg_bot
 恩山訂閱 @NodeRSS_bot
 
 /sub https://www.right.com.cn/forum/forum.php?mod=rss&fid=182
-
-
-広島ニュース24,https://www.youtube.com/watch?v=e2pgLUmaxGs
-
