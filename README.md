@@ -40,8 +40,6 @@ pixman.io & livednow.com 交流群 https://t.me/livednowgroup
 
 影视资源交流群 https://t.me/atv168
 
-阿黃tv https://t.me/ahuangtv
-
 极致播放器交流群 https://t.me/jizhi222
 
 影視TV https://t.me/fongmi_offical
@@ -52,9 +50,6 @@ https://t.me/ku96666
 ourtv 电报群： https://t.me/+z1BOPITtAmI4ZWZl 新版本将在该群第一时间放出。
 
 肥羊影音数码综合交流群 https://t.me/feiyangdigital
-
-Timi交流群 
-https://t.me/Timi_gg
 
 xxxx 必勝影視交流群 https://t.me/beatsingdrama
 
@@ -81,8 +76,6 @@ ok影視 https://t.me/tvb_ys
 唐三影視 https://t.me/ys_tvb
 
 tvbox接口 https://t.me/TVBoxjkou
-
-Timi發佈頻道 https://t.me/Timi_mytv
 
 iptv epg.pw https://t.me/iptv_crawl
 
