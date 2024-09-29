@@ -44,13 +44,6 @@ pixman.io & livednow.com 交流群 https://t.me/livednowgroup
 
 影視TV https://t.me/fongmi_offical
 
-酷96群
-https://t.me/ku96666
-
-ourtv 电报群： https://t.me/+z1BOPITtAmI4ZWZl 新版本将在该群第一时间放出。
-
-肥羊影音数码综合交流群 https://t.me/feiyangdigital
-
 xxxx 必勝影視交流群 https://t.me/beatsingdrama
 
 xxxx 智能电视盒子应用分享和交流 https://t.me/tvbox002
@@ -64,8 +57,6 @@ xxxx 智能电视盒子应用分享和交流 https://t.me/tvbox002
 八度破解 https://t.me/pjrjzy
 
 影視軟件安裝大全 https://t.me/tvboxjk
-
-肥羊 https://t.me/feiyangofficalchannel
 
 極致 https://t.me/jizhi111
 
@@ -89,19 +80,6 @@ EPG機器人 @myepg_bot
 
 /sub https://www.right.com.cn/forum/forum.php?mod=rss&fid=182
 
-====================== 日本新聞
-
-JapaNews24,https://www.youtube.com/watch?v=coYw-eVU0Ks
-
-日テレNEWS LIVE,https://www.youtube.com/watch?v=VDhPBOOSDlw
-
-TBS NEWS DIG,https://www.youtube.com/watch?v=ohI356mwBp8
-
-KansaiNews24,https://www.youtube.com/watch?v=sTAqx_1Yrww
-
-メ～テレ NEWS LIVE 24,https://www.youtube.com/watch?v=-C6FE2m7kX8
-
-北海道ニュース24,https://www.youtube.com/watch?v=d8CrKBU99Hg
 
 広島ニュース24,https://www.youtube.com/watch?v=e2pgLUmaxGs
 
