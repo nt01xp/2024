@@ -10,8 +10,6 @@ TVBS新聞24,https://www.youtube.com/watch?v=2mCSYvcfhtc
 
 東森新聞24,https://www.youtube.com/watch?v=E0zhe2gkXBs
 
-0827 https://github.com/gaotianliuyun/gao
-
 JSON https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/0827.json
 
 范明明IPTV6,https://fanmingming.com/txt?url=https://live.fanmingming.cn/tv/m3u/ipv6.m3u
