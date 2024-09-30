@@ -6,7 +6,19 @@ MOMO親子,http://cookies.elementfx.com/ublive/ublive.php?id=2767
 柯南劇場,http://cfss.cc/cdn/dyu/6484910.m3u8
 
 TVBS新聞,https://kaytse4gtv.koyeb.app/litv/4gtv-4gtv072
-東森新聞台,https://kaytse4gtv.koyeb.app/litv/4gtv-4gtv152
+東森新聞,https://kaytse4gtv.koyeb.app/litv/4gtv-4gtv152
+民視新聞,https://kaytse4gtv.koyeb.app/litv/litv-ftv13
+中天新聞,https://kaytse4gtv.koyeb.app/litv/4gtv-4gtv009
+三立財經,https://kaytse4gtv.koyeb.app/4gtv/229
+東森財經,https://kaytse4gtv.koyeb.app/litv/4gtv-4gtv153
+華視新聞,https://kaytse4gtv.koyeb.app/litv/4gtv-4gtv052
+中視新聞,https://kaytse4gtv.koyeb.app/litv/4gtv-4gtv074
+台視新聞,https://kaytse4gtv.koyeb.app/litv/4gtv-4gtv051
+寰宇新聞,https://kaytse4gtv.koyeb.app/litv/litv-longturn14
+寰宇台灣,https://kaytse4gtv.koyeb.app/litv/litv-longturn15
+鏡新聞,https://kaytse4gtv.koyeb.app/litv/4gtv-4gtv075
+非凡新聞,https://kaytse4gtv.koyeb.app/litv/4gtv-4gtv010
+
 靖天日本台,https://kaytse4gtv.koyeb.app/litv/4gtv-4gtv047
 民視旅遊台,https://kaytse4gtv.koyeb.app/litv/litv-ftv07
 亞洲旅遊台,https://kaytse4gtv.koyeb.app/litv/litv-longturn17
