@@ -36,6 +36,8 @@ ETHTV機上盒使用教學 https://www.tv6868.com/
 
 (鎖)大宇的大家庭（电视盒子） https://t.me/Dayuptv
 
+阿黃tv https://t.me/ahuangtv
+
 影视资源交流群 https://t.me/atv168
 
 极致播放器交流群 https://t.me/jizhi222
