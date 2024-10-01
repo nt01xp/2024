@@ -1,6 +1,6 @@
-https://raw.githubusercontent.com/zzq12345/jiemuyuan/89712d353c79625ba3230107eb61b3a1af850ad9/jsm.json
+json  https://raw.githubusercontent.com/zzq12345/jiemuyuan/89712d353c79625ba3230107eb61b3a1af850ad9/jsm.json
 
-https://raw.githubusercontent.com/nt01xp/2024/refs/heads/main/tv.json
+json  https://raw.githubusercontent.com/nt01xp/2024/refs/heads/main/tv.json
 
 黑鳥直播源列表格式轉換 https://guihet.com/tvlistconvert.html
 
