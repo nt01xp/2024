@@ -1,3 +1,21 @@
+koyeb官方網站
+https://www.koyeb.com
+
+Create Service
+
+docker.io/pixman/pixman
+
+kaytse4gtv
+
+https://kaytse4gtv.koyeb.app/4gtv.m3u
+
+四季線上 4GTV
+http://分配的網址/4gtv.m3u
+
+東森新聞,https://分配的網址/litv/4gtv-4gtv152
+
+==========================
+
 json  https://raw.githubusercontent.com/zzq12345/jiemuyuan/89712d353c79625ba3230107eb61b3a1af850ad9/jsm.json
 
 json  https://raw.githubusercontent.com/nt01xp/2024/refs/heads/main/tv.json
