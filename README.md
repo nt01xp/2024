@@ -16,6 +16,10 @@ http://分配的網址/4gtv.m3u
 
 ==========================
 
+謝安琪kaytse4gtv 
+
+https://raw.githubusercontent.com/nt01xp/2024/refs/heads/main/4.txt
+
 json  https://raw.githubusercontent.com/zzq12345/jiemuyuan/89712d353c79625ba3230107eb61b3a1af850ad9/jsm.json
 
 json  https://raw.githubusercontent.com/nt01xp/2024/refs/heads/main/tv.json
