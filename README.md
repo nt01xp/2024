@@ -9,10 +9,8 @@ kaytse4gtv
 
 https://kaytse4gtv.koyeb.app/4gtv.m3u
 
-四季線上 4GTV
+4GTV
 http://分配的網址/4gtv.m3u
-
-東森新聞,https://分配的網址/litv/4gtv-4gtv152
 
 ==========================
 
