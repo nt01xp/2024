@@ -94,6 +94,8 @@ tvbox接口 https://t.me/TVBoxjkou
 
 iptv epg.pw https://t.me/iptv_crawl
 
+APTU-MP3播放器 https://t.me/AptvPlayer
+
 ********
 
 @LookOnbot 機器人
