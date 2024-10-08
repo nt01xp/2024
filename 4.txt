@@ -247,8 +247,10 @@ CCTV 17 HEVC,https://kaytse4gtv.koyeb.app/itv/ystenlive/1000000005000265015
 地方,#genre#
 北京纪实科教,https://kaytse4gtv.koyeb.app/itv/ystenlive/1000000001000001910
 北京纪实科教 HEVC,https://kaytse4gtv.koyeb.app/itv/ystenlive/1000000005000265020
-北京卡酷少儿,https://kaytse4gtv.koyeb.app/itv/bestzb/7851974109718180595
 湖南金鹰纪实,https://kaytse4gtv.koyeb.app/itv/bestzb/5000000011000031203
+上海纪实人文 50 FPS,https://kaytse4gtv.koyeb.app/itv/bestzb/5000000004000010282
+上海纪实人文 HEVC,https://kaytse4gtv.koyeb.app/itv/ystenlive/1000000005000265021
+北京卡酷少儿,https://kaytse4gtv.koyeb.app/itv/bestzb/7851974109718180595
 湖南快乐垂钓,https://kaytse4gtv.koyeb.app/itv/bestzb/5000000011000031206
 湖南茶频道,https://kaytse4gtv.koyeb.app/itv/bestzb/5000000011000031209
 上海 ICS 外语,https://kaytse4gtv.koyeb.app/itv/bestzb/5000000010000030951
@@ -258,8 +260,6 @@ CCTV 17 HEVC,https://kaytse4gtv.koyeb.app/itv/ystenlive/1000000005000265015
 上海都市,https://kaytse4gtv.koyeb.app/itv/bestzb/5000000010000018926
 上海法治天地,https://kaytse4gtv.koyeb.app/itv/hnbblive/2000000002000000014
 上海哈哈炫动,https://kaytse4gtv.koyeb.app/itv/bestzb/5000000011000031123
-上海纪实人文 50 FPS,https://kaytse4gtv.koyeb.app/itv/bestzb/5000000004000010282
-上海纪实人文 HEVC,https://kaytse4gtv.koyeb.app/itv/ystenlive/1000000005000265021
 上海五星体育,https://kaytse4gtv.koyeb.app/itv/bestzb/5000000010000017540
 上海新闻综合,https://kaytse4gtv.koyeb.app/itv/bestzb/5000000011000031110
 
