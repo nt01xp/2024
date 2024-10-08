@@ -140,8 +140,9 @@ VOA 美國之音,https://kaytse4gtv.koyeb.app/litv/litv-ftv03
 龍華戲劇台,https://kaytse4gtv.koyeb.app/litv/litv-longturn18
 戲劇免費看 1台,https://kaytse4gtv.koyeb.app/4gtv/270
 戲劇免費看 2台,https://kaytse4gtv.koyeb.app/4gtv/244
-
-
+韓國娛樂台,https://kaytse4gtv.koyeb.app/litv/4gtv-4gtv016
+鏡電視新聞台,https://kaytse4gtv.koyeb.app/litv/4gtv-4gtv075
+霹靂布袋戲,https://kaytse4gtv.koyeb.app/4gtv/301
 
 央視,#genre#
 CCTV 1,https://kaytse4gtv.koyeb.app/itv/wasusyt/6000000001000029752
@@ -342,9 +343,6 @@ iHOT 爱悬疑,https://kaytse4gtv.koyeb.app/itv/wasusyt/6000000006000050630
 iHOT 爱幼教,https://kaytse4gtv.koyeb.app/itv/wasusyt/6000000006000180630
 iHOT 爱院线,https://kaytse4gtv.koyeb.app/itv/wasusyt/6000000006000030630
 
-韓國娛樂台,https://kaytse4gtv.koyeb.app/litv/4gtv-4gtv016
-鏡電視新聞台,https://kaytse4gtv.koyeb.app/litv/4gtv-4gtv075
-霹靂布袋戲,https://kaytse4gtv.koyeb.app/4gtv/301
 
 央视,#genre#
 CCTV 1,https://kaytse4gtv.koyeb.app/itv/wasusyt/6000000001000029752
