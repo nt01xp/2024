@@ -143,7 +143,7 @@ VOA 美國之音,https://kaytse4gtv.koyeb.app/litv/litv-ftv03
 
 
 
-央视,#genre#
+央視,#genre#
 CCTV 1,https://kaytse4gtv.koyeb.app/itv/wasusyt/6000000001000029752
 CCTV 1 50 FPS,https://kaytse4gtv.koyeb.app/itv/bestzb/5000000004000002226
 CCTV 1 HEVC,https://kaytse4gtv.koyeb.app/itv/ystenlive/1000000005000265001
@@ -188,7 +188,7 @@ CCTV 16 4K HEVC,https://kaytse4gtv.koyeb.app/itv/bestzb/5000000008000023254
 CCTV 17,https://kaytse4gtv.koyeb.app/itv/ystenlive/1000000006000268004
 CCTV 17 HEVC,https://kaytse4gtv.koyeb.app/itv/ystenlive/1000000005000265015
 
-卫视,#genre#
+衛視,#genre#
 江蘇衛視 50 FPS,https://kaytse4gtv.koyeb.app/itv/wasusyt/6000000001000014861
 江蘇衛視 HEVC,https://kaytse4gtv.koyeb.app/itv/ystenlive/1000000005000265030
 江蘇衛視,https://kaytse4gtv.koyeb.app/itv/ystenlive/1000000001000001828
