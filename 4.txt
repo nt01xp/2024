@@ -245,11 +245,11 @@ CCTV 17 HEVC,https://kaytse4gtv.koyeb.app/itv/ystenlive/1000000005000265015
 黑龍江衛視,https://kaytse4gtv.koyeb.app/itv/ystenlive/1000000001000001925
 
 地方,#genre#
-北京纪实科教,https://kaytse4gtv.koyeb.app/itv/ystenlive/1000000001000001910
-北京纪实科教 HEVC,https://kaytse4gtv.koyeb.app/itv/ystenlive/1000000005000265020
-湖南金鹰纪实,https://kaytse4gtv.koyeb.app/itv/bestzb/5000000011000031203
-上海纪实人文 50 FPS,https://kaytse4gtv.koyeb.app/itv/bestzb/5000000004000010282
-上海纪实人文 HEVC,https://kaytse4gtv.koyeb.app/itv/ystenlive/1000000005000265021
+北京紀實科教,https://kaytse4gtv.koyeb.app/itv/ystenlive/1000000001000001910
+北京紀實科教 HEVC,https://kaytse4gtv.koyeb.app/itv/ystenlive/1000000005000265020
+湖南金鹰紀實,https://kaytse4gtv.koyeb.app/itv/bestzb/5000000011000031203
+上海紀實人文 50 FPS,https://kaytse4gtv.koyeb.app/itv/bestzb/5000000004000010282
+上海紀實人文 HEVC,https://kaytse4gtv.koyeb.app/itv/ystenlive/1000000005000265021
 北京卡酷少儿,https://kaytse4gtv.koyeb.app/itv/bestzb/7851974109718180595
 湖南快乐垂钓,https://kaytse4gtv.koyeb.app/itv/bestzb/5000000011000031206
 湖南茶频道,https://kaytse4gtv.koyeb.app/itv/bestzb/5000000011000031209
