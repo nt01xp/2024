@@ -165,8 +165,8 @@ CCTV 5+ HEVC,https://kaytse4gtv.koyeb.app/itv/ystenlive/1000000005000265016
 CCTV 7,https://kaytse4gtv.koyeb.app/itv/ystenlive/1000000001000024341
 CCTV 7 50 FPS,https://kaytse4gtv.koyeb.app/itv/wasusyt/6000000001000009055
 CCTV 7 HEVC,https://kaytse4gtv.koyeb.app/itv/ystenlive/1000000005000265007
-CCTV 8,https://kaytse4gtv.koyeb.app/itv/wasusyt/6000000001000001070
-CCTV 8 HEVC,https://kaytse4gtv.koyeb.app/itv/ystenlive/1000000005000265008
+8電視劇,https://kaytse4gtv.koyeb.app/itv/wasusyt/6000000001000001070
+8電視劇 HEVC,https://kaytse4gtv.koyeb.app/itv/ystenlive/1000000005000265008
 9紀錄,https://kaytse4gtv.koyeb.app/itv/ystenlive/1000000001000014583
 9紀錄 50 FPS,https://kaytse4gtv.koyeb.app/itv/wasusyt/6000000001000032162
 9紀錄 HEVC,https://kaytse4gtv.koyeb.app/itv/ystenlive/1000000005000265009
