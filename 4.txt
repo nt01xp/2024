@@ -145,12 +145,12 @@ VOA 美國之音,https://kaytse4gtv.koyeb.app/litv/litv-ftv03
 霹靂布袋戲,https://kaytse4gtv.koyeb.app/4gtv/301
 
 央視,#genre#
-CCTV 1,https://kaytse4gtv.koyeb.app/itv/wasusyt/6000000001000029752
-CCTV 1 50 FPS,https://kaytse4gtv.koyeb.app/itv/bestzb/5000000004000002226
-CCTV 1 HEVC,https://kaytse4gtv.koyeb.app/itv/ystenlive/1000000005000265001
-CCTV 2,https://kaytse4gtv.koyeb.app/itv/ystenlive/1000000001000023315
-CCTV 2 50 FPS,https://kaytse4gtv.koyeb.app/itv/wasusyt/6000000001000014161
-CCTV 2 HEVC,https://kaytse4gtv.koyeb.app/itv/ystenlive/1000000001000023315
+1綜合,https://kaytse4gtv.koyeb.app/itv/wasusyt/6000000001000029752
+1綜合 50 FPS,https://kaytse4gtv.koyeb.app/itv/bestzb/5000000004000002226
+1綜合 HEVC,https://kaytse4gtv.koyeb.app/itv/ystenlive/1000000005000265001
+2財經,https://kaytse4gtv.koyeb.app/itv/ystenlive/1000000001000023315
+2財經 50 FPS,https://kaytse4gtv.koyeb.app/itv/wasusyt/6000000001000014161
+2財經 HEVC,https://kaytse4gtv.koyeb.app/itv/ystenlive/1000000001000023315
 CCTV 3,https://kaytse4gtv.koyeb.app/itv/wasusyt/6000000001000022313
 CCTV 3 HEVC,https://kaytse4gtv.koyeb.app/itv/ystenlive/1000000005000265003
 CCTV 4 50 FPS,https://kaytse4gtv.koyeb.app/itv/bestzb/5000000011000031102
@@ -159,9 +159,9 @@ CCTV 5,https://kaytse4gtv.koyeb.app/itv/ystenlive/1000000005000025222
 CCTV 5 HEVC,https://kaytse4gtv.koyeb.app/itv/ystenlive/1000000005000265005
 CCTV 5+,https://kaytse4gtv.koyeb.app/itv/wasusyt/6000000001000015875
 CCTV 5+ HEVC,https://kaytse4gtv.koyeb.app/itv/ystenlive/1000000005000265016
-CCTV 6,https://kaytse4gtv.koyeb.app/itv/ystenlive/1000000001000001737
-CCTV 6 50 FPS,https://kaytse4gtv.koyeb.app/itv/wasusyt/6000000001000004574
-CCTV 6 HEVC,https://kaytse4gtv.koyeb.app/itv/ystenlive/1000000005000265006
+6電影,https://kaytse4gtv.koyeb.app/itv/ystenlive/1000000001000001737
+6電影 50 FPS,https://kaytse4gtv.koyeb.app/itv/wasusyt/6000000001000004574
+6電影 HEVC,https://kaytse4gtv.koyeb.app/itv/ystenlive/1000000005000265006
 CCTV 7,https://kaytse4gtv.koyeb.app/itv/ystenlive/1000000001000024341
 CCTV 7 50 FPS,https://kaytse4gtv.koyeb.app/itv/wasusyt/6000000001000009055
 CCTV 7 HEVC,https://kaytse4gtv.koyeb.app/itv/ystenlive/1000000005000265007
