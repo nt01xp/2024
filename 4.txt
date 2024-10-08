@@ -264,15 +264,15 @@ CCTV 17 HEVC,https://kaytse4gtv.koyeb.app/itv/ystenlive/1000000005000265015
 上海新闻综合,https://kaytse4gtv.koyeb.app/itv/bestzb/5000000011000031110
 
 其他,#genre#
-华数 4K,https://kaytse4gtv.koyeb.app/itv/wasusyt/6000000003000004748
 纯享 4K,https://kaytse4gtv.koyeb.app/itv/ystenlive/1000000004000011651
-咪咕4K 1,https://kaytse4gtv.koyeb.app/itv/FifastbLive/3000000010000005180
-咪咕4K 2,https://kaytse4gtv.koyeb.app/itv/FifastbLive/3000000010000015686
-咪咕全民热练,https://kaytse4gtv.koyeb.app/itv/FifastbLive/3000000020000031315
 求索动物,https://kaytse4gtv.koyeb.app/itv/wasusyt/6000000002000010046
 求索纪录,https://kaytse4gtv.koyeb.app/itv/wasusyt/6000000002000032052
 求索科学,https://kaytse4gtv.koyeb.app/itv/wasusyt/6000000002000032344
 求索生活,https://kaytse4gtv.koyeb.app/itv/wasusyt/6000000002000003382
+华数 4K,https://kaytse4gtv.koyeb.app/itv/wasusyt/6000000003000004748
+咪咕4K 1,https://kaytse4gtv.koyeb.app/itv/FifastbLive/3000000010000005180
+咪咕4K 2,https://kaytse4gtv.koyeb.app/itv/FifastbLive/3000000010000015686
+咪咕全民热练,https://kaytse4gtv.koyeb.app/itv/FifastbLive/3000000020000031315
 
 NewTV,#genre#
 NewTV 精品综合,https://kaytse4gtv.koyeb.app/itv/ystenlive/1000000004000019008
