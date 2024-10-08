@@ -4,7 +4,17 @@ CBeebies,udp://@224.1.4.75:11111
 CATCHPLAY電影台,https://kaytse4gtv.koyeb.app/litv/4gtv-4gtv076
 柯南劇場版,http://cfss.cc/cdn/dyu/6484910.m3u8
 
+華視,rtmp://f13h.mine.nu/sat/tv111
+中視,rtmp://f13h.mine.nu/sat/tv091
+台視,https://www.youtube.com/watch?v=uDqQo8a7Xmk
 
+緯來日本,rtmp://f13h.mine.nu/sat/tv771
+緯來育樂,rtmp://f13h.mine.nu/sat/tv701
+緯來體育,rtmp://f13h.mine.nu/sat/tv721
+動物星球,http://61.221.215.25:8800/hls/57/index.m3u8
+八大綜合,http://61.221.215.25:8800/hls/56/index.m3u8
+
+4GTV新聞,#genre#
 TVBS新聞,https://kaytse4gtv.koyeb.app/litv/4gtv-4gtv072
 東森新聞,https://kaytse4gtv.koyeb.app/litv/4gtv-4gtv152
 民視新聞,https://kaytse4gtv.koyeb.app/litv/litv-ftv13
@@ -26,17 +36,6 @@ ELTA生活旅遊,https://kaytse4gtv.koyeb.app/4gtv/237
 Smart知識台,https://kaytse4gtv.koyeb.app/litv/litv-longturn19
 Love Nature,https://kaytse4gtv.koyeb.app/4gtv/139
 采昌影劇台,https://kaytse4gtv.koyeb.app/litv/4gtv-4gtv049
-
-華視,rtmp://f13h.mine.nu/sat/tv111
-中視,rtmp://f13h.mine.nu/sat/tv091
-台視,https://www.youtube.com/watch?v=uDqQo8a7Xmk
-
-緯來日本,rtmp://f13h.mine.nu/sat/tv771
-緯來育樂,rtmp://f13h.mine.nu/sat/tv701
-緯來體育,rtmp://f13h.mine.nu/sat/tv721
-動物星球,http://61.221.215.25:8800/hls/57/index.m3u8
-八大綜合,http://61.221.215.25:8800/hls/56/index.m3u8
-
 
 油管新聞,#genre#
 TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
