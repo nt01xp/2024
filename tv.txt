@@ -25,6 +25,10 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 台視新聞,https://www.youtube.com/watch?v=xL0ch83RAK8
 
 日本新聞,#genre#
+櫻島火山,https://www.youtube.com/live/eF9PohrRP_o
+函館山夜景,https://www.youtube.com/watch?v=s--MDmshT3I
+淡路島猴子,https://www.youtube.com/watch?v=lsxYH2XQQCg
+草津温泉,https://www.youtube.com/watch?v=GrEEoEmmrKs
 JapaNews24,https://www.youtube.com/watch?v=coYw-eVU0Ks
 日テレNEWS LIVE,https://www.youtube.com/watch?v=VDhPBOOSDlw
 TBS NEWS DIG,https://www.youtube.com/watch?v=ohI356mwBp8
@@ -36,17 +40,14 @@ KansaiNews24,https://www.youtube.com/watch?v=sTAqx_1Yrww
 油管直播,#genre#
 我們這一家,https://www.youtube.com/watch?v=UK81GCw1KE8
 新哆啦A夢,https://www.youtube.com/watch?v=hpXMNZFjWr8
-蠟筆小新TV版,https://www.youtube.com/watch?v=_jP5o1W3eW0
+
 中華一番,https://www.youtube.com/watch?v=2FJcu6qsM2k
 瑞芳九份,https://www.youtube.com/watch?v=XSD5ptYisw8
 象山看台北,https://www.youtube.com/watch?v=z_fY1pj1VBw
 金門建功嶼,https://www.youtube.com/watch?v=uh_yNAE01w8
 高雄蓮池潭,https://www.youtube.com/watch?v=BnPoNatG-HE
 彰化八卦山大佛,https://www.youtube.com/live/r6DAowF7iQY?si=Lk7J_2cyufoi8ndX
-櫻島火山,https://www.youtube.com/live/eF9PohrRP_o
-函館山夜景,https://www.youtube.com/watch?v=s--MDmshT3I
-淡路島猴子,https://www.youtube.com/watch?v=lsxYH2XQQCg
-草津温泉,https://www.youtube.com/watch?v=GrEEoEmmrKs
+
 大陸尋奇24H,https://www.youtube.com/watch?v=h0mUy0edJK0
 三國24H,https://www.youtube.com/watch?v=Njvo1ce2v90
 水滸傳24H,https://www.youtube.com/watch?v=hP4sQJikwCk
