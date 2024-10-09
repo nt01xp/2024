@@ -23,6 +23,8 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 華視新聞,https://www.youtube.com/watch?v=wM0g8EoUZ_E
 中視新聞,https://www.youtube.com/watch?v=TCnaIE_SAtM
 台視新聞,https://www.youtube.com/watch?v=xL0ch83RAK8
+
+日本新聞,#genre#
 JapaNews24,https://www.youtube.com/watch?v=coYw-eVU0Ks
 日テレNEWS LIVE,https://www.youtube.com/watch?v=VDhPBOOSDlw
 TBS NEWS DIG,https://www.youtube.com/watch?v=ohI356mwBp8
