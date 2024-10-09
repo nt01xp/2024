@@ -2,19 +2,14 @@ koyeb官方網站
 https://www.koyeb.com
 
 Create Service
-
 docker.io/pixman/pixman
-
-kaytse4gtv
-
-https://kaytse4gtv.koyeb.app/4gtv.m3u
 
 4GTV
 http://分配的網址/4gtv.m3u
 
 ==========================
 
-謝安琪kaytse4gtv 
+謝安琪
 
 https://raw.githubusercontent.com/nt01xp/2024/refs/heads/main/4.txt
 
