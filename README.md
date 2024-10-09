@@ -5,7 +5,7 @@ Create Service
 docker.io/pixman/pixman
 
 4GTV
-http://分配的網址/4gtv.m3u
+http://分配的網址.koyeb.app/4gtv.m3u
 
 ==========================
 
