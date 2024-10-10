@@ -1247,9 +1247,9 @@ parse=1
 第1190話 圓谷光彥的偵探筆記3,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=gkeL28ZtHZ
 第1191話 最佳丈夫,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=gHYGi8TSJB
 第1192話 樂觀男子的災難,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=YxCWVxkMfv
-第1193話 大岡紅葉的甜蜜陷阱（前篇）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=rqaRRukS47
-第1194話 大岡紅葉的甜蜜陷阱（後篇）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=FQ3NLBhNJ6
-第1195話 排隊名店 味道改變的秘密,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=AAoPJuC39e
+第1193話 大岡紅葉的甜蜜陷阱（前篇）,https://xgct-video.vzcdn.net/af8042e2-5e97-4b72-8a7a-1847087e2550/1280x720/video.m3u8
+第1194話 大岡紅葉的甜蜜陷阱（後篇）,https://xgct-video.vzcdn.net/17a7833e-9d5e-41d6-9919-02e92815d423/1280x720/video.m3u8
+第1195話 排隊名店 味道改變的秘密,https://xgct-video.vzcdn.net/e1cf032f-1b63-4ec1-bbd7-f84f5ee932ef/1280x720/video.m3u8
 
 
 
