@@ -1,3 +1,13 @@
+緯來日本,rtmp://twcdn.top/sat/tv771
+緯來育樂,rtmp://twcdn.top/sat/tv701
+緯來體育,rtmp://twcdn.top/sat/tv721
+華視,rtmp://twcdn.top/sat/tv111
+中視,rtmp://twcdn.top/sat/tv091
+台視,rtmp://twcdn.top/sat/tv071
+民視,rtmp://twcdn.top/sat/tv051
+
+
+
 TVB翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
 
 TVB星河台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
