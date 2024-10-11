@@ -4,7 +4,8 @@ CBeebies,udp://@224.1.4.75:11111
 MOMOMO親子台,p3p://173.208.176.178:31809/61e0ffbf000c4e3545c098666cb76c2d
 
 柯南劇場版,http://cfss.cc/cdn/dyu/6484910.m3u8
-
+東森洋片,http://ali.hlspull.yximgs.com/live/twlivezmzptdzzxfzwetzvbzstzzzsutyhdzhflzzfhfhyzwzsyp.flv
+好萊塢電影,http://ali.hlspull.yximgs.com/live/twlivezmpzzwdeyzszzczvszfzlzvzfhzuezdfzhzwzlzcmbhlwzy.flv
 無線新聞,http://ali.hlspull.yximgs.com/live/twlivefhwzpthlzzszszzbvdlzdmnbzhdhyzyztvbwxxw.flv
 有線新聞,http://ali.hlspull.yximgs.com/live/huanqiuhkliveyvjojmfdyjjdjdjhdnowspjjlfjhjtycxjfjjojtspjjmehoytv.flv
 TVB翡翠台1,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
