@@ -2,8 +2,6 @@ TVB翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
 
 TVB星河台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
 
-TVB星河台(國),http://ali.hlspull.yximgs.com/live/twlivezzmzptvzszzwxnhzzwzztzzztyfzszzszcfzxfzwmxzdtvbxh.flv
-
 天映頻道,http://ali.hlspull.yximgs.com/live/tboxproqeqcxlvofbqbvnqqsfqvbhfhcvxcvqsqbcvqfdvqsfcbqbnqtypq.flv
 
 天映經典,http://ali.hlspull.yximgs.com/live/tboxprovcnydsqfqsetqqfcvbcdtsqqfvxcvsqnmbnlqqhqqnmyhsqqftydq.flv
