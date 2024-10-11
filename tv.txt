@@ -5,12 +5,6 @@ MOMOMO親子台,p3p://173.208.176.178:31809/61e0ffbf000c4e3545c098666cb76c2d
 
 柯南劇場版,http://cfss.cc/cdn/dyu/6484910.m3u8
 
-TVB翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
-TVB星河台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
-天映頻道,http://ali.hlspull.yximgs.com/live/tboxproqeqcxlvofbqbvnqqsfqvbhfhcvxcvqsqbcvqfdvqsfcbqbnqtypq.flv
-天映經典,http://ali.hlspull.yximgs.com/live/tboxprovcnydsqfqsetqqfcvbcdtsqqfvxcvsqnmbnlqqhqqnmyhsqqftydq.flv
-純享4K,http://php.jdshipin.com:8880/itv6.php?cid=ystenlive&id=1000000004000011651
-
 華視,rtmp://f13h.mine.nu/sat/tv111
 中視,rtmp://f13h.mine.nu/sat/tv091
 台視,https://www.youtube.com/watch?v=uDqQo8a7Xmk
@@ -20,6 +14,12 @@ TVB星河台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
 緯來體育,rtmp://f13h.mine.nu/sat/tv721
 動物星球,http://61.221.215.25:8800/hls/57/index.m3u8
 八大綜合,http://61.221.215.25:8800/hls/56/index.m3u8
+
+TVB翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
+TVB星河台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
+天映頻道,http://ali.hlspull.yximgs.com/live/tboxproqeqcxlvofbqbvnqqsfqvbhfhcvxcvqsqbcvqfdvqsfcbqbnqtypq.flv
+天映經典,http://ali.hlspull.yximgs.com/live/tboxprovcnydsqfqsetqqfcvbcdtsqqfvxcvsqnmbnlqqhqqnmyhsqqftydq.flv
+純享4K,http://php.jdshipin.com:8880/itv6.php?cid=ystenlive&id=1000000004000011651
 
 油管新聞,#genre#
 TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
