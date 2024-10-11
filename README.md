@@ -1,13 +1,20 @@
 東森幼幼,p3p://173.208.176.178:31809/62c9a6bb000ac34dc6a767036c5f3878
+
 MOMO親子台,p3p://173.208.176.178:31809/61e0ffbf000c4e3545c098666cb76c2d
 
 
 緯來日本,rtmp://twcdn.top/sat/tv771
+
 緯來育樂,rtmp://twcdn.top/sat/tv701
+
 緯來體育,rtmp://twcdn.top/sat/tv721
+
 華視,rtmp://twcdn.top/sat/tv111
+
 中視,rtmp://twcdn.top/sat/tv091
+
 台視,rtmp://twcdn.top/sat/tv071
+
 民視,rtmp://twcdn.top/sat/tv051
 
 
