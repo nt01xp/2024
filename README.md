@@ -1,3 +1,5 @@
+純享4K,http://php.jdshipin.com:8880/itv6.php?cid=ystenlive&id=1000000004000011651
+
 "ads":["static-mozai.4gtv.tv","mozai.4gtv.tv"]
 
 4gtv  https://raw.githubusercontent.com/nt01xp/2024/refs/heads/main/4gtv.txt
