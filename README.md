@@ -1,4 +1,4 @@
-VB翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
+TVB翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
 
 TVB星河台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
 
