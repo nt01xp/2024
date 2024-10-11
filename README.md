@@ -1,5 +1,7 @@
 4gtv  https://raw.githubusercontent.com/nt01xp/2024/refs/heads/main/4gtv.txt
 
+4gtvjs https://raw.githubusercontent.com/nt01xp/2024/refs/heads/main/4gtv.js
+
 
 koyeb官方網站
 https://www.koyeb.com
