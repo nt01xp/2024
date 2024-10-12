@@ -91,7 +91,7 @@ ETHTV機上盒使用教學 https://www.tv6868.com/
 
 影视资源交流群 https://t.me/atv168
 
-极致播放器交流群 https://t.me/jizhi222
+极致播放器交流群 https://t.me/jizhi00
 
 影視TV https://t.me/fongmi_offical
 
