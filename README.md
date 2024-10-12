@@ -99,6 +99,9 @@ xxxx 必勝影視交流群 https://t.me/beatsingdrama
 
 xxxx 智能电视盒子应用分享和交流 https://t.me/tvbox002
 
+APTU-MP3播放器 https://t.me/AptvPlayer
+
+
 ＋＋＋＋＋＋＋＋＋
 
 訂閱
@@ -122,8 +125,6 @@ ok影視 https://t.me/tvb_ys
 tvbox接口 https://t.me/TVBoxjkou
 
 iptv epg.pw https://t.me/iptv_crawl
-
-APTU-MP3播放器 https://t.me/AptvPlayer
 
 ********
 
