@@ -36,6 +36,8 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 華視新聞,https://www.youtube.com/watch?v=wM0g8EoUZ_E
 中視新聞,https://www.youtube.com/watch?v=TCnaIE_SAtM
 台視新聞,https://www.youtube.com/watch?v=xL0ch83RAK8
+TVB無線新聞,https://news.tvb.com/tc/live/83
+
 
 日本新聞,#genre#
 櫻島火山,https://www.youtube.com/live/eF9PohrRP_o
