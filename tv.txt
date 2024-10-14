@@ -25,6 +25,7 @@ TVB星河台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
 純享4K,http://php.jdshipin.com:8880/itv6.php?cid=ystenlive&id=1000000004000011651
 
 油管新聞,#genre#
+parse=1
 TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 東森新聞,https://www.youtube.com/watch?v=V1p33hqPrUk
 民視新聞,https://www.youtube.com/watch?v=ylYJSBUgaMA
