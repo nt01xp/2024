@@ -2,6 +2,7 @@
 
 itv_proxy  https://qq01xp.koyeb.app/itv_proxy.m3u
 
+tv https://35455.koyeb.app/tv.m3u
 
 koyeb https://app.koyeb.com
 
