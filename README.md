@@ -1,3 +1,9 @@
+TVB翡翠台,http://cdn9.1689.us.kg/smt1.1.php?id=jade_twn
+
+華麗翡翠台,http://cdn9.1689.us.kg/smt1.1.php?id=Tvbjade
+
+TVB星河台,http://cdn9.1689.us.kg/smt1.1.php?id=Xinhe
+
 4gtv   https://qq01xp.koyeb.app/4gtv.m3u
 
 4gtv https://fanmingming.com/txt?url=https://qq01xp.koyeb.app/4gtv.m3u
