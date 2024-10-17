@@ -1,8 +1,8 @@
-TVB翡翠台,http://cdn9.1689.us.kg/smt1.1.php?id=jade_twn
+TVB翡翠台(謝安琪),http://cdn9.1689.us.kg/smt1.1.php?id=jade_twn
 
-華麗翡翠台,http://cdn9.1689.us.kg/smt1.1.php?id=Tvbjade
+TVB星河台(謝安琪),http://cdn9.1689.us.kg/smt1.1.php?id=Xinhe
 
-TVB星河台,http://cdn9.1689.us.kg/smt1.1.php?id=Xinhe
+華麗翡翠台(謝安琪),http://cdn9.1689.us.kg/smt1.1.php?id=Tvbjade
 
 4gtv   https://qq01xp.koyeb.app/4gtv.m3u
 
