@@ -104,7 +104,7 @@ KansaiNews24,https://www.youtube.com/watch?v=sTAqx_1Yrww
 三國24H,https://www.youtube.com/watch?v=Njvo1ce2v90
 水滸傳24H,https://www.youtube.com/watch?v=hP4sQJikwCk
 
-本地4gtv.,#genre#
+本地4gtv,#genre#
 
 AMC 電影台,http://192.168.1.104:5000/litv/4gtv-4gtv017
 Arirang TV,http://192.168.1.104:5000/litv/4gtv-4gtv079
