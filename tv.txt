@@ -38,11 +38,9 @@ TVB星河台(謝安琪),http://cdn9.1689.us.kg/smt1.1.php?id=Xinhe
 北京紀實科教(謝安琪),https://qq01xp.koyeb.app/itv/ystenlive/1000000001000001910
 湖南金鷹紀實(謝安琪),https://qq01xp.koyeb.app/itv/bestzb/5000000011000031203
 上海紀實人文(謝安琪),https://qq01xp.koyeb.app/itv/bestzb/5000000004000010282
-純享4k1(謝安琪),https://qq01xp.koyeb.app/itv/ystenlive/1000000004000011651
-纯享4K2(謝安琪),http://35455.koyeb.app/itv/1000000004000011651.m3u8?cdn=ystenlive
+純享4k(謝安琪),https://qq01xp.koyeb.app/itv/ystenlive/1000000004000011651
 
 4GTV新聞,#genre#
-
 TVBS新聞,https://qq01xp.koyeb.app/litv/4gtv-4gtv072
 東森新聞,https://qq01xp.koyeb.app/litv/4gtv-4gtv152
 民視新聞,https://qq01xp.koyeb.app/litv/litv-ftv13
