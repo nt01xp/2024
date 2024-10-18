@@ -4,13 +4,13 @@ TVB星河台(謝安琪),http://cdn9.1689.us.kg/smt1.1.php?id=Xinhe
 
 華麗翡翠台(謝安琪),http://cdn9.1689.us.kg/smt1.1.php?id=Tvbjade
 
-4gtv   https://qq01xp.koyeb.app/4gtv.m3u
+4gtv   https://kaytse2024.koyeb.app/4gtv.m3u
 
-4gtv https://fanmingming.com/txt?url=https://qq01xp.koyeb.app/4gtv.m3u
+4gtv https://fanmingming.com/txt?url=https://kaytse2024.koyeb.app/4gtv.m3u
 
-itv_proxy  https://qq01xp.koyeb.app/itv_proxy.m3u
+itv_proxy  https://kaytse2024.koyeb.app/itv_proxy.m3u
 
-itv_proxy https://fanmingming.com/txt?url=https://qq01xp.koyeb.app/itv_proxy.m3u
+itv_proxy https://fanmingming.com/txt?url=https://kaytse2024.koyeb.app/itv_proxy.m3u
 
 tv https://35455.koyeb.app/tv.m3u
 
