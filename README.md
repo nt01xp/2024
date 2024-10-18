@@ -1,3 +1,19 @@
+9紀錄(謝安琪),https://qq01xp.koyeb.app/itv/wasusyt/6000000001000032162
+
+10科教(謝安琪),https://qq01xp.koyeb.app/itv/bestzb/5000000004000012827
+
+13新聞(謝安琪),https://qq01xp.koyeb.app/itv/bestzb/5000000011000031108
+
+北京紀實科教(謝安琪),https://qq01xp.koyeb.app/itv/ystenlive/1000000001000001910
+
+湖南金鷹紀實(謝安琪),https://qq01xp.koyeb.app/itv/bestzb/5000000011000031203
+
+上海紀實人文(謝安琪),https://qq01xp.koyeb.app/itv/bestzb/5000000004000010282
+
+純享4k(謝安琪),https://qq01xp.koyeb.app/itv/ystenlive/1000000004000011651
+
+++++++++++
+
 TVB翡翠台(謝安琪),http://cdn9.1689.us.kg/smt1.1.php?id=jade_twn
 
 TVB星河台(謝安琪),http://cdn9.1689.us.kg/smt1.1.php?id=Xinhe
