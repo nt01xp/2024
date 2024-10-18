@@ -105,6 +105,7 @@ KansaiNews24,https://www.youtube.com/watch?v=sTAqx_1Yrww
 水滸傳24H,https://www.youtube.com/watch?v=hP4sQJikwCk
 
 本地4gtv.,#genre#
+
 AMC 電影台,https://192.168.1.104:5000/litv/4gtv-4gtv017
 Arirang TV,https://192.168.1.104:5000/litv/4gtv-4gtv079
 Bloomberg TV,https://192.168.1.104:5000/4gtv/283
@@ -248,6 +249,7 @@ VOA 美國之音,https://192.168.1.104:5000/litv/litv-ftv03
 韓國娛樂台,https://192.168.1.104:5000/litv/4gtv-4gtv016
 鏡電視新聞台,https://192.168.1.104:5000/litv/4gtv-4gtv075
 霹靂布袋戲,https://192.168.1.104:5000/4gtv/301
+
 
 柯南國語,#genre#
 parse=1
