@@ -43,19 +43,6 @@ MOMO親子台,p3p://173.208.176.178:31809/61e0ffbf000c4e3545c098666cb76c2d
 
 
 
-TVB翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
-
-TVB星河台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
-
-純享4K,http://php.jdshipin.com:8880/itv6.php?cid=ystenlive&id=1000000004000011651
-
-"ads":["static-mozai.4gtv.tv","mozai.4gtv.tv"]
-
-4gtv  https://raw.githubusercontent.com/nt01xp/2024/refs/heads/main/4gtv.txt
-
-4gtvjs https://raw.githubusercontent.com/nt01xp/2024/refs/heads/main/4gtv.js
-
-
 koyeb官方網站
 https://www.koyeb.com
 
@@ -100,6 +87,8 @@ CCTV直播,https://tv.cctv.com/live
 易播機上盒使用教學 https://6868jx.com
 
 ETHTV機上盒使用教學 https://www.tv6868.com/
+
+"ads":["static-mozai.4gtv.tv","mozai.4gtv.tv"]
 
 =============================
 
