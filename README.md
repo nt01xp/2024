@@ -1,3 +1,5 @@
+范明明IPTV6,https://fanmingming.com/txt?url=https://live.fanmingming.cn/tv/m3u/ipv6.m3u
+
 TVB翡翠台(謝安琪),http://cdn9.1689.us.kg/smt1.1.php?id=jade_twn
 
 TVB星河台(謝安琪),http://cdn9.1689.us.kg/smt1.1.php?id=Xinhe
