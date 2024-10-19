@@ -21,9 +21,6 @@ Smart知識台,https://qq01xp.koyeb.app/litv/litv-longturn19
 民視,rtmp://twcdn.top/sat/tv051
 台視,https://www.youtube.com/watch?v=uDqQo8a7Xmk
 
-緯來日本,rtmp://f13h.mine.nu/sat/tv771
-緯來育樂,rtmp://f13h.mine.nu/sat/tv701
-緯來體育,rtmp://f13h.mine.nu/sat/tv721
 動物星球,http://61.221.215.25:8800/hls/57/index.m3u8
 八大綜合,http://61.221.215.25:8800/hls/56/index.m3u8
 
