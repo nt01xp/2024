@@ -1,3 +1,7 @@
+無綫新聞台,https://test.ttvb.eu.org/stream/tvb/null-1/master.m3u8?u=yang&p=20f645c703944a0027acf6fad92ec465247842450605c5406b50676ff0dcd5ea
+
+翡翠台,https://test.ttvb.eu.org/stream/tvb/null/master.m3u8?u=yang&p=20f645c703944a0027acf6fad92ec465247842450605c5406b50676ff0dcd5ea
+
 范明明IPTV6,https://fanmingming.com/txt?url=https://live.fanmingming.cn/tv/m3u/ipv6.m3u
 
 TVB翡翠台(謝安琪),http://cdn9.1689.us.kg/smt1.1.php?id=jade_twn
