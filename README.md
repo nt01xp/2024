@@ -117,6 +117,8 @@ APTU-MP3播放器 https://t.me/AptvPlayer
 AKTV高清
 https://t.me/MYOKKTV
 
+天光云影群组：https://t.me/mytv_android
+
 
 ＋＋＋＋＋＋＋＋＋
 
@@ -141,6 +143,8 @@ ok影視 https://t.me/tvb_ys
 tvbox接口 https://t.me/TVBoxjkou
 
 iptv epg.pw https://t.me/iptv_crawl
+
+天光云影发布频道：https://t.me/mytv_android_release
 
 ********
 
