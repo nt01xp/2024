@@ -25,16 +25,14 @@ Smart知識台,https://qq01xp.koyeb.app/litv/litv-longturn19
 八大綜合,http://61.221.215.25:8800/hls/56/index.m3u8
 
 無綫新聞台,https://test.ttvb.eu.org/stream/tvb/null-1/master.m3u8?u=yang&p=20f645c703944a0027acf6fad92ec465247842450605c5406b50676ff0dcd5ea
-
 翡翠台,https://test.ttvb.eu.org/stream/tvb/null/master.m3u8?u=yang&p=20f645c703944a0027acf6fad92ec465247842450605c5406b50676ff0dcd5ea
+
 TVB翡翠,http://cdn9.1689.us.kg/smt1.1.php?id=jade_twn
 TVB星河,http://cdn9.1689.us.kg/smt1.1.php?id=Xinhe
 華麗翡翠台,http://cdn9.1689.us.kg/smt1.1.php?id=Tvbjade
 
 TVB星河台,https://astro.ttvb.eu.org/stream/astro/ar00j253/master.m3u8?u=yang&p=20f645c703944a0027acf6fad92ec465247842450605c5406b50676ff0dcd5ea
-
 天映頻道,https://astro.ttvb.eu.org/stream/astro/qzpnbg1y/master.m3u8?u=yang&p=20f645c703944a0027acf6fad92ec465247842450605c5406b50676ff0dcd5ea
-
 天映經典,https://astro.ttvb.eu.org/stream/astro/iejgl7gb/master.m3u8?u=yang&p=20f645c703944a0027acf6fad92ec465247842450605c5406b50676ff0dcd5ea
 
 央視衛視,#genre#
