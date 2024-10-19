@@ -115,6 +115,7 @@ KansaiNews24,https://www.youtube.com/watch?v=sTAqx_1Yrww
 高雄蓮池潭,https://www.youtube.com/watch?v=BnPoNatG-HE
 彰化八卦山大佛,https://www.youtube.com/live/r6DAowF7iQY?si=Lk7J_2cyufoi8ndX
 
+
 大陸尋奇24H,https://www.youtube.com/watch?v=h0mUy0edJK0
 三國24H,https://www.youtube.com/watch?v=Njvo1ce2v90
 水滸傳24H,https://www.youtube.com/watch?v=hP4sQJikwCk
