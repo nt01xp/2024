@@ -14,10 +14,6 @@ itv_proxy  https://kaytse2024.koyeb.app/itv_proxy.m3u
 
 itv_proxy https://fanmingming.com/txt?url=https://kaytse2024.koyeb.app/itv_proxy.m3u
 
-tv https://35455.koyeb.app/tv.m3u
-
-tv https://fanmingming.com/txt?url=https://35455.koyeb.app/tv.m3u
-
 koyeb https://app.koyeb.com
 
 IPTV Docker 镜像 pixman/pixman 使用说明 https://pixman.io/topics/17
