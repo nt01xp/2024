@@ -24,9 +24,13 @@ Smart知識台,https://qq01xp.koyeb.app/litv/litv-longturn19
 動物星球,http://61.221.215.25:8800/hls/57/index.m3u8
 八大綜合,http://61.221.215.25:8800/hls/56/index.m3u8
 
+無綫新聞台,https://test.ttvb.eu.org/stream/tvb/null-1/master.m3u8?u=yang&p=20f645c703944a0027acf6fad92ec465247842450605c5406b50676ff0dcd5ea
+
+翡翠台,https://test.ttvb.eu.org/stream/tvb/null/master.m3u8?u=yang&p=20f645c703944a0027acf6fad92ec465247842450605c5406b50676ff0dcd5ea
 TVB翡翠台,http://cdn9.1689.us.kg/smt1.1.php?id=jade_twn
 TVB星河台,http://cdn9.1689.us.kg/smt1.1.php?id=Xinhe
 華麗翡翠台,http://cdn9.1689.us.kg/smt1.1.php?id=Tvbjade
+
 
 央視衛視,#genre#
 純享4k(謝安琪),http://gslbservzqhsw.itv.cmvideo.cn/1000000004000011651/1.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&stbId=3
