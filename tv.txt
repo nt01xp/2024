@@ -23,8 +23,9 @@ Smart知識台,https://qq01xp.koyeb.app/litv/litv-longturn19
 台視,https://www.youtube.com/watch?v=uDqQo8a7Xmk
 
 香港電影通,#genre#
-TVB無線新聞,p3p://173.208.176.178:31809/653e4818000b73240c7d19181340415e
-TVB翡翠台,p3p://173.208.176.178:31809/653e4c02000ea0440c8c63fd3e5d709d
+無綫新聞台,https://test.ttvb.eu.org/stream/tvb/null-1/master.m3u8?u=yang&p=20f645c703944a0027acf6fad92ec465247842450605c5406b50676ff0dcd5ea
+
+翡翠台,https://test.ttvb.eu.org/stream/tvb/null/master.m3u8?u=yang&p=20f645c703944a0027acf6fad92ec465247842450605c5406b50676ff0dcd5ea
 TVB星河(國語),p3p://173.208.176.178:31809/6563174f0002ffaf9c45dd927c7d6df1
 天映频道(國語),p3p://173.208.176.178:31809/6471b0bb00011e09ed51d397629e4f55
 
