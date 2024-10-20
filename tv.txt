@@ -1,5 +1,9 @@
 卡通,#genre#
 CBeebies,udp://@224.1.4.75:11111
+東森幼幼,http://ali.hlspull.yximgs.com/live/807724a1c0ae5f1665be942dde34d9b4.flv
+
+MOMO親子台,http://ali.hlspull.yximgs.com/live/9c64b7907c5c95fe76bebb7e78bac602.flv
+
 東森幼幼,p3p://173.208.176.178:31809/62c9a6bb000ac34dc6a767036c5f3878
 MOMO親子台,p3p://173.208.176.178:31809/61e0ffbf000c4e3545c098666cb76c2d
 
