@@ -1,3 +1,6 @@
+TVB星河(國語),p3p://173.208.176.178:31809/6563174f0002ffaf9c45dd927c7d6df1
+天映频道(國語),p3p://173.208.176.178:31809/6471b0bb00011e09ed51d397629e4f55
+
 無綫新聞台,https://test.ttvb.eu.org/stream/tvb/null-1/master.m3u8?u=yang&p=20f645c703944a0027acf6fad92ec465247842450605c5406b50676ff0dcd5ea
 
 翡翠台,https://test.ttvb.eu.org/stream/tvb/null/master.m3u8?u=yang&p=20f645c703944a0027acf6fad92ec465247842450605c5406b50676ff0dcd5ea
