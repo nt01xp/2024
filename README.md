@@ -1,3 +1,5 @@
+純享4k,http://localhost:5000/itv/ystenlive/1000000004000011651
+
 開機自動啟動docker容器container
 
 docker run -d --name=pixman -p 5000:5000 --restart=always pixman/pixman
