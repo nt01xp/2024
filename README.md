@@ -1,3 +1,17 @@
+開機自動啟動docker容器container
+
+docker run -d --name=pixman -p 5000:5000 --restart=always pixman/pixman
+
+docker run -d --name=youshandefeiyang -p 35455:35455 --restart=always youshandefeiyang/allinone
+
+5000
+pixman/pixman
+
+35455
+youshandefeiyang/allinone
+
+================================
+
 NOW星影,p3p://173.208.176.178:31809/65423b7b00047dbb1bebd20b45f374d2
 
 NOW爆谷,p3p://173.208.176.178:31809/65423beb00082fd01bed887e0ae23bbf
