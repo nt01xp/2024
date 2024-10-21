@@ -1,9 +1,3 @@
-Cbeebies,http://ali.hlspull.yximgs.com/live/7f2f5080c361b3cfa46c83f7d2945196.flv
-
-東森幼幼,http://ali.hlspull.yximgs.com/live/807724a1c0ae5f1665be942dde34d9b4.flv
-
-MOMO親子台,http://ali.hlspull.yximgs.com/live/9c64b7907c5c95fe76bebb7e78bac602.flv
-
 NOW星影,p3p://173.208.176.178:31809/65423b7b00047dbb1bebd20b45f374d2
 
 NOW爆谷,p3p://173.208.176.178:31809/65423beb00082fd01bed887e0ae23bbf
