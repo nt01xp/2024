@@ -200,7 +200,6 @@ CCTV 17 HEVC,http://1234.koyeb.app/itv/ystenlive/1000000005000265015
 求索科學,http://1234.koyeb.app/itv/wasusyt/6000000002000032344
 求索生活,http://1234.koyeb.app/itv/wasusyt/6000000002000003382
 
-
 衛視頻道,#genre#
 江蘇衛視 50 FPS,http://1234.koyeb.app/itv/wasusyt/6000000001000014861
 江蘇衛視,http://1234.koyeb.app/itv/ystenlive/1000000001000001828
@@ -219,14 +218,14 @@ CCTV 17 HEVC,http://1234.koyeb.app/itv/ystenlive/1000000005000265015
 安徽衛視,http://1234.koyeb.app/itv/ystenlive/1000000001000030159
 安徽衛視 50 FPS,http://1234.koyeb.app/itv/wasusyt/6000000001000009954
 安徽衛視 HEVC,http://1234.koyeb.app/itv/ystenlive/1000000005000265025
-东南衛視,http://1234.koyeb.app/itv/bestzb/5000000004000010584
-东南衛視 HEVC,http://1234.koyeb.app/itv/ystenlive/1000000005000265033
-甘肃衛視,http://1234.koyeb.app/itv/bestzb/5000000011000031121
-广东衛視,http://1234.koyeb.app/itv/ystenlive/1000000001000014176
-广东衛視 50 FPS,http://1234.koyeb.app/itv/wasusyt/6000000001000031076
-广东衛視 HEVC,http://1234.koyeb.app/itv/ystenlive/1000000005000265034
-广西衛視,http://1234.koyeb.app/itv/bestzb/5000000011000031118
-贵州衛視,http://1234.koyeb.app/itv/bestzb/5000000004000025843
+東南衛視,http://1234.koyeb.app/itv/bestzb/5000000004000010584
+東南衛視 HEVC,http://1234.koyeb.app/itv/ystenlive/1000000005000265033
+甘肅衛視,http://1234.koyeb.app/itv/bestzb/5000000011000031121
+廣東衛視,http://1234.koyeb.app/itv/ystenlive/1000000001000014176
+廣東衛視 50 FPS,http://1234.koyeb.app/itv/wasusyt/6000000001000031076
+廣東衛視 HEVC,http://1234.koyeb.app/itv/ystenlive/1000000005000265034
+廣西衛視,http://1234.koyeb.app/itv/bestzb/5000000011000031118
+貴州衛視,http://1234.koyeb.app/itv/bestzb/5000000004000025843
 海南衛視,http://1234.koyeb.app/itv/bestzb/5000000004000006211
 河北衛視,http://1234.koyeb.app/itv/bestzb/5000000006000040016
 河南衛視,http://1234.koyeb.app/itv/bestzb/5000000011000031119
@@ -236,12 +235,12 @@ CCTV 17 HEVC,http://1234.koyeb.app/itv/ystenlive/1000000005000265015
 吉林衛視,http://1234.koyeb.app/itv/bestzb/5000000011000031117
 江西衛視,http://1234.koyeb.app/itv/ystenlive/1000000006000268001
 江西衛視 HEVC,http://1234.koyeb.app/itv/ystenlive/1000000005000265032
-辽宁衛視,http://1234.koyeb.app/itv/bestzb/5000000004000011671
-辽宁衛視 HEVC,http://1234.koyeb.app/itv/ystenlive/1000000005000265022
+遼寧衛視,http://1234.koyeb.app/itv/bestzb/5000000004000011671
+遼寧衛視 HEVC,http://1234.koyeb.app/itv/ystenlive/1000000005000265022
 青海衛視,http://1234.koyeb.app/itv/ystenlive/1000000002000013359
-山东衛視,http://1234.koyeb.app/itv/ystenlive/1000000001000016568
-山东衛視 50 FPS,http://1234.koyeb.app/itv/wasusyt/6000000001000004134
-山东衛視 HEVC,http://1234.koyeb.app/itv/ystenlive/1000000005000265019
+山東衛視,http://1234.koyeb.app/itv/ystenlive/1000000001000016568
+山東衛視 50 FPS,http://1234.koyeb.app/itv/wasusyt/6000000001000004134
+山東衛視 HEVC,http://1234.koyeb.app/itv/ystenlive/1000000005000265019
 深圳衛視,http://1234.koyeb.app/itv/bestzb/5000000004000007410
 深圳衛視 50 FPS,http://1234.koyeb.app/itv/wasusyt/6000000001000002116
 深圳衛視 HEVC,http://1234.koyeb.app/itv/ystenlive/1000000005000265028
@@ -249,9 +248,9 @@ CCTV 17 HEVC,http://1234.koyeb.app/itv/ystenlive/1000000005000265015
 天津衛視,http://1234.koyeb.app/itv/bestzb/5000000004000006827
 天津衛視 50 FPS,http://1234.koyeb.app/itv/wasusyt/6000000001000009186
 天津衛視 HEVC,http://1234.koyeb.app/itv/ystenlive/1000000005000265026
-云南衛視,http://1234.koyeb.app/itv/bestzb/5000000011000031120
-重庆衛視,http://1234.koyeb.app/itv/ystenlive/1000000001000001096
-重庆衛視 HEVC,http://1234.koyeb.app/itv/ystenlive/1000000005000265017
-黑龙江衛視,http://1234.koyeb.app/itv/ystenlive/1000000001000001925
-黑龙江衛視 50 FPS,http://1234.koyeb.app/itv/wasusyt/6000000001000016510
-黑龙江衛視 HEVC,http://1234.koyeb.app/itv/ystenlive/1000000005000265029
+雲南衛視,http://1234.koyeb.app/itv/bestzb/5000000011000031120
+重慶衛視,http://1234.koyeb.app/itv/ystenlive/1000000001000001096
+重慶衛視 HEVC,http://1234.koyeb.app/itv/ystenlive/1000000005000265017
+黑龍江衛視,http://1234.koyeb.app/itv/ystenlive/1000000001000001925
+黑龍江衛視 50 FPS,http://1234.koyeb.app/itv/wasusyt/6000000001000016510
+黑龍江衛視 HEVC,http://1234.koyeb.app/itv/ystenlive/1000000005000265029
