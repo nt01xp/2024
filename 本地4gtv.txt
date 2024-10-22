@@ -1,4 +1,4 @@
-本地4gtv.,#genre#
+本地4gtv,#genre#
 
 AMC 電影台,http://192.168.1.2:5000/litv/4gtv-4gtv017
 Arirang TV,http://192.168.1.2:5000/litv/4gtv-4gtv079
