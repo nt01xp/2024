@@ -146,15 +146,6 @@ VOA 美國之音,http://1234.koyeb.app/litv/litv-ftv03
 
 央視頻道,#genre#
 純享4K,http://1234.koyeb.app/itv/ystenlive/1000000004000011651
-北京紀實科教,http://1234.koyeb.app/itv/ystenlive/1000000001000001910
-北京紀實科教 HEVC,http://1234.koyeb.app/itv/ystenlive/1000000005000265020
-湖南金鹰紀實,http://1234.koyeb.app/itv/bestzb/5000000011000031203
-上海紀實人文 50 FPS,http://1234.koyeb.app/itv/bestzb/5000000004000010282
-上海紀實人文 HEVC,http://1234.koyeb.app/itv/ystenlive/1000000005000265021
-求索動物,http://1234.koyeb.app/itv/wasusyt/6000000002000010046
-求索紀錄,http://1234.koyeb.app/itv/wasusyt/6000000002000032052
-求索科學,http://1234.koyeb.app/itv/wasusyt/6000000002000032344
-求索生活,http://1234.koyeb.app/itv/wasusyt/6000000002000003382
 
 CCTV 1綜合,http://1234.koyeb.app/itv/wasusyt/6000000001000029752
 CCTV 1 50 FPS,http://1234.koyeb.app/itv/bestzb/5000000004000002226
@@ -199,6 +190,15 @@ CCTV 16,http://1234.koyeb.app/itv/ystenlive/1000000006000233002
 CCTV 16 4K HEVC,http://1234.koyeb.app/itv/bestzb/5000000008000023254
 CCTV 17,http://1234.koyeb.app/itv/ystenlive/1000000006000268004
 CCTV 17 HEVC,http://1234.koyeb.app/itv/ystenlive/1000000005000265015
+北京紀實科教,http://1234.koyeb.app/itv/ystenlive/1000000001000001910
+北京紀實科教 HEVC,http://1234.koyeb.app/itv/ystenlive/1000000005000265020
+湖南金鹰紀實,http://1234.koyeb.app/itv/bestzb/5000000011000031203
+上海紀實人文 50 FPS,http://1234.koyeb.app/itv/bestzb/5000000004000010282
+上海紀實人文 HEVC,http://1234.koyeb.app/itv/ystenlive/1000000005000265021
+求索動物,http://1234.koyeb.app/itv/wasusyt/6000000002000010046
+求索紀錄,http://1234.koyeb.app/itv/wasusyt/6000000002000032052
+求索科學,http://1234.koyeb.app/itv/wasusyt/6000000002000032344
+求索生活,http://1234.koyeb.app/itv/wasusyt/6000000002000003382
 
 衛視頻道,#genre#
 江蘇衛視 50 FPS,http://1234.koyeb.app/itv/wasusyt/6000000001000014861
