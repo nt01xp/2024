@@ -1,5 +1,7 @@
 純享4k,http://localhost:5000/itv/ystenlive/1000000004000011651
 
+純享4k(謝安琪),http://gslbservzqhsw.itv.cmvideo.cn/1000000004000011651/1.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&stbId=3
+
 開機自動啟動docker容器container
 
 docker run -d --name=pixman -p 5000:5000 --restart=always pixman/pixman
