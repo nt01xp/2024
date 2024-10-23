@@ -21,6 +21,9 @@ Smart知識台,https://1234.koyeb.app/litv/litv-longturn19
 台視,rtmp://twcdn.top/sat/tv071
 
 香港電影,#genre#
+TVB翡翠台(謝安琪),http://cdn9.1689.us.kg/smt1.1.php?id=jade_twn
+TVB星河台(謝安琪),http://cdn9.1689.us.kg/smt1.1.php?id=Xinhe
+華麗翡翠台(謝安琪),http://cdn9.1689.us.kg/smt1.1.php?id=Tvbjade
 
 NOW星影,p3p://173.208.176.178:31809/65423b7b00047dbb1bebd20b45f374d2
 NOW爆谷,p3p://173.208.176.178:31809/65423beb00082fd01bed887e0ae23bbf
