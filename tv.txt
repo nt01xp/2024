@@ -12,6 +12,8 @@ CatchPlay電影,https://1234.koyeb.app/litv/4gtv-4gtv076
 ELTA生活旅遊,https://1234.koyeb.app/4gtv/237
 Smart知識台,https://1234.koyeb.app/litv/litv-longturn19
 霹靂布袋戲,https://1234.koyeb.app/4gtv/301
+動物星球,http://61.221.215.25:8800/hls/57/index.m3u8
+八大綜合,http://61.221.215.25:8800/hls/56/index.m3u8
 
 緯來日本,rtmp://twcdn.top/sat/tv771
 緯來育樂,rtmp://twcdn.top/sat/tv701
@@ -80,7 +82,6 @@ TVB無線新聞(謝安琪),http://cdn9.1689.us.kg/smt1.1.php?id=inews_twn
 TVB翡翠台(謝安琪),http://cdn9.1689.us.kg/smt1.1.php?id=jade_twn
 TVB星河台(謝安琪),http://cdn9.1689.us.kg/smt1.1.php?id=Xinhe
 華麗翡翠台(謝安琪),http://cdn9.1689.us.kg/smt1.1.php?id=Tvbjade
-
 NOW星影,p3p://173.208.176.178:31809/65423b7b00047dbb1bebd20b45f374d2
 NOW爆谷,p3p://173.208.176.178:31809/65423beb00082fd01bed887e0ae23bbf
 HBOHD,p3p://173.208.176.178:31809/64e364fb000a0212a977a1cd342976da
@@ -92,8 +93,6 @@ HBO家庭,p3p://173.208.176.178:31809/623a706d0003edf59741fcc023dc0089
 好萊塢電影,p3p://173.208.176.178:31809/62cee8b3000ea6aedb30a55616047866
 美亞电影,p3p://173.208.176.178:31809/62883c4f000a4ca3c722d5ec04fb74e7
 龍祥时代,p3p://173.208.176.178:31809/60115453000a238d32a1418142be77f7
-動物星球,http://61.221.215.25:8800/hls/57/index.m3u8
-八大綜合,http://61.221.215.25:8800/hls/56/index.m3u8
 
 日本新聞,#genre#
 櫻島火山,https://www.youtube.com/live/eF9PohrRP_o
