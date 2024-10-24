@@ -30,6 +30,7 @@ TVBS新聞,https://1234.koyeb.app/litv/4gtv-4gtv072
 中視新聞,https://www.youtube.com/watch?v=TCnaIE_SAtM
 台視新聞,https://www.youtube.com/watch?v=xL0ch83RAK8
 
+靖天龍華,#genre#
 靖天日本台,https://1234.koyeb.app/litv/4gtv-4gtv047
 靖天卡通台,https://1234.koyeb.app/litv/4gtv-4gtv044
 靖天育樂台,https://1234.koyeb.app/litv/4gtv-4gtv062
