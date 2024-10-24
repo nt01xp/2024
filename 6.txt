@@ -1,4 +1,5 @@
 央視頻道,#genre#
+純享4k,http://gslbservzqhsw.itv.cmvideo.cn/1000000004000011651/1.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&stbId=3
 CCTV1綜合,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226559/index.m3u8
 CCTV財經2,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000502/index.m3u8?
 CCTV綜藝3,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226021/index.m3u8
