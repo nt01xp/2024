@@ -145,7 +145,7 @@ VOA 美國之音,http://1234.koyeb.app/litv/litv-ftv03
 霹靂布袋戲,http://1234.koyeb.app/4gtv/301
 
 央視頻道,#genre#
-純享4K,http://1234.koyeb.app/itv/ystenlive/1000000004000011651
+純享4K,http://gslbservzqhsw.itv.cmvideo.cn/1000000004000011651/1.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&stbId=3
 
 CCTV 1綜合,http://1234.koyeb.app/itv/wasusyt/6000000001000029752
 CCTV 1 50 FPS,http://1234.koyeb.app/itv/bestzb/5000000004000002226
