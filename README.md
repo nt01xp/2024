@@ -1,3 +1,10 @@
+9紀錄,http://localhost:5000/itv/ystenlive/1000000001000014583
+
+
+9紀錄,http://gslbservzqhsw.itv.cmvideo.cn/1000000001000014583/1.m3u8?channel-id=ystenlive&Contentid=1000000001000014583&livemode=1&stbId=3
+
+=======================
+
 gslbservzqhsw.itv.cmvideo.cn http://tonkiang.us/?page=1&iqtv=gslbservzqhsw.itv.cmvideo.cn
 
 gslbservzqhsw.itv.cmvideo.cn http://tonkiang.us/?page=2&iqtv=gslbservzqhsw.itv.cmvideo.cn
