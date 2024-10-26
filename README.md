@@ -6,7 +6,7 @@
 
 3綜藝,http://gslbservzqhsw.itv.cmvideo.cn/1000000001000013682/1.m3u8?channel-id=ystenlive&Contentid=1000000001000013682&livemode=1&stbId=3
 
-4中文國際,http://gslbservzqhsw.itv.cmvideo.cn/1000000001000013682/1.m3u8?channel-id=ystenlive&Contentid=1000000001000013682&livemode=1&stbId=3
+4中文國際,http://gslbservzqhsw.itv.cmvideo.cn/1000000005000265004/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265004&livemode=1&stbId=3
 
 5體育,http://gslbservzqhsw.itv.cmvideo.cn/1000000001000004794/1.m3u8?channel-id=ystenlive&Contentid=1000000001000004794&livemode=1&stbId=3
 
