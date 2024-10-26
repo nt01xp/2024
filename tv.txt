@@ -56,7 +56,7 @@ TVBS新聞,https://1234.koyeb.app/litv/4gtv-4gtv072
 1綜合,http://gslbservzqhsw.itv.cmvideo.cn/1000000001000018602/1.m3u8?channel-id=ystenlive&Contentid=1000000001000018602&livemode=1&stbId=3
 2財經,http://gslbservzqhsw.itv.cmvideo.cn/1000000001000023315/1.m3u8?channel-id=ystenlive&Contentid=1000000001000023315&livemode=1&stbId=3
 3綜藝,http://gslbservzqhsw.itv.cmvideo.cn/1000000001000013682/1.m3u8?channel-id=ystenlive&Contentid=1000000001000013682&livemode=1&stbId=3
-4中文國際,http://gslbservzqhsw.itv.cmvideo.cn/1000000001000013682/1.m3u8?channel-id=ystenlive&Contentid=1000000001000013682&livemode=1&stbId=3
+4中文國際,http://gslbservzqhsw.itv.cmvideo.cn/1000000005000265004/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265004&livemode=1&stbId=3
 5體育,http://gslbservzqhsw.itv.cmvideo.cn/1000000001000004794/1.m3u8?channel-id=ystenlive&Contentid=1000000001000004794&livemode=1&stbId=3
 5+體育賽事,http://gslbservzqhsw.itv.cmvideo.cn/1000000001000018504/1.m3u8?channel-id=ystenlive&Contentid=1000000001000018504&livemode=1&stbId=3
 6電影,http://gslbservzqhsw.itv.cmvideo.cn/1000000001000001737/1.m3u8?channel-id=ystenlive&Contentid=1000000001000001737&livemode=1&stbId=3
