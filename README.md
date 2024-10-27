@@ -1,3 +1,7 @@
+東森幼幼,https://free.weidu.filegear-sg.me/a1c032a6/a1c032a6.php?id=b9de2ea719d0d4ef
+MOMO親子台,https://free.weidu.filegear-sg.me/a1c032a6/a1c032a6.php?id=b9de2ea719d0d4e0
+
+
 純享4K,http://gslbservzqhsw.itv.cmvideo.cn/1000000004000011651/1.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&stbId=3
 
 1綜合,http://gslbservzqhsw.itv.cmvideo.cn/1000000001000018602/1.m3u8?channel-id=ystenlive&Contentid=1000000001000018602&livemode=1&stbId=3
