@@ -1,3 +1,8 @@
+4gtv  https://fanmingming.com/txt?url=https://nt01xp.onrender.com/4gtv.m3u
+
+itv  https://fanmingming.com/txt?url=https://nt01xp.onrender.com/itv_proxy.m3u
+
+
 柯南劇場版,https://www.goodiptv.club/douyu/6484910
 
 東森幼幼,https://free.weidu.filegear-sg.me/a1c032a6/a1c032a6.php?id=b9de2ea719d0d4ef
