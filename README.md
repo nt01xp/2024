@@ -1,3 +1,5 @@
+柯南劇場版,https://www.goodiptv.club/douyu/6484910
+
 東森幼幼,https://free.weidu.filegear-sg.me/a1c032a6/a1c032a6.php?id=b9de2ea719d0d4ef
 
 MOMO親子台,https://free.weidu.filegear-sg.me/a1c032a6/a1c032a6.php?id=b9de2ea719d0d4e0
