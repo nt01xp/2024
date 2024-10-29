@@ -49,12 +49,12 @@ TVBS新聞,https://qq01xp.serv00.net/litv.php?id=4gtv-4gtv072
 靖洋卡通台,https://1234.koyeb.app/litv/4gtv-4gtv057
 靖洋戲劇台,https://1234.koyeb.app/litv/4gtv-4gtv045
 
-龍華日韓台,https://1234.koyeb.app/litv/litv-longturn11
+龍華日韓台,https://qq01xp.serv00.net/litv.php?id=litv-longturn11
 龍華卡通台,https://qq01xp.serv00.net/litv.php?id=litv-longturn01
-龍華偶像台,https://1234.koyeb.app/litv/litv-longturn12
+龍華偶像台,https://qq01xp.serv00.net/litv.php?id=litv-longturn12
 龍華經典台,https://qq01xp.serv00.net/litv.php?id=litv-longturn21
-龍華電影台,https://1234.koyeb.app/litv/litv-longturn03
-龍華戲劇台,https://1234.koyeb.app/litv/litv-longturn18
+龍華電影台,https://qq01xp.serv00.net/litv.php?id=litv-longturn03
+龍華戲劇台,https://qq01xp.serv00.net/litv.php?id=/litv-longturn18
 
 央視衛視,#genre#
 純享4K,http://gslbservzqhsw.itv.cmvideo.cn/1000000004000011651/1.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&stbId=3
