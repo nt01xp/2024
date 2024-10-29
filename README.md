@@ -42,6 +42,8 @@ ETHTV機上盒使用教學 https://www.tv6868.com/
 
 "ads":["static-mozai.4gtv.tv","mozai.4gtv.tv"]
 
+AKTV 高清高速數碼電視轉播站  https://aktv.top
+
 =============================
 
 (鎖)肥羊影音数码综合分享 https://t.me/feiyangdigital
@@ -119,3 +121,5 @@ EPG機器人 @myepg_bot
 恩山訂閱 @NodeRSS_bot
 
 /sub https://www.right.com.cn/forum/forum.php?mod=rss&fid=182
+
+
