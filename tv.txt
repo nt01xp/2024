@@ -367,6 +367,7 @@ CCTV 17 HEVC,http://1234.koyeb.app/itv/ystenlive/1000000005000265015
 黑龍江衛視 HEVC,http://1234.koyeb.app/itv/ystenlive/1000000005000265029
 
 4GTV嗅探,#genre#
+parse=1
 amc電影台,https://www.4gtv.tv/channel/4gtv-4gtv017?set=1&ch=39
 ARIRANG阿里郎頻道,https://www.4gtv.tv/channel/4gtv-4gtv079?set=1&ch=189
 Bloomberg TV,https://www.4gtv.tv/channel/4gtv-live059?set=1&ch=283
