@@ -1,3 +1,5 @@
+"ads":["static-mozai.4gtv.tv","mozai.4gtv.tv","4gtvfreepcvod-cds.cdn.hinet.net"]
+
 "ads":["static-mozai.4gtv.tv","mozai.4gtv.tv"]
 
 "ads": [
