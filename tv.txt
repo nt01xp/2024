@@ -11,9 +11,9 @@ CatchPlay電影,https://1234.koyeb.app/litv/4gtv-4gtv076
 靖天日本,https://1234.koyeb.app/litv/4gtv-4gtv047
 民視旅遊,https://1234.koyeb.app/litv/litv-ftv07
 亞洲旅遊,https://1234.koyeb.app/litv/litv-longturn17
-ELTA生活旅遊,https://1234.koyeb.app/4gtv/237
+XELTA生活旅遊,https://1234.koyeb.app/4gtv/237
 Smart知識台,https://1234.koyeb.app/litv/litv-longturn19
-霹靂布袋戲,https://1234.koyeb.app/4gtv/301
+X霹靂布袋戲,https://1234.koyeb.app/4gtv/301
 動物星球,http://61.221.215.25:8800/hls/57/index.m3u8
 八大綜合,http://61.221.215.25:8800/hls/56/index.m3u8
 
