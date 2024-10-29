@@ -20,8 +20,8 @@ Smart知識台,https://1234.koyeb.app/litv/litv-longturn19
 台視,rtmp://twcdn.top/sat/tv071
 
 4GTV新聞,#genre#
-TVBS新聞,https://1234.koyeb.app/litv/4gtv-4gtv072
-東森新聞,https://1234.koyeb.app/litv/4gtv-4gtv152
+TVBS新聞,https://1234litv.koyeb.app/litv.php?id=4gtv-4gtv072
+東森新聞,https://1234litv.koyeb.app/litv.php?id=4gtv-4gtv152
 民視新聞,https://www.youtube.com/watch?v=ylYJSBUgaMA
 中天新聞,https://www.youtube.com/watch?v=oIgbl7t0S_w
 三立財經,https://www.youtube.com/watch?v=pF507BLtbqU
