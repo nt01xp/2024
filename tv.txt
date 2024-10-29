@@ -1,6 +1,11 @@
 卡通旅遊,#genre#
 CBeebies,udp://@224.1.4.75:11111
 
+蠟筆小新,http://120.77.28.4:8648/huya.php?id=11352970
+櫻桃小丸子,http://120.77.28.4:8648/huya.php?id=11342394
+海綿寶寶,http://120.77.28.4:8648/huya.php?id=11352919
+日語七龍珠,http://120.77.28.4:8648/huya.php?id=11601966
+
 柯南劇場版,https://www.goodiptv.club/douyu/6484910
 CatchPlay電影,https://1234.koyeb.app/litv/4gtv-4gtv076
 靖天日本,https://1234.koyeb.app/litv/4gtv-4gtv047
