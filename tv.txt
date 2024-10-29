@@ -7,7 +7,7 @@ CBeebies,udp://@224.1.4.75:11111
 日語七龍珠,http://120.77.28.4:8648/huya.php?id=11601966
 
 柯南劇場版,https://www.goodiptv.club/douyu/6484910
-CatchPlay電影,https://1234.koyeb.app/litv/4gtv-4gtv076
+CatchPlay電影,https://qq01xp.serv00.net/litv.php?id=litv/4gtv-4gtv076
 靖天日本,https://qq01xp.serv00.net/litv.php?id=litv/4gtv-4gtv047
 民視旅遊,https://qq01xp.serv00.net/litv.php?id=litv/litv-ftv07
 亞洲旅遊,https://qq01xp.serv00.net/litv.php?id=litv/litv-longturn17
