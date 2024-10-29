@@ -1,6 +1,6 @@
-4gtv  https://fanmingming.com/txt?url=https://nt01xp.onrender.com/4gtv.m3u
+4gtv  https://fanmingming.com/txt?url=https://1234.koyeb.app/4gtv.m3u
 
-itv  https://fanmingming.com/txt?url=https://nt01xp.onrender.com/itv_proxy.m3u
+itv  https://fanmingming.com/txt?url=https://1234.koyeb.app/itv_proxy.m3u
 
 
 柯南劇場版,https://www.goodiptv.club/douyu/6484910
