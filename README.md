@@ -126,7 +126,7 @@ TXT訂閱源地址:http://aktv.top/live.txt
 
 极致播放器交流群 https://t.me/jizhi00
 
-影視TV https://t.me/fongmi_offical
+影視TV(驗證) https://t.me/fongmi_offical
 
 xxxx 必勝影視交流群 https://t.me/beatsingdrama
 
@@ -141,7 +141,7 @@ https://t.me/MYOKKTV
 
 pg https://t.me/pandagroovechat
 
-今日影視 https://t.me/jin365m
+今日影視(驗證) https://t.me/jin365m
 
 直播源 https://t.me/tvzby
 
