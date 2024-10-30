@@ -114,11 +114,11 @@ TXT訂閱源地址:http://aktv.top/live.txt
 
 =============================
 
-(鎖)肥羊影音数码综合分享 https://t.me/feiyangdigital
+(鎖驗證)肥羊影音数码综合分享 https://t.me/feiyangdigital
 
 (鎖)pixman.io 交流群 https://t.me/livednowgroup
 
-(鎖)智能电视盒子直播源 https://t.me/meitu007
+(鎖驗證)智能电视盒子直播源 https://t.me/meitu007
 
 (鎖)大宇的大家庭（电视盒子） https://t.me/Dayuptv
 
