@@ -1,6 +1,6 @@
 "ads":["static-mozai.4gtv.tv","mozai.4gtv.tv","4gtvfreepcvod-cds.cdn.hinet.net"]
 
-"ads":["static-mozai.4gtv.tv","mozai.4gtv.tv",","c.2mdn.net"]
+"ads":["static-mozai.4gtv.tv","mozai.4gtv.tv","c.2mdn.net"]
 }
 
 蠟筆小新,http://120.77.28.4:8648/huya.php?id=11352970
