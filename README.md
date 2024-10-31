@@ -1,3 +1,5 @@
+范明明IPTV6,https://fanmingming.com/txt?url=https://live.fanmingming.cn/tv/m3u/ipv6.m3u
+
 "ads":["static-mozai.4gtv.tv","mozai.4gtv.tv"]}
 
 蠟筆小新,http://120.77.28.4:8648/huya.php?id=11352970
@@ -16,11 +18,7 @@ itv  https://fanmingming.com/txt?url=https://1234.koyeb.app/itv_proxy.m3u
 
 6  https://raw.githubusercontent.com/nt01xp/2024/refs/heads/main/6.txt
 
-寶盒TV,http://64.112.42.49:1688/https://raw.githubusercontent.com/guot55/yg/main/pg/jsm.json
-
-范明明IPTV6,https://fanmingming.com/txt?url=https://live.fanmingming.cn/tv/m3u/ipv6.m3u
-
-https://raw.githubusercontent.com/nt01xp/2024/refs/heads/main/4.txt
+4  https://raw.githubusercontent.com/nt01xp/2024/refs/heads/main/4.txt
 
 json  https://raw.githubusercontent.com/zzq12345/jiemuyuan/89712d353c79625ba3230107eb61b3a1af850ad9/jsm.json
 
