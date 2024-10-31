@@ -20,6 +20,10 @@ itv  https://fanmingming.com/txt?url=https://1234.koyeb.app/itv_proxy.m3u
 
 4  https://raw.githubusercontent.com/nt01xp/2024/refs/heads/main/4.txt
 
+superb http://qq01xp.serv00.net/superb.php
+
+litv http://qq01xp.serv00.net/litv.php
+
 json  https://raw.githubusercontent.com/zzq12345/jiemuyuan/89712d353c79625ba3230107eb61b3a1af850ad9/jsm.json
 
 json  https://raw.githubusercontent.com/nt01xp/2024/refs/heads/main/tv.json
