@@ -18,6 +18,8 @@ itv  https://fanmingming.com/txt?url=https://1234.koyeb.app/itv_proxy.m3u
 
 寶盒TV,http://64.112.42.49:1688/https://raw.githubusercontent.com/guot55/yg/main/pg/jsm.json
 
+范明明IPTV6,https://fanmingming.com/txt?url=https://live.fanmingming.cn/tv/m3u/ipv6.m3u
+
 https://raw.githubusercontent.com/nt01xp/2024/refs/heads/main/4.txt
 
 json  https://raw.githubusercontent.com/zzq12345/jiemuyuan/89712d353c79625ba3230107eb61b3a1af850ad9/jsm.json
@@ -33,10 +35,6 @@ json  https://raw.githubusercontent.com/nt01xp/2024/refs/heads/main/tv.json
 TVBS新聞24,https://www.youtube.com/watch?v=2mCSYvcfhtc
 
 東森新聞24,https://www.youtube.com/watch?v=E0zhe2gkXBs
-
-JSON https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/0827.json
-
-范明明IPTV6,https://fanmingming.com/txt?url=https://live.fanmingming.cn/tv/m3u/ipv6.m3u
 
 CCTV直播,https://tv.cctv.com/live
 
