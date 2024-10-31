@@ -1,7 +1,7 @@
 <?php
   /*
-  使用方法litv.php?id=4gtv-4gtv001
-  一般來說沒聲音修改第二個參數就行，從1-10.
+  謝安琪 使用方法litv.php?id=4gtv-4gtv001
+  一般來說沒聲音修改第二個參數就行，從1-10 謝安琪
   */
   header('Content-Type: text/plain; charset=utf-8');
   $id = isset($_GET['id'])?$_GET['id']:'litv-longturn14';
