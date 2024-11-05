@@ -4,7 +4,7 @@
 
 itv https://fanmingming.com/txt?url=https://1234.koyeb.app/itv_proxy.m3u
 
-肥羊35455tv https://fanmingming.com/txt?url=https://12345678.koyeb.app/tv.m3u
+肥羊35455tv https://fanmingming.com/txt?url=https://35455.koyeb.app/tv.m3u
 
 范明明IPTV6,https://fanmingming.com/txt?url=https://live.fanmingming.cn/tv/m3u/ipv6.m3u
 
@@ -24,13 +24,7 @@ itv https://fanmingming.com/txt?url=https://1234.koyeb.app/itv_proxy.m3u
 
 itv  https://fanmingming.com/txt?url=https://1234.koyeb.app/itv_proxy.m3u
 
-6  https://raw.githubusercontent.com/nt01xp/2024/refs/heads/main/6.txt
-
-4  https://raw.githubusercontent.com/nt01xp/2024/refs/heads/main/4.txt
-
 superb http://qq01xp.serv00.net/superb.php
-
-pn http://qq01xp.serv00.net/pn.php
 
 litv http://qq01xp.serv00.net/litv.php
 
