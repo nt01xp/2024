@@ -1,10 +1,10 @@
 在线TXT转M3U格式  https://live.fanmingming.cn/txt2m3u/
 
-4gtv https://fanmingming.com/txt?url=https://1234.koyeb.app/4gtv.m3u
+1234-4gtv https://fanmingming.com/txt?url=https://1234.koyeb.app/4gtv.m3u
 
-itv https://fanmingming.com/txt?url=https://1234.koyeb.app/itv_proxy.m3u
+1234-itv https://fanmingming.com/txt?url=https://1234.koyeb.app/itv_proxy.m3u
 
-5678  https://fanmingming.com/txt?url=https://5678.koyeb.app/tv.m3u
+5678-tv  https://fanmingming.com/txt?url=https://5678.koyeb.app/tv.m3u
 
 肥羊35455tv https://fanmingming.com/txt?url=https://35455.koyeb.app/tv.m3u
 
