@@ -1,4 +1,4 @@
-新M3U/TXT格式轉換網頁版  https://live.fanmingming.cn/txt2m3u/
+在线TXT转M3U格式  https://live.fanmingming.cn/txt2m3u/
 
 4gtv https://fanmingming.com/txt?url=https://1234.koyeb.app/4gtv.m3u
 
