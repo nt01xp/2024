@@ -7,13 +7,11 @@ CBeebies,udp://@224.1.4.75:11111
 日語七龍珠,http://120.77.28.4:8648/huya.php?id=11601966
 
 柯南劇場版,https://www.goodiptv.club/douyu/6484910
-CatchPlay電影,https://qq01xp.serv00.net/litv.php?id=4gtv-4gtv076
-靖天日本,https://qq01xp.serv00.net/litv.php?id=4gtv-4gtv047
-民視旅遊,https://qq01xp.serv00.net/litv.php?id=litv-ftv07
-亞洲旅遊,https://qq01xp.serv00.net/litv.php?id=litv-longturn17
-ELTA生活旅遊,https://1234.koyeb.app/4gtv/237
-Smart知識台,https://qq01xp.serv00.net/litv.php?id=litv-longturn19
-霹靂布袋戲,https://1234.koyeb.app/4gtv/301
+CatchPlay電影,https://1234litv.koyeb.app/litv.php?id=4gtv-4gtv076
+靖天日本,https://1234litv.koyeb.app/litv.php?id=4gtv-4gtv047
+民視旅遊,https://1234litv.koyeb.app/litv.php?id=litv-ftv07
+亞洲旅遊,https://1234litv.koyeb.app/litv.php?id=litv-longturn17
+Smart知識台,https://1234litv.koyeb.app/litv.php?id=litv-longturn19
 動物星球,http://61.221.215.25:8800/hls/57/index.m3u8
 八大綜合,http://61.221.215.25:8800/hls/56/index.m3u8
 
@@ -25,8 +23,8 @@ Smart知識台,https://qq01xp.serv00.net/litv.php?id=litv-longturn19
 台視,rtmp://twcdn.top/sat/tv071
 
 台灣新聞,#genre#
-TVBS新聞,https://qq01xp.serv00.net/litv.php?id=4gtv-4gtv072
-東森新聞,https://qq01xp.serv00.net/litv.php?id=4gtv-4gtv152
+TVBS新聞,https://1234litv.koyeb.app/litv.php?id=4gtv-4gtv072
+東森新聞,https://1234litv.koyeb.app/litv.php?id=4gtv-4gtv152
 民視新聞,https://www.youtube.com/watch?v=ylYJSBUgaMA
 中天新聞,https://www.youtube.com/watch?v=oIgbl7t0S_w
 三立財經,https://www.youtube.com/watch?v=pF507BLtbqU
