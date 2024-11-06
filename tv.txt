@@ -81,10 +81,6 @@ KansaiNews24,https://www.youtube.com/watch?v=sTAqx_1Yrww
 高雄蓮池潭,https://www.youtube.com/watch?v=BnPoNatG-HE
 彰化八卦山大佛,https://www.youtube.com/live/r6DAowF7iQY?si=Lk7J_2cyufoi8ndX
 
-雍正王朝,https://www.youtube.com/watch?v=JRcIQOGUpHE
-三國演義,https://www.youtube.com/watch?v=iVgAeyR-S3E
-西遊記,https://www.youtube.com/watch?v=mMVWahgmluo
-
 litv頻道,#genre#
 
 AMC 電影台,https://1234.koyeb.app/litv/4gtv-4gtv017
