@@ -103,9 +103,6 @@ pg https://t.me/pandagroovechat
 
 直播源 https://t.me/tvzby
 
-八度 https://t.me/abc999222
-
-
 ＋＋＋＋＋＋＋＋＋
 
 訂閱
@@ -113,8 +110,6 @@ pg https://t.me/pandagroovechat
 肥羊 https://t.me/feiyangofficalchannel
 
 安卓免費破解 https://t.me/pojieshare
-
-八度破解 https://t.me/pjrjzy
 
 影視軟件安裝大全 https://t.me/tvboxjk
 
