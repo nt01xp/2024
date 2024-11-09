@@ -138,6 +138,8 @@ pg貓 https://t.me/PandaGroovePG
 
 絕跡江湖https://t.me/juejijianghu
 
+酷69群 https://t.me/ku69rinimade
+
 ********
 
 @LookOnbot 機器人
