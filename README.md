@@ -1,3 +1,18 @@
+民視新聞,https://www.youtube.com/watch?v=ylYJSBUgaMA
+
+中天新聞,https://www.youtube.com/watch?v=vr3XyVCR4T0
+
+三立財經,https://www.youtube.com/watch?v=pF507BLtbqU
+
+東森財經,https://www.youtube.com/watch?v=WHEPzbFA3hw
+
+華視新聞,https://www.youtube.com/watch?v=wM0g8EoUZ_E
+
+中視新聞,https://www.youtube.com/watch?v=TCnaIE_SAtM
+
+台視新聞,https://www.youtube.com/watch?v=xL0ch83RAK8
+
+
 東森幼幼,http://50.7.234.10:8278/yoyo_twn/playlist.m3u8?ct=17874&tid=m84c9b210bc7f11269156&tsum=51340c8fb7ca02ab978ee0791843501d
 
 東森幼幼,http://50.7.234.10:8278/yoyo_twn/playlist.m3u8?tid=ME8E9672303196723031&ct=19344&tsum=91c7ab24e915643c77c2b0eed8de7137
