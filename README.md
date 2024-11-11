@@ -2,6 +2,8 @@
 
 中天新聞,https://www.youtube.com/watch?v=vr3XyVCR4T0
 
+三立新聞,https://www.youtube.com/watch?v=hGJkDZDchYI
+
 三立財經,https://www.youtube.com/watch?v=pF507BLtbqU
 
 東森財經,https://www.youtube.com/watch?v=WHEPzbFA3hw
