@@ -1,3 +1,7 @@
+TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
+
+東森新聞,https://www.youtube.com/watch?v=V1p33hqPrUk
+
 民視新聞,https://www.youtube.com/watch?v=ylYJSBUgaMA
 
 中天新聞,https://www.youtube.com/watch?v=vr3XyVCR4T0
