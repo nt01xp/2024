@@ -371,6 +371,8 @@ parse=1
 
 東森幼幼,https://www.123iptv.tv/tw/tv/dongsenyouyou_yoyo_tv.html
 緯來日本,https://www.123iptv.tv/tw/tv/weilairibentai.html
+東森洋片,https://www.123iptv.tv/tw/tv/dongsenyangpian_ettv_western.html
+好萊塢電影,https://www.123iptv.tv/tw/tv/haolaiwudianyingtai.html
 TVB新聞台,https://www.123iptv.tv/tw/tv/wuxianxinwentai.html
 TVB翡翠台,https://www.123iptv.tv/tw/tv/tvbfeicuitai.html
 
