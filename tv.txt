@@ -375,7 +375,10 @@ parse=1
 好萊塢電影,https://www.123iptv.tv/tw/tv/haolaiwudianyingtai.html
 TVB新聞台,https://www.123iptv.tv/tw/tv/wuxianxinwentai.html
 TVB翡翠台,https://www.123iptv.tv/tw/tv/tvbfeicuitai.html
-八大綜合,https://www.123iptv.tv/tw/tv/badazonghetai.html
-
+東森戲劇台,https://www.123iptv.tv/tw/tv/dongsenxiju_ettv_drama.html
+東森電影台,https://www.123iptv.tv/tw/tv/dongsendianying_ettv_movie.html
+八大戲劇台,https://www.123iptv.tv/tw/tv/badaxiju_gtv_drama.html
+八大綜合台,https://www.123iptv.tv/tw/tv/badazonghetai.html
+八大第一台,https://www.123iptv.tv/tw/tv/badadiyitai.html
 
 
