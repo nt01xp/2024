@@ -370,6 +370,7 @@ VOA美國之音,https://www.4gtv.tv/channel/litv-ftv03?set=1&ch=86
 parse=1
 
 東森幼幼,https://www.123iptv.tv/tw/tv/dongsenyouyou_yoyo_tv.html
+TVB新聞台,https://www.123iptv.tv/tw/tv/wuxianxinwentai.html
 TVB翡翠台,https://www.123iptv.tv/tw/tv/tvbfeicuitai.html
 
 
