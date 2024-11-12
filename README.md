@@ -113,12 +113,6 @@ pg包 https://t.me/pandagroovechat
 
 AKTV高清  https://t.me/MYOKKTV
 
-天光云影群组：https://t.me/mytv_android
-
-xxxx 必勝影視交流群 https://t.me/beatsingdrama
-
-xxxx 智能电视盒子应用分享和交流 https://t.me/tvbox002
-
 
 ＋＋＋＋＋＋＋＋＋
 
@@ -141,8 +135,6 @@ ok影視 https://t.me/tvb_ys
 tvbox接口 https://t.me/TVBoxjkou
 
 iptv epg.pw https://t.me/iptv_crawl
-
-天光云影发布频道：https://t.me/mytv_android_release
 
 pg貓 https://t.me/PandaGroovePG
 
