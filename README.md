@@ -101,6 +101,8 @@ TXT訂閱源地址:http://aktv.top/live.txt
 
 (驗證)影視TV https://t.me/fongmi_offical
 
+(驗證)APTU-MP3播放器 https://t.me/AptvPlayer
+
 pixman.io 交流群 https://t.me/livednowgroup
 
 pg包 https://t.me/pandagroovechat
@@ -117,7 +119,6 @@ xxxx 必勝影視交流群 https://t.me/beatsingdrama
 
 xxxx 智能电视盒子应用分享和交流 https://t.me/tvbox002
 
-APTU-MP3播放器 https://t.me/AptvPlayer
 
 ＋＋＋＋＋＋＋＋＋
 
