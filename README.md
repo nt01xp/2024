@@ -1,23 +1,3 @@
-浙江频道,#genre#
-
-浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
-
-浙江钱江都市,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
-
-浙江经视,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
-
-浙江教科影视,https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
-
-浙江民生休闲,https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
-
-浙江公共新闻,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
-
-浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
-
-浙江国际,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
-
-之江纪录,https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
-
 TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 
 東森新聞,https://www.youtube.com/watch?v=V1p33hqPrUk
