@@ -1,4 +1,5 @@
-
+cctv網頁嗅探,#genre#
+parse=1
 
 1綜合,https://tv.cctv.com/live/cctv1
 2財經,https://tv.cctv.com/live/cctv2
