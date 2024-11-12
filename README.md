@@ -99,6 +99,8 @@ TXT訂閱源地址:http://aktv.top/live.txt
 
 (驗證)大宇的大家庭（电视盒子） https://t.me/Dayuptv
 
+(驗證)影視TV https://t.me/fongmi_offical
+
 pixman.io 交流群 https://t.me/livednowgroup
 
 pg包 https://t.me/pandagroovechat
@@ -106,8 +108,6 @@ pg包 https://t.me/pandagroovechat
 阿黃tv https://t.me/ahuangtv
 
 极致播放器交流群 https://t.me/jizhi00
-
-影視TV(驗證) https://t.me/fongmi_offical
 
 AKTV高清  https://t.me/MYOKKTV
 
