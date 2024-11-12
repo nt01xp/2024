@@ -1,0 +1,149 @@
+#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
+#EXTINF:-1 tvg-name="1綜合" tvg-logo="https://live.fanmingming.com/tv/1綜合.png" group-title="cctv網頁嗅探",1綜合
+https://tv.cctv.com/live/cctv1
+#EXTINF:-1 tvg-name="2財經" tvg-logo="https://live.fanmingming.com/tv/2財經.png" group-title="cctv網頁嗅探",2財經
+https://tv.cctv.com/live/cctv2
+#EXTINF:-1 tvg-name="3綜藝" tvg-logo="https://live.fanmingming.com/tv/3綜藝.png" group-title="cctv網頁嗅探",3綜藝
+https://tv.cctv.com/live/cctv3
+#EXTINF:-1 tvg-name="4中文國際亞洲" tvg-logo="https://live.fanmingming.com/tv/4中文國際亞洲.png" group-title="cctv網頁嗅探",4中文國際亞洲
+https://tv.cctv.com/live/cctv4
+#EXTINF:-1 tvg-name="4中文國際歐洲" tvg-logo="https://live.fanmingming.com/tv/4中文國際歐洲.png" group-title="cctv網頁嗅探",4中文國際歐洲
+https://tv.cctv.com/live/cctveurope/index.shtml
+#EXTINF:-1 tvg-name="4中文國際美洲" tvg-logo="https://live.fanmingming.com/tv/4中文國際美洲.png" group-title="cctv網頁嗅探",4中文國際美洲
+https://tv.cctv.com/live/cctvamerica
+#EXTINF:-1 tvg-name="5體育" tvg-logo="https://live.fanmingming.com/tv/5體育.png" group-title="cctv網頁嗅探",5體育
+https://tv.cctv.com/live/cctv5
+#EXTINF:-1 tvg-name="5+體育賽事" tvg-logo="https://live.fanmingming.com/tv/5+體育賽事.png" group-title="cctv網頁嗅探",5+體育賽事
+https://tv.cctv.com/live/cctv5plus
+#EXTINF:-1 tvg-name="6電影" tvg-logo="https://live.fanmingming.com/tv/6電影.png" group-title="cctv網頁嗅探",6電影
+https://tv.cctv.com/live/cctv6
+#EXTINF:-1 tvg-name="7國防軍事" tvg-logo="https://live.fanmingming.com/tv/7國防軍事.png" group-title="cctv網頁嗅探",7國防軍事
+https://tv.cctv.com/live/cctv7
+#EXTINF:-1 tvg-name="8電視劇" tvg-logo="https://live.fanmingming.com/tv/8電視劇.png" group-title="cctv網頁嗅探",8電視劇
+https://tv.cctv.com/live/cctv8
+#EXTINF:-1 tvg-name="9紀錄" tvg-logo="https://live.fanmingming.com/tv/9紀錄.png" group-title="cctv網頁嗅探",9紀錄
+https://tv.cctv.com/live/cctvjilu
+#EXTINF:-1 tvg-name="10科教" tvg-logo="https://live.fanmingming.com/tv/10科教.png" group-title="cctv網頁嗅探",10科教
+https://tv.cctv.com/live/cctv10
+#EXTINF:-1 tvg-name="11戲曲" tvg-logo="https://live.fanmingming.com/tv/11戲曲.png" group-title="cctv網頁嗅探",11戲曲
+https://tv.cctv.com/live/cctv11
+#EXTINF:-1 tvg-name="12社會與法" tvg-logo="https://live.fanmingming.com/tv/12社會與法.png" group-title="cctv網頁嗅探",12社會與法
+https://tv.cctv.com/live/cctv12
+#EXTINF:-1 tvg-name="13新聞" tvg-logo="https://live.fanmingming.com/tv/13新聞.png" group-title="cctv網頁嗅探",13新聞
+https://tv.cctv.com/live/cctv13
+#EXTINF:-1 tvg-name="14少兒" tvg-logo="https://live.fanmingming.com/tv/14少兒.png" group-title="cctv網頁嗅探",14少兒
+https://tv.cctv.com/live/cctvchild
+#EXTINF:-1 tvg-name="15音樂" tvg-logo="https://live.fanmingming.com/tv/15音樂.png" group-title="cctv網頁嗅探",15音樂
+https://tv.cctv.com/live/cctv15
+#EXTINF:-1 tvg-name="16奥林匹克" tvg-logo="https://live.fanmingming.com/tv/16奥林匹克.png" group-title="cctv網頁嗅探",16奥林匹克
+https://tv.cctv.com/live/cctv16
+#EXTINF:-1 tvg-name="17農業農村" tvg-logo="https://live.fanmingming.com/tv/17農業農村.png" group-title="cctv網頁嗅探",17農業農村
+https://tv.cctv.com/live/cctv17
+#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="cctv網頁嗅探",CCTV4K
+https://www.yangshipin.cn/tv/home?pid=600002264
+#EXTINF:-1 tvg-name="1綜合" tvg-logo="https://live.fanmingming.com/tv/1綜合.png" group-title="cctv網頁嗅探",1綜合
+https://www.yangshipin.cn/tv/home?pid=600001859
+#EXTINF:-1 tvg-name="2財經" tvg-logo="https://live.fanmingming.com/tv/2財經.png" group-title="cctv網頁嗅探",2財經
+https://www.yangshipin.cn/tv/home?pid=600001800
+#EXTINF:-1 tvg-name="3綜藝" tvg-logo="https://live.fanmingming.com/tv/3綜藝.png" group-title="cctv網頁嗅探",3綜藝
+https://www.yangshipin.cn/tv/home?pid=600001801
+#EXTINF:-1 tvg-name="4中文國際" tvg-logo="https://live.fanmingming.com/tv/4中文國際.png" group-title="cctv網頁嗅探",4中文國際
+https://www.yangshipin.cn/tv/home?pid=600001814
+#EXTINF:-1 tvg-name="5體育" tvg-logo="https://live.fanmingming.com/tv/5體育.png" group-title="cctv網頁嗅探",5體育
+https://www.yangshipin.cn/tv/home?pid=600001818
+#EXTINF:-1 tvg-name="5+體育賽事" tvg-logo="https://live.fanmingming.com/tv/5+體育賽事.png" group-title="cctv網頁嗅探",5+體育賽事
+https://www.yangshipin.cn/tv/home?pid=600001817
+#EXTINF:-1 tvg-name="6電影" tvg-logo="https://live.fanmingming.com/tv/6電影.png" group-title="cctv網頁嗅探",6電影
+https://www.yangshipin.cn/tv/home?pid=600108442
+#EXTINF:-1 tvg-name="7國防軍事" tvg-logo="https://live.fanmingming.com/tv/7國防軍事.png" group-title="cctv網頁嗅探",7國防軍事
+https://www.yangshipin.cn/tv/home?pid=600004092
+#EXTINF:-1 tvg-name="8電視劇" tvg-logo="https://live.fanmingming.com/tv/8電視劇.png" group-title="cctv網頁嗅探",8電視劇
+https://www.yangshipin.cn/tv/home?pid=600001803
+#EXTINF:-1 tvg-name="9紀錄" tvg-logo="https://live.fanmingming.com/tv/9紀錄.png" group-title="cctv網頁嗅探",9紀錄
+https://www.yangshipin.cn/tv/home?pid=600004078
+#EXTINF:-1 tvg-name="10科教" tvg-logo="https://live.fanmingming.com/tv/10科教.png" group-title="cctv網頁嗅探",10科教
+https://www.yangshipin.cn/tv/home?pid=600001805
+#EXTINF:-1 tvg-name="11戲曲" tvg-logo="https://live.fanmingming.com/tv/11戲曲.png" group-title="cctv網頁嗅探",11戲曲
+https://www.yangshipin.cn/tv/home?pid=600001806
+#EXTINF:-1 tvg-name="12社會與法" tvg-logo="https://live.fanmingming.com/tv/12社會與法.png" group-title="cctv網頁嗅探",12社會與法
+https://www.yangshipin.cn/tv/home?pid=600001807
+#EXTINF:-1 tvg-name="13新聞" tvg-logo="https://live.fanmingming.com/tv/13新聞.png" group-title="cctv網頁嗅探",13新聞
+https://www.yangshipin.cn/tv/home?pid=600001811
+#EXTINF:-1 tvg-name="14少兒" tvg-logo="https://live.fanmingming.com/tv/14少兒.png" group-title="cctv網頁嗅探",14少兒
+https://www.yangshipin.cn/tv/home?pid=600001809
+#EXTINF:-1 tvg-name="15音樂" tvg-logo="https://live.fanmingming.com/tv/15音樂.png" group-title="cctv網頁嗅探",15音樂
+https://www.yangshipin.cn/tv/home?pid=600001815
+#EXTINF:-1 tvg-name="16奧林匹克" tvg-logo="https://live.fanmingming.com/tv/16奧林匹克.png" group-title="cctv網頁嗅探",16奧林匹克
+https://www.yangshipin.cn/tv/home?pid=600098637
+#EXTINF:-1 tvg-name="16奧林匹克4K" tvg-logo="https://live.fanmingming.com/tv/16奧林匹克4K.png" group-title="cctv網頁嗅探",16奧林匹克4K
+https://www.yangshipin.cn/tv/home?pid=600099502
+#EXTINF:-1 tvg-name="17農業農村" tvg-logo="https://live.fanmingming.com/tv/17農業農村.png" group-title="cctv網頁嗅探",17農業農村
+https://www.yangshipin.cn/tv/home?pid=600001810
+#EXTINF:-1 tvg-name="江蘇衛視" tvg-logo="https://live.fanmingming.com/tv/江蘇衛視.png" group-title="cctv網頁嗅探",江蘇衛視
+https://www.yangshipin.cn/tv/home?pid=600002521
+#EXTINF:-1 tvg-name="浙江衛視" tvg-logo="https://live.fanmingming.com/tv/浙江衛視.png" group-title="cctv網頁嗅探",浙江衛視
+https://www.yangshipin.cn/tv/home?pid=600002520
+#EXTINF:-1 tvg-name="湖南衛視" tvg-logo="https://live.fanmingming.com/tv/湖南衛視.png" group-title="cctv網頁嗅探",湖南衛視
+https://www.yangshipin.cn/tv/home?pid=600002475
+#EXTINF:-1 tvg-name="北京衛視" tvg-logo="https://live.fanmingming.com/tv/北京衛視.png" group-title="cctv網頁嗅探",北京衛視
+https://www.yangshipin.cn/tv/home?pid=600002309
+#EXTINF:-1 tvg-name="東方衛視" tvg-logo="https://live.fanmingming.com/tv/東方衛視.png" group-title="cctv網頁嗅探",東方衛視
+https://www.yangshipin.cn/tv/home?pid=600002483
+#EXTINF:-1 tvg-name="山東衛視" tvg-logo="https://live.fanmingming.com/tv/山東衛視.png" group-title="cctv網頁嗅探",山東衛視
+https://www.yangshipin.cn/tv/home?pid=600002513
+#EXTINF:-1 tvg-name="四川衛視" tvg-logo="https://live.fanmingming.com/tv/四川衛視.png" group-title="cctv網頁嗅探",四川衛視
+https://www.yangshipin.cn/tv/home?pid=600002516
+#EXTINF:-1 tvg-name="安徽衛視" tvg-logo="https://live.fanmingming.com/tv/安徽衛視.png" group-title="cctv網頁嗅探",安徽衛視
+https://www.yangshipin.cn/tv/home?pid=600002532
+#EXTINF:-1 tvg-name="江西衛視" tvg-logo="https://live.fanmingming.com/tv/江西衛視.png" group-title="cctv網頁嗅探",江西衛視
+https://www.yangshipin.cn/tv/home?pid=600002503
+#EXTINF:-1 tvg-name="東南衛視" tvg-logo="https://live.fanmingming.com/tv/東南衛視.png" group-title="cctv網頁嗅探",東南衛視
+https://www.yangshipin.cn/tv/home?pid=600002484
+#EXTINF:-1 tvg-name="河北衛視" tvg-logo="https://live.fanmingming.com/tv/河北衛視.png" group-title="cctv網頁嗅探",河北衛視
+https://www.yangshipin.cn/tv/home?pid=600002493
+#EXTINF:-1 tvg-name="河南衛視" tvg-logo="https://live.fanmingming.com/tv/河南衛視.png" group-title="cctv網頁嗅探",河南衛視
+https://www.yangshipin.cn/tv/home?pid=600002525
+#EXTINF:-1 tvg-name="贵州衛視" tvg-logo="https://live.fanmingming.com/tv/贵州衛視.png" group-title="cctv網頁嗅探",贵州衛視
+https://www.yangshipin.cn/tv/home?pid=600002490
+#EXTINF:-1 tvg-name="重慶衛視" tvg-logo="https://live.fanmingming.com/tv/重慶衛視.png" group-title="cctv網頁嗅探",重慶衛視
+https://www.yangshipin.cn/tv/home?pid=600002531
+#EXTINF:-1 tvg-name="海南衛視" tvg-logo="https://live.fanmingming.com/tv/海南衛視.png" group-title="cctv網頁嗅探",海南衛視
+https://www.yangshipin.cn/tv/home?pid=600002506
+#EXTINF:-1 tvg-name="深圳衛視" tvg-logo="https://live.fanmingming.com/tv/深圳衛視.png" group-title="cctv網頁嗅探",深圳衛視
+https://www.yangshipin.cn/tv/home?pid=600002481
+#EXTINF:-1 tvg-name="湖北衛視" tvg-logo="https://live.fanmingming.com/tv/湖北衛視.png" group-title="cctv網頁嗅探",湖北衛視
+https://www.yangshipin.cn/tv/home?pid=600002508
+#EXTINF:-1 tvg-name="廣西衛視" tvg-logo="https://live.fanmingming.com/tv/廣西衛視.png" group-title="cctv網頁嗅探",廣西衛視
+https://www.yangshipin.cn/tv/home?pid=600002509
+#EXTINF:-1 tvg-name="廣東衛視" tvg-logo="https://live.fanmingming.com/tv/廣東衛視.png" group-title="cctv網頁嗅探",廣東衛視
+https://www.yangshipin.cn/tv/home?pid=600002485
+#EXTINF:-1 tvg-name="遼寧衛視" tvg-logo="https://live.fanmingming.com/tv/遼寧衛視.png" group-title="cctv網頁嗅探",遼寧衛視
+https://www.yangshipin.cn/tv/home?pid=600002505
+#EXTINF:-1 tvg-name="黑龍江衛視" tvg-logo="https://live.fanmingming.com/tv/黑龍江衛視.png" group-title="cctv網頁嗅探",黑龍江衛視
+https://www.yangshipin.cn/tv/home?pid=600002498
+#EXTINF:-1 tvg-name="世界地理" tvg-logo="https://live.fanmingming.com/tv/世界地理.png" group-title="cctv網頁嗅探",世界地理
+https://www.yangshipin.cn/tv/home?pid=600099637
+#EXTINF:-1 tvg-name="風雲劇場" tvg-logo="https://live.fanmingming.com/tv/風雲劇場.png" group-title="cctv網頁嗅探",風雲劇場
+https://www.yangshipin.cn/tv/home?pid=600099658
+#EXTINF:-1 tvg-name="第一劇場" tvg-logo="https://live.fanmingming.com/tv/第一劇場.png" group-title="cctv網頁嗅探",第一劇場
+https://www.yangshipin.cn/tv/home?pid=600099655
+#EXTINF:-1 tvg-name="懷舊劇場" tvg-logo="https://live.fanmingming.com/tv/懷舊劇場.png" group-title="cctv網頁嗅探",懷舊劇場
+https://www.yangshipin.cn/tv/home?pid=600099620
+#EXTINF:-1 tvg-name="風雲音樂" tvg-logo="https://live.fanmingming.com/tv/風雲音樂.png" group-title="cctv網頁嗅探",風雲音樂
+https://www.yangshipin.cn/tv/home?pid=600099660
+#EXTINF:-1 tvg-name="兵器科技" tvg-logo="https://live.fanmingming.com/tv/兵器科技.png" group-title="cctv網頁嗅探",兵器科技
+https://www.yangshipin.cn/tv/home?pid=600099649
+#EXTINF:-1 tvg-name="風雲足球" tvg-logo="https://live.fanmingming.com/tv/風雲足球.png" group-title="cctv網頁嗅探",風雲足球
+https://www.yangshipin.cn/tv/home?pid=600099636
+#EXTINF:-1 tvg-name="高爾夫·網球" tvg-logo="https://live.fanmingming.com/tv/高爾夫·網球.png" group-title="cctv網頁嗅探",高爾夫·網球
+https://www.yangshipin.cn/tv/home?pid=600099659
+#EXTINF:-1 tvg-name="女性时尚" tvg-logo="https://live.fanmingming.com/tv/女性时尚.png" group-title="cctv網頁嗅探",女性时尚
+https://www.yangshipin.cn/tv/home?pid=600099650
+#EXTINF:-1 tvg-name="央視文化精品" tvg-logo="https://live.fanmingming.com/tv/央視文化精品.png" group-title="cctv網頁嗅探",央視文化精品
+https://www.yangshipin.cn/tv/home?pid=600099653
+#EXTINF:-1 tvg-name="央視台球" tvg-logo="https://live.fanmingming.com/tv/央視台球.png" group-title="cctv網頁嗅探",央視台球
+https://www.yangshipin.cn/tv/home?pid=600099652
+#EXTINF:-1 tvg-name="電視指南" tvg-logo="https://live.fanmingming.com/tv/電視指南.png" group-title="cctv網頁嗅探",電視指南
+https://www.yangshipin.cn/tv/home?pid=600099656
+#EXTINF:-1 tvg-name="衛生健康" tvg-logo="https://live.fanmingming.com/tv/衛生健康.png" group-title="cctv網頁嗅探",衛生健康
+https://www.yangshipin.cn/tv/home?pid=600099651
