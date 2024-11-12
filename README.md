@@ -97,11 +97,11 @@ TXT訂閱源地址:http://aktv.top/live.txt
 
 (驗證)智能电视盒子直播源 https://t.me/meitu007
 
+(驗證)大宇的大家庭（电视盒子） https://t.me/Dayuptv
+
 pixman.io 交流群 https://t.me/livednowgroup
 
 pg包 https://t.me/pandagroovechat
-
-大宇的大家庭（电视盒子） https://t.me/Dayuptv
 
 阿黃tv https://t.me/ahuangtv
 
