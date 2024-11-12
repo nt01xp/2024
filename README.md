@@ -97,6 +97,8 @@ TXT訂閱源地址:http://aktv.top/live.txt
 
 (鎖)pixman.io 交流群 https://t.me/livednowgroup
 
+pg包 https://t.me/pandagroovechat
+
 (鎖驗證)智能电视盒子直播源 https://t.me/meitu007
 
 (鎖)大宇的大家庭（电视盒子） https://t.me/Dayuptv
@@ -107,22 +109,15 @@ TXT訂閱源地址:http://aktv.top/live.txt
 
 影視TV(驗證) https://t.me/fongmi_offical
 
+AKTV高清  https://t.me/MYOKKTV
+
+天光云影群组：https://t.me/mytv_android
+
 xxxx 必勝影視交流群 https://t.me/beatsingdrama
 
 xxxx 智能电视盒子应用分享和交流 https://t.me/tvbox002
 
 APTU-MP3播放器 https://t.me/AptvPlayer
-
-AKTV高清
-https://t.me/MYOKKTV
-
-天光云影群组：https://t.me/mytv_android
-
-pg https://t.me/pandagroovechat
-
-今日影視(驗證) https://t.me/jin365m
-
-直播源 https://t.me/tvzby
 
 ＋＋＋＋＋＋＋＋＋
 
