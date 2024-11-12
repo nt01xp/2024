@@ -145,6 +145,8 @@ pg貓 https://t.me/PandaGroovePG
 @LookOnbot 機器人
 @iWuMingBot 無名
 
+@beatsing 必勝群管理
+
 EPG機器人 @myepg_bot
 
 霸霸 @baba_xbot
