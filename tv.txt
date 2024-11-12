@@ -381,5 +381,13 @@ TVB翡翠台,https://www.123iptv.tv/tw/tv/tvbfeicuitai.html
 八大綜合台,https://www.123iptv.tv/tw/tv/badazonghetai.html
 八大第一台,https://www.123iptv.tv/tw/tv/badadiyitai.html
 緯來電影,https://www.123iptv.tv/tw/tv/weilaidianyingtai.html
+愛爾達綜合台,https://www.123iptv.tv/tw/tv/aierdazonghetai.html
+愛爾達影劇台,https://www.123iptv.tv/tw/tv/aierdayingju.html
+愛爾達體育1台,https://www.123iptv.tv/tw/tv/aierdatiyu1tai.html
+愛爾達體育2台,https://www.123iptv.tv/tw/tv/aierdatiyu2tai.html
+愛爾達體育3台,https://www.123iptv.tv/tw/tv/aierdatiyu3tai.html
+
+
+
 
 
