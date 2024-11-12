@@ -9,6 +9,8 @@ CBeebies,udp://@224.1.4.75:11111
 东森幼幼(备用2),AikanTV://api/vip.php?tvid=台湾TW&id=东森幼幼(备用2) 
 MOMO亲子台,AikanTV://api/vip.php?tvid=台湾TW&id=MOMO亲子台 
 MOMO亲子台(备用1),AikanTV://api/vip.php?tvid=台湾TW&id=MOMO亲子台(备用1) 
+BBC Cbeebies,AikanTV://api/vip.php?tvid=台湾TW&id=BBC Cbeebies 
+BBC Cbeebies(备用1),AikanTV://api/vip.php?tvid=台湾TW&id=BBC Cbeebies(备用1) 
 
 蠟筆小新,http://120.77.28.4:8648/huya.php?id=11352970
 櫻桃小丸子,http://120.77.28.4:8648/huya.php?id=11342394
