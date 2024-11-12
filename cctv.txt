@@ -68,10 +68,10 @@ CCTV4K,https://www.yangshipin.cn/tv/home?pid=600002264
 黑龍江衛視,https://www.yangshipin.cn/tv/home?pid=600002498
 
 
+世界地理,https://www.yangshipin.cn/tv/home?pid=600099637
 風雲劇場,https://www.yangshipin.cn/tv/home?pid=600099658
 第一劇場,https://www.yangshipin.cn/tv/home?pid=600099655
 懷舊劇場,https://www.yangshipin.cn/tv/home?pid=600099620
-世界地理,https://www.yangshipin.cn/tv/home?pid=600099637
 風雲音樂,https://www.yangshipin.cn/tv/home?pid=600099660
 兵器科技,https://www.yangshipin.cn/tv/home?pid=600099649
 風雲足球,https://www.yangshipin.cn/tv/home?pid=600099636
@@ -81,20 +81,4 @@ CCTV4K,https://www.yangshipin.cn/tv/home?pid=600002264
 央視台球,https://www.yangshipin.cn/tv/home?pid=600099652
 電視指南,https://www.yangshipin.cn/tv/home?pid=600099656
 衛生健康,https://www.yangshipin.cn/tv/home?pid=600099651
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
