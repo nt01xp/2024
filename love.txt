@@ -57,6 +57,7 @@ CHC家庭电影,AikanTV://api/vip.php?tvid=中国CN&id=CHC家庭电影
 广东珠江,AikanTV://api/vip.php?tvid=中国CN&id=广东珠江
 广东体育,AikanTV://api/vip.php?tvid=中国CN&id=广东体育
 大湾区卫视,AikanTV://api/vip.php?tvid=中国CN&id=大湾区卫视
+
 数字频道,#genre#
 纪实人文,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8
 纪实科教,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8
@@ -106,6 +107,7 @@ CHC家庭电影,AikanTV://api/vip.php?tvid=中国CN&id=CHC家庭电影
 精品萌宠,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226505/index.m3u8
 超级综艺,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8
 金牌综艺,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8
+
 轮播频道,#genre#
 贺岁,AikanTV://api/tv.php?tvid=测试信号&id=贺岁
 玄幻,AikanTV://api/tv.php?tvid=测试信号&id=玄幻
@@ -141,6 +143,7 @@ CHC家庭电影,AikanTV://api/vip.php?tvid=中国CN&id=CHC家庭电影
 镖行天下,AikanTV://api/tv.php?tvid=测试信号&id=镖行天下
 高能反转,AikanTV://api/tv.php?tvid=测试信号&id=高能反转
 喜乐影院,AikanTV://api/tv.php?tvid=测试信号&id=喜乐影院
+
 香港频道,#genre#
 凤凰中文台,http://58.144.154.93/qctv.fengshows.cn/live/0701pcc72.m3u8
 凤凰资讯台,http://58.144.154.93/qctv.fengshows.cn/live/0701pin72.m3u8
@@ -255,6 +258,7 @@ mySUPER直播足球3台,AikanTV://api/vip.php?tvid=香港HK&id=mySUPER直播足�
 mySUPER直播足球4台,AikanTV://api/vip.php?tvid=香港HK&id=mySUPER直播足球4台
 mySUPER直播足球5台,AikanTV://api/vip.php?tvid=香港HK&id=mySUPER直播足球5台
 mySUPER直播足球6台,AikanTV://api/vip.php?tvid=香港HK&id=mySUPER直播足球6台
+
 台湾频道,#genre#
 中视,AikanTV://api/vip.php?tvid=台湾TW&id=中视
 中视新闻,AikanTV://api/vip.php?tvid=台湾TW&id=中视新闻
@@ -469,6 +473,7 @@ CI罪案偵查頻道,AikanTV://api/vip.php?tvid=台湾TW&id=CI罪案偵查頻道
 好消息2,AikanTV://api/vip.php?tvid=台湾TW&id=好消息2
 国会频道1,AikanTV://api/vip.php?tvid=台湾TW&id=国会频道1
 国会频道2,AikanTV://api/vip.php?tvid=台湾TW&id=国会频道2
+
 电影频道,#genre#
 CCTV6,AikanTV://api/vip.php?tvid=电影FILM&id=CCTV6
 CHC影迷电影,AikanTV://api/vip.php?tvid=电影FILM&id=CHC影迷电影
@@ -552,6 +557,7 @@ CelestialMovies,AikanTV://api/vip.php?tvid=电影FILM&id=CelestialMovies
 Cinemax Spanish,AikanTV://api/vip.php?tvid=电影FILM&id=Cinemax Spanish
 HBO2,AikanTV://api/vip.php?tvid=电影FILM&id=HBO2
 amc,AikanTV://api/vip.php?tvid=电影FILM&id=amc
+
 新闻频道,#genre#
 CCTV13,AikanTV://api/vip.php?tvid=新闻INFO&id=CCTV13
 TVB无线新闻台,AikanTV://api/vip.php?tvid=新闻INFO&id=TVB无线新闻台
@@ -621,6 +627,7 @@ TravelXP,AikanTV://api/vip.php?tvid=新闻INFO&id=TravelXP
 OMNI2,AikanTV://api/vip.php?tvid=新闻INFO&id=OMNI2
 CTV Canada,AikanTV://api/vip.php?tvid=新闻INFO&id=CTV Canada
 CTV 2 Canada,AikanTV://api/vip.php?tvid=新闻INFO&id=CTV 2 Canada
+
 日韩频道,#genre#
 KBS 1,AikanTV://api/tv.php?tvid=韩国kbs&id=KBS 1
 KBS 2,AikanTV://api/tv.php?tvid=韩国kbs&id=KBS 2
@@ -692,6 +699,7 @@ MUSIC JP,AikanTV://api/tv.php?tvid=日本2&id=MUSIC JP
 DISNEY CHANNEL,AikanTV://api/tv.php?tvid=日本2&id=DISNEY CHANNEL
 ANIMAX,AikanTV://api/tv.php?tvid=日本2&id=ANIMAX
 DISNEY JUNIOR,AikanTV://api/tv.php?tvid=日本2&id=DISNEY JUNIOR
+
 马来频道,#genre#
 SukanRTM,AikanTV://api/vip.php?tvid=马来MY&id=SukanRTM
 BeritaRTM,AikanTV://api/vip.php?tvid=马来MY&id=BeritaRTM
