@@ -4,6 +4,10 @@ CBeebies,udp://@224.1.4.75:11111
 東森幼幼,http://50.7.234.10:8278/yoyo_twn/playlist.m3u8?ct=17874&tid=m84c9b210bc7f11269156&tsum=51340c8fb7ca02ab978ee0791843501d
 東森幼幼,http://50.7.234.10:8278/yoyo_twn/playlist.m3u8?tid=ME8E9672303196723031&ct=19344&tsum=91c7ab24e915643c77c2b0eed8de7137
 
+东森幼幼,AikanTV://api/vip.php?tvid=台湾TW&id=东森幼幼
+MOMO亲子台,AikanTV://api/vip.php?tvid=台湾TW&id=MOMO亲子台
+BBC Cbeebies,AikanTV://api/vip.php?tvid=台湾TW&id=BBC Cbeebies
+
 蠟筆小新,http://120.77.28.4:8648/huya.php?id=11352970
 櫻桃小丸子,http://120.77.28.4:8648/huya.php?id=11342394
 海綿寶寶,http://120.77.28.4:8648/huya.php?id=11352919
