@@ -120,6 +120,8 @@ pg包 https://t.me/pandagroovechat
 
 AKTV高清  https://t.me/MYOKKTV
 
+夏天影視資源交流群 https://t.me/atv168
+
 
 ＋＋＋＋＋＋＋＋＋
 
