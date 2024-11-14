@@ -24,12 +24,16 @@ Smart知識台,https://1234.koyeb.app/litv/litv-longturn19
 八大綜合,http://61.221.215.25:8800/hls/56/index.m3u8
 
 緯來日本,rtmp://f13h.mine.nu/sat/tv771
+緯來育樂,https://8080.koyeb.app/superb.php?m3u8=/live/kwzq1rse/vrn5bsmg/index.m3u8
 緯來育樂,rtmp://f13h.mine.nu/sat/tv701
 緯來體育,https://8080.koyeb.app/superb.php?m3u8=/live/kwzq1rse/spvjqjn9/index.m3u8
 緯來體育,rtmp://f13h.mine.nu/sat/tv721
 華視,rtmp://f13h.mine.nu/sat/tv111
 中視,rtmp://f13h.mine.nu/sat/tv091
 台視,rtmp://f13h.mine.nu/sat/tv071
+
+東森洋片,https://8080.koyeb.app/superb.php?m3u8=/live/fadh3ct5/0kxhqv8q/index.m3u8
+好萊塢電影,https://8080.koyeb.app/superb.php?m3u8=/live/kwzq1rse/q0rskj6h/index.m3u8
 
 愛爾達體育1台,udp://@224.1.4.112:11111
 愛爾達體育1台,udp://@230.1.2.131:11111
