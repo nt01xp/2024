@@ -31,10 +31,11 @@ Smart知識台,https://1234.koyeb.app/litv/litv-longturn19
 台視,rtmp://f13h.mine.nu/sat/tv071
 
 台灣新聞,#genre#
-TVBS新聞,https://1234.koyeb.app/litv/4gtv-4gtv072
-東森新聞,https://1234.koyeb.app/litv/4gtv-4gtv152
+TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
+東森新聞,https://www.youtube.com/watch?v=V1p33hqPrUk
 民視新聞,https://www.youtube.com/watch?v=ylYJSBUgaMA
 中天新聞,https://www.youtube.com/watch?v=vr3XyVCR4T0
+三立新聞,https://www.youtube.com/watch?v=MV9mI0GChwo
 三立財經,https://www.youtube.com/watch?v=pF507BLtbqU
 東森財經,https://www.youtube.com/watch?v=WHEPzbFA3hw
 華視新聞,https://www.youtube.com/watch?v=wM0g8EoUZ_E
