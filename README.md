@@ -1,3 +1,7 @@
+APTV 专用直播源（IPv4和IPv6）
+
+https://gh.aptv.app/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u
+
 无线新闻,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
 
 无线新闻.备用,http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
