@@ -2,7 +2,7 @@
 CBeebies,udp://@224.1.4.213:11111
 
 東森幼幼,https://8080.koyeb.app/superb.php?m3u8=/live/fchcah3u/31t5z7bp/index.m3u8
-MOMO親子臺,https://8080.koyeb.app/superb.php?m3u8=/live/kwzq1rse/877sd556/index.m3u8
+MOMO親子台,https://8080.koyeb.app/superb.php?m3u8=/live/kwzq1rse/877sd556/index.m3u8
 
 蠟筆小新,http://120.77.28.4:8648/huya.php?id=11352970
 櫻桃小丸子,http://120.77.28.4:8648/huya.php?id=11342394
