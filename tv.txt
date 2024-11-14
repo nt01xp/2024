@@ -9,7 +9,10 @@ MOMO親子台,https://8080.koyeb.app/superb.php?m3u8=/live/kwzq1rse/877sd556/ind
 CN卡通,https://8080.koyeb.app/superb.php?m3u8=/live/kwzq1rse/0jqsx5tg/index.m3u8
 東森洋片,https://8080.koyeb.app/superb.php?m3u8=/live/fadh3ct5/0kxhqv8q/index.m3u8
 好萊塢電影,https://8080.koyeb.app/superb.php?m3u8=/live/kwzq1rse/q0rskj6h/index.m3u8
-
+HBO HD,https://8080.koyeb.app/superb.php?m3u8=/live/kwzq1rse/84wnpj8g/index.m3u8
+HBO Hits,https://8080.koyeb.app/superb.php?m3u8=/live/kwzq1rse/invnbjaa/index.m3u8
+HBO Signature HD,https://8080.koyeb.app/superb.php?m3u8=/live/kwzq1rse/8as1d3as/index.m3u8
+HBO family HD,https://8080.koyeb.app/superb.php?m3u8=/live/kwzq1rse/61br3tqt/index.m3u8
 
 蠟筆小新,http://120.77.28.4:8648/huya.php?id=11352970
 櫻桃小丸子,http://120.77.28.4:8648/huya.php?id=11342394
