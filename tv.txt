@@ -392,9 +392,6 @@ ofiii歐飛,#genre#
 8 台視,https://www.567858.xyz/ofiii.php?id=4gtv-4gtv066		
 10 中視,https://www.567858.xyz/ofiii.php?id=4gtv-4gtv040		
 12 華視,https://www.567858.xyz/ofiii.php?id=4gtv-4gtv041		
-14 好消息2台,https://www.567858.xyz/ofiii.php?id=litv-ftv17		
-15 好消息,https://www.567858.xyz/ofiii.php?id=litv-ftv16		
-20 ELTV生活英語台,https://www.567858.xyz/ofiii.php?id=litv-longturn20		
 21 龍華卡通台,https://www.567858.xyz/ofiii.php?id=litv-longturn01			
 34 亞洲旅遊台,https://www.567858.xyz/ofiii.php?id=litv-longturn17		
 37 Smart知識台,https://www.567858.xyz/ofiii.php?id=litv-longturn19		
