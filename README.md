@@ -1,3 +1,21 @@
+无线新闻,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
+
+无线新闻.备用,http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
+
+华丽翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=huali
+
+华丽翡翠台.备用,http://php.jdshipin.com/TVOD/iptv.php?id=huali2
+
+TVB星河,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxh
+
+TVB生活台,http://php.jdshipin.com/TVOD/iptv.php?id=tvbsh
+
+TVB亚洲武侠,http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
+
+TVB娱乐新闻台,http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
+
+========================================================
+
 翡翠台,http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
 
 Hoy 78,http://aktv.top/AKTV/live/aktv/hoy78/AKTV.m3u8
