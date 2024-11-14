@@ -37,9 +37,9 @@ TVBS新聞,https://1234.koyeb.app/litv/4gtv-4gtv072
 華視新聞,https://www.youtube.com/watch?v=wM0g8EoUZ_E
 中視新聞,https://www.youtube.com/watch?v=TCnaIE_SAtM
 台視新聞,https://www.youtube.com/watch?v=xL0ch83RAK8
-寰宇新聞台,https://www.567858.xyz/ofiii.php?id=litv-longturn14
-寰宇新聞台灣台,https://www.567858.xyz/ofiii.php?id=litv-longturn15  
-寰宇財經台,https://www.567858.xyz/ofiii.php?id=litv-longturn23  
+寰宇新聞,https://www.youtube.com/watch?v=6IquAgfvYmc
+寰宇台灣,https://www.youtube.com/watch?v=w87VGpgd90U
+鏡新聞,https://www.youtube.com/watch?v=5n0y6b0Q25o
 
 靖天龍華,#genre#
 靖天日本台,https://1234.koyeb.app/litv/4gtv-4gtv047
