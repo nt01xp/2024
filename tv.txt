@@ -416,6 +416,8 @@ Smart知識台,https://www.567858.xyz/ofiii.php?id=litv-longturn19
 龍華卡通台,https://www.567858.xyz/ofiii.php?id=litv-longturn01
 
 123iptv網頁,#genre#	
+parse=1
+
 AFC 亞洲旅遊台,https://www.123iptv.tv/tw/tv/afc_yazhouluyoutai.html
 東森幼幼Yoyo TV,https://www.123iptv.tv/tw/tv/dongsenyouyou_yoyo_tv.html
 EYETV 戲劇,https://www.123iptv.tv/tw/tv/eyetv_xiju.html
