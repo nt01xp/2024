@@ -1,17 +1,4 @@
 
-翡翠台,http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
-
-Hoy 78,http://aktv.top/AKTV/live/aktv/hoy78/AKTV.m3u8
-
-無線新聞台,http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
-
-AKTV高清高速數碼電視轉播站 https://aktv.top/
-
-m3u訂閱源地址:http://aktv.top/live.m3u
-
-TXT訂閱源地址:http://aktv.top/live.txt
-
-
 TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 
 東森新聞,https://www.youtube.com/watch?v=V1p33hqPrUk
