@@ -2,8 +2,9 @@
 
 緯來日本,https://www.chaojidianshi.net/zhibo/gangtaizhibo/weilairibentai.html
 
+TVB翡翠台,https://www.chaojidianshi.net/zhibo/78.html
 
-
+TVB無線新聞,https://www.chaojidianshi.net/zhibo/73.html
 
 
 TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
