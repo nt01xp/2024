@@ -1,3 +1,10 @@
+東森幼幼,https://www.chaojidianshi.net/zhibo/gangtaizhibo/dongsenyouyouYoyoTV.html
+
+緯來日本,https://www.chaojidianshi.net/zhibo/gangtaizhibo/weilairibentai.html
+
+
+
+
 
 TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 
