@@ -45,9 +45,9 @@ Smart知識台,https://1234.koyeb.app/litv/litv-longturn19
 好萊塢電影,https://8080.koyeb.app/superb.php?m3u8=/live/kwzq1rse/q0rskj6h/index.m3u8
 美亞电影臺 HD,https://8080.koyeb.app/superb.php?m3u8=/live/kwzq1rse/4vphhg1h/index.m3u8
 HBO HD,https://8080.koyeb.app/superb.php?m3u8=/live/kwzq1rse/84wnpj8g/index.m3u8
-HBO Hits,https://8080.koyeb.app/superb.php?m3u8=/live/kwzq1rse/invnbjaa/index.m3u8
-HBO Signature HD,https://8080.koyeb.app/superb.php?m3u8=/live/kwzq1rse/8as1d3as/index.m3u8
-HBO family HD,https://8080.koyeb.app/superb.php?m3u8=/live/kwzq1rse/61br3tqt/index.m3u8
+HBO強檔,https://8080.koyeb.app/superb.php?m3u8=/live/kwzq1rse/invnbjaa/index.m3u8
+HBO獨創,https://8080.koyeb.app/superb.php?m3u8=/live/kwzq1rse/8as1d3as/index.m3u8
+HBO家庭,https://8080.koyeb.app/superb.php?m3u8=/live/kwzq1rse/61br3tqt/index.m3u8
 
 
 台灣新聞,#genre#
