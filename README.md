@@ -41,16 +41,6 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 
 柯南劇場版,https://www.goodiptv.club/douyu/6484910
 
-4gtv  https://fanmingming.com/txt?url=https://1234.koyeb.app/4gtv.m3u
-
-itv  https://fanmingming.com/txt?url=https://1234.koyeb.app/itv_proxy.m3u
-
-superb http://qq01xp.serv00.net/superb.php
-
-litv http://qq01xp.serv00.net/litv.php
-
-json  https://raw.githubusercontent.com/zzq12345/jiemuyuan/89712d353c79625ba3230107eb61b3a1af850ad9/jsm.json
-
 json  https://raw.githubusercontent.com/nt01xp/2024/refs/heads/main/tv.json
 
 黑鳥直播源列表格式轉換 https://guihet.com/tvlistconvert.html
