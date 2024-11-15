@@ -67,12 +67,6 @@ ETHTV機上盒使用教學 https://www.tv6868.com/
 
 "ads":["static-mozai.4gtv.tv","mozai.4gtv.tv"]
 
-============================================
-AKTV 高清高速數碼電視轉播站  https://aktv.top
-
-m3u訂閱源地址:http://aktv.top/live.m3u
-
-TXT訂閱源地址:http://aktv.top/live.txt
 
 =============================
 
