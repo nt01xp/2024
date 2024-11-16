@@ -395,6 +395,7 @@ VOA美國之音,https://www.4gtv.tv/channel/litv-ftv03?set=1&ch=86
 
 
 牛視網,#genre#
+parse=1
 東森幼幼,https://www.chaojidianshi.net/zhibo/gangtaizhibo/dongsenyouyouYoyoTV.html
 東森洋片,https://www.chaojidianshi.net/zhibo/gangtaizhibo/dongsenyangpianETTVWestern.html
 好萊塢電影,https://www.chaojidianshi.net/zhibo/gangtaizhibo/HollywoodMovies.html
