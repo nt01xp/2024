@@ -1,4 +1,13 @@
 卡通旅遊,#genre#
+
+爆谷台,https://www.mytvsuper.xyz/1/baogutai/baogu.m3u8
+星影台,https://www.mytvsuper.xyz/1/xingyingtai/xingying.m3u8
+星河台,https://www.mytvsuper.xyz/tvb/xinghe/xinghe.m3u8
+Astro千禧经典台,https://www.mytvsuper.xyz/astro/qianxi/qianxi.m3u8
+Astro天映频道,https://www.mytvsuper.xyz/astro/tianying/tianying.m3u8
+CCTV9 纪录,https://api.livednow.org/migu/673168140?sign=gAAAAABnJcJqdqv3pFhYgBnmgGSIbZzHbX-DBJ-zNXsXFK68-5Wan9QqWYyKUxKv-XaTGYQIel_BUzZGYjzs5NPKiqPSXuul1GUOzl4VFlTGdyR6nNrAKB_lLRVjYzhVt6KX7j3DAzD44tiZocsNItrAhkJX7yIj6OGUq8s_mfXT_nlO_Xmgp4LUF7YnUnrICTc0LNBR-pQ1H2eiQcO2V6TCwrqhcHkABg%3D%3D
+
+
 CBeebies,udp://@224.1.4.213:11111
 
 東森幼幼,http://50.7.234.10:8278/yoyo_twn/playlist.m3u8?ct=17874&tid=m84c9b210bc7f11269156&tsum=51340c8fb7ca02ab978ee0791843501d
