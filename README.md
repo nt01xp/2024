@@ -21,7 +21,9 @@ HBO家庭,https://www.chaojidianshi.net/zhibo/490569.html
 緯來體育,https://www.chaojidianshi.net/zhibo/gangtaizhibo/weilaitiyutai.html
 
 八大戲劇台,https://www.chaojidianshi.net/zhibo/gangtaizhibo/badaxijuGTVDrama.html
+
 八大綜合台,https://www.chaojidianshi.net/zhibo/gangtaizhibo/badazongheGTVMetro.html
+
 八大第一台,https://www.chaojidianshi.net/zhibo/gangtaizhibo/badadiyiGTVFirst.html
 
 愛爾達影劇,https://www.chaojidianshi.net/zhibo/gangtaizhibo/aierdayingju.html
