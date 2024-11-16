@@ -5,8 +5,6 @@ Pixman「野生」,#genre#
 星河台,https://www.mytvsuper.xyz/tvb/xinghe/xinghe.m3u8
 Astro千禧经典台,https://www.mytvsuper.xyz/astro/qianxi/qianxi.m3u8
 Astro天映频道,https://www.mytvsuper.xyz/astro/tianying/tianying.m3u8
-AMC電影台,https://www.mytvsuper.xyz/hami/amc/amc.m3u8
-TVB生活台 ,https://www.mytvsuper.xyz/tvb/shenghuo/stream.m3u8
 
 •甘肃「IPV6」,#genre#
 
@@ -461,11 +459,4 @@ CCTV-17农业,http://218.13.170.98:9901/tsfile/live/0016_1.m3u8
 卡酷动画,http://218.13.170.98:9901/tsfile/live/1021_1.m3u8
 金鹰卡通,http://218.13.170.98:9901/tsfile/live/1022_1.m3u8
 
-Astro「限安卓」,#genre#
 
- Baby Shark TV,https://newidco-babysharktv-1-eu.rakuten.wurl.tv/playlist.m3u8
- Kidoodle TV,https://kidoodletv-kdtv-1-us.samsung.wurl.tv/playlist.m3u8
- ZooMoo,https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
- Lego tv,https://d34enhfsgjw5ti.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LEGO2-prod/.m3u8
- GO Live (Brunei),#EXTVLCOPT:network-caching=1000 
- Aneka (Brunei),https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist_b1120000_sleng.m3u8
