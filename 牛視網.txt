@@ -1,4 +1,5 @@
 牛視網,#genre#
+parse=1
 
 東森幼幼,https://www.chaojidianshi.net/zhibo/gangtaizhibo/dongsenyouyouYoyoTV.html
 東森洋片,https://www.chaojidianshi.net/zhibo/gangtaizhibo/dongsenyangpianETTVWestern.html
