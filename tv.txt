@@ -4,6 +4,10 @@
 星影台,https://www.mytvsuper.xyz/1/xingyingtai/xingying.m3u8
 星河台,https://www.mytvsuper.xyz/tvb/xinghe/xinghe.m3u8
 
+
+Channel 5 HD,http://aktv.top/AKTV/live/aktv/channel5hd/AKTV.m3u8
+Channel 8 HD,http://aktv.top/AKTV/live/aktv/channel8hd/AKTV.m3u8
+Channel U HD,http://aktv.top/AKTV/live/aktv/channeluhd/AKTV.m3u8
 翡翠台,http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
 PopC電影http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
 娛樂新聞台,http://aktv.top/AKTV/live/aktv/hk/AKTV.m3u8
