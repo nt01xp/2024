@@ -30,14 +30,11 @@ Smart知識台,https://1234.koyeb.app/litv/litv-longturn19
 中視,rtmp://f13h.mine.nu/sat/tv091
 台視,rtmp://f13h.mine.nu/sat/tv071
 
-爆谷台,https://www.mytvsuper.xyz/1/baogutai/baogu.m3u8
-星影台,https://www.mytvsuper.xyz/1/xingyingtai/xingying.m3u8
-星河台,https://www.mytvsuper.xyz/tvb/xinghe/xinghe.m3u8
-
 TVB新聞台,http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
 TVB翡翠台,http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
-PopC電影http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
-娛樂新聞台,http://aktv.top/AKTV/live/aktv/hk/AKTV.m3u8
+TVB娛樂台,http://aktv.top/AKTV/live/aktv/hk/AKTV.m3u8
+PopC電影,http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
+
 
 CCTV1综合,https://api.livednow.org/migu/608807420?sign=gAAAAABnJcJqONXJva4TySqKVwkHLHby6Ne_WRDndhTk_GS6KA-nBZI-nPc8RaYfnLJYnZOi1_gpZX90FSquN6BF0XzcOnsBN41Kfi9k-GihR8VqmFvGDaU3-w7RPpKH_jQp1rc5eqRkG97TL1ZanN0d0KISy_vT_x2wMEchVQyRwJVbcr-5Q8MDl1WIvSdo9b0tlPwCujaaYIRxzFT-4iEr-NoUcuO0hw%3D%3D
 CCTV2财经,https://api.livednow.org/migu/631780532?sign=gAAAAABnJcJqr0fwyjCRZenumPiYq29AgCGZbexK2XyM9exSQfwePDL4rwLxMaYmUy5BI5tmZ3p5Opg3XGESQyj1Myyx8xlfa--CzghtRa5MzC5lgOOROQFokKNIjS1xgPhehkOToP6coFx9T1FJaYtv8R7vSMPYGiBtsqx-CdWfMNReSPjRaDJSSrjZ0WKCW5GajQiFiD1fOBTLjS-S7V-uzyIxCqKWiQ%3D%3D
