@@ -278,7 +278,7 @@ EYETV旅遊,https://www.chaojidianshi.net/zhibo/gangtaizhibo/EYETVl%C3%BCyou.htm
 三立戲劇台,https://www.chaojidianshi.net/zhibo/gangtaizhibo/sanlixijutai.html
 三立台灣台,https://www.chaojidianshi.net/zhibo/gangtaizhibo/sanlitaiwanSanliTaiwan.html
 
-CatchPlay電影台https://www.chaojidianshi.net/zhibo/gangtaizhibo/CatchPlaydianyingtai.html
+CatchPlay電影台,https://www.chaojidianshi.net/zhibo/gangtaizhibo/CatchPlaydianyingtai.html
 CINEMAX電影台,https://www.chaojidianshi.net/zhibo/gangtaizhibo/CINEMAX.html
 
 愛爾達1台,https://www.chaojidianshi.net/zhibo/tiyuzhibo/aierdatiyu1tai.html
