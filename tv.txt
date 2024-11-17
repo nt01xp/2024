@@ -44,6 +44,11 @@ TVB翡翠台,http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
 TVB娛樂台,http://aktv.top/AKTV/live/aktv/hk/AKTV.m3u8
 PopC電影,http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
 
+愛爾達綜合台,https://caocaocaocao.hg16888.vip/hami/OTT_LIVE_0000001573
+愛爾達娛樂台,https://caocaocaocao.hg16888.vip/hami/OTT_LIVE_0000001518
+愛爾達影劇台,https://caocaocaocao.hg16888.vip/hami/OTT_LIVE_0000001517
+愛爾達日韓台,https://caocaocaocao.hg16888.vip/hami/OTT_LIVE_0000002079
+
 愛爾達體育1台,udp://@224.1.4.112:11111
 愛爾達體育1台,udp://@230.1.2.131:11111
 愛爾達體育1台,https://caocaocaocao.hg16888.vip/hami/OTT_LIVE_0000001744
