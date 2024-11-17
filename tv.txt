@@ -1,10 +1,9 @@
 卡通旅遊,#genre#
 CBeebies,https://caocaocaocao.hg16888.vip/hami/OTT_LIVE_0000001711
+CN 卡通頻道,https://caocaocaocao.hg16888.vip/hami/OTT_LIVE_0000002002
 
 東森幼幼,http://50.7.234.10:8278/yoyo_twn/playlist.m3u8?ct=17874&tid=m84c9b210bc7f11269156&tsum=51340c8fb7ca02ab978ee0791843501d
 東森幼幼,http://50.7.234.10:8278/yoyo_twn/playlist.m3u8?tid=ME8E9672303196723031&ct=19344&tsum=91c7ab24e915643c77c2b0eed8de7137
-
-CN 卡通頻道,https://caocaocaocao.hg16888.vip/hami/OTT_LIVE_0000002002
 
 蠟筆小新,http://120.77.28.4:8648/huya.php?id=11352970
 櫻桃小丸子,http://120.77.28.4:8648/huya.php?id=11342394
