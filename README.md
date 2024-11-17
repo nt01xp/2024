@@ -2,6 +2,11 @@
 
 直播源  http://dingyue.mytvsuper.xyz/myiptv.m3u
 
+直播源https://www.mytvsuper.xyz/m3u/Live
+
+直播源
+https://www.mytvsuper.us.kg/oufei/ofiii_ch.php
+
 牛視網,#genre#
 
 東森幼幼,https://www.chaojidianshi.net/zhibo/gangtaizhibo/dongsenyouyouYoyoTV.html
