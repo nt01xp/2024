@@ -1,5 +1,7 @@
 直播源  https://www.mytvsuper.xyz
 
+直播源  http://dingyue.mytvsuper.xyz/myiptv.m3u
+
 牛視網,#genre#
 
 東森幼幼,https://www.chaojidianshi.net/zhibo/gangtaizhibo/dongsenyouyouYoyoTV.html
