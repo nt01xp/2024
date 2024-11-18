@@ -12,8 +12,6 @@ Astro天映频道,https://tv.mytvsuper.xyz/astro/tianying/tianying.m3u8
 
 直播源  https://www.mytvsuper.xyz
 
-直播源  http://dingyue.mytvsuper.xyz/myiptv.m3u
-
 直播源https://www.mytvsuper.xyz/m3u/Live
 
 直播源
