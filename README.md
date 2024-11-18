@@ -8,7 +8,7 @@ Astro千禧经典台,https://tv.mytvsuper.xyz/astro/qianxi/qianxi.m3u8
 
 Astro天映频道,https://tv.mytvsuper.xyz/astro/tianying/tianying.m3u8
 
-直播源  https://superb.ykq001.cloud/
+直播源  https://superb.ykq001.cloud
 
 直播源  https://www.mytvsuper.xyz
 
