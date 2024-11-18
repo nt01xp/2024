@@ -197,7 +197,6 @@ pixman.io 交流群 https://t.me/livednowgroup
 
 pg包 https://t.me/pandagroovechat
 
-阿黃tv https://t.me/ahuangtv
 
 极致播放器交流群 https://t.me/jizhi00
 
