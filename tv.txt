@@ -271,7 +271,7 @@ TVB明珠台,https://www.chaojidianshi.net/zhibo/77.html
 TVB星河台,https://www.chaojidianshi.net/zhibo/76.html
 華麗翡翠台,https://www.chaojidianshi.net/zhibo/Malaysia/hualitai.html
 
-卡通旅遊,#genre#
+咪咕央視,#genre#
 
 1綜合,https://api.livednow.org/migu/608807420?sign=gAAAAABnJcJqONXJva4TySqKVwkHLHby6Ne_WRDndhTk_GS6KA-nBZI-nPc8RaYfnLJYnZOi1_gpZX90FSquN6BF0XzcOnsBN41Kfi9k-GihR8VqmFvGDaU3-w7RPpKH_jQp1rc5eqRkG97TL1ZanN0d0KISy_vT_x2wMEchVQyRwJVbcr-5Q8MDl1WIvSdo9b0tlPwCujaaYIRxzFT-4iEr-NoUcuO0hw%3D%3D
 
