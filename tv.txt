@@ -313,7 +313,7 @@ TVB星河台,https://www.chaojidianshi.net/zhibo/76.html
 
 
 iptv345頻道,#genre#
-
+parse=1
 CCTV1综合,https://iptv345.com/?act=play&token=5aff0923f2f67f58decfdb2597cfaa00&tid=ys&id=1
 CCTV2财经,https://iptv345.com/?act=play&token=6e5e6cb0e8e94b4b3c4e5043efa2e633&tid=ys&id=2
 CCTV3综艺,https://iptv345.com/?act=play&token=b2d3ee98d95473cc00d3a6111d353f9a&tid=ys&id=3
