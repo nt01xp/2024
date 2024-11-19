@@ -115,7 +115,7 @@ KansaiNews24,https://www.youtube.com/watch?v=sTAqx_1Yrww
 高雄蓮池潭,https://www.youtube.com/watch?v=BnPoNatG-HE
 彰化八卦山大佛,https://www.youtube.com/live/r6DAowF7iQY?si=Lk7J_2cyufoi8ndX
 
-8080台灣,#genre#
+litv台灣,#genre#
 ARIRANG阿里郎頻道,https://8080.koyeb.app/litv.php?id=4gtv-4gtv079
 CATCHPLAY電影台,https://8080.koyeb.app/litv.php?id=4gtv-4gtv076
 CLASSICA 古典樂,https://8080.koyeb.app/litv.php?id=4gtv-4gtv059
