@@ -175,6 +175,9 @@ CCTV直播,https://tv.cctv.com/live
 
 ETHTV機上盒使用教學 https://www.tv6868.com/
 
+享悅機上盒使用教學
+http://43066.cc
+
 "ads":["static-mozai.4gtv.tv","mozai.4gtv.tv"]
 
 
