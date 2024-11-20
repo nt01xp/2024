@@ -38,15 +38,6 @@ Smart知識台,https://1234.koyeb.app/litv/litv-longturn19
 台視,rtmp://f13h.mine.nu/sat/tv071
 
 電影,#genre#
-東森洋片,https://8080.koyeb.app/superb.php?m3u8=/live/fadh3ct5/0kxhqv8q/index.m3u8
-好萊塢電影,https://8080.koyeb.app/superb.php?m3u8=/live/kwzq1rse/q0rskj6h/index.m3u8
-緯來電影,https://8080.koyeb.app/superb.php?m3u8=/live/kwzq1rse/q9p24xqk/index.m3u8
-東森電影,https://8080.koyeb.app/superb.php?m3u8=/live/fchcah3u/q6t7f6hg/index.m3u8
-HBO HD,https://8080.koyeb.app/superb.php?m3u8=/live/kwzq1rse/84wnpj8g/index.m3u8
-HBO強檔,https://8080.koyeb.app/superb.php?m3u8=/live/kwzq1rse/invnbjaa/index.m3u8
-HBO獨創,https://8080.koyeb.app/superb.php?m3u8=/live/kwzq1rse/8as1d3as/index.m3u8
-HBO家庭,https://8080.koyeb.app/superb.php?m3u8=/live/kwzq1rse/61br3tqt/index.m3u8
-
 爆谷台,https://tv.mytvsuper.xyz/1/baogutai/baogu.m3u8
 星影台,https://tv.mytvsuper.xyz/1/xingyingtai/xingying.m3u8
 星河台,https://tv.mytvsuper.xyz/tvb/xinghe/xinghe.m3u8
