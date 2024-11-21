@@ -28,15 +28,6 @@ Smart知識台,https://1234.koyeb.app/litv/litv-longturn19
 中視,rtmp://f13h.mine.nu/sat/tv091
 台視,rtmp://f13h.mine.nu/sat/tv071
 
-香港電影,#genre#
-星河台,https://tv.mytvsuper.xyz/tvb/xinghe/xinghe.m3u8
-TVB新聞台,http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
-TVB翡翠台,http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
-TVB娛樂台,http://aktv.top/AKTV/live/aktv/hk/AKTV.m3u8
-PopC電影,http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
-爆谷台,https://tv.mytvsuper.xyz/1/baogutai/baogu.m3u8
-星影台,https://tv.mytvsuper.xyz/1/xingyingtai/xingying.m3u8
-
 台灣新聞,#genre#
 TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 東森新聞,https://www.youtube.com/watch?v=V1p33hqPrUk
@@ -72,6 +63,16 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 龍華經典台,https://1234.koyeb.app/litv/litv-longturn21
 龍華電影台,https://1234.koyeb.app/litv/litv-longturn03
 龍華戲劇台,https://1234.koyeb.app/litv/litv-longturn18
+
+香港電影,#genre#
+星河台,https://tv.mytvsuper.xyz/tvb/xinghe/xinghe.m3u8
+TVB新聞台,http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
+TVB翡翠台,http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
+TVB娛樂台,http://aktv.top/AKTV/live/aktv/hk/AKTV.m3u8
+PopC電影,http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
+爆谷台,https://tv.mytvsuper.xyz/1/baogutai/baogu.m3u8
+星影台,https://tv.mytvsuper.xyz/1/xingyingtai/xingying.m3u8
+
 
 日本新聞,#genre#
 櫻島火山,https://www.youtube.com/live/eF9PohrRP_o
