@@ -1,12 +1,4 @@
-爆谷台,https://tv.mytvsuper.xyz/1/baogutai/baogu.m3u8
 
-星影台,https://tv.mytvsuper.xyz/1/xingyingtai/xingying.m3u8
-
-星河台,https://tv.mytvsuper.xyz/tvb/xinghe/xinghe.m3u8
-
-Astro千禧经典台,https://tv.mytvsuper.xyz/astro/qianxi/qianxi.m3u8
-
-Astro天映频道,https://tv.mytvsuper.xyz/astro/tianying/tianying.m3u8
 
 直播源  https://www.mytvsuper.xyz
 
