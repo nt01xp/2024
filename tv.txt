@@ -30,13 +30,12 @@ Smart知識台,https://1234.koyeb.app/litv/litv-longturn19
 
 香港電影,#genre#
 星河台,https://tv.mytvsuper.xyz/tvb/xinghe/xinghe.m3u8
-爆谷台,https://tv.mytvsuper.xyz/1/baogutai/baogu.m3u8
-星影台,https://tv.mytvsuper.xyz/1/xingyingtai/xingying.m3u8
-
 TVB新聞台,http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
 TVB翡翠台,http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
 TVB娛樂台,http://aktv.top/AKTV/live/aktv/hk/AKTV.m3u8
 PopC電影,http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
+爆谷台,https://tv.mytvsuper.xyz/1/baogutai/baogu.m3u8
+星影台,https://tv.mytvsuper.xyz/1/xingyingtai/xingying.m3u8
 
 台灣新聞,#genre#
 TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
