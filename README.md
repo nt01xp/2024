@@ -133,13 +133,15 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 
 "ads":["static-mozai.4gtv.tv","mozai.4gtv.tv"]}
 
-蠟筆小新,http://120.77.28.4:8648/huya.php?id=11352970
+蠟筆小新,https://www.goodiptv.club/huya/11352970
 
-櫻桃小丸子,http://120.77.28.4:8648/huya.php?id=11342394
+櫻桃小丸子,https://www.goodiptv.club/huya/11342394
 
-海綿寶寶,http://120.77.28.4:8648/huya.php?id=11352919
+海綿寶寶,https://www.goodiptv.club/huya/11352919
 
-日語七龍珠,http://120.77.28.4:8648/huya.php?id=11601966
+宮崎駿動畫,https://www.goodiptv.club/huya/21059614
+
+日語七龍珠,https://www.goodiptv.club/huya/11601966
 
 柯南劇場版,https://www.goodiptv.club/douyu/6484910
 
