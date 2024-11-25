@@ -8,8 +8,9 @@ CBeebies,udp://@224.1.4.213:11111
 海綿寶寶,https://www.goodiptv.club/huya/11352919
 宮崎駿動畫,https://www.goodiptv.club/huya/21059614
 日語七龍珠,https://www.goodiptv.club/huya/11601966
+柯南劇場版1,https://www.goodiptv.club/huya/30080236
 
-柯南劇場版,https://www.goodiptv.club/douyu/6484910
+柯南劇場版2,https://www.goodiptv.club/douyu/6484910
 CatchPlay電影台,https://1234.koyeb.app/litv/4gtv-4gtv076
 
 TVBS新聞,https://1234.koyeb.app/litv/4gtv-4gtv072
