@@ -1,8 +1,6 @@
 卡通旅遊,#genre#
 CBeebies,udp://@224.1.4.213:11111
 
-東森幼幼,http://50.7.234.10:8278/yoyo_twn/playlist.m3u8?ct=17874&tid=m84c9b210bc7f11269156&tsum=51340c8fb7ca02ab978ee0791843501d
-
 蠟筆小新,https://www.goodiptv.club/huya/11352970
 櫻桃小丸子,https://www.goodiptv.club/huya/11342394
 海綿寶寶,https://www.goodiptv.club/huya/11352919
