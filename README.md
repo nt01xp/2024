@@ -44,8 +44,6 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 
 海綿寶寶,https://www.goodiptv.club/huya/11352919
 
-宮崎駿動畫,https://www.goodiptv.club/huya/21059614
-
 日語七龍珠,https://www.goodiptv.club/huya/11601966
 
 柯南劇場版,https://www.goodiptv.club/douyu/6484910
