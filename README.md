@@ -1,3 +1,4 @@
+TVB星河台,https://tv.mytvsuper.xyz/tvb/xinghe/xinghe.m3u8
 
 
 直播源  https://www.mytvsuper.xyz
