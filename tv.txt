@@ -17,6 +17,8 @@ TVBS新聞,https://1234.koyeb.app/litv/4gtv-4gtv072
 
 Smart知識台,https://1234.koyeb.app/litv/litv-longturn19
 
+TVB星河台,https://tv.mytvsuper.xyz/tvb/xinghe/xinghe.m3u8
+
 動物星球,http://61.221.215.25:8800/hls/57/index.m3u8
 八大綜合,http://61.221.215.25:8800/hls/56/index.m3u8
 
