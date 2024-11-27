@@ -119,8 +119,6 @@ ok影視 https://t.me/tvb_ys
 
 唐三影視 https://t.me/ys_tvb
 
-tvbox接口 https://t.me/TVBoxjkou
-
 iptv epg.pw https://t.me/iptv_crawl
 
 pg貓 https://t.me/PandaGroovePG
