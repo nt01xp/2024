@@ -8,7 +8,7 @@ CBeebies,udp://@224.1.4.213:11111
 櫻桃小丸子,https://www.goodiptv.club/huya/11342394
 海綿寶寶,https://www.goodiptv.club/huya/11352919
 日語七龍珠,https://www.goodiptv.club/huya/11601966
-
+柯南劇場版,https://www.goodiptv.club/huya/30080236
 
 柯南劇場版1,https://www.goodiptv.club/douyu/1487654
 柯南劇場版2,https://www.goodiptv.club/douyu/1783144
