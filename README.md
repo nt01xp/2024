@@ -1,3 +1,8 @@
+无线星河频国,https://tv.mytvsuper.xyz/tvb/xinghe/xinghe.m3u8
+
+无线星河频国,http://205.185.123.236:8899/tvb/xinghe/xinghe.m3u8
+
+
 cctv9,http://5678.koyeb.app/ysptp/cctv9.m3u8
 
 cctv9,http://5678.koyeb.app/itv/1000000001000014583.m3u8?cdn=ystenlive
