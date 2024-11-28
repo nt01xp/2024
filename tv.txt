@@ -322,4 +322,32 @@ U频道,https://huaren.live/viv/detail/id/566/nid/1.html
 翡翠剧集台(北美),https://huaren.live/viv/detail/id/632/nid/1.html
 翡翠综合台(北美),https://huaren.live/viv/detail/id/633/nid/1.html
 
+18台,https://huaren.live/viv/detail/id/583/nid/1.html
+CCTV5+体育赛事,https://huaren.live/viv/detail/id/586/nid/1.html
+CCTV5体育,https://huaren.live/viv/detail/id/587/nid/1.html
+NOW SPORTS 1,https://huaren.live/viv/detail/id/643/nid/1.html
+NOW SPORTS 2,https://huaren.live/viv/detail/id/644/nid/1.html
+NOW SPORTS 3,https://huaren.live/viv/detail/id/652/nid/1.html
+NOW SPORTS 4,https://huaren.live/viv/detail/id/653/nid/1.html
+NOW SPORTS 英超1,https://huaren.live/viv/detail/id/584/nid/1.html
+TVB J1,https://huaren.live/viv/detail/id/606/nid/1.html
+广东体育,https://huaren.live/viv/detail/id/645/nid/1.html
+五星体育,https://huaren.live/viv/detail/id/640/nid/1.html
+劲爆体育,https://huaren.live/viv/detail/id/639/nid/1.html
+咪咕体育1,https://huaren.live/viv/detail/id/574/nid/1.html
+咪咕体育2,https://huaren.live/viv/detail/id/575/nid/1.html
+咪咕体育3,https://huaren.live/viv/detail/id/576/nid/1.html
+咪咕体育4,https://huaren.live/viv/detail/id/580/nid/1.html
+爱尔达体育1台,https://huaren.live/viv/detail/id/582/nid/1.html
+爱尔达体育2台,https://huaren.live/viv/detail/id/581/nid/1.html
+爱尔达体育3台,https://huaren.live/viv/detail/id/603/nid/1.html
+爱尔达体育4台,https://huaren.live/viv/detail/id/642/nid/1.html
+博斯无限二台,https://huaren.live/viv/detail/id/591/nid/1.html
+博斯无限台,https://huaren.live/viv/detail/id/590/nid/1.html
+博斯网球台,https://huaren.live/viv/detail/id/592/nid/1.html
+博斯运动一台,https://huaren.live/viv/detail/id/588/nid/1.html
+博斯运动二台,https://huaren.live/viv/detail/id/589/nid/1.html
+博斯高球二台,https://huaren.live/viv/detail/id/594/nid/1.html
+博斯高球台,https://huaren.live/viv/detail/id/593/nid/1.html
+博斯魅力台,https://huaren.live/viv/detail/id/595/nid/1.html
 
