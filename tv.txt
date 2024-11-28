@@ -233,7 +233,7 @@ VOA美國之音,https://www.4gtv.tv/channel/litv-ftv03?set=1&ch=86
 
 華人直播,#genre#
 parse=1
-
+ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 
 CCTV1综合,https://huaren.live/viv/detail/id/538/nid/1.html
 CCTV2经济,https://huaren.live/viv/detail/id/539/nid/1.html
