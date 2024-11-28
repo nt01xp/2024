@@ -1,3 +1,20 @@
+cctv9,http://5678.koyeb.app/ysptp/cctv9.m3u8
+
+cctv9,http://5678.koyeb.app/itv/1000000001000014583.m3u8?cdn=ystenlive
+
+CCTV9,http://5678.koyeb.app/itv/6000000001000032162.m3u8?cdn=wasusyt
+
+cctv9,http://5678.koyeb.app/itv/1000000005000265009.m3u8?cdn=ystenlive
+
+cctv10,http://5678.koyeb.app/ysptp/cctv10.m3u8
+
+cctv10,http://5678.koyeb.app/itv/1000000001000023734.m3u8?cdn=ystenlive
+
+cctv10,http://5678.koyeb.app/itv/5000000004000012827.m3u8?cdn=bestzb
+
+cctv10,http://5678.koyeb.app/itv/1000000005000265010.m3u8?cdn=ystenlive
+
+
 https://fanmingming.com/txt?url=http://5678.koyeb.app/tv.m3u
 
 9紀錄,http://5678.koyeb.app/itv/1000000005000265009.m3u8?cdn=ystenlive
