@@ -234,7 +234,7 @@ VOA美國之音,https://www.4gtv.tv/channel/litv-ftv03?set=1&ch=86
 華人直播,#genre#
 parse=1
 
-測試,https://hlove.tv/live/videoland-sport
+測試1,https://hlove.tv/live/ebc-news
 
 CCTV1综合,https://huaren.live/viv/detail/id/538/nid/1.html
 CCTV2经济,https://huaren.live/viv/detail/id/539/nid/1.html
