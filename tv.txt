@@ -304,5 +304,22 @@ VIUTV6,https://huaren.live/viv/detail/id/608/nid/1.html
 靖天电影台,https://huaren.live/viv/detail/id/623/nid/1.html
 翡翠台,https://huaren.live/viv/detail/id/569/nid/1.html
 
+5频道,https://huaren.live/viv/detail/id/565/nid/1.html
+8TV,https://huaren.live/viv/detail/id/559/nid/1.html
+8频道,https://huaren.live/viv/detail/id/567/nid/1.html
+AEC,https://huaren.live/viv/detail/id/560/nid/1.html
+Astro QJ,https://huaren.live/viv/detail/id/562/nid/1.html
+IQIYI,https://huaren.live/viv/detail/id/561/nid/1.html
+TV2,https://huaren.live/viv/detail/id/558/nid/1.html
+U频道,https://huaren.live/viv/detail/id/566/nid/1.html
+无线新闻台(北美),https://huaren.live/viv/detail/id/631/nid/1.html
+日本全天新闻,https://huaren.live/viv/detail/id/635/nid/1.html
+欢喜台,https://huaren.live/viv/detail/id/564/nid/1.html
+明珠剧集台(北美),https://huaren.live/viv/detail/id/634/nid/1.html
+新时代2台,https://huaren.live/viv/detail/id/602/nid/1.html
+新时代东,https://huaren.live/viv/detail/id/601/nid/1.html
+新时代西,https://huaren.live/viv/detail/id/610/nid/1.html
+翡翠剧集台(北美),https://huaren.live/viv/detail/id/632/nid/1.html
+翡翠综合台(北美),https://huaren.live/viv/detail/id/633/nid/1.html
 
 
