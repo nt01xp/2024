@@ -1,3 +1,10 @@
+https://fanmingming.com/txt?url=http://5678.koyeb.app/tv.m3u
+
+9紀錄,http://5678.koyeb.app/itv/1000000005000265009.m3u8?cdn=ystenlive
+
+10科教,http://5678.koyeb.app/itv/1000000005000265010.m3u8?cdn=ystenlive
+
+
 TVB星河台,https://tv.mytvsuper.xyz/tvb/xinghe/xinghe.m3u8
 
 
