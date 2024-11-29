@@ -1,5 +1,4 @@
 卡通旅遊,#genre#
-桃園機場「水門禮」迎接,https://www.youtube.com/watch?v=2NnCqOBZMSw
 
 CBeebies,udp://@224.1.4.213:11111
 東森幼幼,http://50.7.234.10:8278/yoyo_twn/playlist.m3u8?ct=17874&tid=m84c9b210bc7f11269156&tsum=51340c8fb7ca02ab978ee0791843501d
@@ -20,8 +19,6 @@ TVBS新聞,https://1234.koyeb.app/litv/4gtv-4gtv072
 
 Smart知識台,https://1234.koyeb.app/litv/litv-longturn19
 
-TVB星河台,https://tv.mytvsuper.xyz/tvb/xinghe/xinghe.m3u8
-
 動物星球,http://61.221.215.25:8800/hls/57/index.m3u8
 八大綜合,http://61.221.215.25:8800/hls/56/index.m3u8
 
@@ -31,21 +28,6 @@ TVB星河台,https://tv.mytvsuper.xyz/tvb/xinghe/xinghe.m3u8
 華視,rtmp://f13h.mine.nu/sat/tv111
 中視,rtmp://f13h.mine.nu/sat/tv091
 台視,rtmp://f13h.mine.nu/sat/tv071
-
-cctv2-高码,http://5678.koyeb.app/ysptp/cctv2.m3u8
-CCTV-2,http://5678.koyeb.app/itv/1000000001000023315.m3u8?cdn=ystenlive
-CCTV-2-50-FPS,http://5678.koyeb.app/itv/6000000001000014161.m3u8?cdn=wasusyt
-CCTV-2-HEVC,http://5678.koyeb.app/itv/1000000001000023315.m3u8?cdn=ystenlive
-cctv9-高码,http://5678.koyeb.app/ysptp/cctv9.m3u8
-CCTV-9,http://5678.koyeb.app/itv/1000000001000014583.m3u8?cdn=ystenlive
-CCTV-9-50-FPS,http://5678.koyeb.app/itv/6000000001000032162.m3u8?cdn=wasusyt
-CCTV-9-HEVC,http://5678.koyeb.app/itv/1000000005000265009.m3u8?cdn=ystenlive
-cctv10-高码,http://5678.koyeb.app/ysptp/cctv10.m3u8
-CCTV-10,http://5678.koyeb.app/itv/1000000001000023734.m3u8?cdn=ystenlive
-CCTV-10-50-FPS,http://5678.koyeb.app/itv/5000000004000012827.m3u8?cdn=bestzb
-CCTV-10-HEVC,http://5678.koyeb.app/itv/1000000005000265010.m3u8?cdn=ystenlive
-cctv13-高码,http://5678.koyeb.app/ysptp/cctv13.m3u8
-CCTV-13-50-FPS,http://5678.koyeb.app/itv/5000000011000031108.m3u8?cdn=bestzb
 
 台灣新聞,#genre#
 TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
