@@ -1,3 +1,19 @@
+cctv2-高码,http://5678.koyeb.app/ysptp/cctv2.m3u8
+CCTV-2,http://5678.koyeb.app/itv/1000000001000023315.m3u8?cdn=ystenlive
+CCTV-2-50-FPS,http://5678.koyeb.app/itv/6000000001000014161.m3u8?cdn=wasusyt
+CCTV-2-HEVC,http://5678.koyeb.app/itv/1000000001000023315.m3u8?cdn=ystenlive
+cctv9-高码,http://5678.koyeb.app/ysptp/cctv9.m3u8
+CCTV-9,http://5678.koyeb.app/itv/1000000001000014583.m3u8?cdn=ystenlive
+CCTV-9-50-FPS,http://5678.koyeb.app/itv/6000000001000032162.m3u8?cdn=wasusyt
+CCTV-9-HEVC,http://5678.koyeb.app/itv/1000000005000265009.m3u8?cdn=ystenlive
+cctv10-高码,http://5678.koyeb.app/ysptp/cctv10.m3u8
+CCTV-10,http://5678.koyeb.app/itv/1000000001000023734.m3u8?cdn=ystenlive
+CCTV-10-50-FPS,http://5678.koyeb.app/itv/5000000004000012827.m3u8?cdn=bestzb
+CCTV-10-HEVC,http://5678.koyeb.app/itv/1000000005000265010.m3u8?cdn=ystenlive
+cctv13-高码,http://5678.koyeb.app/ysptp/cctv13.m3u8
+CCTV-13-50-FPS,http://5678.koyeb.app/itv/5000000011000031108.m3u8?cdn=bestzb
+
+
 无线星河频国,https://tv.mytvsuper.xyz/tvb/xinghe/xinghe.m3u8
 
 无线星河频国,http://205.185.123.236:8899/tvb/xinghe/xinghe.m3u8
