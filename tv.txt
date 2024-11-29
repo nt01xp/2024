@@ -224,8 +224,7 @@ VOA美國之音,https://www.4gtv.tv/channel/litv-ftv03?set=1&ch=86
 鏡電視新聞台,https://www.4gtv.tv/channel/4gtv-4gtv075?set=1&ch=268
 霹靂布袋戲,https://www.4gtv.tv/channel/4gtv-live145?set=1&ch=301
 
-央视,#genre#
-央视,#genre#
+央視,#genre#
 CCTV1,http://5678.koyeb.app/ysptp/CCTV1.m3u8
 CCTV1,http://5678.koyeb.app/itv/6000000001000029752.m3u8?cdn=wasusyt
 CCTV1,http://5678.koyeb.app/itv/5000000004000002226.m3u8?cdn=bestzb
@@ -287,7 +286,7 @@ CCTV17,http://5678.koyeb.app/ysptp/CCTV17.m3u8
 CCTV17,http://5678.koyeb.app/itv/1000000006000268004.m3u8?cdn=ystenlive
 CCTV17,http://5678.koyeb.app/itv/1000000005000265015.m3u8?cdn=ystenlive
 
-卫视,#genre#
+衛視,#genre#
 北京纪实科教,http://5678.koyeb.app/itv/1000000001000001910.m3u8?cdn=ystenlive
 北京纪实科教,http://5678.koyeb.app/itv/1000000005000265020.m3u8?cdn=ystenlive
 湖南金鹰纪实,http://5678.koyeb.app/itv/5000000011000031203.m3u8?cdn=bestzb
