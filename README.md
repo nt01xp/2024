@@ -1,3 +1,8 @@
+蠟筆小新,https://www.goodiptv.club/huya/11352970
+櫻桃小丸子,https://www.goodiptv.club/huya/11342394
+
+
+
 无线星河频国,https://tv.mytvsuper.xyz/tvb/xinghe/xinghe.m3u8
 
 无线星河频国,http://205.185.123.236:8899/tvb/xinghe/xinghe.m3u8
