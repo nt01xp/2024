@@ -2,6 +2,8 @@
 
 无线星河频国,http://205.185.123.236:8899/tvb/xinghe/xinghe.m3u8
 
+https://fanmingming.com/txt?url=http://1234.koyeb.app/4gtv.m3u
+
 https://fanmingming.com/txt?url=http://5678.koyeb.app/tv.m3u
 
 直播源  https://www.mytvsuper.xyz
