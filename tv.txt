@@ -1,4 +1,8 @@
 卡通旅遊,#genre#
+純享4k,http://localhost:35455/itv/1000000004000011651.m3u8?cdn=ystenlive
+9紀錄,http://localhost:35455/ysptp/cctv9.m3u8
+10科教,http://localhost:35455/ysptp/cctv10.m3u8
+13新聞,http://localhost:35455/ysptp/cctv13.m3u8
 
 CBeebies,udp://@224.1.4.213:11111
 東森幼幼,http://50.7.234.10:8278/yoyo_twn/playlist.m3u8?ct=17874&tid=m84c9b210bc7f11269156&tsum=51340c8fb7ca02ab978ee0791843501d
