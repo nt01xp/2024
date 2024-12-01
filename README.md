@@ -105,7 +105,7 @@ pixman.io 交流群 https://t.me/livednowgroup
 
 pg包 https://t.me/pandagroovechat
 
-AKTV高清  https://t.me/MYOKKTV
+(驗證)AKTV高清  https://t.me/MYOKKTV
 
 极致播放器交流群 https://t.me/jizhi00
 
