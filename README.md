@@ -103,7 +103,7 @@ http://43066.cc
 
 pixman.io 交流群 https://t.me/livednowgroup
 
-pg包 https://t.me/pandagroovechat
+(驗證)pg包 https://t.me/pandagroovechat
 
 (驗證)AKTV高清  https://t.me/MYOKKTV
 
