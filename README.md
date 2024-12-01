@@ -1,4 +1,15 @@
+純享4k,http://localhost:35455/itv/1000000004000011651.m3u8?cdn=ystenlive
+
+2財經,http://localhost:35455/ysptp/cctv2.m3u8
+
+9紀錄,http://localhost:35455/ysptp/cctv9.m3u8
+
+10科教,http://localhost:35455/ysptp/cctv10.m3u8
+1
+3新聞,http://localhost:35455/ysptp/cctv13.m3u8
+
 蠟筆小新,https://www.goodiptv.club/huya/11352970
+
 櫻桃小丸子,https://www.goodiptv.club/huya/11342394
 
 
