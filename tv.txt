@@ -70,40 +70,44 @@ KansaiNews24,https://www.youtube.com/watch?v=sTAqx_1Yrww
 
 央視衛視,#genre#
 純享4k,http://39.134.136.161:6610/000000001000/1000000004000011651/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000004000011651
-
-
 2財經,http://39.134.136.161:6610/000000001000/1000000001000012442/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000012442
-
 2財經,http://39.134.136.161:6610/000000001000/1000000005000265002/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000005000265002
-
 2財經,http://39.134.136.161:6610/000000001000/1000000001000023315/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000023315
-
 2財經,http://39.134.136.161:6610/000000001000/6000000001000014161/index.m3u8?livemode=1&stbId=10&channel-id=wasusyt&Contentid=6000000001000014161
-
 9紀錄,http://39.134.136.161:6610/000000001000/5000000010000018384/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000010000018384
-
 9紀錄,http://39.134.136.161:6610/000000001000/1000000001000028286/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000028286
-
 9紀錄,http://39.134.136.161:6610/000000001000/1000000005000265009/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000005000265009
-
 9紀錄,http://39.134.136.161:6610/000000001000/1000000001000014583/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000014583
-
-
 10科教,http://39.134.136.161:6610/000000001000/1000000001000026367/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000026367
-
 10科教,http://39.134.136.161:6610/000000001000/5000000010000016738/index.m3u8?livemode=1&stbId=3&channel-id=bestzb&Contentid=5000000010000016738
-
 10科教,http://39.134.136.161:6610/000000001000/1000000005000265010/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000005000265010
-
 10科教,http://39.134.136.161:6610/000000001000/1000000001000023734/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000023734
-
 13新聞,http://39.134.136.161:6610/000000001000/1000000002000021303/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000002000021303
-
 13新聞,http://39.134.136.161:6610/000000001000/5000000005000001827/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000005000001827
-
 13新聞,http://39.134.136.161:6610/000000001000/5000000011000031108/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000011000031108
-
 13新聞,http://39.134.136.161:6610/000000001000/6918130250570453526/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=6918130250570453526
+
+咪咕TV,#genre#
+CCTV1 综合,https://migu.mytvsuper.xyz/migu/608807420?sign=gAAAAABnSYtm8Y2JgtPvamfx5sAGpbdgkkYx9hoAfEq1fXCY6Swlc5Lr_bCI-Zma48Y9x12nn3RjfSipm5R2yHPGdoG2p65n6t-peUyMMgZBRS7ooGJsDGyGNnDJefXPGOcZ44slIIjaXd5xvG2Qyy9YcQP44fL4V9oR9IayVi1dCmbNoFsdcpldiaebfZPvLqaWSBJsRe2dq6ccuRaPw_FHotTKLz81HQ%3D%3D
+CCTV2 财经,https://migu.mytvsuper.xyz/migu/631780532?sign=gAAAAABnSYtmHxaG0l1Z_Ho7hX0LLjYtWlLYFm42gz1keAfYOCkrgDRPXEIZhfCBn1z13f9bSsOci4gQ8m1KhOxTCHhBjVllMYJNvXFY51ntpnQ5GHeePGpxiPPCpThy1nvwLEz7IGabnByezCnjfEP-Tgr2clZNhEOyRGlKu63hVeqxTdDS20_XBI3SNXuhIa_YF8nexi_n6RuB5GcE7r7yXjYIxWusxA%3D%3D
+CCTV3 综艺,https://migu.mytvsuper.xyz/migu/624878271?sign=gAAAAABnSYtmjLR4xiFqdLWL0HdB0ul8Ot1LS9JoXSaOqDxK5SCjDKDkHZic8ThHKVMHHCb2dPbxCAdVEk6vV3ax17-18FMnzhN2CW8yohhovJBLi9X_W4rFkt4G6lMkdDbB-3yvsXznUIrezRzkg1L6ki50QP4KYF-sV6Ni61twP1lIxSL6D1kKyzmsWmZPmePhC2uAKc_Fy0jo0BO01lPchxbYO2oqIQ%3D%3D
+CCTV4 中文国际,https://migu.mytvsuper.xyz/migu/631780421?sign=gAAAAABnSYtm2o7U_dlv2X4CvXiY3lPQWQDHtbgfAwQ8QPOhrYjtASzNYXaoF7K2VoB6Ta9IIWO2mB9zHicC8ftzYE-SFnHjBs6qok3MJWZpkJOVtJWpun8h3nHWscnELDSUOLODBYxSpPvI7Q37sB1l6oqcyKkSzN0e0DbMbuQsS6JdDSrTp7A9iHk6Ndmpwmk0pS13qO-oreAJf2vBu79RbACMDCTkfg%3D%3D
+CCTV5 体育,https://migu.mytvsuper.xyz/migu/641886683?sign=gAAAAABnSYtm0bor-hY8fMtVH6JZzHco7HEj6ovmI4pWYjDXzOiVrs6Qgma_Rycm6YA5y2F6-fP0EZK2d7_HrxKO0VY62QEWFmcHa_AFTJgbnNyHNvKADwl_WTudPtdiqWHW6fTzXt0g8TblUVJ7xfidVektMO7xnOSI3Krqt4q9m9r6aUwanDt5zOoCfL9J982Ez4xYmKUk5tQkfufxY3P7EkOSjk7G7w%3D%3D
+CCTV5+ 体育赛事,https://migu.mytvsuper.xyz/migu/641886773?sign=gAAAAABnSYtmxy_dQ81v1ypV_RIuz1Y-h4j2HvznAXP8SBQGUXG9rF1vcEQK2X7G44dJvTOyC5kFgIGwcAgInxE83Eya5fvZHHso_C-jfZ6gKxjdHyoBv9VcnZcbMMkVA7m6mqUQkPTcY8MmEqVp8gNNZ2NSaBPrPHsF0eysJ6Ar5oybr_sRE2aRTNkYuaxRJDBI6gGNfMyGwpGX5tiQTzyASOwH96ruCA%3D%3D
+CCTV6 电影,https://migu.mytvsuper.xyz/migu/624878396?sign=gAAAAABnSYtmxpjodFhnrHybY57pEpM3l_w3-kSjI4Zjs0HA0QMR8-T9DH-3Q3QhrYYPBd0wRxoclx3fppaqxUC_oreB4w3DMBiTUBA61_i3zy_o8ocVgUapUXxOezkr5Fi3gDLrLU5h_RGjEMK6d7FE-pC_0uhoAR0Vp68r2k68p3kQWYc8Fkc8gaSGLwUh2EDtIaZkjW7G75upNNIxpN6GJ_XyNZrPGA%3D%3D
+CCTV7 国防军事,https://migu.mytvsuper.xyz/migu/673168121?sign=gAAAAABnSYtmXEuoOtU2bYyIi__ct5J9yIHr7x5dbdv2YSgfiqGFbIru4seTeN4sQyEVaXUbgJFSeFfoTIcDP6RsBstEHO4I1F_jCPIYDLEQCJat7uylgG9pH-lgv616D7_hFzaFluL-Ahoo4AhxAsftj1FlcxwE2LB555JudtADZ-ZxXmiGlbcTMk8MFsf181VYnT3UsoftSUibwk97DeTZEoWyNm_41g%3D%3D
+CCTV8 电视剧,https://migu.mytvsuper.xyz/migu/624878356?sign=gAAAAABnSYtm5hyYNYHQHgUqzKVEig9IXJ7QOgQW5uO_ZPnYbjecPhQdbnHl1OqXjudnZeCnL967KRZa-mnw8GtWPTlLv-FkIP69-95jk9LPFT4xKxY0cBZlC9XsT1kLhdi1_u_rKMcEybtxISRS6v4qTVSzIQ03BVb-PH0aC6OXC5Bgj2h5Pl8-oZTGBVjcCq-pt2SGfA5VIQn9aV36EddyQX_RdbLRsA%3D%3D
+CCTV9 纪录,https://migu.mytvsuper.xyz/migu/673168140?sign=gAAAAABnSYtmm-O9QWq1JsskagWS-2YAtDRlFYzT7OoGaHlBpkxjOVaXLVJqL-f6Nws_7F6aNsXK6qqpxkCW36e7joeZBDI1q81XpfyeLPPsTJbcRncyCd5WKPWrHC44R9x2X26JRiaeZoKZcHeMmGFrDmwOIdaUn00XT4c6LiYLjD_ku0VpO5doo5DJCujd12VY6kKx-K1r7RokNMGz1yZ0xp8JAaYbNg%3D%3D
+CCTV10 科教,https://migu.mytvsuper.xyz/migu/624878405?sign=gAAAAABnSYtmLezfy7cSZYLzJOyDiCw7DbAwqZcB8_wekWLXl-KD6sU06D9oMNQbkCIg4PIRW2VvXisQ_AF6-SWwR3xO_q3FrRT7RzfuViTycAA_pya3Ou7FJXKlrsM0O2PBCwrkEs73Req4eXdszRFiRbT4a7i73EGTBouKLactJvcqpcU2QAiD1ECr-pm-YHRi1TlrdOp5P8C90ynkrGPNjhFIqWerMg%3D%3D
+CCTV11 戏曲,https://migu.mytvsuper.xyz/migu/667987558?sign=gAAAAABnSYtmu7QZjD4FiHOogcb-N-TSMi-vWCa72sngR7rs9oO80TSm8vpHXV7YIlHSWTXzLOMeOt2niiYTlUXrWIx9Mr-sHlOP3zt66l-EfmO0jZ4c9-o7d-QYHQHpgOTI0WVsVgd5100FIA7Mn8p5Ps7nXUIStFe9jsqxXl3YBDYSmVdXPrUZAohjBrVnw-iN74yjKvJeEp5enjOWlkmaHQG_KWtu4w%3D%3D
+CCTV12 社会与法,https://migu.mytvsuper.xyz/migu/673168185?sign=gAAAAABnSYtmve0WpgOLZdy4WfterJDqhKz_QPtwupyTAlU0p9h-efhmE0TXf_wZhBDa-eg3vcQbOMNjwXKlnQQ5U7xLaNbw6pR7qR4YLvsfU4pc9iejld1HGYwZTMuh50in9wqarxJapbmJH06S6Q2M47IUiuCc-GqmnxGyNSETdgUoLuUxirx3dg1PzoigjXj3CirCNDUmGkyyZ3qkwFUgquG8baof6g%3D%3D
+CCTV13 新闻,https://migu.mytvsuper.xyz/migu/608807423?sign=gAAAAABnSYtmtUt3zYyAyAPS36SCJa64siYzJK8rEu3DOKUGqwvSI8BKQu4mASZNwQBgI9ZkQzwie7lGRnQhZ8MB71kjsgruJXZzjoQ8xCLF617GU4Ilu6t2X3nRcqzUVbnCpllvqyBc3qINNpYjhGhOPbx3nkbLV5IQwWs5FUrKqHr9Nfv_YHbbaRT93pXFSftcbA9hjknLD6XvKRhTE-h5cIYZbAN7aQ%3D%3D
+CCTV14 少儿,https://migu.mytvsuper.xyz/migu/624878440?sign=gAAAAABnSYtmRK93ZM-9-DHVRxvQy4YAnIBsHeikr_cFE1vV1PwKO37QOVrs2GroviCZSD8rXEPLtYtIwCA3Mn0Pk7iRpCCJ78cjfVw0rLPt4gKSQhFD5o4bOoF3BOOZ2sz0znJjvFrttX-9sij7WD4xzJe0Ci8QB49MbxHZ1l98F9Y9IdoISjTvSuZrDTM0prs2Qivq7ZsrXJ0jFJo_X-QspFwrWUQ-8w%3D%3D
+CCTV15 音乐,https://migu.mytvsuper.xyz/migu/673168223?sign=gAAAAABnSYtmkLO2sXbIPjbZxFKih9tLrD1cCnd3H-KAizRyQ0iZMQRF0kUiWP8XzOlqR-tqNeFf9MylVvh1sJXCPM7tVLZ-rpqPLDx1BwzE2TkBVosPE_gp5DaY85jQQaEeQCcbrQJy5GEosO8p5QUZ-xtXuVvAFiShT4xnDdN8UlV9n0IFdytxbuIouguviPVOKwLEMsRszEDjw0FwLFzUApIlNLR6MQ%3D%3D
+CCTV17 农业农村,https://migu.mytvsuper.xyz/migu/673168256?sign=gAAAAABnSYtmOfgTf-7XpDmfSAonZSf1yI8ZGamvz46Lg58uty_fFvzfNmDjhuIzlBc3EgI3UUe2Fes-0v9aZqr20cv1Xey6mVsuIOZJiLa__7HPfwnp9YaH4qRsljWLJ2FFTG63ViUYZM52LTD7zKGNsClNySWZysWXId2Heq72ss2pfPdBtZxGvC-uEzAdMHvlV32goDDf3NrUzmCMfL5iQ6HL-iSKRA%3D%3D
+CCTV4 欧洲,https://migu.mytvsuper.xyz/migu/608807419?sign=gAAAAABnSYtmVhnvIyEthisIMPKJThwEEgKDtn1K1ExhXWFEvcsTbgi2xwS865rowLCgIZf5F5wlI6zYL-GKcGafLGknSldQCzTTEQWndg5Nz7o1I8W_9eoeCah3Umk9BSAa7Q72wyvWhjoaXLJ0Rq8fHUq1L-cIKUgP-zOdRRHIfE2Pdfy3BHFF3aIA3A5Pbxk8FRX59KrAcT65o9LOF-EMWTwKgYcqoQ%3D%3D
+CCTV4 美洲,https://migu.mytvsuper.xyz/migu/608807416?sign=gAAAAABnSYtm5FoANRzIbKEDvQLj64T_OERTKSYNtcE5McXVNxHhYnTU6omvXBaK2ZU8OkBMZPdZSfWJeBuuSGuvE6niU9x0DJADe5J0a_fGstTCTrojh2qzua_e1OoX3BEuIg3xDEMnQB7q8YxB18BY7rkZO7YtZh8D-CgLQd3QtQ3HU6YgoAaquej2RnLwwbCDylZuqTZ8JPLwHyqWu4aMkfrd6zXzcg%3D%3D
+
 
 4gtv網頁,#genre#
 parse=1
