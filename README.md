@@ -6,9 +6,9 @@
 
 4GTV頻道 https://fanmingming.com/txt?url=https://www.mytvsuper.xyz/m3u/4GTV.m3u
 
-AKTV頻道  https://aktv.top/live.m3u
+AKTV頻道  http://aktv.top/live.m3u
 
-AKTV頻道  https://fanmingming.com/txt?url=https://aktv.top/live.m3u
+AKTV頻道  http://aktv.top/live.txt
 
 ====================
 
