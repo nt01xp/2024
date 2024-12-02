@@ -1,5 +1,7 @@
 央視衛視,https://www.mytvsuper.xyz/m3u/Yang.m3u
 
+央視衛視,https://fanmingming.com/txt?url=https://www.mytvsuper.xyz/m3u/Yang.m3u
+
 純享4k,http://localhost:35455/itv/1000000004000011651.m3u8?cdn=ystenlive
 
 2財經,http://localhost:35455/ysptp/cctv2.m3u8
