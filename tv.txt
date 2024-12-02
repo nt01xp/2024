@@ -29,6 +29,10 @@ Smart知識台,https://1234.koyeb.app/litv/litv-longturn19
 緯來日本,http://50.7.234.10:8278/videolandjapan/playlist.m3u8?tid=MBAB7250273772502737&ct=19344&tsum=2b580b485643235654de4a1bbc9639cb
 緯來體育,http://50.7.234.10:8278/videolandsport/playlist.m3u8?tid=MD2D5343800653438006&ct=19234&tsum=1be724fb8246abfedaf2bd088ec98f03
 
+CCTV9 纪录,https://migu.mytvsuper.xyz/migu/673168140?sign=gAAAAABnSYtmm-O9QWq1JsskagWS-2YAtDRlFYzT7OoGaHlBpkxjOVaXLVJqL-f6Nws_7F6aNsXK6qqpxkCW36e7joeZBDI1q81XpfyeLPPsTJbcRncyCd5WKPWrHC44R9x2X26JRiaeZoKZcHeMmGFrDmwOIdaUn00XT4c6LiYLjD_ku0VpO5doo5DJCujd12VY6kKx-K1r7RokNMGz1yZ0xp8JAaYbNg%3D%3D
+CCTV10 科教,https://migu.mytvsuper.xyz/migu/624878405?sign=gAAAAABnSYtmLezfy7cSZYLzJOyDiCw7DbAwqZcB8_wekWLXl-KD6sU06D9oMNQbkCIg4PIRW2VvXisQ_AF6-SWwR3xO_q3FrRT7RzfuViTycAA_pya3Ou7FJXKlrsM0O2PBCwrkEs73Req4eXdszRFiRbT4a7i73EGTBouKLactJvcqpcU2QAiD1ECr-pm-YHRi1TlrdOp5P8C90ynkrGPNjhFIqWerMg%3D%3D
+CCTV13 新闻,https://migu.mytvsuper.xyz/migu/608807423?sign=gAAAAABnSYtmtUt3zYyAyAPS36SCJa64siYzJK8rEu3DOKUGqwvSI8BKQu4mASZNwQBgI9ZkQzwie7lGRnQhZ8MB71kjsgruJXZzjoQ8xCLF617GU4Ilu6t2X3nRcqzUVbnCpllvqyBc3qINNpYjhGhOPbx3nkbLV5IQwWs5FUrKqHr9Nfv_YHbbaRT93pXFSftcbA9hjknLD6XvKRhTE-h5cIYZbAN7aQ%3D%3D
+
 台灣新聞,#genre#
 TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 東森新聞,https://www.youtube.com/watch?v=V1p33hqPrUk
