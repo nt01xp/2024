@@ -6,12 +6,6 @@
 
 4GTV https://fanmingming.com/txt?url=https://www.mytvsuper.xyz/m3u/4GTV.m3u
 
-hami  https://www.mytvsuper.xyz/m3u/Hami.m3u
-
-hami  https://fanmingming.com/txt?url=https://www.mytvsuper.xyz/m3u/Hami.m3u
-
-https://fanmingming.com/txt?url=https://www.mytvsuper.xyz/m3u/Astro.m3u
-
 ====================
 
 純享4k,http://localhost:35455/itv/1000000004000011651.m3u8?cdn=ystenlive
