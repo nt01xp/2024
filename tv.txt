@@ -29,10 +29,6 @@ Smart知識台,https://1234.koyeb.app/litv/litv-longturn19
 緯來日本,http://50.7.234.10:8278/videolandjapan/playlist.m3u8?tid=MBAB7250273772502737&ct=19344&tsum=2b580b485643235654de4a1bbc9639cb
 緯來體育,http://50.7.234.10:8278/videolandsport/playlist.m3u8?tid=MD2D5343800653438006&ct=19234&tsum=1be724fb8246abfedaf2bd088ec98f03
 
-CCTV9 纪录,https://migu.mytvsuper.xyz/migu/673168140?sign=gAAAAABnSYtmm-O9QWq1JsskagWS-2YAtDRlFYzT7OoGaHlBpkxjOVaXLVJqL-f6Nws_7F6aNsXK6qqpxkCW36e7joeZBDI1q81XpfyeLPPsTJbcRncyCd5WKPWrHC44R9x2X26JRiaeZoKZcHeMmGFrDmwOIdaUn00XT4c6LiYLjD_ku0VpO5doo5DJCujd12VY6kKx-K1r7RokNMGz1yZ0xp8JAaYbNg%3D%3D
-CCTV10 科教,https://migu.mytvsuper.xyz/migu/624878405?sign=gAAAAABnSYtmLezfy7cSZYLzJOyDiCw7DbAwqZcB8_wekWLXl-KD6sU06D9oMNQbkCIg4PIRW2VvXisQ_AF6-SWwR3xO_q3FrRT7RzfuViTycAA_pya3Ou7FJXKlrsM0O2PBCwrkEs73Req4eXdszRFiRbT4a7i73EGTBouKLactJvcqpcU2QAiD1ECr-pm-YHRi1TlrdOp5P8C90ynkrGPNjhFIqWerMg%3D%3D
-CCTV13 新闻,https://migu.mytvsuper.xyz/migu/608807423?sign=gAAAAABnSYtmtUt3zYyAyAPS36SCJa64siYzJK8rEu3DOKUGqwvSI8BKQu4mASZNwQBgI9ZkQzwie7lGRnQhZ8MB71kjsgruJXZzjoQ8xCLF617GU4Ilu6t2X3nRcqzUVbnCpllvqyBc3qINNpYjhGhOPbx3nkbLV5IQwWs5FUrKqHr9Nfv_YHbbaRT93pXFSftcbA9hjknLD6XvKRhTE-h5cIYZbAN7aQ%3D%3D
-
 台灣新聞,#genre#
 TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 東森新聞,https://www.youtube.com/watch?v=V1p33hqPrUk
@@ -71,25 +67,6 @@ KansaiNews24,https://www.youtube.com/watch?v=sTAqx_1Yrww
 象山看台北,https://www.youtube.com/watch?v=z_fY1pj1VBw
 金門建功嶼,https://www.youtube.com/watch?v=uh_yNAE01w8
 高雄蓮池潭,https://www.youtube.com/watch?v=BnPoNatG-HE
-
-央視衛視,#genre#
-純享4k,http://39.134.136.161:6610/000000001000/1000000004000011651/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000004000011651
-2財經,http://39.134.136.161:6610/000000001000/1000000001000012442/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000012442
-2財經,http://39.134.136.161:6610/000000001000/1000000005000265002/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000005000265002
-2財經,http://39.134.136.161:6610/000000001000/1000000001000023315/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000023315
-2財經,http://39.134.136.161:6610/000000001000/6000000001000014161/index.m3u8?livemode=1&stbId=10&channel-id=wasusyt&Contentid=6000000001000014161
-9紀錄,http://39.134.136.161:6610/000000001000/5000000010000018384/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000010000018384
-9紀錄,http://39.134.136.161:6610/000000001000/1000000001000028286/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000028286
-9紀錄,http://39.134.136.161:6610/000000001000/1000000005000265009/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000005000265009
-9紀錄,http://39.134.136.161:6610/000000001000/1000000001000014583/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000014583
-10科教,http://39.134.136.161:6610/000000001000/1000000001000026367/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000026367
-10科教,http://39.134.136.161:6610/000000001000/5000000010000016738/index.m3u8?livemode=1&stbId=3&channel-id=bestzb&Contentid=5000000010000016738
-10科教,http://39.134.136.161:6610/000000001000/1000000005000265010/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000005000265010
-10科教,http://39.134.136.161:6610/000000001000/1000000001000023734/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000023734
-13新聞,http://39.134.136.161:6610/000000001000/1000000002000021303/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000002000021303
-13新聞,http://39.134.136.161:6610/000000001000/5000000005000001827/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000005000001827
-13新聞,http://39.134.136.161:6610/000000001000/5000000011000031108/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000011000031108
-13新聞,http://39.134.136.161:6610/000000001000/6918130250570453526/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=6918130250570453526
 
 咪咕TV,#genre#
 CCTV1 综合,https://migu.mytvsuper.xyz/migu/608807420?sign=gAAAAABnSYtm8Y2JgtPvamfx5sAGpbdgkkYx9hoAfEq1fXCY6Swlc5Lr_bCI-Zma48Y9x12nn3RjfSipm5R2yHPGdoG2p65n6t-peUyMMgZBRS7ooGJsDGyGNnDJefXPGOcZ44slIIjaXd5xvG2Qyy9YcQP44fL4V9oR9IayVi1dCmbNoFsdcpldiaebfZPvLqaWSBJsRe2dq6ccuRaPw_FHotTKLz81HQ%3D%3D
@@ -251,128 +228,98 @@ VOA美國之音,https://www.4gtv.tv/channel/litv-ftv03?set=1&ch=86
 鏡電視新聞台,https://www.4gtv.tv/channel/4gtv-4gtv075?set=1&ch=268
 霹靂布袋戲,https://www.4gtv.tv/channel/4gtv-live145?set=1&ch=301
 
-5678央視,#genre#
+1234litv頻道,#genre#
 
-CCTV1,http://5678.koyeb.app/itv/6000000001000029752.m3u8?cdn=wasusyt
-CCTV1,http://5678.koyeb.app/itv/5000000004000002226.m3u8?cdn=bestzb
-CCTV1,http://5678.koyeb.app/itv/1000000005000265001.m3u8?cdn=ystenlive
+AMC 電影台,https://1234.koyeb.app/litv/4gtv-4gtv017
+Arirang TV,https://1234.koyeb.app/litv/4gtv-4gtv079
+CatchPlay 電影台,https://1234.koyeb.app/litv/4gtv-4gtv076
+Classica 古典樂,https://1234.koyeb.app/litv/4gtv-4gtv059
+DreamWorks 夢工廠動畫,https://1234.koyeb.app/4gtv/282
+ELTA 娛樂台,https://1234.koyeb.app/litv/4gtv-4gtv070
+ELTV 生活英語,https://1234.koyeb.app/litv/litv-longturn20
+GINX Esports TV,https://1234.koyeb.app/litv/4gtv-4gtv053
+i-Fun 動漫台,https://1234.koyeb.app/litv/litv-ftv15
+Mezzo Live,https://1234.koyeb.app/litv/4gtv-4gtv083
+Smart 知識台,https://1234.koyeb.app/litv/litv-longturn19
+Trace Urban,https://1234.koyeb.app/litv/4gtv-4gtv082
+TraceSports,https://1234.koyeb.app/litv/4gtv-4gtv077
+TVBS 新聞台,https://1234.koyeb.app/litv/4gtv-4gtv072
+TVBS 精采台,https://1234.koyeb.app/litv/4gtv-4gtv067
+TVBS 歡樂台,https://1234.koyeb.app/litv/4gtv-4gtv068
+TVBS,https://1234.koyeb.app/litv/4gtv-4gtv073
+VOA 美國之音,https://1234.koyeb.app/litv/litv-ftv03
+八大精彩台,https://1234.koyeb.app/litv/4gtv-4gtv034
+八大綜藝台,https://1234.koyeb.app/litv/4gtv-4gtv039
+中天亞洲台,https://1234.koyeb.app/litv/4gtv-4gtv109
+中天新聞台,https://1234.koyeb.app/litv/4gtv-4gtv009
+中視,https://1234.koyeb.app/litv/4gtv-4gtv040
+中視菁采台,https://1234.koyeb.app/litv/4gtv-4gtv064
+中視新聞台,https://1234.koyeb.app/litv/4gtv-4gtv074
+中視經典台,https://1234.koyeb.app/litv/4gtv-4gtv080
+公視戲劇台,https://1234.koyeb.app/litv/4gtv-4gtv042
+半島國際新聞台,https://1234.koyeb.app/litv/litv-ftv10
+台視,https://1234.koyeb.app/litv/4gtv-4gtv066
+台視財經台,https://1234.koyeb.app/litv/4gtv-4gtv056
+台視新聞台,https://1234.koyeb.app/litv/4gtv-4gtv051
+台灣戲劇台,https://1234.koyeb.app/litv/litv-longturn22
+民視,https://1234.koyeb.app/litv/4gtv-4gtv002
+民視台灣台,https://1234.koyeb.app/litv/4gtv-4gtv001
+民視旅遊台,https://1234.koyeb.app/litv/litv-ftv07
+民視第一台,https://1234.koyeb.app/litv/4gtv-4gtv003
+民視新聞台,https://1234.koyeb.app/litv/litv-ftv13
+民視綜藝台,https://1234.koyeb.app/litv/4gtv-4gtv004
+民視影劇台,https://1234.koyeb.app/litv/litv-ftv09
+好消息,https://1234.koyeb.app/litv/litv-ftv16
+好消息2台,https://1234.koyeb.app/litv/litv-ftv17
+亞洲旅遊台,https://1234.koyeb.app/litv/litv-longturn17
+東森財經新聞,https://1234.koyeb.app/litv/4gtv-4gtv153
+東森新聞,https://1234.koyeb.app/litv/4gtv-4gtv152
+采昌影劇台,https://1234.koyeb.app/litv/4gtv-4gtv049
+非凡商業台,https://1234.koyeb.app/litv/4gtv-4gtv048
+非凡新聞台,https://1234.koyeb.app/litv/4gtv-4gtv010
+客家電視台,https://1234.koyeb.app/litv/4gtv-4gtv043
+國會頻道1,https://1234.koyeb.app/litv/4gtv-4gtv084
+國會頻道2,https://1234.koyeb.app/litv/4gtv-4gtv085
+第1商業台,https://1234.koyeb.app/litv/4gtv-4gtv104
+博斯高球二台,https://1234.koyeb.app/litv/litv-longturn06
+博斯高球台,https://1234.koyeb.app/litv/litv-longturn05
+博斯無限二台,https://1234.koyeb.app/litv/litv-longturn13
+博斯無限台,https://1234.koyeb.app/litv/litv-longturn10
+博斯運動一台,https://1234.koyeb.app/litv/litv-longturn07
+博斯運動二台,https://1234.koyeb.app/litv/litv-longturn08
+博斯網球台,https://1234.koyeb.app/litv/litv-longturn09
+博斯魅力台,https://1234.koyeb.app/litv/litv-longturn04
+智林體育台,https://1234.koyeb.app/litv/4gtv-4gtv101
+華視,https://1234.koyeb.app/litv/4gtv-4gtv041
+華視新聞,https://1234.koyeb.app/litv/4gtv-4gtv052
+視納華仁紀實頻道,https://1234.koyeb.app/litv/4gtv-4gtv013
+靖天日本台,https://1234.koyeb.app/litv/4gtv-4gtv047
+靖天卡通台,https://1234.koyeb.app/litv/4gtv-4gtv044
+靖天育樂台,https://1234.koyeb.app/litv/4gtv-4gtv062
+靖天映畫台,https://1234.koyeb.app/litv/4gtv-4gtv055
+靖天國際台,https://1234.koyeb.app/litv/4gtv-4gtv063
+靖天資訊台,https://1234.koyeb.app/litv/4gtv-4gtv065
+靖天電影台,https://1234.koyeb.app/litv/4gtv-4gtv061
+靖天綜合台,https://1234.koyeb.app/litv/4gtv-4gtv046
+靖天戲劇台,https://1234.koyeb.app/litv/4gtv-4gtv058
+靖天歡樂台,https://1234.koyeb.app/litv/4gtv-4gtv054
+靖洋卡通 Nice Bingo,https://1234.koyeb.app/litv/4gtv-4gtv057
+靖洋戲劇台,https://1234.koyeb.app/litv/4gtv-4gtv045
+影迷數位電影台,https://1234.koyeb.app/litv/4gtv-4gtv011
+豬哥亮歌廳秀,https://1234.koyeb.app/litv/4gtv-4gtv006
+寰宇財經台,https://1234.koyeb.app/litv/litv-longturn23
+寰宇新聞台,https://1234.koyeb.app/litv/litv-longturn14
+寰宇新聞台灣台,https://1234.koyeb.app/litv/litv-longturn15
+龍華日韓台,https://1234.koyeb.app/litv/litv-longturn11
+龍華卡通台,https://1234.koyeb.app/litv/litv-longturn01
+龍華偶像台,https://1234.koyeb.app/litv/litv-longturn12
+龍華經典台,https://1234.koyeb.app/litv/litv-longturn21
+龍華電影台,https://1234.koyeb.app/litv/litv-longturn03
+龍華戲劇台,https://1234.koyeb.app/litv/litv-longturn18
+韓國娛樂台,https://1234.koyeb.app/litv/4gtv-4gtv016
+鏡電視新聞台,https://1234.koyeb.app/litv/4gtv-4gtv075
 
-CCTV2,http://5678.koyeb.app/itv/1000000001000023315.m3u8?cdn=ystenlive
-CCTV2,http://5678.koyeb.app/itv/6000000001000014161.m3u8?cdn=wasusyt
-CCTV2,http://5678.koyeb.app/itv/1000000001000023315.m3u8?cdn=ystenlive
 
-CCTV3,http://5678.koyeb.app/itv/6000000001000022313.m3u8?cdn=wasusyt
-CCTV3,http://5678.koyeb.app/itv/1000000005000265003.m3u8?cdn=ystenlive
-
-CCTV4,http://5678.koyeb.app/itv/5000000011000031102.m3u8?cdn=bestzb
-CCTV4,http://5678.koyeb.app/itv/1000000005000265004.m3u8?cdn=ystenlive
-
-CCTV5,http://5678.koyeb.app/itv/1000000005000025222.m3u8?cdn=ystenlive
-CCTV5,http://5678.koyeb.app/itv/1000000005000265005.m3u8?cdn=ystenlive
-
-CCTV5+,http://5678.koyeb.app/itv/6000000001000015875.m3u8?cdn=wasusyt
-CCTV5+,http://5678.koyeb.app/itv/1000000005000265016.m3u8?cdn=ystenlive
-
-CCTV6,http://5678.koyeb.app/itv/1000000001000001737.m3u8?cdn=ystenlive
-CCTV6,http://5678.koyeb.app/itv/6000000001000004574.m3u8?cdn=wasusyt
-CCTV6,http://5678.koyeb.app/itv/1000000005000265006.m3u8?cdn=ystenlive
-
-CCTV7,http://5678.koyeb.app/itv/1000000001000024341.m3u8?cdn=ystenlive
-CCTV7,http://5678.koyeb.app/itv/6000000001000009055.m3u8?cdn=wasusyt
-CCTV7,http://5678.koyeb.app/itv/1000000005000265007.m3u8?cdn=ystenlive
-
-CCTV8,http://5678.koyeb.app/itv/6000000001000001070.m3u8?cdn=wasusyt
-CCTV8,http://5678.koyeb.app/itv/1000000005000265008.m3u8?cdn=ystenlive
-
-CCTV9,http://5678.koyeb.app/itv/1000000001000014583.m3u8?cdn=ystenlive
-CCTV9,http://5678.koyeb.app/itv/6000000001000032162.m3u8?cdn=wasusyt
-CCTV9,http://5678.koyeb.app/itv/1000000005000265009.m3u8?cdn=ystenlive
-
-CCTV10,http://5678.koyeb.app/itv/1000000001000023734.m3u8?cdn=ystenlive
-CCTV10,http://5678.koyeb.app/itv/5000000004000012827.m3u8?cdn=bestzb
-CCTV10,http://5678.koyeb.app/itv/1000000005000265010.m3u8?cdn=ystenlive
-
-CCTV11,http://5678.koyeb.app/itv/5000000011000031106.m3u8?cdn=bestzb
-CCTV11,http://5678.koyeb.app/itv/1000000005000265011.m3u8?cdn=ystenlive
-
-CCTV12,http://5678.koyeb.app/itv/1000000001000032494.m3u8?cdn=ystenlive
-CCTV12,http://5678.koyeb.app/itv/6000000001000022586.m3u8?cdn=wasusyt
-CCTV12,http://5678.koyeb.app/itv/1000000005000265012.m3u8?cdn=ystenlive
-
-CCTV13,http://5678.koyeb.app/itv/5000000011000031108.m3u8?cdn=bestzb
-
-CCTV14,http://5678.koyeb.app/itv/1000000001000008170.m3u8?cdn=ystenlive
-CCTV14,http://5678.koyeb.app/itv/5000000004000006673.m3u8?cdn=bestzb
-CCTV14,http://5678.koyeb.app/itv/1000000005000265013.m3u8?cdn=ystenlive
-
-CCTV15,http://5678.koyeb.app/itv/5000000011000031109.m3u8?cdn=bestzb
-CCTV15,http://5678.koyeb.app/itv/1000000005000265014.m3u8?cdn=ystenlive
-
-CCTV16,http://5678.koyeb.app/itv/1000000006000233002.m3u8?cdn=ystenlive
-
-CCTV17,http://5678.koyeb.app/itv/1000000006000268004.m3u8?cdn=ystenlive
-CCTV17,http://5678.koyeb.app/itv/1000000005000265015.m3u8?cdn=ystenlive
-
-5678衛視,#genre#
-北京纪实科教,http://5678.koyeb.app/itv/1000000001000001910.m3u8?cdn=ystenlive
-北京纪实科教,http://5678.koyeb.app/itv/1000000005000265020.m3u8?cdn=ystenlive
-湖南金鹰纪实,http://5678.koyeb.app/itv/5000000011000031203.m3u8?cdn=bestzb
-上海纪实人文,http://5678.koyeb.app/itv/1000000005000265021.m3u8?cdn=ystenlive
-上海纪实人文,http://5678.koyeb.app/itv/5000000004000010282.m3u8?cdn=bestzb
-江苏卫视,http://5678.koyeb.app/itv/1000000001000001828.m3u8?cdn=ystenlive
-江苏卫视,http://5678.koyeb.app/itv/1000000005000265030.m3u8?cdn=ystenlive
-江苏卫视,http://5678.koyeb.app/itv/6000000001000014861.m3u8?cdn=wasusyt
-浙江卫视,http://5678.koyeb.app/itv/1000000001000014260.m3u8?cdn=ystenlive
-浙江卫视,http://5678.koyeb.app/itv/1000000005000265031.m3u8?cdn=ystenlive
-浙江卫视,http://5678.koyeb.app/itv/5000000004000007275.m3u8?cdn=bestzb
-湖南卫视,http://5678.koyeb.app/itv/1000000005000265024.m3u8?cdn=ystenlive
-湖南卫视,http://5678.koyeb.app/itv/5000000004000006692.m3u8?cdn=bestzb
-湖南卫视,http://5678.koyeb.app/itv/6000000001000018044.m3u8?cdn=wasusyt
-北京卫视,http://5678.koyeb.app/itv/1000000005000265027.m3u8?cdn=ystenlive
-北京卫视,http://5678.koyeb.app/itv/6000000001000020451.m3u8?cdn=wasusyt
-东方卫视,http://5678.koyeb.app/itv/1000000005000265018.m3u8?cdn=ystenlive
-东方卫视,http://5678.koyeb.app/itv/5000000004000014098.m3u8?cdn=bestzb
-东方卫视,http://5678.koyeb.app/itv/6000000001000003639.m3u8?cdn=wasusyt
-
-山东卫视,http://5678.koyeb.app/itv/1000000001000016568.m3u8?cdn=ystenlive
-山东卫视,http://5678.koyeb.app/itv/1000000005000265019.m3u8?cdn=ystenlive
-山东卫视,http://5678.koyeb.app/itv/6000000001000004134.m3u8?cdn=wasusyt
-广东卫视,http://5678.koyeb.app/itv/1000000001000014176.m3u8?cdn=ystenlive
-广东卫视,http://5678.koyeb.app/itv/1000000005000265034.m3u8?cdn=ystenlive
-广东卫视,http://5678.koyeb.app/itv/6000000001000031076.m3u8?cdn=wasusyt
-广西卫视,http://5678.koyeb.app/itv/5000000011000031118.m3u8?cdn=bestzb
-云南卫视,http://5678.koyeb.app/itv/5000000011000031120.m3u8?cdn=bestzb
-天津卫视,http://5678.koyeb.app/itv/1000000005000265026.m3u8?cdn=ystenlive
-天津卫视,http://5678.koyeb.app/itv/5000000004000006827.m3u8?cdn=bestzb
-天津卫视,http://5678.koyeb.app/itv/6000000001000009186.m3u8?cdn=wasusyt
-东南卫视,http://5678.koyeb.app/itv/1000000005000265033.m3u8?cdn=ystenlive
-东南卫视,http://5678.koyeb.app/itv/5000000004000010584.m3u8?cdn=bestzb
-四川卫视,http://5678.koyeb.app/itv/5000000004000006119.m3u8?cdn=bestzb
-甘肃卫视,http://5678.koyeb.app/itv/5000000011000031121.m3u8?cdn=bestzb
-吉林卫视,http://5678.koyeb.app/itv/5000000011000031117.m3u8?cdn=bestzb
-安徽卫视,http://5678.koyeb.app/itv/1000000001000030159.m3u8?cdn=ystenlive
-安徽卫视,http://5678.koyeb.app/itv/1000000005000265025.m3u8?cdn=ystenlive
-安徽卫视,http://5678.koyeb.app/itv/6000000001000009954.m3u8?cdn=wasusyt
-江西卫视,http://5678.koyeb.app/itv/1000000005000265032.m3u8?cdn=ystenlive
-江西卫视,http://5678.koyeb.app/itv/1000000006000268001.m3u8?cdn=ystenlive
-辽宁卫视,http://5678.koyeb.app/itv/1000000005000265022.m3u8?cdn=ystenlive
-辽宁卫视,http://5678.koyeb.app/itv/5000000004000011671.m3u8?cdn=bestzb
-河北卫视,http://5678.koyeb.app/itv/5000000006000040016.m3u8?cdn=bestzb
-河南卫视,http://5678.koyeb.app/itv/5000000011000031119.m3u8?cdn=bestzb
-青海卫视,http://5678.koyeb.app/itv/1000000002000013359.m3u8?cdn=ystenlive
-贵州卫视,http://5678.koyeb.app/itv/5000000004000025843.m3u8?cdn=bestzb
-重庆卫视,http://5678.koyeb.app/itv/1000000001000001096.m3u8?cdn=ystenlive
-重庆卫视,http://5678.koyeb.app/itv/1000000005000265017.m3u8?cdn=ystenlive
-海南卫视,http://5678.koyeb.app/itv/5000000004000006211.m3u8?cdn=bestzb
-深圳卫视,http://5678.koyeb.app/itv/1000000005000265028.m3u8?cdn=ystenlive
-深圳卫视,http://5678.koyeb.app/itv/5000000004000007410.m3u8?cdn=bestzb
-深圳卫视,http://5678.koyeb.app/itv/6000000001000002116.m3u8?cdn=wasusyt
-湖北卫视,http://5678.koyeb.app/itv/1000000001000024621.m3u8?cdn=ystenlive
-湖北卫视,http://5678.koyeb.app/itv/1000000005000265023.m3u8?cdn=ystenlive
-湖北卫视,http://5678.koyeb.app/itv/6000000001000015436.m3u8?cdn=wasusyt
-黑龙江卫视,http://5678.koyeb.app/itv/1000000001000001925.m3u8?cdn=ystenlive
-黑龙江卫视,http://5678.koyeb.app/itv/1000000005000265029.m3u8?cdn=ystenlive
-黑龙江卫视,http://5678.koyeb.app/itv/6000000001000016510.m3u8?cdn=wasusyt
 
 牛視網,#genre#
 parse=1
