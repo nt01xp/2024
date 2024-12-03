@@ -131,15 +131,15 @@ http://43066.cc
 
 (驗證)APTU-MP3播放器 https://t.me/AptvPlayer
 
-pixman.io 交流群 https://t.me/livednowgroup
-
 (驗證)pg包 https://t.me/pandagroovechat
 
-(驗證)AKTV高清  https://t.me/MYOKKTV
+pixman.io 交流群 https://t.me/livednowgroup
 
 极致播放器交流群 https://t.me/jizhi00
 
 夏天影視資源交流群 https://t.me/atv168
+
+(驗證、黑名單)AKTV高清  https://t.me/MYOKKTV
 
 ＋＋＋＋＋＋＋＋＋
 
