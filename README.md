@@ -1,5 +1,7 @@
 1234,https://fanmingming.com/txt?url=https://1234.koyeb.app/4gtv.m3u
 
+5678,https://fanmingming.com/txt?url=https://5678.koyeb.app/tv.m3u
+
 
 央視衛視,https://www.mytvsuper.xyz/m3u/Yang.m3u
 
