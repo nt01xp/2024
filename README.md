@@ -1,5 +1,7 @@
 php   https://qq01xp.serv00.net/zhibo.php
+
 m3u   https://qq01xp.serv00.net/m3u/zhubo.m3u
+
 txt   https://fanmingming.com/txt?url=https://qq01xp.serv00.net/m3u/zhubo.m3u
 
 migu,https://fanmingming.com/txt?url=https://5678.koyeb.app/migu.m3u
