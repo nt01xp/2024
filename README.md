@@ -1,3 +1,5 @@
+migu,https://fanmingming.com/txt?url=https://5678.koyeb.app/migu.m3u
+
 1234,https://fanmingming.com/txt?url=https://1234.koyeb.app/4gtv.m3u
 
 5678,https://fanmingming.com/txt?url=https://5678.koyeb.app/tv.m3u
