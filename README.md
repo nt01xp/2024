@@ -1,3 +1,5 @@
+范明明IPTV6,https://fanmingming.com/txt?url=https://live.fanmingming.cn/tv/m3u/ipv6.m3u
+
 php   https://qq01xp.serv00.net/zhibo.php
 
 m3u   https://qq01xp.serv00.net/m3u/zhubo.m3u
