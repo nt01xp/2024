@@ -230,7 +230,6 @@ VOA美國之音,https://www.4gtv.tv/channel/litv-ftv03?set=1&ch=86
 霹靂布袋戲,https://www.4gtv.tv/channel/4gtv-live145?set=1&ch=301
 
 央視華視界,#genre#
-
 1綜合,http://146.103.53.116:8080/hls/gf/cctv1/live.m3u8?token=
 2財經,http://146.103.53.116:8080/hls/gf/cctv2/live.m3u8?token=
 3綜藝,http://146.103.53.116:8080/hls/gf/cctv3/live.m3u8?token=
