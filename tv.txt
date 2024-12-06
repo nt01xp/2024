@@ -222,7 +222,7 @@ VOA美國之音,https://www.4gtv.tv/channel/litv-ftv03?set=1&ch=86
 鏡電視新聞台,https://www.4gtv.tv/channel/4gtv-4gtv075?set=1&ch=268
 霹靂布袋戲,https://www.4gtv.tv/channel/4gtv-live145?set=1&ch=301
 
-央視頻道,#genre#
+山東央視,#genre#
 純享4K,http://iptv.887979.xyz/itv/1000000004000011651.m3u8?cdn=ystenlive
 
 1綜合,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000311/index.m3u8?IASHttpSessionId=
@@ -246,7 +246,7 @@ VOA美國之音,https://www.4gtv.tv/channel/litv-ftv03?set=1&ch=86
 17農業農村,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000303/index.m3u8?IASHttpSessionId=
 
 
-衛視頻道,#genre#
+山東衛視,#genre#
 
 CHC動作電影,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002030/index.m3u8?IASHttpSessionId=
 CHC家庭影院,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002028/index.m3u8?IASHttpSessionId=
