@@ -229,7 +229,7 @@ VOA美國之音,https://www.4gtv.tv/channel/litv-ftv03?set=1&ch=86
 鏡電視新聞台,https://www.4gtv.tv/channel/4gtv-4gtv075?set=1&ch=268
 霹靂布袋戲,https://www.4gtv.tv/channel/4gtv-live145?set=1&ch=301
 
-央視華視界,#genre#
+央視,#genre#
 1綜合,http://146.103.53.116:8080/hls/gf/cctv1/live.m3u8?token=
 2財經,http://146.103.53.116:8080/hls/gf/cctv2/live.m3u8?token=
 3綜藝,http://146.103.53.116:8080/hls/gf/cctv3/live.m3u8?token=
@@ -249,7 +249,7 @@ VOA美國之音,https://www.4gtv.tv/channel/litv-ftv03?set=1&ch=86
 16奧林匹克,http://146.103.53.116:8080/hls/gf/cctv16/live.m3u8?token=
 17農業農村,http://146.103.53.116:8080/hls/gf/cctv17/live.m3u8?token=
 
-衛視華視界,#genre#
+衛視,#genre#
 江蘇衛視,http://146.103.53.116:8080/hls/gf/jiangsuweishi/live.m3u8?token=
 浙江衛視,http://146.103.53.116:8080/hls/gf/zhejiangweishi/live.m3u8?token=
 湖南衛視,http://146.103.53.116:8080/hls/gf/hunanweishi/live.m3u8?token=
