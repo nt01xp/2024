@@ -151,6 +151,8 @@ pixman.io 交流群 https://t.me/livednowgroup
 
 (驗證、黑名單)AKTV高清  https://t.me/MYOKKTV
 
+天光云影 https://t.me/mytv_android
+
 ＋＋＋＋＋＋＋＋＋
 
 訂閱
