@@ -17,10 +17,10 @@ TVBS新聞,https://1234.koyeb.app/litv/4gtv-4gtv072
 寰宇新聞,https://qq01xp.serv00.net/litv.php?id=litv-longturn14
 寰宇台灣,https://qq01xp.serv00.net/litv.php?id=litv-longturn15
 
-靖天日本,https://qq01xp.serv00.net/litv.php?id=4gtv-4gtv047
-民視旅遊,https://qq01xp.serv00.net/litv.php?id=litv-ftv07
-亞洲旅遊,https://qq01xp.serv00.net/litv.php?id=litv-longturn17
-Smart知識台,https://qq01xp.serv00.net/litv.php?id=litv-longturn19
+靖天日本,https://1234.koyeb.app/litv/4gtv-4gtv047
+民視旅遊,https://1234.koyeb.app/litv/litv-ftv07
+亞洲旅遊,https://1234.koyeb.app/litv/litv-longturn17
+Smart知識台,https://1234.koyeb.app/litv/litv-longturn19
 
 動物星球,http://61.221.215.25:8800/hls/57/index.m3u8
 八大綜合,http://61.221.215.25:8800/hls/56/index.m3u8
