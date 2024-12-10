@@ -20,6 +20,7 @@ CCTV4K,https://www.yangshipin.cn/tv/home?pid=600002264
 13新聞,https://www.yangshipin.cn/tv/home?pid=600001811
 14少兒,https://www.yangshipin.cn/tv/home?pid=600001809
 15音樂,https://www.yangshipin.cn/tv/home?pid=600001815
+16奧林匹克,https://www.yangshipin.cn/tv/home?pid=600098637
 17農業農村,https://www.yangshipin.cn/tv/home?pid=600001810
 
 衛視頻道,#genre#
