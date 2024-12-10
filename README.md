@@ -199,3 +199,4 @@ EPG機器人 @myepg_bot
 /sub https://www.right.com.cn/forum/forum.php?mod=rss&fid=182
 
 
+tg delete https://my.telegram.org/auth
