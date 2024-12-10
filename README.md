@@ -175,7 +175,7 @@ ok影視 https://t.me/tvb_ys
 
 唐三影視 https://t.me/ys_tvb
 
-pg貓 https://t.me/PandaGroovePG
+PG节奏熊猫发布频道 https://t.me/PandaGroovePG
 
 唐三 https://t.me/tangsan99999
 
