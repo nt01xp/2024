@@ -1,7 +1,5 @@
 央視頻道,#genre#
 parse=1
-player=2
-ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 
 CCTV4K,https://www.yangshipin.cn/tv/home?pid=600002264
 1綜合,https://www.yangshipin.cn/tv/home?pid=600001859
@@ -26,27 +24,62 @@ CCTV4K,https://www.yangshipin.cn/tv/home?pid=600002264
 
 衛視頻道,#genre#
 parse=1
-player=2
-ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 
 江蘇衛視,https://www.yangshipin.cn/tv/home?pid=600002521
 浙江衛視,https://www.yangshipin.cn/tv/home?pid=600002520
 湖南衛視,https://www.yangshipin.cn/tv/home?pid=600002475
 北京衛視,https://www.yangshipin.cn/tv/home?pid=600002309
 東方衛視,https://www.yangshipin.cn/tv/home?pid=600002483
+山西衛視,https://www.yangshipin.cn/tv/home?pid=600190407
 山東衛視,https://www.yangshipin.cn/tv/home?pid=600002513
+天津衛視,https://www.yangshipin.cn/tv/home?pid=600152137
 四川衛視,https://www.yangshipin.cn/tv/home?pid=600002516
+甘肅衛視,https://www.yangshipin.cn/tv/home?pid=600190408
+吉林衛視,https://www.yangshipin.cn/tv/home?pid=600190405
 安徽衛視,https://www.yangshipin.cn/tv/home?pid=600002532
 江西衛視,https://www.yangshipin.cn/tv/home?pid=600002503
+西藏衛視,https://www.yangshipin.cn/tv/home?pid=600190403
 東南衛視,https://www.yangshipin.cn/tv/home?pid=600002484
 河北衛視,https://www.yangshipin.cn/tv/home?pid=600002493
 河南衛視,https://www.yangshipin.cn/tv/home?pid=600002525
+青海衛視,https://www.yangshipin.cn/tv/home?pid=600190406
 重慶衛視,https://www.yangshipin.cn/tv/home?pid=600002531
 海南衛視,https://www.yangshipin.cn/tv/home?pid=600002506
+陝西衛視,https://www.yangshipin.cn/tv/home?pid=600190400
 深圳衛視,https://www.yangshipin.cn/tv/home?pid=600002481
 湖北衛視,https://www.yangshipin.cn/tv/home?pid=600002508
 貴州衛視,https://www.yangshipin.cn/tv/home?pid=600002490
+雲南衛視,https://www.yangshipin.cn/tv/home?pid=600190402
+寧夏衛視,https://www.yangshipin.cn/tv/home?pid=600190737
 廣西衛視,https://www.yangshipin.cn/tv/home?pid=600002509
 廣東衛視,https://www.yangshipin.cn/tv/home?pid=600002485
 遼寧衛視,https://www.yangshipin.cn/tv/home?pid=600002505
+内蒙古衛視,https://www.yangshipin.cn/tv/home?pid=600190401
 黑龍江衛視,https://www.yangshipin.cn/tv/home?pid=600002498
+
+CGTN頻道,#genre#
+parse=1
+
+CGTN,https://www.yangshipin.cn/tv/home?pid=600014550
+CGTN法語,https://www.yangshipin.cn/tv/home?pid=600084704
+CGTN俄語,https://www.yangshipin.cn/tv/home?pid=600084758
+CGTN阿拉伯語,https://www.yangshipin.cn/tv/home?pid=600084782
+CGTN西班牙語,https://www.yangshipin.cn/tv/home?pid=600084744
+CGTN外語紀錄,https://www.yangshipin.cn/tv/home?pid=600084781
+
+數字頻道,#genre#
+parse=1
+
+風雲劇場,https://www.yangshipin.cn/tv/home?pid=600099658
+第一劇場,https://www.yangshipin.cn/tv/home?pid=600099655
+懷舊劇場,https://www.yangshipin.cn/tv/home?pid=600099620
+世界地理,https://www.yangshipin.cn/tv/home?pid=600099637
+風雲音樂,https://www.yangshipin.cn/tv/home?pid=600099660
+兵器科技,https://www.yangshipin.cn/tv/home?pid=600099649
+風雲足球,https://www.yangshipin.cn/tv/home?pid=600099636
+高爾夫網球,https://www.yangshipin.cn/tv/home?pid=600099659
+女性時尚,https://www.yangshipin.cn/tv/home?pid=600099659
+央視文化精品,https://www.yangshipin.cn/tv/home?pid=600099653
+央視台球,https://www.yangshipin.cn/tv/home?pid=600099652
+電視指南,https://www.yangshipin.cn/tv/home?pid=600099656
+衛生健康,https://www.yangshipin.cn/tv/home?pid=600099651
