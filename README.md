@@ -179,6 +179,8 @@ PG节奏熊猫发布频道 https://t.me/PandaGroovePG
 
 天光云影發布 https://t.me/mytv_android_release
 
+IPTV研究所 https://t.me/Y_IPTV
+
 ********
 
 @LookOnbot 機器人
