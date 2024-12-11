@@ -68,6 +68,7 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 
 
 日本新聞,#genre#
+富士山(忍野八海),https://www.youtube.com/watch?v=UtxSrmmTQTk
 櫻島火山,https://www.youtube.com/live/eF9PohrRP_o
 函館山夜景,https://www.youtube.com/watch?v=s--MDmshT3I
 淡路島猴子,https://www.youtube.com/watch?v=lsxYH2XQQCg
