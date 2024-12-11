@@ -1,4 +1,27 @@
+
 范明明IPTV6,https://fanmingming.com/txt?url=https://live.fanmingming.cn/tv/m3u/ipv6.m3u
+
+浙江频道,#genre#
+
+浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+
+浙江钱江,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
+
+浙江经济,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
+
+浙江教科,https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
+
+浙江民生,https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
+
+浙江新闻,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
+
+浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+
+浙江国际,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
+
+之江纪录,https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
+
+=============
 
 tv  https://fanmingming.com/txt?url=https://iptv.887979.xyz/tv.m3u
 
