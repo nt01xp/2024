@@ -177,8 +177,6 @@ ok影視 https://t.me/tvb_ys
 
 PG节奏熊猫发布频道 https://t.me/PandaGroovePG
 
-唐三 https://t.me/tangsan99999
-
 天光云影發布 https://t.me/mytv_android_release
 
 ********
