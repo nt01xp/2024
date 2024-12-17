@@ -88,6 +88,10 @@ KansaiNews24,https://www.youtube.com/watch?v=sTAqx_1Yrww
 4gtv網頁嗅探,#genre#
 parse=1
 
+緯來日本,https://hlove.tv/live/videoland-japan	
+TVBS新聞,https://hlove.tv/live/tvbs-news	
+東森新聞,https://hlove.tv/live/ebc-news	
+
 amc電影台,https://www.4gtv.tv/channel/4gtv-4gtv017?set=1&ch=39
 ARIRANG阿里郎頻道,https://www.4gtv.tv/channel/4gtv-4gtv079?set=1&ch=189
 Bloomberg TV,https://www.4gtv.tv/channel/4gtv-live059?set=1&ch=283
