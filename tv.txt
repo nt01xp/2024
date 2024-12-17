@@ -85,7 +85,7 @@ KansaiNews24,https://www.youtube.com/watch?v=sTAqx_1Yrww
 金門建功嶼,https://www.youtube.com/watch?v=uh_yNAE01w8
 高雄蓮池潭,https://www.youtube.com/watch?v=BnPoNatG-HE
 
-4gtv網頁,#genre#
+4gtv網頁嗅探,#genre#
 parse=1
 
 amc電影台,https://www.4gtv.tv/channel/4gtv-4gtv017?set=1&ch=39
@@ -121,7 +121,6 @@ ROCK Action,https://www.4gtv.tv/channel/4gtv-live138?set=1&ch=180
 ROCK Entertainment,https://www.4gtv.tv/channel/4gtv-live080?set=1&ch=275
 SBN全球財經台,https://www.4gtv.tv/channel/4gtv-live060?set=1&ch=224
 Smart知識台,https://www.4gtv.tv/channel/litv-longturn19?set=1&ch=297
-TechStorm,https://www.4gtv.tv/channel/4gtv-live109?set=1&ch=181
 TRACE Sport Stars,https://www.4gtv.tv/channel/4gtv-4gtv077?set=1&ch=57
 TRACE Urban,https://www.4gtv.tv/channel/4gtv-4gtv082?set=1&ch=78
 TV5MONDE STYLE HD 生活時尚,https://www.4gtv.tv/channel/4gtv-live122?set=1&ch=178
@@ -222,6 +221,7 @@ VOA美國之音,https://www.4gtv.tv/channel/litv-ftv03?set=1&ch=86
 韓國娛樂台 KMTV,https://www.4gtv.tv/channel/4gtv-live377?set=1&ch=76
 鏡電視新聞台,https://www.4gtv.tv/channel/4gtv-4gtv075?set=1&ch=268
 霹靂布袋戲,https://www.4gtv.tv/channel/4gtv-live145?set=1&ch=301
+
 
 央視衛視,#genre#
 純享4k,http://39.134.136.161:6610/000000001000/1000000004000011651/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000004000011651
