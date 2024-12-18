@@ -1,7 +1,4 @@
 卡通旅遊,#genre#
-緯來日本,https://t2.iptv200.com/live/tv771.flv?sign=1734478226-f297e8673749c5d3c82fb60d89d179da
-TVBS新聞,https://t27.iptv200.com/live/tvbsxw.flv?sign=1734478345-3e84901a26175ff20d7808efdc487a9e
-
 CBeebies,udp://@224.1.4.213:11111
 東森幼幼,http://50.7.234.10:8278/yoyo_twn/playlist.m3u8?ct=17874&tid=m84c9b210bc7f11269156&tsum=51340c8fb7ca02ab978ee0791843501d
 
