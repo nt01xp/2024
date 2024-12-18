@@ -103,28 +103,21 @@ CCTV-12咪咕,http://z.b.bkpcp.top/m.php?id=cctv12
 CCTV-13咪咕,http://z.b.bkpcp.top/m.php?id=cctv13
 CCTV-14咪咕,http://z.b.bkpcp.top/m.php?id=cctv14
 CCTV-15咪咕,http://z.b.bkpcp.top/m.php?id=cctv15
-CCTV-16咪咕,https://stream1.freetv.fun/f5e0459fd9f11d93ac18af88196997db1c71aeb6d27ce1bd24faccb628652629.m3u8
 CCTV-17咪咕,http://z.b.bkpcp.top/m.php?id=cctv17
 cct4欧洲咪咕,http://z.b.bkpcp.top/m.php?id=cctv4o
 cct4美洲咪咕,http://z.b.bkpcp.top/m.php?id=cctv4m
+
+江苏卫视咪咕,http://z.b.bkpcp.top/m.php?id=jsws
 家庭影院咪咕,http://z.b.bkpcp.top/m.php?id=jtyy
 东方影视咪咕,http://z.b.bkpcp.top/m.php?id=shys
 陕西卫视咪咕,http://z.b.bkpcp.top/m.php?id=sxws
 湖北卫视咪咕,http://z.b.bkpcp.top/m.php?id=hubws
 江西卫视咪咕,http://z.b.bkpcp.top/m.php?id=jxws
-江苏卫视咪咕,http://z.b.bkpcp.top/m.php?id=jsws
 广东卫视咪咕,http://z.b.bkpcp.top/m.php?id=gdws
-游戏风云咪咕,http://z.b.bkpcp.top/m.php?id=yxfy
-七彩戏剧咪咕,http://z.b.bkpcp.top/m.php?id=qcxj
-欢笑剧场咪咕,http://z.b.bkpcp.top/m.php?id=hxjc
-劲爆体育咪咕,http://z.b.bkpcp.top/m.php?id=jbty
-魅力足球咪咕,http://z.b.bkpcp.top/m.php?id=mlzq
 
 
 4gtv網頁嗅探,#genre#
 parse=1
-
-
 
 amc電影台,https://www.4gtv.tv/channel/4gtv-4gtv017?set=1&ch=39
 ARIRANG阿里郎頻道,https://www.4gtv.tv/channel/4gtv-4gtv079?set=1&ch=189
