@@ -73,6 +73,7 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 函館山夜景,https://www.youtube.com/watch?v=s--MDmshT3I
 淡路島猴子,https://www.youtube.com/watch?v=lsxYH2XQQCg
 草津温泉,https://www.youtube.com/watch?v=GrEEoEmmrKs
+草津温泉（移動式),https://www.youtube.com/watch?v=B_Sc1v1qR-g
 JapaNews24,https://www.youtube.com/watch?v=coYw-eVU0Ks
 TBS NEWS DIG,https://www.youtube.com/watch?v=ohI356mwBp8
 KansaiNews24,https://www.youtube.com/watch?v=sTAqx_1Yrww
