@@ -88,7 +88,6 @@ KansaiNews24,https://www.youtube.com/watch?v=sTAqx_1Yrww
 
 央視華視界,#genre#
 
-純享4K,http://39.134.136.161:6610/000000001000/1000000004000011651/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000004000011651
 1綜合,http://146.103.53.116:8080/hls/gf/cctv1/live.m3u8?token=
 2財經,http://146.103.53.116:8080/hls/gf/cctv2/live.m3u8?token=
 3綜藝,http://146.103.53.116:8080/hls/gf/cctv3/live.m3u8?token=
