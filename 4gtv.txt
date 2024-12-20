@@ -1,3 +1,5 @@
+4gtv,#genre#
+
 民視,https://pixman.mytvsuper.com.mp/litv/4gtv-4gtv002
 民視第一台,https://pixman.mytvsuper.com.mp/litv/4gtv-4gtv003
 民視新聞台,https://pixman.mytvsuper.com.mp/litv/litv-ftv13
