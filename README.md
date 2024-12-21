@@ -180,6 +180,8 @@ pixman.io 交流群 https://t.me/livednowgroup
 
 天光云影 https://t.me/mytv_android
 
+真心交流 https://t.me/juejijianghuchat
+
 ＋＋＋＋＋＋＋＋＋
 
 訂閱
