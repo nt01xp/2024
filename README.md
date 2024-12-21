@@ -206,6 +206,8 @@ PG节奏熊猫发布频道 https://t.me/PandaGroovePG
 
 IPTV研究所 https://t.me/Y_IPTV
 
+真心交流發佈頻道,https://t.me/juejijianghu
+
 ********
 
 @LookOnbot 機器人
