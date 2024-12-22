@@ -279,13 +279,9 @@ TVB星河台,https://www.chaojidianshi.net/zhibo/76.html
 華麗翡翠台,https://www.chaojidianshi.net/zhibo/Malaysia/hualitai.html
 
 💝中国移动ITV👉移动,#genre#
-4K影院 20M,http://39.134.136.161:6610/000000001000/6000000003000004748/index.m3u8?livemode=1&stbId=1213&channel-id=wasusyt&Contentid=6000000003000004748
-CCTV16 4K 12M,http://39.134.136.161:6610/000000001000/5000000008000023254/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000008000023254
-华数4K 15M2160,http://39.134.136.161:6610/000000001000/2000000004000000014/index.m3u8?livemode=1&stbId=10&channel-id=hnbblive&Contentid=2000000004000000014
+
 纯享4K 20M,http://39.134.136.161:6610/000000001000/1000000004000011651/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000004000011651
-足球联赛16,http://39.134.136.161:6610/000000001000/3000000010000005180/index.m3u8?livemode=1&stbId=2&channel-id=FifastbLive&Contentid=3000000010000005180
-欢笑剧场4K 12M,http://39.134.136.161:6610/000000001000/5000000007000010001/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000007000010001
-足球联赛12,http://39.134.136.161:6610/000000001000/3000000010000015686/index.m3u8?livemode=1&stbId=2&channel-id=FifastbLive&Contentid=3000000010000015686
+
 CCTV1 4M,http://39.134.136.161:6610/000000001000/1000000001000021973/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000021973
 CCTV1 4M,http://39.134.136.161:6610/000000001000/5000000010000030810/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000010000030810
 CCTV1 5.5MHEVC,http://39.134.136.161:6610/000000001000/1000000005000265001/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000005000265001
