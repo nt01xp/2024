@@ -278,7 +278,7 @@ TVB明珠台,https://www.chaojidianshi.net/zhibo/77.html
 TVB星河台,https://www.chaojidianshi.net/zhibo/76.html
 華麗翡翠台,https://www.chaojidianshi.net/zhibo/Malaysia/hualitai.html
 
-5678頻道,#genre#
+5678央視,#genre#
 
 cctv1-高码,http://5678.koyeb.app/gaoma/cctv1.m3u8
 CCTV-1,http://5678.koyeb.app/itv/6000000001000029752.m3u8?cdn=wasusyt
@@ -346,6 +346,7 @@ CCTV-17-HEVC,http://5678.koyeb.app/itv/1000000005000265015.m3u8?cdn=ystenlive
 cctv4k_10m,http://5678.koyeb.app/gaoma/cctv4k_10m.m3u8
 cctv4k,http://5678.koyeb.app/gaoma/cctv4k.m3u8
 
+5678衛視,#genre#
 
 北京纪实科教,http://5678.koyeb.app/itv/1000000001000001910.m3u8?cdn=ystenlive
 北京纪实科教-HEVC,http://5678.koyeb.app/itv/1000000005000265020.m3u8?cdn=ystenlive
