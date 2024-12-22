@@ -80,6 +80,7 @@ KansaiNews24,https://www.youtube.com/watch?v=sTAqx_1Yrww
 北海道ニュース24,https://www.youtube.com/watch?v=d8CrKBU99Hg
 広島ニュース24,https://www.youtube.com/watch?v=e2pgLUmaxGs
 
+九份老街,https://www.youtube.com/watch?v=3kx4jHOEzzA
 瑞芳九份,https://www.youtube.com/watch?v=XSD5ptYisw8
 象山看台北,https://www.youtube.com/watch?v=z_fY1pj1VBw
 金門建功嶼,https://www.youtube.com/watch?v=uh_yNAE01w8
