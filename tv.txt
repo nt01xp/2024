@@ -69,6 +69,7 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 日本新聞,#genre#
 富士山(忍野八海),https://www.youtube.com/watch?v=UtxSrmmTQTk
 櫻島火山,https://www.youtube.com/watch?v=PeElJClXtzE
+12月23日櫻島火山噴發,https://www.youtube.com/watch?v=5Xgkx7ir4yQ
 函館山夜景,https://www.youtube.com/watch?v=s--MDmshT3I
 淡路島猴子,https://www.youtube.com/watch?v=lsxYH2XQQCg
 草津温泉,https://www.youtube.com/watch?v=GrEEoEmmrKs
