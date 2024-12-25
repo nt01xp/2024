@@ -179,11 +179,10 @@ pixman.io 交流群 https://t.me/livednowgroup
 
 夏天影視資源交流群 https://t.me/atv168
 
-(驗證、黑名單)AKTV高清  https://t.me/MYOKKTV
 
 天光云影 https://t.me/mytv_android
 
-真心交流 https://t.me/juejijianghuchat
+(驗證、黑名單)AKTV高清  https://t.me/MYOKKTV
 
 ＋＋＋＋＋＋＋＋＋
 
@@ -209,7 +208,6 @@ PG节奏熊猫发布频道 https://t.me/PandaGroovePG
 
 IPTV研究所 https://t.me/Y_IPTV
 
-真心交流發佈頻道,https://t.me/juejijianghu
 
 ********
 
