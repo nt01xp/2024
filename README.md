@@ -1,3 +1,5 @@
+纯享·4K「IPV6」,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010006/1.m3u8
+
 ok http://ok321.top/tv
 
 tvbox解密  https://shixiong.alwaysdata.net/
