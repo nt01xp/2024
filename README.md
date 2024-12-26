@@ -179,7 +179,6 @@ pixman.io 交流群 https://t.me/livednowgroup
 
 夏天影視資源交流群 https://t.me/atv168
 
-
 天光云影 https://t.me/mytv_android
 
 (驗證、黑名單)AKTV高清  https://t.me/MYOKKTV
