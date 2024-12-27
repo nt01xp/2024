@@ -68,6 +68,7 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 龍華戲劇台,https://qq01xp.serv00.net/2024litv.php?id=litv-longturn18
 
 日本新聞,#genre#
+軽井沢小鳥,https://www.youtube.com/watch?v=HXp5x6llMo4
 富士山(忍野八海),https://www.youtube.com/watch?v=UtxSrmmTQTk
 櫻島火山,https://www.youtube.com/watch?v=PeElJClXtzE
 函館山夜景,https://www.youtube.com/watch?v=s--MDmshT3I
