@@ -10,7 +10,7 @@ CatchPlay 電影台,http://1234.koyeb.app/litv/4gtv-4gtv076
 
 TVBS新聞,https://1234.koyeb.app/litv/4gtv-4gtv072
 東森新聞,https://1234.koyeb.app/litv/4gtv-4gtv152
-民視新聞台,https://1234.koyeb.app/litv/litv-ftv13
+民視新聞,https://1234.koyeb.app/litv/litv-ftv13
 
 靖天日本,https://1234.koyeb.app/litv/4gtv-4gtv047
 民視旅遊,https://1234.koyeb.app/litv/litv-ftv07
