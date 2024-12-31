@@ -31,6 +31,7 @@ Smart知識台,https://1234.koyeb.app/litv/litv-longturn19
 台灣新聞,#genre#
 台北,https://www.youtube.com/watch?v=lMU9FseF9Dw
 新北,https://www.youtube.com/watch?v=eo--PeVzvj8
+桃園,https://www.youtube.com/watch?v=tNmsN7i46FY
 台中,https://www.youtube.com/watch?v=LSCp2_Khubg
 嘉義,https://www.youtube.com/watch?v=WSCJ_2P66LM
 台南,https://www.youtube.com/watch?v=BcOxf414JR0
