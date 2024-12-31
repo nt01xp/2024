@@ -29,6 +29,10 @@ Smart知識台,https://1234.koyeb.app/litv/litv-longturn19
 民視,rtmp://f13h.mine.nu/sat/tv051
 
 台灣新聞,#genre#
+台中,https://www.youtube.com/watch?v=LSCp2_Khubg
+台南,https://www.youtube.com/watch?v=BcOxf414JR0
+高雄,https://www.youtube.com/watch?v=fIhvWIXoE0w
+
 TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 東森新聞,https://www.youtube.com/watch?v=V1p33hqPrUk
 民視新聞,https://www.youtube.com/watch?v=ylYJSBUgaMA
