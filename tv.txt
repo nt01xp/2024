@@ -76,6 +76,7 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 淡路島猴子,https://www.youtube.com/watch?v=lsxYH2XQQCg
 草津温泉,https://www.youtube.com/watch?v=GrEEoEmmrKs
 草津温泉（移動式),https://www.youtube.com/watch?v=B_Sc1v1qR-g
+草津温泉天狗山,https://www.youtube.com/watch?v=42FEEwaiN5w
 札幌藻岩山,https://www.youtube.com/watch?v=R-tBiJGgk70
 JapaNews24,https://www.youtube.com/watch?v=coYw-eVU0Ks
 TBS NEWS DIG,https://www.youtube.com/watch?v=ohI356mwBp8
