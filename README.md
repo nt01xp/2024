@@ -1,21 +1,3 @@
-台北,https://www.youtube.com/watch?v=lMU9FseF9Dw
-
-新北,https://www.youtube.com/watch?v=eo--PeVzvj8
-
-桃園,https://www.youtube.com/watch?v=tNmsN7i46FY
-
-台中,https://www.youtube.com/watch?v=LSCp2_Khubg
-
-嘉義,https://www.youtube.com/watch?v=WSCJ_2P66LM
-
-台南,https://www.youtube.com/watch?v=BcOxf414JR0
-
-高雄,https://www.youtube.com/watch?v=fIhvWIXoE0w
-
-宜蘭,https://www.youtube.com/watch?v=HVbf6oHaVM0
-
-
-
 肥羊直播  https://gongdian.top/tv/okpg/feiyang.txt
 
 纯享·4K「IPV6」,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010006/1.m3u8
