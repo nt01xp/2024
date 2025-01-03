@@ -12,6 +12,14 @@ tvbox解密  https://shixiong.alwaysdata.net/
 
 5678,https://fanmingming.com/txt?url=https://5678.koyeb.app/tv.m3u
 
+APTV专用直播源(IPv4&Ipv6)：https://bit.ly/iptv-aptv
+
+YanG(IPv4&Ipv6): https://tv.iill.top/m3u/Gather
+
+YueChan(IPv4&Ipv6)：https://bit.ly/yuechan-aptv
+
+FMM(IPv6)：https://live.fanmingming.cn/tv/m3u/ipv6.m3u
+
 ====================
 
 "ads":["static-mozai.4gtv.tv","mozai.4gtv.tv"]}
