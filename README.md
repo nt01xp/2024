@@ -65,8 +65,6 @@ pixman.io 交流群 https://t.me/livednowgroup
 
 天光云影 https://t.me/mytv_android
 
-直播源 https://t.me/tvzby
-
 ＋＋＋＋＋＋＋＋＋
 
 訂閱
@@ -88,8 +86,6 @@ ok影視 https://t.me/tvb_ys
 PG节奏熊猫发布频道 https://t.me/PandaGroovePG
 
 天光云影發布 https://t.me/mytv_android_release
-
-IPTV研究所 https://t.me/Y_IPTV
 
 
 ********
