@@ -99,6 +99,8 @@ IPTV研究所 https://t.me/Y_IPTV
 @iWuMingBot 無名
 @tuntun0
 @beatsing 必勝群管理
+@newallinone_bot
+
 
 EPG機器人 @myepg_bot
 
