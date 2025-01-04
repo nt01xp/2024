@@ -98,13 +98,21 @@ PG节奏熊猫发布频道 https://t.me/PandaGroovePG
 
 ********
 聽音樂 @vkmusbot
+
 @jizhi333
+
 @LookOnbot 機器人
+
 @iWuMingBot 無名
+
 @tuntun0
+
 @beatsing 必勝群管理
+
 @newallinone_bot
 
+ALLINONE部署指令生成器
+https://imgtool.v1.mk/allinone.html
 
 EPG機器人 @myepg_bot
 
