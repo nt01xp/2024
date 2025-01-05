@@ -424,9 +424,6 @@ CCTV-15-50-FPS,http://5678.koyeb.app/itv/5000000011000031109.m3u8?cdn=bestzb
 CCTV-15-HEVC,http://5678.koyeb.app/itv/1000000005000265014.m3u8?cdn=ystenlive
 cctv16-高码,http://5678.koyeb.app/gaoma/cctv16.m3u8
 CCTV-16,http://5678.koyeb.app/itv/1000000006000233002.m3u8?cdn=ystenlive
-CCTV-16-4K-HEVC,http://5678.koyeb.app/itv/5000000008000023254.m3u8?cdn=bestzb
-cctv164k_10m,http://5678.koyeb.app/gaoma/cctv4k16_10m.m3u8
-cctv164k,http://5678.koyeb.app/gaoma/cctv4k16.m3u8
 cctv17-高码,http://5678.koyeb.app/gaoma/cctv17.m3u8
 CCTV-17,http://5678.koyeb.app/itv/1000000006000268004.m3u8?cdn=ystenlive
 CCTV-17-HEVC,http://5678.koyeb.app/itv/1000000005000265015.m3u8?cdn=ystenlive
