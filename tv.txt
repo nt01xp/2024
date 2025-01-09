@@ -91,7 +91,6 @@ KansaiNews24,https://www.youtube.com/watch?v=sTAqx_1Yrww
 4gtv網頁嗅探,#genre#
 parse=1
 
-    
 4  民視第一台,https://www.4gtv.tv/channel/4gtv-4gtv003?set=1&ch=1
 5  民視台灣台,https://www.4gtv.tv/channel/4gtv-4gtv001?set=1&ch=2
 6  民視,https://www.4gtv.tv/channel/4gtv-4gtv002?set=1&ch=3
@@ -219,11 +218,8 @@ parse=1
 200  TVBS台劇台,https://www.4gtv.tv/channel/4gtv-live088?set=1&ch=285
 201  經典電影台,https://www.4gtv.tv/channel/4gtv-live021?set=1&ch=201
 202  經典卡通台,https://www.4gtv.tv/channel/4gtv-live022?set=1&ch=202
-203  兒童卡通台,https://www.4gtv.tv/channel/4gtv-live009?set=1&ch=269
 204  精選動漫台,https://www.4gtv.tv/channel/4gtv-live024?set=1&ch=204
 205  戲劇免費看 1台,https://www.4gtv.tv/channel/4gtv-live010?set=1&ch=270
-206  戲劇免費看 2台,https://www.4gtv.tv/channel/4gtv-live006?set=1&ch=244
-208  電影免費看 2台,https://www.4gtv.tv/channel/4gtv-live005?set=1&ch=245
 501  市井豪門-FastTV飛速看,https://www.4gtv.tv/channel/fast-live001?set=1&ch=341
 502  戲說台灣-FastTV飛速看,https://www.4gtv.tv/channel/fast-live002?set=1&ch=342
 503  中視經典戲劇-FastTV飛速看,https://www.4gtv.tv/channel/fast-live003?set=1&ch=328
@@ -309,6 +305,7 @@ parse=1
 911  小兒子-FastTV飛速看,https://www.4gtv.tv/channel/fast-live411?set=1&ch=336
 912  親子一起看-FastTV飛速看,https://www.4gtv.tv/channel/fast-live412?set=1&ch=436
 913  怪獸之王-FastTV飛速看,https://www.4gtv.tv/channel/fast-live413?set=1&ch=438
+
 
 牛視網,#genre#
 parse=1
