@@ -20,6 +20,12 @@ Smart知識台,https://1234.koyeb.app/litv/litv-longturn19
 緯來日本,rtmp://f13h.mine.nu/sat/tv771
 緯來育樂,rtmp://f13h.mine.nu/sat/tv701
 緯來體育,rtmp://f13h.mine.nu/sat/tv721
+
+華視,https://1234.koyeb.app/litv/4gtv-4gtv041
+中視,https://1234.koyeb.app/litv/4gtv-4gtv040
+台視,https://1234.koyeb.app/litv/4gtv-4gtv066
+民視,https://1234.koyeb.app/litv/4gtv-4gtv155
+
 華視,rtmp://f13h.mine.nu/sat/tv111
 中視,rtmp://f13h.mine.nu/sat/tv091
 台視,rtmp://f13h.mine.nu/sat/tv071
