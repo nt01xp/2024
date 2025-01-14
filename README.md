@@ -73,6 +73,8 @@ pixman.io 交流群 https://t.me/livednowgroup
 
 天光云影 https://t.me/mytv_android
 
+TMXK TG群组：https://t.me/+rgxyQeDLtjcxM2U1
+
 ＋＋＋＋＋＋＋＋＋
 
 訂閱
@@ -95,6 +97,7 @@ PG节奏熊猫发布频道 https://t.me/PandaGroovePG
 
 天光云影發布 https://t.me/mytv_android_release
 
+TMXK 订阅频道：https://t.me/tmxktg
 
 ********
 聽音樂 @vkmusbot
