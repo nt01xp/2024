@@ -114,6 +114,8 @@ TMXK 订阅频道：https://t.me/tmxktg
 
 @beatsing 必勝群管理
 
+夏天 @eiogd
+
 @newallinone_bot
 
 ALLINONE部署指令生成器
