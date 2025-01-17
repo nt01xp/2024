@@ -8,13 +8,13 @@ CBeebies,udp://@224.1.4.213:11111
 TVBS新聞,https://1234.koyeb.app/litv/4gtv-4gtv072
 東森新聞,https://1234.koyeb.app/litv/4gtv-4gtv152
 
-54 三立新聞iNEWS,https://www.567858.xyz/ofiii.php?id=iNEWS
-61 中天新聞台,https://www.567858.xyz/ofiii.php?id=4gtv-4gtv009
-52 華視新聞,https://www.567858.xyz/ofiii.php?id=4gtv-4gtv052
-60 中視新聞,https://www.567858.xyz/ofiii.php?id=4gtv-4gtv074
-59 台視新聞,https://www.567858.xyz/ofiii.php?id=4gtv-4gtv051
-62 寰宇新聞台灣台,https://www.567858.xyz/ofiii.php?id=4gtv-4gtv156
-63 寰宇新聞台,https://www.567858.xyz/ofiii.php?id=litv-longturn14
+54三立新聞iNEWS,https://www.567858.xyz/ofiii.php?id=iNEWS
+61中天新聞台,https://www.567858.xyz/ofiii.php?id=4gtv-4gtv009
+52華視新聞,https://www.567858.xyz/ofiii.php?id=4gtv-4gtv052
+60中視新聞,https://www.567858.xyz/ofiii.php?id=4gtv-4gtv074
+59台視新聞,https://www.567858.xyz/ofiii.php?id=4gtv-4gtv051
+62寰宇新聞台灣台,https://www.567858.xyz/ofiii.php?id=4gtv-4gtv156
+63寰宇新聞台,https://www.567858.xyz/ofiii.php?id=litv-longturn14
 
 靖天日本,https://1234.koyeb.app/litv/4gtv-4gtv047
 民視旅遊,https://1234.koyeb.app/litv/litv-ftv07
