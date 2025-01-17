@@ -5,8 +5,8 @@ CBeebies,udp://@224.1.4.213:11111
 柯南劇場版1,https://www.goodiptv.club/douyu/6484910
 柯南劇場版2,https://www.goodiptv.club/douyu/1487654
 
-TVBS新聞,https://1234.koyeb.app/litv/4gtv-4gtv072
-X東森新聞,https://1234.koyeb.app/litv/4gtv-4gtv152
+TVBS新聞,https://qq01xp.serv00.net/litv.php?id=4gtv-4gtv072
+東森新聞台,https://qq01xp.serv00.net/litv.php?id=4gtv-4gtv152
 
 54三立新聞iNEWS,https://www.567858.xyz/ofiii.php?id=iNEWS
 61中天新聞台,https://www.567858.xyz/ofiii.php?id=4gtv-4gtv009
@@ -16,8 +16,10 @@ X東森新聞,https://1234.koyeb.app/litv/4gtv-4gtv152
 62寰宇新聞台灣台,https://www.567858.xyz/ofiii.php?id=4gtv-4gtv156
 63寰宇新聞台,https://www.567858.xyz/ofiii.php?id=litv-longturn14
 
-靖天日本,https://1234.koyeb.app/litv/4gtv-4gtv047
-民視旅遊,https://1234.koyeb.app/litv/litv-ftv07
+靖天日本台,https://qq01xp.serv00.net/litv.php?id=4gtv-4gtv047
+民視旅遊台,https://qq01xp.serv00.net/litv.php?id=litv-ftv07
+亞洲旅遊台,https://qq01xp.serv00.net/litv.php?id=litv-longturn17
+
 34亞洲旅遊台,https://www.567858.xyz/ofiii.php?id=4gtv-4gtv076
 37Smart知識台,https://www.567858.xyz/ofiii.php?id=litv-longturn19
 
