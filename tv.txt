@@ -7,12 +7,27 @@ CBeebies,udp://@224.1.4.213:11111
 
 TVBS新聞,https://1234.koyeb.app/litv/4gtv-4gtv072
 東森新聞,https://1234.koyeb.app/litv/4gtv-4gtv152
-民視新聞,https://1234.koyeb.app/litv/litv-ftv13
+
+54 三立新聞iNEWS,https://www.567858.xyz/ofiii.php?id=iNEWS
+61 中天新聞台,https://www.567858.xyz/ofiii.php?id=4gtv-4gtv009
+52 華視新聞,https://www.567858.xyz/ofiii.php?id=4gtv-4gtv052
+60 中視新聞,https://www.567858.xyz/ofiii.php?id=4gtv-4gtv074
+59 台視新聞,https://www.567858.xyz/ofiii.php?id=4gtv-4gtv051
+62 寰宇新聞台灣台,https://www.567858.xyz/ofiii.php?id=4gtv-4gtv156
+63 寰宇新聞台,https://www.567858.xyz/ofiii.php?id=litv-longturn14
 
 靖天日本,https://1234.koyeb.app/litv/4gtv-4gtv047
 民視旅遊,https://1234.koyeb.app/litv/litv-ftv07
-亞洲旅遊,https://1234.koyeb.app/litv/4gtv-4gtv076
-Smart知識台,https://1234.koyeb.app/litv/litv-longturn19
+34亞洲旅遊台,https://www.567858.xyz/ofiii.php?id=4gtv-4gtv076
+37Smart知識台,https://www.567858.xyz/ofiii.php?id=litv-longturn19
+
+21龍華卡通台,https://www.567858.xyz/ofiii.php?id=litv-longturn01
+40龍華戲劇台,https://www.567858.xyz/ofiii.php?id=litv-longturn18
+45龍華偶像台,https://www.567858.xyz/ofiii.php?id=litv-longturn12
+46龍華日韓台,https://www.567858.xyz/ofiii.php?id=litv-longturn11
+69龍華經典台,https://www.567858.xyz/ofiii.php?id=litv-longturn21
+71龍華電影台,https://www.567858.xyz/ofiii.php?id=litv-longturn03
+72龍華洋片台,https://www.567858.xyz/ofiii.php?id=litv-longturn02
 
 動物星球,http://61.221.215.25:8800/hls/57/index.m3u8
 八大綜合,http://61.221.215.25:8800/hls/56/index.m3u8
@@ -21,10 +36,9 @@ Smart知識台,https://1234.koyeb.app/litv/litv-longturn19
 緯來育樂,rtmp://f13h.mine.nu/sat/tv701
 緯來體育,rtmp://f13h.mine.nu/sat/tv721
 
-華視,https://qq01xp.serv00.net/litv.php?id=4gtv-4gtv041
-中視,https://qq01xp.serv00.net/litv.php?id=4gtv-4gtv040
-台視,https://qq01xp.serv00.net/litv.php?id=4gtv-4gtv066
-民視,https://qq01xp.serv00.net/litv.php?id=4gtv-4gtv155
+8台視,https://www.567858.xyz/ofiii.php?id=4gtv-4gtv066
+10中視,https://www.567858.xyz/ofiii.php?id=4gtv-4gtv040
+12華視,https://www.567858.xyz/ofiii.php?id=4gtv-4gtv041
 
 華視,rtmp://f13h.mine.nu/sat/tv111
 中視,rtmp://f13h.mine.nu/sat/tv091
