@@ -77,7 +77,6 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 
 
 日本新聞,#genre#
-夜の函館山に登,https://www.youtube.com/watch?v=0YJwJtaSHvo
 澳門議事亭前地,https://www.youtube.com/watch?v=ctYalRx7kY4
 富士山(忍野八海),https://www.youtube.com/watch?v=UtxSrmmTQTk
 櫻島火山,https://www.youtube.com/watch?v=PeElJClXtzE
