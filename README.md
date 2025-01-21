@@ -1,3 +1,7 @@
+pg在線接口
+
+https://tvbox.catvod.com/jsm.json
+
 http://我不是.摸鱼儿.com
 
 "ads":["static-mozai.4gtv.tv","mozai.4gtv.tv"]
