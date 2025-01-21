@@ -1,5 +1,7 @@
 http://我不是.摸鱼儿.com
 
+"ads":["static-mozai.4gtv.tv","mozai.4gtv.tv"]
+
 TMXK工具程式 https://tmxk.pp.ua/
 
 肥羊直播  https://gongdian.top/tv/okpg/feiyang.txt
