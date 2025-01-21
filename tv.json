@@ -212,5 +212,5 @@
 {"category":4,"name":"mediacodec-hevc","value":"1"},
 {"category":1,"name":"dns_cache_timeout","value":"600000000"}]}
 ],
-"ads":["static-mozai.4gtv.tv"]
+"ads":["static-mozai.4gtv.tv","mozai.4gtv.tv"] 
 }
