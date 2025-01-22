@@ -1,4 +1,4 @@
-http://www.饭太硬.com/tv/
+
 
 https://iptv.catvod.com/tv.m3u
 
