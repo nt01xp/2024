@@ -42,6 +42,7 @@ TVBS新聞,https://qq01xp.serv00.net/litv.php?id=4gtv-4gtv072
 民視,rtmp://f13h.mine.nu/sat/tv051
 
 油管新聞,#genre#
+parse=1
 
 TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 東森新聞,https://www.youtube.com/watch?v=V1p33hqPrUk
@@ -78,6 +79,7 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 
 
 日本新聞,#genre#
+parse=1
 
 澳門議事亭前地,https://www.youtube.com/watch?v=ctYalRx7kY4
 富士山(忍野八海),https://www.youtube.com/watch?v=UtxSrmmTQTk
