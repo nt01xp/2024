@@ -7,6 +7,7 @@ CBeebies,udp://@224.1.4.213:11111
 
 TVBS新聞,https://qq01xp.serv00.net/litv.php?id=4gtv-4gtv072
 東森新聞,https://qq01xp.serv00.net/litv.php?id=4gtv-4gtv152
+民視新聞,https://qq01xp.serv00.net/litv.php?id=litv-ftv13
 
 54三立新聞iNEWS,https://www.567858.xyz/ofiii.php?id=iNEWS
 61中天新聞台,https://www.567858.xyz/ofiii.php?id=4gtv-4gtv009
