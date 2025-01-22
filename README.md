@@ -10,12 +10,6 @@ http://我不是.摸鱼儿.com
 
 "ads":["static-mozai.4gtv.tv","mozai.4gtv.tv"]
 
-TMXK工具程式 https://tmxk.pp.ua/
-
-肥羊直播  https://gongdian.top/tv/okpg/feiyang.txt
-
-纯享·4K「IPV6」,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010006/1.m3u8
-
 ok http://ok321.top/tv
 
 tvbox解密  https://shixiong.alwaysdata.net/
