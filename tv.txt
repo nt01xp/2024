@@ -311,49 +311,103 @@ TVB新聞台,https://www.chaojidianshi.net/zhibo/73.html
 TVB翡翠台,https://www.chaojidianshi.net/zhibo/78.html
 
 
-ofiii頻道,#genre#
+cctv頻道,#genre#
 
-台視,video://https://www.ofiii.com/channel/watch/4gtv-4gtv066
-中視,video://https://www.ofiii.com/channel/watch/4gtv-4gtv040
-華視,video://https://www.ofiii.com/channel/watch/4gtv-4gtv041
-公視金獎,video://https://www.ofiii.com/channel/watch/ofiii13
-ELTV生活英語,video://https://www.ofiii.com/channel/watch/litv-longturn20
-龍華卡通,video://https://www.ofiii.com/channel/watch/litv-longturn01
-龍華經典,video://https://www.ofiii.com/channel/watch/litv-longturn21
-龍華電影,video://https://www.ofiii.com/channel/watch/litv-longturn03
-龍華日韓,video://https://www.ofiii.com/channel/watch/litv-longturn11
-龍華偶像,video://https://www.ofiii.com/channel/watch/litv-longturn12
-龍華戲劇,video://https://www.ofiii.com/channel/watch/litv-longturn18
-SMART知識,video://https://www.ofiii.com/channel/watch/litv-longturn19
-亞洲旅遊,video://https://www.ofiii.com/channel/watch/litv-longturn17
-東森娛樂,video://https://www.ofiii.com/channel/watch/ofiii32
-TVBS綜藝,video://https://www.ofiii.com/channel/watch/ofiii42
-TVBS政論,video://https://www.ofiii.com/channel/watch/ofiii56
-台視新聞,video://https://www.ofiii.com/channel/watch/4gtv-4gtv052
-寰宇新聞,video://https://www.ofiii.com/channel/watch/litv-longturn14
-寰宇新聞,video://https://www.ofiii.com/channel/watch/litv-longturn15
-寰宇財經,video://https://www.ofiii.com/channel/watch/litv-longturn23
-中天新聞,video://https://www.ofiii.com/channel/watch/4gtv-4gtv009
-中視新聞,video://https://www.ofiii.com/channel/watch/4gtv-4gtv074
-華視新聞,video://https://www.ofiii.com/channel/watch/4gtv-4gtv052
-台灣戲劇,video://https://www.ofiii.com/channel/watch/litv-longturn22
-中天亞洲精采,video://https://www.ofiii.com/channel/watch/ofiii36
-第1商業,video://https://www.ofiii.com/channel/watch/4gtv-4gtv104
-第1財經,video://https://www.ofiii.com/channel/watch/ofiii64
-Focus探索新知,video://https://www.ofiii.com/channel/watch/ofiii82
-Focus風采戲劇,video://https://www.ofiii.com/channel/watch/ofiii1048
-哆啦A夢,video://https://www.ofiii.com/channel/watch/ofiii22
-蠟筆小新,video://https://www.ofiii.com/channel/watch/ofiii165
-我們這一家,video://https://www.ofiii.com/channel/watch/ofiii166
-間諜家家酒,video://https://www.ofiii.com/channel/watch/ofiii171
-鬼滅之刃,video://https://www.ofiii.com/channel/watch/ofiii170
-獵人,video://https://www.ofiii.com/channel/watch/ofiii167
-隊長小翼,video://https://www.ofiii.com/channel/watch/ofiii169
-中華一番,video://https://www.ofiii.com/channel/watch/ofiii168
-關於我轉生變成史萊姆這檔事,video://https://www.ofiii.com/channel/watch/ofiii173
-我的婆婆怎麼那麼可愛,video://https://www.ofiii.com/channel/watch/ofiii152
-村裡來了個暴走女外科,video://https://www.ofiii.com/channel/watch/ofiii153
-一把青,video://https://www.ofiii.com/channel/watch/ofiii154
-茶金,video://https://www.ofiii.com/channel/watch/ofiii155
-四樓的天堂,video://https://www.ofiii.com/channel/watch/ofiii156
 
+CCTV-1 综合,webview://https://tv.cctv.com/live/cctv1/
+CCTV-1 综合,webview://https://yangshipin.cn/tv/home?pid=600001859
+CCTV-2 财经,webview://https://tv.cctv.com/live/cctv2/
+CCTV-2 财经,webview://https://yangshipin.cn/tv/home?pid=600001800
+CCTV-3 综艺,webview://https://tv.cctv.com/live/cctv3/
+CCTV-4 中文国际,webview://https://tv.cctv.com/live/cctv4/
+CCTV-4 中文国际,webview://https://yangshipin.cn/tv/home?pid=600001814
+CCTV-5 体育,webview://https://tv.cctv.com/live/cctv5/
+CCTV-5 体育,webview://https://yangshipin.cn/tv/home?pid=600001818
+CCTV-5+ 体育赛事,webview://https://tv.cctv.com/live/cctv5plus/
+CCTV-5+ 体育赛事,webview://https://yangshipin.cn/tv/home?pid=600001817
+CCTV-6 电影,webview://https://tv.cctv.com/live/cctv6/
+CCTV-6 电影,webview://https://yangshipin.cn/tv/home?pid=600108442
+CCTV-7 国防军事,webview://https://tv.cctv.com/live/cctv7/
+CCTV-7 国防军事,webview://https://yangshipin.cn/tv/home?pid=600004092
+CCTV-8 电视剧,webview://https://tv.cctv.com/live/cctv8/
+CCTV-8 电视剧,webview://https://yangshipin.cn/tv/home?pid=600001803
+CCTV-9 纪录,webview://https://tv.cctv.com/live/cctvjilu/
+CCTV-9 纪录,webview://https://yangshipin.cn/tv/home?pid=600004078
+CCTV-10 科教,webview://https://tv.cctv.com/live/cctv10/
+CCTV-10 科教,webview://https://yangshipin.cn/tv/home?pid=600001805
+CCTV-11 戏曲,webview://https://tv.cctv.com/live/cctv11/
+CCTV-11 戏曲,webview://https://yangshipin.cn/tv/home?pid=600001806
+CCTV-12 社会与法,webview://https://tv.cctv.com/live/cctv12/
+CCTV-12 社会与法,webview://https://yangshipin.cn/tv/home?pid=600001807
+CCTV-13 新闻,webview://https://tv.cctv.com/live/cctv13/
+CCTV-13 新闻,webview://https://yangshipin.cn/tv/home?pid=600001811
+CCTV-14 少儿,webview://https://tv.cctv.com/live/cctvchild/
+CCTV-14 少儿,webview://https://yangshipin.cn/tv/home?pid=600001809
+CCTV-15 音乐,webview://https://tv.cctv.com/live/cctv15/
+CCTV-15 音乐,webview://https://yangshipin.cn/tv/home?pid=600001815
+CCTV-16 奥林匹克,webview://https://tv.cctv.com/live/cctv16/
+CCTV-16 奥林匹克,webview://https://yangshipin.cn/tv/home?pid=600098637
+CCTV-17 农业农村,webview://https://tv.cctv.com/live/cctv17/
+CCTV-17 农业农村,webview://https://yangshipin.cn/tv/home?pid=600001810
+CCTV-4 中文国际 (欧),webview://https://tv.cctv.com/live/cctveurope/index.shtml
+CCTV-4 中文国际 (美),webview://https://tv.cctv.com/live/cctvamerica/
+CGTN英语,webview://https://yangshipin.cn/tv/home?pid=600014550
+CGTN记录,webview://https://yangshipin.cn/tv/home?pid=600084781
+CGTN俄语,webview://https://yangshipin.cn/tv/home?pid=600084758
+CGTN法语,webview://https://yangshipin.cn/tv/home?pid=600084704
+CGTN西语,webview://https://yangshipin.cn/tv/home?pid=600084744
+CGTN阿语,webview://https://yangshipin.cn/tv/home?pid=600084782
+CCTV 风云剧场,webview://https://yangshipin.cn/tv/home?pid=600099658
+CCTV 第一剧场,webview://https://yangshipin.cn/tv/home?pid=600099655
+CCTV 怀旧剧场,webview://https://yangshipin.cn/tv/home?pid=600099620
+北京卫视,webview://https://yangshipin.cn/tv/home?pid=600002309
+江苏卫视,webview://https://yangshipin.cn/tv/home?pid=600002521
+东方卫视,webview://https://yangshipin.cn/tv/home?pid=600002483
+浙江卫视,webview://https://yangshipin.cn/tv/home?pid=600002520
+湖南卫视,webview://https://yangshipin.cn/tv/home?pid=600002475
+湖北卫视,webview://https://yangshipin.cn/tv/home?pid=600002508
+广东卫视,webview://https://yangshipin.cn/tv/home?pid=600002485
+广西卫视,webview://https://yangshipin.cn/tv/home?pid=600002509
+黑龙江卫视,webview://https://yangshipin.cn/tv/home?pid=600002498
+海南卫视,webview://https://yangshipin.cn/tv/home?pid=600002506
+重庆卫视,webview://https://yangshipin.cn/tv/home?pid=600002531
+深圳卫视,webview://https://yangshipin.cn/tv/home?pid=600002481
+四川卫视,webview://https://yangshipin.cn/tv/home?pid=600002516
+河南卫视,webview://https://yangshipin.cn/tv/home?pid=600002525
+福建东南卫视,webview://https://yangshipin.cn/tv/home?pid=600002484
+贵州卫视,webview://https://yangshipin.cn/tv/home?pid=600002490
+江西卫视,webview://https://yangshipin.cn/tv/home?pid=600002503
+辽宁卫视,webview://https://yangshipin.cn/tv/home?pid=600002505
+安徽卫视,webview://https://yangshipin.cn/tv/home?pid=600002532
+河北卫视,webview://https://yangshipin.cn/tv/home?pid=600002493
+山东卫视,webview://https://yangshipin.cn/tv/home?pid=600002513
+天津卫视,webview://https://yangshipin.cn/tv/home?pid=600152137
+吉林卫视,webview://https://yangshipin.cn/tv/home?pid=600190405
+陕西卫视,webview://https://yangshipin.cn/tv/home?pid=600190400
+甘肃卫视,webview://https://yangshipin.cn/tv/home?pid=600190408
+宁夏卫视,webview://https://yangshipin.cn/tv/home?pid=600190737
+内蒙古卫视,webview://https://yangshipin.cn/tv/home?pid=600190401
+云南卫视,webview://https://yangshipin.cn/tv/home?pid=600190402
+山西卫视,webview://https://yangshipin.cn/tv/home?pid=600190407
+青海卫视,webview://https://yangshipin.cn/tv/home?pid=600190406
+西藏卫视,webview://https://yangshipin.cn/tv/home?pid=600190403
+广东卫视,webview://https://www.gdtv.cn/tvChannelDetail/43
+广东珠江,webview://https://www.gdtv.cn/tvChannelDetail/44
+广东新闻,webview://https://www.gdtv.cn/tvChannelDetail/45
+广东民生,webview://https://www.gdtv.cn/tvChannelDetail/48
+广东体育,webview://https://www.gdtv.cn/tvChannelDetail/47
+大湾区卫视,webview://https://www.gdtv.cn/tvChannelDetail/51
+大湾区卫视（海外版）,webview://https://www.gdtv.cn/tvChannelDetail/46
+广东影视,webview://https://www.gdtv.cn/tvChannelDetail/53
+4K超高清,webview://https://www.gdtv.cn/tvChannelDetail/16
+广东少儿,webview://https://www.gdtv.cn/tvChannelDetail/54
+嘉佳卡通,webview://https://www.gdtv.cn/tvChannelDetail/66
+南方购物,webview://https://www.gdtv.cn/tvChannelDetail/42
+岭南戏曲,webview://https://www.gdtv.cn/tvChannelDetail/15
+广东移动,webview://https://www.gdtv.cn/tvChannelDetail/74
+荔枝台,webview://https://www.gdtv.cn/tvChannelDetail/100
+纪录片,webview://https://www.gdtv.cn/tvChannelDetail/94
+GRTN健康频道,webview://https://www.gdtv.cn/tvChannelDetail/99
+GRTN文化频道,webview://https://www.gdtv.cn/tvChannelDetail/75
+GRTN生活频道,webview://https://www.gdtv.cn/tvChannelDetail/102
+GRTN教育频道,webview://https://www.gdtv.cn/tvChannelDetail/104
