@@ -312,7 +312,7 @@ TVB翡翠台,https://www.chaojidianshi.net/zhibo/78.html
 
 
 cctv頻道,#genre#
-
+parse=1
 
 CCTV-1 综合,webview://https://tv.cctv.com/live/cctv1/
 CCTV-1 综合,webview://https://yangshipin.cn/tv/home?pid=600001859
