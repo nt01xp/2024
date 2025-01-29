@@ -95,8 +95,6 @@ TMXK TG群组：https://t.me/+rgxyQeDLtjcxM2U1
 
 極致 https://t.me/jizhi111
 
-破解 https://t.me/qq_apk
-
 ok影視 https://t.me/tvb_ys
 
 唐三影視 https://t.me/ys_tvb
@@ -105,7 +103,6 @@ PG节奏熊猫发布频道 https://t.me/PandaGroovePG
 
 天光云影發布 https://t.me/mytv_android_release
 
-TMXK 订阅频道：https://t.me/tmxktg
 
 ********
 聽音樂 @vkmusbot
