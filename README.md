@@ -81,8 +81,6 @@ pixman.io 交流群 https://t.me/livednowgroup
 
 天光云影 https://t.me/mytv_android
 
-TMXK TG群组：https://t.me/+rgxyQeDLtjcxM2U1
-
 ＋＋＋＋＋＋＋＋＋
 
 訂閱
