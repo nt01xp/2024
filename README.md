@@ -1,4 +1,4 @@
-
+PG最新接口:http://weixiao911.com:5522/2025/jsm.json
 
 https://iptv.catvod.com/tv.m3u
 
