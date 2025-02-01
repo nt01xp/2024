@@ -314,7 +314,7 @@ TVB新聞台,https://www.chaojidianshi.net/zhibo/73.html
 TVB翡翠台,https://www.chaojidianshi.net/zhibo/78.html
 
 
-央视,#genre#
+廣西央视,#genre#
 CCTV1,https://tv.2cf.x10.mx/2gx/3221225934/1.m3u8?servicetype=1
 CCTV1,https://tv.2cf.x10.mx/2gx/3221225654/1.m3u8?servicetype=1
 CCTV2,https://tv.2cf.x10.mx/2gx/3221225948/1.m3u8?servicetype=1
@@ -354,7 +354,7 @@ CCTV17,https://tv.2cf.x10.mx/2gx/3221225910/1.m3u8?servicetype=1
 CCTV17,https://tv.2cf.x10.mx/2gx/3221225766/1.m3u8?servicetype=1
 
 
-卫视,#genre#
+廣西卫视,#genre#
 北京卫视,https://tv.2cf.x10.mx/2gx/3221225889/1.m3u8?servicetype=1
 北京卫视,https://tv.2cf.x10.mx/2gx/3221225651/1.m3u8?servicetype=1
 天津卫视,https://tv.2cf.x10.mx/2gx/3221226022/1.m3u8?servicetype=1
@@ -411,7 +411,8 @@ CCTV17,https://tv.2cf.x10.mx/2gx/3221225766/1.m3u8?servicetype=1
 延边卫视,https://tv.2cf.x10.mx/2gx/3221226273/1.m3u8?servicetype=1
 安多卫视,https://tv.2cf.x10.mx/2gx/3221226271/1.m3u8?servicetype=1
 三沙卫视,https://tv.2cf.x10.mx/2gx/3221226315/1.m3u8?servicetype=1
-NEWTV,#genre#
+
+廣西NEWTV,#genre#
 精品综合,https://tv.2cf.x10.mx/2gx/3221225733/1.m3u8?servicetype=1
 精品大剧,https://tv.2cf.x10.mx/2gx/3221225737/1.m3u8?servicetype=1
 精品纪录,https://tv.2cf.x10.mx/2gx/3221225681/1.m3u8?servicetype=1
@@ -437,12 +438,13 @@ NEWTV,#genre#
 睛彩篮球,https://tv.2cf.x10.mx/2gx/3221225961/1.m3u8?servicetype=1
 睛彩青少,https://tv.2cf.x10.mx/2gx/3221226055/1.m3u8?servicetype=1
 
-纯享,#genre#
+廣西纯享,#genre#
 黑莓电影,https://tv.2cf.x10.mx/2gx/3221225740/1.m3u8?servicetype=1
 纯享4K,https://tv.2cf.x10.mx/2gx/3221225726/1.m3u8?servicetype=1
 北京纪实,https://tv.2cf.x10.mx/2gx/3221225995/1.m3u8?servicetype=1
 金鹰纪实,https://tv.2cf.x10.mx/2gx/3221225699/1.m3u8?servicetype=1
 CCTV高尔夫·网球,https://tv.2cf.x10.mx/2gx/3221225884/1.m3u8?servicetype=1
+
 CGTN,#genre#
 CGTN新闻,https://tv.2cf.x10.mx/2gx/3221225816/1.m3u8?servicetype=1
 CGTN纪录,https://tv.2cf.x10.mx/2gx/3221225707/1.m3u8?servicetype=1
