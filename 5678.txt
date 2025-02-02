@@ -166,20 +166,6 @@ NewTV-黑莓动画,http://5678.koyeb.app/itv/1000000004000021734.m3u8?cdn=ystenl
 NewTV-哒啵电竞,http://5678.koyeb.app/itv/1000000006000032327.m3u8?cdn=ystenlive
 NewTV-哒啵赛事,http://5678.koyeb.app/itv/1000000001000003775.m3u8?cdn=ystenlive
 
-SiTV頻道,#genre#
-SiTV-动漫秀场,http://5678.koyeb.app/itv/5000000011000031113.m3u8?cdn=bestzb
-SiTV-都市剧场,http://5678.koyeb.app/itv/5000000011000031111.m3u8?cdn=bestzb
-SiTV-法治天地,http://5678.koyeb.app/itv/9001547084732463424.m3u8?cdn=bestzb
-SiTV-欢笑剧场,http://5678.koyeb.app/itv/5000000002000009455.m3u8?cdn=bestzb
-SiTV-欢笑剧场-4K,http://5678.koyeb.app/itv/5000000007000010001.m3u8?cdn=bestzb
-SiTV-金色学堂,http://5678.koyeb.app/itv/5000000010000026105.m3u8?cdn=bestzb
-SiTV-劲爆体育,http://5678.koyeb.app/itv/5000000002000029972.m3u8?cdn=bestzb
-SiTV-乐游,http://5678.koyeb.app/itv/5000000011000031112.m3u8?cdn=bestzb
-SiTV-魅力足球,http://5678.koyeb.app/itv/5000000011000031207.m3u8?cdn=bestzb
-SiTV-七彩戏剧,http://5678.koyeb.app/itv/5000000011000031116.m3u8?cdn=bestzb
-SiTV-生活时尚,http://5678.koyeb.app/itv/5000000002000019634.m3u8?cdn=bestzb
-SiTV-游戏风云,http://5678.koyeb.app/itv/5000000011000031114.m3u8?cdn=bestzb
-
 iHOT頻道,#genre#
 iHOT-爱电竞,http://5678.koyeb.app/itv/6000000006000230630.m3u8?cdn=wasusyt
 iHOT-爱谍战,http://5678.koyeb.app/itv/6000000006000070630.m3u8?cdn=wasusyt
