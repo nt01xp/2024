@@ -262,59 +262,8 @@ parse=1
 912  親子一起看-FastTV飛速看,https://www.4gtv.tv/channel/fast-live412?set=4&ch=436
 913  怪獸之王-FastTV飛速看,https://www.4gtv.tv/channel/fast-live413?set=4&ch=438
 
-牛視網,#genre#
-parse=1
 
-東森幼幼,https://www.chaojidianshi.net/zhibo/gangtaizhibo/dongsenyouyouYoyoTV.html
-東森洋片,https://www.chaojidianshi.net/zhibo/gangtaizhibo/dongsenyangpianETTVWestern.html
-好萊塢電影,https://www.chaojidianshi.net/zhibo/gangtaizhibo/HollywoodMovies.html
-
-HBO HD,https://www.chaojidianshi.net/zhibo/490570.html
-HBO強檔,https://www.chaojidianshi.net/zhibo/490571.html
-HBO獨創,https://www.chaojidianshi.net/zhibo/490572.html
-HBO家庭,https://www.chaojidianshi.net/zhibo/490569.html
-
-緯來日本,https://www.chaojidianshi.net/zhibo/gangtaizhibo/weilairibentai.html
-緯來電影,https://www.chaojidianshi.net/zhibo/gangtaizhibo/weilaidianyingtai.html
-緯來體育,https://www.chaojidianshi.net/zhibo/gangtaizhibo/weilaitiyutai.html
-
-八大戲劇台,https://www.chaojidianshi.net/zhibo/gangtaizhibo/badaxijuGTVDrama.html
-八大綜合台,https://www.chaojidianshi.net/zhibo/gangtaizhibo/badazongheGTVMetro.html
-八大第一台,https://www.chaojidianshi.net/zhibo/gangtaizhibo/badadiyiGTVFirst.html
-
-愛爾達影劇,https://www.chaojidianshi.net/zhibo/gangtaizhibo/aierdayingju.html
-愛爾達綜合,https://www.chaojidianshi.net/zhibo/gangtaizhibo/aierdazonghetai.html
-
-EYETV戲劇,https://www.chaojidianshi.net/zhibo/gangtaizhibo/EYETVxiju.html
-EYETV旅遊,https://www.chaojidianshi.net/zhibo/gangtaizhibo/EYETVl%C3%BCyou.html
-龍華洋片,https://www.chaojidianshi.net/zhibo/gangtaizhibo/longhuayangpianLunghuaWestern.html
-
-東森新聞,https://www.chaojidianshi.net/zhibo/33.html
-東森戲劇,https://www.chaojidianshi.net/zhibo/gangtaizhibo/dongsenxijuETTVDrama.html
-東森綜合,https://www.chaojidianshi.net/zhibo/gangtaizhibo/dongsenzongheETTVMetro.html
-東森電影,https://www.chaojidianshi.net/zhibo/gangtaizhibo/dongsendianyingETTVMovie.html
-
-三立都會台,https://www.chaojidianshi.net/zhibo/gangtaizhibo/sanlidouhuitai.html
-三立綜合台,https://www.chaojidianshi.net/zhibo/gangtaizhibo/sanlizongheSanliMetro.html
-三立戲劇台,https://www.chaojidianshi.net/zhibo/gangtaizhibo/sanlixijutai.html
-三立台灣台,https://www.chaojidianshi.net/zhibo/gangtaizhibo/sanlitaiwanSanliTaiwan.html
-
-CatchPlay電影台https://www.chaojidianshi.net/zhibo/gangtaizhibo/CatchPlaydianyingtai.html
-CINEMAX電影台,https://www.chaojidianshi.net/zhibo/gangtaizhibo/CINEMAX.html
-
-愛爾達1台,https://www.chaojidianshi.net/zhibo/tiyuzhibo/aierdatiyu1tai.html
-愛爾達2台,https://www.chaojidianshi.net/zhibo/tiyuzhibo/aierdatiyu2tai.html
-
-華視,https://www.chaojidianshi.net/zhibo/gangtaizhibo/huashiCTS.html
-中視,https://www.chaojidianshi.net/zhibo/gangtaizhibo/zhongshi.html
-台視,https://www.chaojidianshi.net/zhibo/gangtaizhibo/taishiTTV.html
-民視,https://www.chaojidianshi.net/zhibo/gangtaizhibo/minshi.html
-
-TVB新聞台,https://www.chaojidianshi.net/zhibo/73.html
-TVB翡翠台,https://www.chaojidianshi.net/zhibo/78.html
-
-
-央視頻道,#genre#
+5678央視,#genre#
 cctv1-高码,http://5678.koyeb.app/gaoma/cctv1.m3u8
 CCTV-1,http://5678.koyeb.app/itv/6000000001000029752.m3u8?cdn=wasusyt
 CCTV-1-50-FPS,http://5678.koyeb.app/itv/5000000004000002226.m3u8?cdn=bestzb
@@ -381,7 +330,7 @@ cctv17-高码,http://5678.koyeb.app/gaoma/cctv17.m3u8
 CCTV-17,http://5678.koyeb.app/itv/1000000006000268004.m3u8?cdn=ystenlive
 CCTV-17-HEVC,http://5678.koyeb.app/itv/1000000005000265015.m3u8?cdn=ystenlive
 
-衛視頻道,#genre#
+5678衛視,#genre#
 江苏卫视-50-FPS,http://5678.koyeb.app/itv/6000000001000014861.m3u8?cdn=wasusyt
 江苏卫视,http://5678.koyeb.app/itv/1000000001000001828.m3u8?cdn=ystenlive
 江苏卫视-HEVC,http://5678.koyeb.app/itv/1000000005000265030.m3u8?cdn=ystenlive
@@ -436,7 +385,7 @@ CCTV-17-HEVC,http://5678.koyeb.app/itv/1000000005000265015.m3u8?cdn=ystenlive
 黑龙江卫视-50-FPS,http://5678.koyeb.app/itv/6000000001000016510.m3u8?cdn=wasusyt
 黑龙江卫视-HEVC,http://5678.koyeb.app/itv/1000000005000265029.m3u8?cdn=ystenlive
 
-數字頻道,#genre#
+5678數字,#genre#
 北京纪实科教,http://5678.koyeb.app/itv/1000000001000001910.m3u8?cdn=ystenlive
 北京纪实科教-HEVC,http://5678.koyeb.app/itv/1000000005000265020.m3u8?cdn=ystenlive
 湖南金鹰纪实,http://5678.koyeb.app/itv/5000000011000031203.m3u8?cdn=bestzb
@@ -449,7 +398,7 @@ CCTV-17-HEVC,http://5678.koyeb.app/itv/1000000005000265015.m3u8?cdn=ystenlive
 求索科学,http://5678.koyeb.app/itv/6000000002000032344.m3u8?cdn=wasusyt
 求索生活,http://5678.koyeb.app/itv/6000000002000003382.m3u8?cdn=wasusyt
 
-NewTV頻道,#genre#
+5678NewTV,#genre#
 NewTV-精品综合,http://5678.koyeb.app/itv/1000000004000019008.m3u8?cdn=ystenlive
 NewTV-精品大剧,http://5678.koyeb.app/itv/1000000004000013968.m3u8?cdn=ystenlive
 NewTV-精品纪录,http://5678.koyeb.app/itv/1000000004000013730.m3u8?cdn=ystenlive
