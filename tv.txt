@@ -26,7 +26,7 @@ TVBS新聞,https://qq01xp.serv00.net/litv.php?id=4gtv-4gtv072
 民視,rtmp://f13h.mine.nu/sat/tv051
 
 
-靖天頻道,#genre#
+靖天直播,#genre#
 靖天日本台,https://qq01xp.serv00.net/litv.php?id=4gtv-4gtv047
 靖天卡通台,https://qq01xp.serv00.net/litv.php?id=4gtv-4gtv044
 靖天育樂台,https://qq01xp.serv00.net/litv.php?id=4gtv-4gtv062
@@ -37,6 +37,13 @@ TVBS新聞,https://qq01xp.serv00.net/litv.php?id=4gtv-4gtv072
 靖天戲劇台,https://qq01xp.serv00.net/litv.php?id=4gtv-4gtv058
 靖洋卡通台,https://qq01xp.serv00.net/litv.php?id=4gtv-4gtv057
 靖洋戲劇台,https://qq01xp.serv00.net/litv.php?id=4gtv-4gtv045
+
+瑞芳九份,https://www.youtube.com/watch?v=XSD5ptYisw8
+象山看台北,https://www.youtube.com/watch?v=z_fY1pj1VBw
+金門建功嶼,https://www.youtube.com/watch?v=uh_yNAE01w8
+高雄蓮池潭,https://www.youtube.com/watch?v=BnPoNatG-HE
+淡水漁人碼頭,https://www.youtube.com/watch?v=xwAWSh35uuw
+太平山蹦蹦車,https://www.youtube.com/watch?v=UculfFVe2Oo
 
 台灣新聞,#genre#
 
@@ -72,14 +79,6 @@ KansaiNews24,https://www.youtube.com/watch?v=sTAqx_1Yrww
 メ～テレ NEWS LIVE 24,https://www.youtube.com/watch?v=-C6FE2m7kX8
 北海道ニュース24,https://www.youtube.com/watch?v=d8CrKBU99Hg
 広島ニュース24,https://www.youtube.com/watch?v=e2pgLUmaxGs
-
-瑞芳九份,https://www.youtube.com/watch?v=XSD5ptYisw8
-象山看台北,https://www.youtube.com/watch?v=z_fY1pj1VBw
-金門建功嶼,https://www.youtube.com/watch?v=uh_yNAE01w8
-高雄蓮池潭,https://www.youtube.com/watch?v=BnPoNatG-HE
-淡水漁人碼頭,https://www.youtube.com/watch?v=xwAWSh35uuw
-太平山蹦蹦車,https://www.youtube.com/watch?v=UculfFVe2Oo
-
 
 4gtv網頁嗅探,#genre#
 parse=1
