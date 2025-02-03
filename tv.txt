@@ -63,8 +63,7 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 
 日本新聞,#genre#
 
-JapaNews24,https://www
-.youtube.com/watch?v=coYw-eVU0Ks
+JapaNews24,https://www.youtube.com/live/coYw-eVU0Ks?si=a_SrIlnGwcXNuiNu
 TBS NEWS DIG,https://www.youtube.com/watch?v=ohI356mwBp8
 KansaiNews24,https://www.youtube.com/watch?v=sTAqx_1Yrww
 メ～テレ NEWS LIVE 24,https://www.youtube.com/watch?v=-C6FE2m7kX8
