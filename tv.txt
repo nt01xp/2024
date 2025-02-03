@@ -8,6 +8,7 @@ CBeebies,udp://@224.1.4.213:11111
 TVBS新聞,https://qq01xp.serv00.net/litv.php?id=4gtv-4gtv072
 東森新聞,https://qq01xp.serv00.net/litv.php?id=4gtv-4gtv152
 東森財經,https://qq01xp.serv00.net/litv.php?id=4gtv-4gtv153
+57怪奇物語,https://www.youtube.com/watch?v=0CfImCAFIPo
 
 靖天日本台,https://qq01xp.serv00.net/litv.php?id=4gtv-4gtv047
 民視旅遊台,https://qq01xp.serv00.net/litv.php?id=litv-ftv07
@@ -25,7 +26,7 @@ TVBS新聞,https://qq01xp.serv00.net/litv.php?id=4gtv-4gtv072
 民視,rtmp://f13h.mine.nu/sat/tv051
 
 
-靖天龍華,#genre#
+靖天頻道,#genre#
 靖天日本台,https://qq01xp.serv00.net/litv.php?id=4gtv-4gtv047
 靖天卡通台,https://qq01xp.serv00.net/litv.php?id=4gtv-4gtv044
 靖天育樂台,https://qq01xp.serv00.net/litv.php?id=4gtv-4gtv062
@@ -52,9 +53,6 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 寰宇新聞,https://www.youtube.com/watch?v=6IquAgfvYmc
 寰宇台灣,https://www.youtube.com/watch?v=w87VGpgd90U
 鏡新聞,https://www.youtube.com/watch?v=5n0y6b0Q25o
-
-57怪奇物語,https://www.youtube.com/watch?v=0CfImCAFIPo
-
 
 日本新聞,#genre#
 
