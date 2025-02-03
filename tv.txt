@@ -63,6 +63,14 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 
 日本新聞,#genre#
 
+JapaNews24,https://www
+.youtube.com/watch?v=coYw-eVU0Ks
+TBS NEWS DIG,https://www.youtube.com/watch?v=ohI356mwBp8
+KansaiNews24,https://www.youtube.com/watch?v=sTAqx_1Yrww
+メ～テレ NEWS LIVE 24,https://www.youtube.com/watch?v=-C6FE2m7kX8
+北海道ニュース24,https://www.youtube.com/watch?v=d8CrKBU99Hg
+広島ニュース24,https://www.youtube.com/watch?v=e2pgLUmaxGs
+
 澳門議事亭前地,https://www.youtube.com/watch?v=ctYalRx7kY4
 富士山(忍野八海),https://www.youtube.com/watch?v=UtxSrmmTQTk
 櫻島火山,https://www.youtube.com/watch?v=PeElJClXtzE
@@ -72,13 +80,8 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 草津温泉（移動式),https://www.youtube.com/watch?v=B_Sc1v1qR-g
 天狗山,https://www.youtube.com/watch?v=42FEEwaiN5w
 天狗山（移動式),https://www.youtube.com/watch?v=MK1s3viAjno
-札幌藻岩山,https://www.youtube.com/watch?v=40aFZT-BQFY
-JapaNews24,https://www.youtube.com/watch?v=coYw-eVU0Ks
-TBS NEWS DIG,https://www.youtube.com/watch?v=ohI356mwBp8
-KansaiNews24,https://www.youtube.com/watch?v=sTAqx_1Yrww
-メ～テレ NEWS LIVE 24,https://www.youtube.com/watch?v=-C6FE2m7kX8
-北海道ニュース24,https://www.youtube.com/watch?v=d8CrKBU99Hg
-広島ニュース24,https://www.youtube.com/watch?v=e2pgLUmaxGs
+
+
 
 4gtv網頁嗅探,#genre#
 parse=1
