@@ -48,6 +48,21 @@ TVBS新聞,https://qq01xp.serv00.net/litv.php?id=4gtv-4gtv072
 靖洋卡通台,https://qq01xp.serv00.net/litv.php?id=4gtv-4gtv057
 靖洋戲劇台,https://qq01xp.serv00.net/litv.php?id=4gtv-4gtv045
 
+龍華電影,udp://@224.1.4.251:11111
+龍華電影,udp://@224.1.4.36:11111
+龍華動畫,udp://@224.1.4.109:11111
+龍華動畫,udp://@224.1.4.180:11111
+龍華戲劇,udp://@224.1.4.41:11111
+龍華戲劇,udp://@230.1.2.149:11111
+龍華經典,udp://@224.1.4.172:11111
+龍華經典,udp://@224.1.4.44:11111
+龍華洋片,udp://@224.1.4.37:11111
+龍華洋片,udp://@230.1.2.211:11111
+龍華偶像,udp://@224.1.4.39:11111
+龍華偶像,udp://@230.1.2.156:11111
+龍華影劇,udp://@230.1.2.167:11111
+龍華影劇,udp://@230.1.2.5:11111
+
 瑞芳九份,https://www.youtube.com/watch?v=XSD5ptYisw8
 象山看台北,https://www.youtube.com/watch?v=z_fY1pj1VBw
 金門建功嶼,https://www.youtube.com/watch?v=uh_yNAE01w8
