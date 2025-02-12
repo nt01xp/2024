@@ -1,5 +1,20 @@
-卡通新聞,#genre#
+米咕央視,#genre#
+世界地理,https://stream1.freetv.fun/aefd4f62fdb92f5751e038261ed30a8226e0461eb8489681ca897229a11447ea.m3u8
+世界地理,https://stream1.freetv.fun/aefd4f62fdb92f5751e038261ed30a8226e0461eb8489681ca897229a11447ea.m3u8
+1綜合,https://stream1.freetv.fun/e6d95477e616bbe30c998d45e14e147ae09cd4a7cd636f60272efa0bd704fce6.m3u8
+1綜合,https://stream1.freetv.fun/e6d95477e616bbe30c998d45e14e147ae09cd4a7cd636f60272efa0bd704fce6.m3u8
+2財經,https://stream1.freetv.fun/73d135416a453a4d6ce8abd3ec569aa8fb9a43e77723a0f9d606486de810ea22.m3u8
+2財經,https://stream1.freetv.fun/73d135416a453a4d6ce8abd3ec569aa8fb9a43e77723a0f9d606486de810ea22.m3u8
+5體育,https://stream1.freetv.fun/9138775eb0cbebe37edfb3db1517178fb4ba962eaf12362d5e19dd11299d1da3.m3u8
+5體育,https://stream1.freetv.fun/9138775eb0cbebe37edfb3db1517178fb4ba962eaf12362d5e19dd11299d1da3.m3u8
+5+體育賽事,https://stream1.freetv.fun/6eb2380268174996b782b90dbf0951b7ac408dcb6f00c1f0e5d3dd3b09b4db76.m3u8
+5+體育賽事,https://stream1.freetv.fun/6eb2380268174996b782b90dbf0951b7ac408dcb6f00c1f0e5d3dd3b09b4db76.m3u8
+9紀錄,https://stream1.freetv.fun/db61e7c46258a468c3ffbfbc097a7ff8eec6611f37caf8289d4b093715a8c4fa.m3u8
+9紀錄,https://stream1.freetv.fun/db61e7c46258a468c3ffbfbc097a7ff8eec6611f37caf8289d4b093715a8c4fa.m3u8
+10科教,https://stream1.freetv.fun/d9c08695fe2fd2ac77622f90ca81e6a9a316979bf666597ffb2ebee84c289d7f.m3u8
+10科教,https://stream1.freetv.fun/d9c08695fe2fd2ac77622f90ca81e6a9a316979bf666597ffb2ebee84c289d7f.m3u8
 
+卡通新聞,#genre#
 CBeebies,udp://@224.1.4.213:11111
 CBeebies,udp://@224.1.4.75:11111
 CatchPlay電影M,udp://@230.1.2.217:11111
