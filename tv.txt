@@ -93,7 +93,7 @@ JapaNews24,https://www.youtube.com/live/coYw-eVU0Ks?si=a_SrIlnGwcXNuiNu
 TBS NEWS DIG,https://www.youtube.com/watch?v=ohI356mwBp8
 KansaiNews24,https://www.youtube.com/watch?v=sTAqx_1Yrww
 メ～テレ NEWS LIVE 24,https://www.youtube.com/watch?v=-C6FE2m7kX8
-北海道ニュース24,https://www.youtube.com/watch?v=d8CrKBU99Hg
+北海道ニュース24,https://www.youtube.com/watch?v=7-Vky63lvek
 広島ニュース24,https://www.youtube.com/watch?v=e2pgLUmaxGs
 
 澳門議事亭前地,https://www.youtube.com/watch?v=ctYalRx7kY4
