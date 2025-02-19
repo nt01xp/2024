@@ -1,7 +1,7 @@
 
 卡通新聞,#genre#
 
-哪吒之魔童降世,https://vip.lz-cdn2.com/20220507/5836_2ae33239/1200k/hls/mixed.m3u8
+哪吒之魔童降世,https://vip.lz-cdn2.com/20220507/5836_2ae33239/index.m3u8
 哪吒之魔童鬧海,https://vv.jisuzyv.com/play/rb2YlgMa/index.m3u8
 
 CBeebies,udp://@224.1.4.213:11111
