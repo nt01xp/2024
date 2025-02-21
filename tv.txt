@@ -15,8 +15,6 @@ CatchPlay電影M,udp://@230.1.2.37:11111
 台視M,udp://@224.1.4.8:11111
 台視M,udp://@230.1.2.227:11111
 
-東森幼幼,http://50.7.234.10:8278/yoyo_twn/playlist.m3u8?ct=17874&tid=m84c9b210bc7f11269156&tsum=51340c8fb7ca02ab978ee0791843501d
-
 柯南劇場版1,https://www.goodiptv.club/douyu/6484910
 柯南劇場版2,https://www.goodiptv.club/douyu/1487654
 
