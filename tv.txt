@@ -97,6 +97,7 @@ KansaiNews24,https://www.youtube.com/watch?v=sTAqx_1Yrww
 メ～テレ NEWS LIVE 24,https://www.youtube.com/watch?v=-C6FE2m7kX8
 北海道ニュース24,https://www.youtube.com/watch?v=7-Vky63lvek
 広島ニュース24,https://www.youtube.com/watch?v=e2pgLUmaxGs
+日テレNEWS,https://www.youtube.com/watch?v=t9kwjZBLI-A
 
 澳門議事亭前地,https://www.youtube.com/watch?v=ctYalRx7kY4
 富士山(忍野八海),https://www.youtube.com/watch?v=UtxSrmmTQTk
