@@ -1,10 +1,10 @@
-PG最新接口:http://weixiao911.com:5522/2025/jsm.json
+PG最新接口: http://www.fish2018.us.kg/p/jsm.json
 
-https://iptv.catvod.com/tv.m3u
+PG最新接口: http://weixiao911.com:5522/2025/jsm.json
 
-pg在線接口
+PG最新接口: https://iptv.catvod.com/tv.m3u
 
-https://tvbox.catvod.com/jsm.json
+PG最新接口: https://tvbox.catvod.com/jsm.json
 
 http://我不是.摸鱼儿.com
 
