@@ -1,5 +1,5 @@
 
-卡通新聞,#genre#
+卡通頻道,#genre#
 CBeebies,udp://@224.1.4.213:11111
 CBeebies,udp://@224.1.4.75:11111
 CatchPlay電影M,udp://@230.1.2.217:11111
