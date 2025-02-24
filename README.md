@@ -10,8 +10,6 @@ http://我不是.摸鱼儿.com
 
 "ads":["static-mozai.4gtv.tv","mozai.4gtv.tv"]}
 
-ok http://ok321.top/tv
-
 tvbox解密  https://shixiong.alwaysdata.net/
 
 范明明IPTV6,https://fanmingming.com/txt?url=https://live.fanmingming.cn/tv/m3u/ipv6.m3u
