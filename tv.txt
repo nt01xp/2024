@@ -1,9 +1,5 @@
 
 卡通新聞,#genre#
-
-哪吒1之魔童降世,https://vip.lz-cdn2.com/20220507/5836_2ae33239/index.m3u8
-哪吒2之魔童鬧海,https://c1.7bbffvip.com/video/nazhazhimotongnaohai/修复版/index.m3u8
-
 CBeebies,udp://@224.1.4.213:11111
 CBeebies,udp://@224.1.4.75:11111
 CatchPlay電影M,udp://@230.1.2.217:11111
@@ -29,15 +25,6 @@ CatchPlay電影M,udp://@230.1.2.37:11111
 
 柯南劇場版1,https://www.goodiptv.club/douyu/6484910
 柯南劇場版2,https://www.goodiptv.club/douyu/1487654
-
-TVBS新聞,https://qq01xp.serv00.net/2024litv.php?id=4gtv-4gtv072
-東森新聞,https://qq01xp.serv00.net/2024litv.php?id=4gtv-4gtv152
-東森財經,https://qq01xp.serv00.net/2024litv.php?id=4gtv-4gtv153
-57怪奇物語,https://www.youtube.com/watch?v=0CfImCAFIPo
-
-靖天日本台,https://qq01xp.serv00.net/2024litv.php?id=4gtv-4gtv047
-民視旅遊台,https://qq01xp.serv00.net/2024litv.php?id=litv-ftv07
-亞洲旅遊台,https://qq01xp.serv00.net/2024litv.php?id=4gtv-4gtv076
 
 動物星球,http://61.221.215.25:8800/hls/57/index.m3u8
 八大綜合,http://61.221.215.25:8800/hls/56/index.m3u8
