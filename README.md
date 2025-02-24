@@ -8,7 +8,7 @@ PG最新接口: https://tvbox.catvod.com/jsm.json
 
 http://我不是.摸鱼儿.com
 
-"ads":["static-mozai.4gtv.tv","mozai.4gtv.tv"]
+"ads":["static-mozai.4gtv.tv","mozai.4gtv.tv"]}
 
 ok http://ok321.top/tv
 
