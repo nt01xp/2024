@@ -279,6 +279,13 @@ CCTV5,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=10
 CCTV5,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000005000025222&livemode=1&stbId=meyou&mode=1
 CCTV5,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265005&livemode=1&stbId=meyou&mode=1
 CCTV5,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=reallive-cctv5&livemode=1&stbId=meyou&mode=1
+CCTV5+,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=bestzb&Contentid=5000000011000031127&livemode=1&stbId=meyou&mode=1
+CCTV5+,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=hnbblive&Contentid=5350361928876847638&livemode=1&stbId=meyou&mode=1
+CCTV5+,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=wasusyt&Contentid=6000000001000015875&livemode=1&stbId=meyou&mode=1
+CCTV5+,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000018504&livemode=1&stbId=meyou&mode=1
+CCTV5+,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000020505&livemode=1&stbId=meyou&mode=1
+CCTV5+,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265016&livemode=1&stbId=meyou&mode=1
+CCTV5+,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=reallive-cctv5plus&livemode=1&stbId=meyou&mode=1
 6電影,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=bestzb&Contentid=5000000004000008886&livemode=1&stbId=meyou&mode=1
 6電影,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=bestzb&Contentid=5000000010000018433&livemode=1&stbId=meyou&mode=1
 6電影,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=bestzb&Contentid=5000000011000265006&livemode=1&stbId=meyou&mode=1
@@ -355,13 +362,6 @@ CCTV17,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=bestzb&Contentid=5000
 CCTV17,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000005000056836&livemode=1&stbId=meyou&mode=1
 CCTV17,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265015&livemode=1&stbId=meyou&mode=1
 CCTV17,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000006000268004&livemode=1&stbId=meyou&mode=1
-CCTV5+,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=bestzb&Contentid=5000000011000031127&livemode=1&stbId=meyou&mode=1
-CCTV5+,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=hnbblive&Contentid=5350361928876847638&livemode=1&stbId=meyou&mode=1
-CCTV5+,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=wasusyt&Contentid=6000000001000015875&livemode=1&stbId=meyou&mode=1
-CCTV5+,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000018504&livemode=1&stbId=meyou&mode=1
-CCTV5+,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000020505&livemode=1&stbId=meyou&mode=1
-CCTV5+,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265016&livemode=1&stbId=meyou&mode=1
-CCTV5+,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=reallive-cctv5plus&livemode=1&stbId=meyou&mode=1
 
 卫视频道,#genre#
 
