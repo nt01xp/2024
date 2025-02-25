@@ -1,4 +1,6 @@
-https://github.com/qist/tvbox/blob/master/jsm.json
+央視 https://github.com/qist/tvbox/blob/master/jsm.json
+
+央視 https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/jsm.json
 
 PG最新接口: http://www.fish2018.us.kg/p/jsm.json
 
