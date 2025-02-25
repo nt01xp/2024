@@ -125,4 +125,3 @@ EPG機器人 @myepg_bot
 
 tg delete https://my.telegram.org/auth
 
-pg貓  https://github.com/alantang1977/pg
