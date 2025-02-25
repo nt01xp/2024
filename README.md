@@ -10,6 +10,9 @@ http://我不是.摸鱼儿.com
 
 "ads":["static-mozai.4gtv.tv","mozai.4gtv.tv"]}
 
+"ads": [
+    "static-mozai.4gtv.tv","mozai.4gtv.tv"
+
 tvbox解密 https://ua.fongmi.eu.org
 
 范明明IPTV6,https://fanmingming.com/txt?url=https://live.fanmingming.cn/tv/m3u/ipv6.m3u
