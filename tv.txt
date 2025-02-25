@@ -25,8 +25,7 @@ CatchPlay電影M,udp://@230.1.2.37:11111
 愛爾達體育4台,udp://@230.1.2.146:11111
 愛爾達綜合台,udp://@224.1.4.114:11111
 愛爾達綜合台,udp://@230.1.2.133:11111
-愛爾達影劇台,udp://@224.1.4.113:11111
-愛爾達影劇台,udp://@230.1.2.132:11111
+
 
 柯南劇場版1,https://www.goodiptv.club/douyu/6484910
 柯南劇場版2,https://www.goodiptv.club/douyu/1487654
@@ -37,9 +36,9 @@ CatchPlay電影M,udp://@230.1.2.37:11111
 緯來日本,rtmp://f13h.mine.nu/sat/tv771
 緯來育樂,rtmp://f13h.mine.nu/sat/tv701
 緯來體育,rtmp://f13h.mine.nu/sat/tv721
-華視,rtmp://f13h.mine.nu/sat/tv111
-中視,rtmp://f13h.mine.nu/sat/tv091
-台視,rtmp://f13h.mine.nu/sat/tv071
+華視R,rtmp://f13h.mine.nu/sat/tv111
+中視R,rtmp://f13h.mine.nu/sat/tv091
+台視R,rtmp://f13h.mine.nu/sat/tv071
 民視,rtmp://f13h.mine.nu/sat/tv051
 
 台灣新聞,#genre#
