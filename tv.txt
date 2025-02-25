@@ -56,6 +56,12 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 寰宇新聞,https://www.youtube.com/watch?v=6IquAgfvYmc
 寰宇台灣,https://www.youtube.com/watch?v=w87VGpgd90U
 鏡新聞,https://www.youtube.com/watch?v=5n0y6b0Q25o
+瑞芳九份,https://www.youtube.com/watch?v=XSD5ptYisw8
+象山看台北,https://www.youtube.com/watch?v=z_fY1pj1VBw
+金門建功嶼,https://www.youtube.com/watch?v=uh_yNAE01w8
+高雄蓮池潭,https://www.youtube.com/watch?v=BnPoNatG-HE
+淡水漁人碼頭,https://www.youtube.com/watch?v=xwAWSh35uuw
+太平山蹦蹦車,https://www.youtube.com/watch?v=UculfFVe2Oo
 
 
 靖天直播,#genre#
@@ -96,15 +102,6 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 龍華偶像,udp://@230.1.2.156:11111
 龍華影劇,udp://@230.1.2.167:11111
 龍華影劇,udp://@230.1.2.5:11111
-
-瑞芳九份,https://www.youtube.com/watch?v=XSD5ptYisw8
-象山看台北,https://www.youtube.com/watch?v=z_fY1pj1VBw
-金門建功嶼,https://www.youtube.com/watch?v=uh_yNAE01w8
-高雄蓮池潭,https://www.youtube.com/watch?v=BnPoNatG-HE
-淡水漁人碼頭,https://www.youtube.com/watch?v=xwAWSh35uuw
-太平山蹦蹦車,https://www.youtube.com/watch?v=UculfFVe2Oo
-
-
 
 日本新聞,#genre#
 
