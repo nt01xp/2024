@@ -1,3 +1,5 @@
+https://github.com/qist/tvbox/blob/master/jsm.json
+
 PG最新接口: http://www.fish2018.us.kg/p/jsm.json
 
 PG最新接口: http://weixiao911.com:5522/2025/jsm.json
