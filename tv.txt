@@ -1,5 +1,10 @@
 
 卡通頻道,#genre#
+我們這一家,https://www.youtube.com/watch?v=WHednLn-HjA
+新哆啦A夢,https://www.youtube.com/watch?v=dgAEF2ppKg8
+蠟筆小新,https://www.youtube.com/watch?v=T0J79UaCTAs
+
+
 CBeebies,udp://@224.1.4.213:11111
 CBeebies,udp://@224.1.4.75:11111
 CatchPlay電影M,udp://@230.1.2.217:11111
