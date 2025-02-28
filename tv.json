@@ -355,7 +355,12 @@
         "cache.ott.bestlive.itv.cmvideo.cn=hw3a.douyucdn2.cn.ctdns.cn",
         "cache.ott.wasulive.itv.cmvideo.cn=hw3a.douyucdn2.cn.ctdns.cn",
         "cache.ott.fifalive.itv.cmvideo.cn=hw3a.douyucdn2.cn.ctdns.cn",
-        "cache.ott.hnbblive.itv.cmvideo.cn=hw3a.douyucdn2.cn.ctdns.cn"
+        "cache.ott.hnbblive.itv.cmvideo.cn=hw3a.douyucdn2.cn.ctdns.cn",
+        "cache.ott.ystenlive.itv.cmvideo.cn=itv.dns.xuran1983.cn",
+        "cache.ott.bestlive.itv.cmvideo.cn=itv.dns.xuran1983.cn",
+        "cache.ott.wasulive.itv.cmvideo.cn=itv.dns.xuran1983.cn",
+        "cache.ott.hnbblive.itv.cmvideo.cn=itv.dns.xuran1983.cn",
+        "cache.ott.fifalive.itv.cmvideo.cn=itv.dns.xuran1983.cn"
 ],
 "flags":["youku","优酷","优 酷","优酷视频", "qq","腾讯","腾 讯","腾讯视频", "iqiyi", "qiyi","奇艺","爱奇艺","爱 奇 艺", "m1905", "xigua", "letv","leshi","乐视","乐 视", "sohu","搜狐","搜 狐","搜狐视频", "tudou","mgtv","芒果","imgo","芒果TV","芒 果 T V", "bilibili","哔 哩","哔 哩 哔 哩","SPA","YuMi-vip","pptv","PPTV","ltnb","rx","SLYS4k","tucheng","BYGA","luanzi","dxzy","QEYSS","aliyun","AliS","122","chuangying","CL4K","xfyun","wuduzy","wasu","renrenmi","ppayun","haiwaikan","cool","dbm3u8","xmm","funshion","ruyi1080","ruyib1080"],
 "doh":[
