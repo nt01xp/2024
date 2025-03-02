@@ -225,3 +225,1208 @@ parse=1
 109  寰宇新聞台,https://www.4gtv.tv/channel/litv-longturn14?set=1&ch=36
 110  寰宇新聞台灣台,https://www.4gtv.tv/channel/4gtv-4gtv156?set=1&ch=280
 
+名偵探柯南,#genre#
+parse=1
+
+第1话 云霄飞车杀人事件,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=vlKbgSCoKM	
+第2话 董事长千金绑架事件,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=QM7RUcRMr2	
+第3话 偶像密室杀人事件,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=3NgAsoQtFo	
+第4话 大都会暗号地图事件,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=YXsSYNFD6m	
+第5话 新干线大爆破事件,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=4vKXJ4LxPD	
+第6话 情人节杀人事件,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=d4u2FDXP6K	
+第7话 每月一件礼物威胁事件,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=4Zvi63puUp	
+第8话 美术馆杀人事件,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=E7JhjDzdjy	
+第9话 天下第一夜祭杀人事件,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=EoFdw9MDrx	
+第10话 足球选手恐吓事件,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=L7MfZ77jkY	
+第11话 钢琴协奏曲《月光》杀人事件（上）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=7cf8JoWJMb	
+第12话 钢琴协奏曲《月光》杀人事件（下）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=AM9CtenBNb	
+第13话 步美被綁架了,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=39xtkeZ8Tn	
+第14话 奇怪的寻人事件,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=Up7Ql89Jkh	
+第15话 谜样的讯息狙击事件,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=7s5nV7uoEL	
+第16话 消失的尸体,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=3m5P9GrZn8	
+第17话 古董收藏家杀人事件,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=KvhXo8xqP9	
+第18话 百货公司挟持事件,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=WsJjbgTYnE	
+第19话 六月新娘杀人事件,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=K5xT637hF5	
+第20话 电梯杀人事件,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=hDs426hsPw	
+第21话 鬼屋杀人事件,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=dxG7EcdTpQ	
+第22话 电视剧外景队杀人事件,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=nCekFLGLGl	
+第23话 豪华客轮连续杀人事件 上集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=KVFUGMcjU9	
+第24话 豪华客轮连续杀人事件 下集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=J8vM36UGKT	
+第25话 丧失记忆的美少女事件,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=rWCY7CWp7Z	
+第26话 真假人质绑票案,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=7J3bgyNZwB	
+第27话 爱犬约翰杀人事件,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=MoAFp2voCN	
+第28话 小五郎同学会杀人事件(上),https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=mYnMF6Mv6T	
+第29话 小五郎同学会杀人事件(下),https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=hChLaanEd2	
+第30话 电脑杀人事件,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=Qm4Frkowbc	
+第31话 不在场证明杀人事件,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=Sgs9Cy2MSD	
+第32话 电视台杀人事件,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=iE5NDopXL3	
+第33话 咖啡店杀人事件,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=xFU4Ki4Z6U	
+第34话 侦探团生还事件,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=nVXEB3Ut8H	
+第35话 山庄绷带怪人之杀人事件(上),https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=L8dxbTnezg	
+第36话 山庄绷带怪人之杀人事件(下),https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=CJN8A7gcWk	
+第37话 周一晚上７：３０杀人事件,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=L7GDJq7YCs	
+第38话 仙人掌花杀人事件,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=czqc37oZNM	
+第39话 红鬼村火祭杀人事件,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=yvjjEUUUkD	
+第40话 企业家千金杀人事件（上）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=4ZRhGpE6gJ	
+第41话 企业家千金杀人事件（下）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=sCRMMMpiq4	
+第42话 优胜锦旗被割事件,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=Soyn2rWy2C	
+第43话 卡拉ＯＫ厅杀人事件,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=yPzzN8ccnr	
+第44话 江户川柯南诱拐事件,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=PCroslyiFd	
+第45话 崛田三兄弟杀人事件,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=Nstri3vUzx	
+第46话 敷面膜杀人事件,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=wL9aMSprLK	
+第47话 雪山山庄杀人事件,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=fNsuXb5noG	
+第48话 体育俱乐部杀人事件,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=jnpFc4gwhG	
+第49话 外交官杀人事件（上）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=fAUJJQFHDC	
+第50话 外交官杀人事件（下）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=HnClmLMyui	
+第51话 图书馆杀人事件,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=tCj722bE4p	
+第52话 高尔夫练习场杀人事件,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=Drc8L3LyHH	
+第53话 雾天狗传说杀人事件（上）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=g3KMZuKjTp	
+第54话 雾天狗传说杀人事件（下）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=yjlRyxeWsx	
+第55话 谜样的凶器杀人事件,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=F7XF78Qnae	
+第56话 电玩公司杀人事件,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=7ksqRjuugU	
+第57话 列车圈套杀人事件,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=Ni2WnPttn8	
+第58话 清洁公司杀人事件,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=mNXSFbu84B	
+第59话 福尔摩斯迷杀人事件 上集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=bx7wuYtWsN	
+第60话 福尔摩斯迷杀人事件 下集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=hEYqguGt4c	
+第61话 首次跑腿的杀人事件,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=4ysiMouvKJ	
+第62话 插画画家杀人事件,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=ShdR3rC7cA	
+第63话 幽灵船杀人事件 上集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=gVPT2efbur	
+第64话 幽灵船杀人事件 下集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=bkgEgCvosE	
+第65话 大怪兽哥美拉杀人事件,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=Lc8ChQcLwZ	
+第66话 第三个指纹杀人事件,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=hXzytsf6Up	
+第67话 螃蟹与鲸鱼绑架事件,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=NlqpFa4oqn	
+第68话 夜路杀人事件,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=TpoxpttxCY	
+第69话 舞台女演员杀人事件,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=hECFpnSUg9	
+第70话 暗夜公爵杀人事件 事件篇,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=PiihW2FKD4	
+第71话 暗夜公爵杀人事件 疑惑篇,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=6xFNGeZNTw	
+第72话 暗夜公爵杀人事件 解决篇,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=vxGgUzC2Hx	
+第73话 米花之狼杀人事件,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=Cs7EHKD7wg	
+第74话 三胞胎别墅杀人事件,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=jDAiHN3tpE	
+第75话 少年侦探队遇难事件,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=apMHsgRNob	
+第76话 死神阵内杀人事件,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=JPDLqGtSbG	
+第77话 金融公司社长杀人事件,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=Cb8alkdQoy	
+第78话 柯南对怪盗基德 上集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=2A9LiXUkoZ	
+第79话 柯南对怪盗基德 下集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=MxetMvqK3p	
+第80话 名家连续惨死事件 上集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=7bA3gg6Ufu	
+第81话 名家连续惨死事件 下集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=7qEEuPafqg	
+第82话 银行强盗杀人事件,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=xzscxt4pgt	
+第83话 放浪画家杀人事件,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=nMkLlPzKF8	
+第84话 当红艺人绑架事件 上集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=7xqefNsaCq	
+第85话 当红艺人绑架事件 下集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=G4qr8JBZzk	
+第86话 综合医院杀人事件,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=g4XDMFgXvN	
+第87话 滑雪别墅杀人事件 上集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=soVEjvQoxF	
+第88话 滑雪别墅杀人事件 下集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=6jDL92Xvac	
+第89话 诱拐现场特定事件,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=BEqTDhXliZ	
+第90话 白鹤报恩杀人事件,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=lojf8NAjMK	
+第91话 德修拉别墅杀人事件 上集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=KPii3nKECt	
+第92话 德修拉别墅杀人事件 下集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=NFNk98wWGX	
+第93话 花香杀人事件,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=yJJLQo8w3z	
+第94话 抢匪住院事件,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=cXhNfCFWa7	
+第95话 恐怖爬山杀人事件 上集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=KSE6swD84e	
+第96话 恐怖爬山杀人事件 下集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=HLstJRG3Pa	
+第97话 雪女传说杀人事件,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=E3WKJWDDiA	
+第98话 小五郎约会杀人事件,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=6G8Z5jbi42	
+第99话 走投无路的名侦探连续两大杀人事件 四之一,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=V3SjpzNh4h	
+第100话 走投无路的名侦探连续两大杀人事件 四之二,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=3N8xmiCEho	
+第101话 走投无路的名侦探连续两大杀人事件 四之三,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=HCtzGPKE2o	
+第102话 走投无路的名侦探连续两大杀人事件 四之四,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=qFNnxzKXWA	
+第103话 离别美酒杀人事件,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=rK3Pr58eNu	
+第104话 名陶艺家杀人事件 上集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=Mb4hjyqABh	
+第105话 名陶艺家杀人事件 下集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=xEDqodxVwp	
+第106话 初恋情人回忆事件 上集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=3XJ7nMtrDG	
+第107话 初恋情人回忆事件 下集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=JyteLa8sl2	
+第108话 古装剧演员杀人事件 上集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=2WDjtDr8xK	
+第109话 古装剧演员杀人事件 下集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=XCCWakwpAf	
+第110话 窃盗集团别墅事件 上集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=sofYiQRTHU	
+第111话 窃盗集团别墅事件 下集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=lrAUqsDolA	
+第112话 新闻照片杀人事件,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=Kn8GNPis3D	
+第113话 鼹鼠星人之谜事件 上集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=obnBJb3nCP	
+第114话 鼹鼠星人之谜事件 下集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=bLxrLneC8s	
+第115话 侦探队大追击事件,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=r2vLXmsXlm	
+第116话 烹饪教室杀人事件 上集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=eXUrdMsoHn	
+第117话 烹饪教室杀人事件 下集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=GkPseKgFYv	
+第118话 帝丹小学七大离奇事件,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=3RzCxa4AGn	
+第119话 白色海滩杀人事件,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=4W9zhghyi8	
+第120话 有氧潜水杀人事件 上集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=ygirhLWXrq	
+第121话 有氧潜水杀人事件 下集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=v4nmhKbnDR	
+第122话 推理小说家失踪事件 上集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=EQNjVke77u	
+第123话 推理小说家失踪事件 下集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=xlKxoVqsa3	
+第124话 浪花连续杀人事件 上集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=c8phNMhrhV	
+第125话 浪花连续杀人事件 下集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=b3YjJvQFvN	
+第126话 假面超人杀人事件,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=SJWsMLgRPi	
+第127话 蜂蜜鸡尾酒杀人事件,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=Rt3rJQwZET	
+第128话 浴室密室事件 上集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=ogxRymDjnt	
+第129话 浴室密室事件 下集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=E3rKCof27K	
+第130话 天气预报小姐绑架事件,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=ZoatxHdm2Z	
+第131话 神秘狙击者杀人事件 上集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=sPDNflP382	
+第132话 神秘狙击者杀人事件 下集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=GqbMbCYMTr	
+第133话 旅行戏团杀人事件 上集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=RwgJY3lDXe	
+第134话 旅行戏团杀人事件 下集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=txxGR43H4i	
+第135话 黑暗组织十亿元抢劫事件,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=j4Ubb7J8x6	
+第136话 黑暗组织来的女子 大学教授杀人事件 一,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=Wmo6iF4E6D	
+第137话 黑暗组织来的女子 大学教授杀人事件 二,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=WHzp6NPlvw	
+第138话 黑暗组织来的女子 大学教授杀人事件 三,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=XHeeaqXZ2i	
+第139话 黑暗组织来的女子 大学教授杀人事件 四,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=5WwNpYKsoi	
+第140话 竞技场一视同仁胁迫事件 上集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=PJHFWnENu9	
+第141话 竞技场一视同仁胁迫事件 下集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=2zGzR34xKZ	
+第142话 魔术爱好者杀人事件（事件篇）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=PLpF46CZiW	
+第143话 魔术爱好者杀人事件（疑惑篇）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=GfPqtKGFJT	
+第144话 魔术爱好者杀人事件（解决篇）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=pPjMuwXfox	
+第145话 消失的凶器搜查事件,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=72Bjgaq6JP	
+第146话 蓝色古堡探索事件 上集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=NR4trokihA	
+第147话 蓝色古堡探索事件 下集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=mRXlFNhb7P	
+第148话 最终播映杀人事件 上集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=qr46oNk2mP	
+第149话 最终播映杀人事件 下集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=gdU2djXm8t	
+第150话 SOS!步美传达的讯息,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=gpyFCj7lhG	
+第151话 结婚前夕的密室事件 上集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=Sdka4LiW44	
+第152话 结婚前夕的密室事件 下集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=JN3yyFRohP	
+第153话 疑惑的天体观测,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=ylfNlV4gt5	
+第154话 上野出发的北斗星三号 上集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=gU8TgrbMBD	
+第155话 上野出发的北斗星三号 下集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=53jufmJFn9	
+第156话 总局刑警恋爱物语 上集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=5zKCGk4JVm	
+第157话 总局刑警恋爱物语 下集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=hsszFDzS4o	
+第158话 地上电车紧急煞车事件,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=46qW6Vzgsi	
+第159话 游乐园高空弹跳事件,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=3icKTB7JsE	
+第160话 汽车爆炸事件的真相 上集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=iqhMhqHJt5	
+第161话 汽车爆炸事件的真相 下集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=TyryjXXVln	
+第162话 神秘老人失踪事件,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=w4V47M7AUB	
+第163话 园子的危险夏日物语 上集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=LXhSfpsyYS	
+第164话 园子的危险夏日物语 下集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=5rBTj2RH9r	
+第165话 水中钥密室事件,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=oV85s3yXHq	
+第166话 总局刑警恋爱物语２ 上集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=NiDJv3LsGt	
+第167话 总局刑警恋爱物语２ 下集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=JbyLQGlyr6	
+第168话 沉默的环状线,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=qSuW7WZ2Vw	
+第169话 诡异的五重塔传说 上集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=Dj9d824CgC	
+第170话 诡异的五重塔传说 下集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=UN572fSkxk	
+第171话 流经流水亭的杀机,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=35SED6MRR5	
+第172话 飞天密室 工藤新一最初的案件 上集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=7f4pGDsZ7X	
+第173话 飞天密室 工藤新一最初的案件 下集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=gdDYL5RCQZ	
+第174话 月亮、星星与太阳的秘密 上集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=kyceWlLGjB	
+第175话 月亮、星星与太阳的秘密 下集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=g6YW6oi4qA	
+第176话 少年侦探队消失事件,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=7rDVLARaGq	
+第177话 鸟取蜘蛛之家的古怪 事件篇,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=VUMVWsuXye	
+第178话 鸟取蜘蛛之家的古怪 疑惑篇,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=iNcVGVbEYl	
+第179话 鸟取蜘蛛之家的古怪 解决篇,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=33xDQzqSki	
+第180话 维纳斯之吻,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=UJCzDoNhSL	
+第181话 黑暗中的死角 上集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=zNz2xKiwSk	
+第182话 黑暗中的死角 下集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=T8SebBJgcL	
+第183话 复活的死亡讯息 上集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=EiDqucd5QF	
+第184话 复活的死亡讯息 下集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=Qh5izScVaX	
+第185话 二十年后的杀机 交响乐号连续杀人事件 一,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=X34eiJBmDg	
+第186话 二十年后的杀机 交响乐号连续杀人事件 二,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=tFkon5eNBz	
+第187话 二十年后的杀机 交响乐号连续杀人事件 三,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=pzKxMiGqcx	
+第188话 二十年后的杀机 交响乐号连续杀人事件 四,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=K4YpNFMBUa	
+第189话 惨遭四次杀害的男子,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=MWGNDNQ6dD	
+第190话 与黑暗组织再次重逢 灰原篇,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=qP2YvYh9eT	
+第191话 与黑暗组织再次重逢 柯南篇,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=siZacmM7ei	
+第192话 与黑暗组织再次重逢 解决篇,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=haSXnn2jqM	
+第193话 卡车直冲咖啡店事件,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=YwDtSXXMkp	
+第194话 红色杀机梦幻曲 上集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=qXGWwcfVAm	
+第195话 红色杀机梦幻曲 下集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=WKcYrWhyvK	
+第196话 九道门大搜索,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=ZNQGX4rb2c	
+第197话 危险的食谱,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=enlAVqg4d7	
+第198话 诅咒假面的冷笑 上集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=MBRrxJ3kYY	
+第199话 诅咒假面的冷笑 下集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=nD2lP9yxV3	
+第200话 名侦探遇害记 上集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=Svhtk2tMSy	
+第201话 名侦探遇害记 下集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=NBDQqxDmKw	
+第202话 黑暗中的神秘枪响,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=veLxaWwzai	
+第203话 生死一瞬间 侦探队洞窟探险记,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=6ABz325nKo	
+第204话 生死一瞬间 名侦探负伤记,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=aPoxuzQAZe	
+第205话 生死一瞬间 第三个选择,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=BMqvQMSJjt	
+第206话 生死一瞬间 黑衣骑士,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=vaeQKRuVUF	
+第207话 生死一瞬间 新一回来了,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=9chyvtjD67	
+第208话 生死一瞬间 约会的地点,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=rlTkbJG8eX	
+第209话 饶富意味的音乐盒 上集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=jFmQdpNd9x	
+第210话 饶富意味的音乐盒 下集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=Tvv3V7pQnC	
+第211话 看不见的凶器 小兰的首次推理,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=dXET3QZFgU	
+第212话 超级跑车的陷阱 上集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=vSy45DKdFP	
+第213话 超级跑车的陷阱 下集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=juTbfUvGTi	
+第214话 毛利小五郎涉嫌记 上集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=RcJgUf9S55	
+第215话 毛利小五郎涉嫌记 下集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=bMyVDkEXEx	
+第216话 第十位乘客 上集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=GgmQC5TdC6	
+第217话 第十位乘客 下集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=kL8RCWyMhD	
+第218话 黑色伊卡洛斯之翼 上集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=3zz3jTkzwq	
+第219话 黑色伊卡洛斯之翼 下集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=8XzEXQ7QwP	
+第220话 总局刑警恋爱物语３ 上集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=lyaYq2yFxv	
+第221话 总局刑警恋爱物语３ 下集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=dZNJQjgJq4	
+第222话 无与伦比的推理,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=rf4nNpM6Xl	
+第223话 通往迷宫的入口　巨大神像的愤怒 上集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=cr8h3Mm7UF	
+第224话 通往迷宫的入口　巨大神像的愤怒 下集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=ZduN2Mvjt7	
+第225话 龙神山坠崖事件,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=CThuSrnV7P	
+第226话 五彩传说的水中豪宅 上集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=KPCa5rpXrk	
+第227话 五彩传说的水中豪宅 下集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=EKB52WgcLH	
+第228话 蘑菇、山熊与侦探队 上集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=XC4J5we7p2	
+第229话 蘑菇、山熊与侦探队 下集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=92AqTSSci2	
+第230话 怀古饭店的神秘事件,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=cUMlag4tgL	
+第231话 复仇海滩 上篇,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=2fMXZJMA69	
+第232话 复仇海滩 下集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=V6GnhwPHhe	
+第233话 目暮警官尘封在内心里的秘密 上集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=zWqpDK9m3t	
+第234话 目暮警官尘封在内心里的秘密 下集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=7QNnkY5ZeZ	
+第235话 被召集的名侦探 工藤新一VS怪盗基德 一,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=ivSz69ENZa	
+第236话 被召集的名侦探 工藤新一VS怪盗基德 二,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=nleyQyMukF	
+第237话 被召集的名侦探 工藤新一VS怪盗基德 三,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=CLRlx6z2so	
+第238话 被召集的名侦探 工藤新一VS怪盗基德 四,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=N36obcWEB2	
+第239话 满口谎言的委托人 上集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=BtUk7cwzgG	
+第240话 满口谎言的委托人 下集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=PjszhQCrPq	
+第241话 人鱼失踪记（事件篇）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=la3y6RCiDz	
+第242话 人鱼失踪记 推理篇,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=m6y569f3U2	
+第243话 人鱼失踪记（解决篇）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=oNj2c2AB6z	
+第244话 生意兴隆的秘密,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=vtCnGm8AsZ	
+第245话 战斗游戏的陷阱 上集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=uVCPWDJCyt	
+第246话 战斗游戏的陷阱 下集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=6qHkXvCMhS	
+第247话 暗藏杀机的陶艺教室 上集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=AXcT2bgPvB	
+第248话 暗藏杀机的陶艺教室 下集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=2vMW46QMHD	
+第249话 神秘乘客 上集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=nDCe5cV2Zt	
+第250话 神秘乘客 下集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=yktBYLAcFH	
+第251话 公寓坠楼事件,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=CDAyfX5Gnd	
+第252话 未消失的证据 上集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=cPPK5TL2Xa	
+第253话 未消失的证据 下集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=QLNJ2Ft43h	
+第254话 地下酒窖密室,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=6NZjjHKNj9	
+第255话 南纪白滨神秘之旅 上集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=gmwWcA4dYk	
+第256话 南纪白滨神秘之旅 下集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=jMJ7cxQo2F	
+第257话 大阪3K事件 上集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=xeii9WKsXl	
+第258话 大阪3K事件 下集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=TWdehEgDwY	
+第259话 新干线护送事件 上集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=5XovVGnUJy	
+第260话 新干线护送事件 下集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=Z4qTdU57wj	
+第261话 元太的灾难,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=mXmNa3wcSh	
+第262话 毛利小五郎闹双胞 上集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=okXzqcUDpn	
+第263话 毛利小五郎闹双胞 下集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=yJKxcVBDYr	
+第264话 向日葵馆的枪声,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=DcTt5DxoMQ	
+第265话 网中谜 上集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=gPdCDNLvA5	
+第266话 网中谜 下集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=G6vfxUQP4U	
+第267话 医疗森林的不在场证明,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=UjueeL7Mdz	
+第268话 偶像的秘密 上集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=VMvg2vxyeX	
+第269话 偶像的秘密 下集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=ZUH55tMRU2	
+第270话 OK牧场的悲剧,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=RFl9j89VrY	
+第271话 画中的绑匪,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=BNMWxlMPjx	
+第272话 总局刑警恋爱物语４ 上集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=4FMDp24jSj	
+第273话 总局刑警恋爱物语4 下集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=kTPKS5dsYJ	
+第274话 松江玉造连句大战14回合 上集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=aZStM6xuj4	
+第275话 松江玉造连句大战14回合 下集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=B93xSsLvSu	
+第276话 匪夷所思的天谴,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=anFKBCrFkh	
+第277话 来自芝加哥的男人 上集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=T26fcLN5oB	
+第278话 来自芝加哥的男人 下集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=JA6Kp5rJVH	
+第279话 摇晃的餐厅,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=U7RgGt4Wlm	
+第280话 雪夜的恐怖传说 上集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=HeCS56eKUv	
+第281话 雪夜的恐怖传说 下集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=MvJEBZk7vU	
+第282话 大阪双重疑案（一） 浪花剑客与太阁城,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=5xe3dG8oPZ	
+第283话 大阪双重疑案（二） 浪花剑客与太阁城,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=ueMTdMPf9q	
+第284话 大阪双重疑案（三） 浪花剑客与太阁城,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=BNttr9jqDM	
+第285话 大阪双重疑案（四） 浪花剑客与太阁城,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=KFPrG2L4UX	
+第286话 妃英理与小五郎的法庭对决 上集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=LbMNBqUFny	
+第287话 妃英理与小五郎的法庭对决 下集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=kHDeeD5mxf	
+第288话 情人节的真相（事件篇）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=idRQadUtZy	
+第289话 情人节的真相（推理篇）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=wNjtj3tvWX	
+第290话 情人节的真相（解决篇）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=XrJ5XXN9Uh	
+第291话 犯罪的纪念品 上集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=ycudhJhTtx	
+第292话 犯罪的纪念品 下集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=5QLnBnx4fd	
+第293话 情急之下的应变之道 上集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=QXkNPTYzjm	
+第294话 情急之下的应变之道 下集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=ooZm8SoDEc	
+第295话 机智婆婆失踪事件,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=7uREP4N3CX	
+第296话 幽灵鬼屋的真相 上集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=ceJznmeLoV	
+第297话 幽灵鬼屋的真相 下集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=cZcULNP8ZP	
+第298话 警察手册遗失事件,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=BDuxQ2vVvt	
+第299话 英文老师vs关西名侦探 上集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=qjreBMQUmp	
+第300话 英文老师vs关西名侦探 下集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=gcVWrbbros	
+301 疯狂足球迷 上集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=GqYtDMwWrK	
+302 疯狂足球迷 下集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=5DT3Czaa2Z	
+303 小小目击者,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=MitySTyqC4	
+304 假山流水的古怪 上集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=o444XbCSli	
+305 假山流水的古怪 下集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=NXMuYyUDNZ	
+306 中华街的雨中幻影 上集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=LXfpTDhztn	
+307 中华街的雨中幻影 下集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=PvsdPPvRHQ	
+308 工藤新一的纽约事件 事件篇,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=StpwtBrhdB	
+309 工藤新一的纽约事件 推理篇,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=ZM8QqL7r8j	
+310 工藤新一的纽约事件 解决篇,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=R25pi6rTP8	
+311 光彦森林迷失记 上集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=2h4MoWSKvM	
+312 光彦森林迷失记 下集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=MPCkxff5x5	
+313 孤岛之花与海龙宫 事件篇,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=2KJGcsC8rX	
+314 孤岛之花与海龙宫 (探索篇）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=r36XwG7f4q	
+315 孤岛之花与海龙宫 解决篇,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=v5ZaySq3Ku	
+316 爱与决断的冲击 上集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=mPVsnf6QxR	
+317 爱与决断的冲击 下集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=kZccgpEw8y	
+318 屋形船海钓记,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=2PW59FRlWy	
+319 法庭对抗2 妃英理大战九条 上集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=E4cw6J7tLC	
+320 法庭对抗2 妃英理大战九条 下集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=TMS3jMsnxc	
+321 关门海峡的友情与杀机 上集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=lfL8eK9esK	
+322 关门海峡的友情与杀机 下集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=tlZ4KLqtAV	
+323 恶意与圣者的游行 上集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=8ac9i9GuEf	
+324 恶意与圣者的游行 下集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=la7GvmjSrP	
+325 被害人回来了,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=cG8mrlLJhe	
+326 撼动警政厅 1200万人质 一,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=ymaQL4Rxd8	
+327 撼动警政厅 1200万人质 二,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=oULeaXLmMW	
+328 撼动警政厅 1200万人质 三,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=WlErRNVkf9	
+329 撼动警政厅 1200万人质 四,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=e6JDLQS9Tx	
+330 看不见的嫌犯 上集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=uvAnNsRc3n	
+331 看不见的嫌犯 下集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=LuwLXxnuJw	
+332 残留下来的无声证言 上集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=qFlJa7PNib	
+333 残留下来的无声证言 下集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=3lbnWjQkRZ	
+334 接触黑色组织 交涉篇,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=bBxaqMnmsh	
+335 接触黑色组织（追迹篇）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=q5U33PAmwu	
+336 接触黑色组织 决死篇,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=Vbz7UEpNLw	
+337 沾染夕阳的女儿节娃娃 上集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=3tJV4SZGWJ	
+338 沾染夕阳的女儿节娃娃 下集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=gxqkxCGRfe	
+339 扶手毁损的瞭望台,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=AaPvnmBDKe	
+340 阳光照耀的所在,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=rN3NWJFfhy	
+341 被玷污的蒙面英雄 上集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=xKMMgqdpkV	
+342 被玷污的蒙面英雄 下集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=2VfGVAGGzW	
+343 幸运的香烟盒 上集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=aRo75iPkqa	
+344 幸运的香烟盒 下集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=TyA47TVsB3	
+345 忍法制造不在场证明之术,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=wgSbS9KwRn	
+346 消失的绑架脱逃车 上集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=w9AdnVhaav	
+347 消失的绑架脱逃车 下集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=RXfRrFV8yc	
+348 服部平次一筹莫展 上集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=n4HR2Gjryf	
+349 服部平次一筹莫展 下集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=kHl53yR6YM	
+350 火焰中的红马 事件篇,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=VWrSDrmLXG	
+351 火焰中的红马 搜查篇,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=z9fveFNz6L	
+352 火焰中的红马 解决篇,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=5RFZDAHdNZ	
+353 生日酒之谜,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=f3lA2HDHNd	
+354 用钱买不到的友情 上集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=sjc9JrYJjr	
+355 用钱买不到的友情 下集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=RkkBZjZAHX	
+356 疑惑的辣味咖喱 上集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=hRfEWXPjnZ	
+357 疑惑的辣味咖喱 下集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=KPuaHoyLDA	
+358 相似的两位公主 上集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=LB662pukSy	
+359 相似的两位公主 下集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=Pe8xrdmBr7	
+360 东都现像所的秘密 上集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=NirAxxaQse	
+361 东都现像所的秘密 下集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=ViR8k6TTZ7	
+362 坠落事件的内幕,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=jA4S7QriH8	
+363 四台保时捷 上集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=y8P8laLDyJ	
+364 四台保时捷 下集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=zha3Uxb8pu	
+365 隐藏在厕所中的秘密 上集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=7wttKlGJJ9	
+366 隐藏在厕所中的秘密 下集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=SvvtNs6h2D	
+367 豪斯登堡的新娘 上集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=jntrqQNXGn	
+368 豪斯登堡的新娘 下集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=WExwxHekuB	
+369 便利商店的陷阱 上集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=t8cW7gULvm	
+370 便利商店的陷阱 下集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=cztPZwsTpD	
+371 与黑色组织面对面 满月之夜的两起神秘事件 一,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=NwSzrB4NF9	
+372 与黑色组织面对面 满月之夜的两起神秘事件 二,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=Fn8pZAgebv	
+373 与黑色组织面对面 满月之夜的两起神秘事件 三,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=nJd8o4oydc	
+374 与黑色组织面对面 满月之夜的两起神秘事件 四,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=GBMd8XNyjW	
+375 与黑色组织面对面 满月之夜的两起神秘事件 五,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=t4e29DR9zx	
+376 找寻臀部上的记号 上集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=j4FcFe9Cag	
+377 找寻臀部上的记号 下集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=9sJFrLyXZq	
+378 爱、幽灵与地球遗产 上集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=RWtTeuldPb	
+379 爱、幽灵与地球遗产 下集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=DyiMzg5iNX	
+380 被遗忘的电话 上集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=2Ed9nu2Yb7	
+381 被遗忘的电话 下集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=STBeeMe97i	
+382 钓鱼大赛的悲剧 上集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=ryNiao844x	
+383 钓鱼大赛的悲剧 下集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=xnd8z6ZhFN	
+384 小小的委托人 上集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=NvcMjJp4hW	
+385 小小的委托人 下集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=8t7ss3PgAC	
+386 怪盗基德令人惊异的空中漫步 上集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=hK2tWdFo48	
+387 怪盗基德令人惊异的空中漫步 下集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=KPMRclihbN	
+388 恋人是春天的幻影,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=8WDXE872QQ	
+389 总局刑警恋爱物语之五 上集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=3rMVS5mvSs	
+390 总局刑警恋爱物语之五 下集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=HaBWGBJC4D	
+391 不可思议的春季甲虫,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=vBabMnNNGa	
+392 帝丹高中校园灵异事件 上集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=kuVyd8W9Wh	
+393 帝丹高中校园灵异事件 下集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=nFLnNR8EY3	
+394 都会里的乌鸦,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=8uW8MqiLWU	
+395 心灵相通杀人事件 上集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=BnD39PhhWk	
+396 心灵相通杀人事件 下集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=hdkv9DKnlZ	
+397 丸见码头的惨剧 上集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=swPTDrjzNW	
+398 丸见码头的惨剧 下集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=PyctBKZ9kv	
+399 巫婆蛋糕之家,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=Arhcy9SSMa	
+400 幸运儿疑案,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=DTSsXYSxHy	
+401 游戏软体逃亡记,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=hgxVro2LVM	
+402 无言的航线 上集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=W4wkrgR5sz	
+403 无言的航线 下集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=4KyaGrx3zi	
+404 毒蜘蛛陷阱,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=P499vtYRaF	
+405 星星与香烟的暗号 上集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=lndL9PYsdw	
+406 星星与香烟的暗号 下集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=lsLkekLCEJ	
+407 死亡约定15点,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=8ATrkSjz7W	
+408 桃太郎猜谜之旅 上集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=Mz9pAkHheU	
+409 桃太郎猜谜之旅 下集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=cRJe6orm5x	
+410 秘汤雪夜长袖和服事件 上集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=H9ApSAWsan	
+411 秘汤雪夜长袖和服事件 下集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=RRBhWAmeyZ	
+412 谁才是推理王 上集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=PSePynJzGw	
+413 谁才是推理王 下集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=QmAS8haVny	
+414 甲子园的奇迹 向无形的恶魔挑战 一,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=AahccRZTd9	
+415 甲子园的奇迹 向无形的恶魔挑战 二,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=WS2nk4nTra	
+416 甲子园的奇迹 向无形的恶魔挑战 三,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=GAj53KWeT3	
+417 甲子园的奇迹 向无形的恶魔挑战 四,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=SxnD5sSdma	
+418 目标毛利小五郎,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=kwHs6Brw8V	
+419 斯托拉蒂巴利欧斯不协调的和音 前奏曲,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=GVTV6oaWpA	
+420 斯托拉第巴力欧斯不协调的和音 间奏曲,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=sx9a8FCdhd	
+421 斯托拉第巴力欧斯不协调的和音 终曲,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=hinhsLUcsA	
+422 沉醉于萨摩的小五郎 上集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=Jhd7gNJA8r	
+423 沉醉于萨摩的小五郎 下集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=B7RD9TKra8	
+424 总局刑警恋爱物语６（上集）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=kwrY8yd2qa	
+425 总局刑警恋爱物语６（下集）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=MxNCfylWlf	
+426 神秘的身高差距20公分,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=4LNnEnFQ7k	
+427 疑似绑架案件,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=6dhjwu7fnS	
+428 诡异宅院大冒险 封印篇,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=yRcbpPK9Rb	
+429 诡异宅院大冒险 机关篇,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=ApSYdZXvPH	
+430 诡异宅院大冒险 解决篇,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=Eaqb2saUXn	
+431 苦涩辛辣的甜美果汁,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=PA6gakCQtk	
+432 诡谲家族的委托（上集）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=kXmVPldh9a	
+433 诡谲家族的委托（下集）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=9z6gtnyRKl	
+434 满腹疑惑的小兰,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=TVAgt6dgFr	
+435 珠宝强盗现行犯（上集）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=ErwKWbSnt4	
+436 珠宝强盗现行犯（下集）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=taLhWo9DuM	
+437 诡异的天使之馆（上集）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=bvrBq2HctV	
+438 诡异的天使之馆（下集）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=u9UjQNp9wv	
+439 去叫救护车的男人,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=SciFGa5HLv	
+440 柯南平次之推理魔术 戏法篇,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=kAnWcGKoQM	
+441 柯南平次之推理魔术 宅第篇,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=rSnNZTkeAp	
+442 柯南平次之推理魔术 解决篇,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=mWvnaWTiTV	
+443 表演和绑架同步进行（上集）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=iEvWTyGw6k	
+444 表演和绑架同步进行（下集）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=jECcz8lubr	
+445 神社鸟居惊人暗号（上集）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=mZHnBP57Ba	
+446 神社鸟居惊人暗号（下集）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=EhMBczoTS7	
+447 完全五五犯罪之谜,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=MG6u7CBk77	
+448 侦探团青鸟追踪记,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=4JbRbrMVdx	
+449 佛灭日出现的恶灵 事件篇,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=HwXVyo2RH6	
+450 佛灭日出现的恶灵 疑惑篇,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=rBpafzMrtq	
+451 佛灭日出现的恶灵 解决篇,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=iXAWSpMneu	
+452 米花町斜顶阁楼之家,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=2lWtDVGJGN	
+453 八岐大蛇之剑（上集）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=NUWUBoCnQh	
+454 八岐大蛇之剑（下集）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=Tq4QHRWWQr	
+455 银杏色的初恋（上集）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=NZheGBvNXM	
+456 银杏色的初恋（下集）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=yh8AVFTCch	
+457 侦探团与毛虫四兄弟,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=7cXMSaVonQ	
+458 小丑传来的相片MAIL,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=8cxvwZGn82	
+459 黑色冲击！组织之手逼近的瞬间（五之一）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=lwH2Whtrww	
+460 黑色冲击！组织之手逼近的瞬间（五之二）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=6MKbC5h6ve	
+461 黑色冲击！组织之手逼近的瞬间（五之三）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=EXnj4wMGKE	
+462 黑色冲击！组织之手逼近的瞬间（五之四）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=BLeeKWMc3r	
+463 黑色冲击！组织之手逼近的瞬间（五之五）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=FVa9p6WzSJ	
+464 给小兰的情书,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=yaxDTNvMKA	
+465 超机密的上学路（上集）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=ZrMbGmnoon	
+466 超机密的上学路（下集）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=v2W4uVk43l	
+467 无法回头的两人（上集）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=kkYiSnkzDZ	
+468 无法回头的两人 下集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=zyxdhlPxDw	
+469 总局刑警恋爱物语7 上集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=whFHgdh6dn	
+470 总局刑警恋爱物语7 下集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=nRySCR5AaV	
+471 柯南怪孩子,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=8cGBcaqhnV	
+472 名犬克尔立大功,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=MVtLehs9Zi	
+473 侦探团备受瞩目的受访行程 上集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=fRd68FPH64	
+474 侦探团备受瞩目的受访行程 下集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=nCoams7V6F	
+475 上户彩与新一四年前的约定,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=KVAATJsnLY	
+476 钓鱼邮件追查记,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=jTfpyppcim	
+477 然后最好一个人都不剩,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=vgRkFtwGdH	
+478 极限飞车特技,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=L6B2ml6wXj	
+479 最后一次张嘴,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=cAcxoX4WDN	
+480 被钢筋挡下的男人,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=TB696keVpM	
+481 叹息的退潮挖蛤蜊 上集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=VySh89HUyA	
+482 叹息的退潮挖蛤蜊 下集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=r4mhrgaipk	
+483 俄罗斯蓝猫的秘密,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=AQ97idAKta	
+484 被封死的窗户 上集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=xCbylMhBh7	
+485 被封死的窗户 下集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=bFS4LTZpHM	
+486 目黑之秋刀鱼事件,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=oSKu8DhMSt	
+487 总局刑警恋爱物语 虚假的结婚典礼 上集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=Pl3WCsZM7A	
+488 总局刑警恋爱物语 虚假的结婚典礼 下集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=6VZhGsHhP3	
+489 诡计VS魔术 上集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=tRGFHyAeyU	
+490 诡计VS魔术 下集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=BSFV8thrtg	
+491 金昆罗剧场魅影 上集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=tTZxEi4y8z	
+492 金昆罗剧场魅影 下集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=45fJkWVkdG	
+493 因缘与友情之试映会,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=ndaj76dypi	
+494 颠倒过来的结局 上集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=SG2l9D2w4c	
+495 颠倒过来的结局 下集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=Xr8DZVXyUS	
+496 我心所爱的推理,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=AKy5P8MM4i	
+497 圆子的红色手帕 上集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=pA8eqeRKbC	
+498 圆子的红色手帕 下集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=nvCoWpRvtu	
+499 硬邦邦的怪人规则男,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=DGgwm4yBKZ	
+500 一年B班大作战,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=neBorMhGly	
+501 消失的一页,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=gJz5hzrJn3	
+502 黑暗组织之影小小目击者,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=3YLmYs8yBr	
+503 黑暗组织之影 奇妙的照明,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=9pqZ6gp2Ap	
+504 黑暗组织之影 神秘高额报酬,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=jl2xrHynrw	
+505 黑暗组织之影 珍珠流星,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=pTNnAhFcKW	
+506 打不过的雪人 上集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=Za9AxRDZKP	
+507 打不过的雪人 下集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=P6hEnJsTyE	
+508 池塘边的离奇事件,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=rBjW42KA93	
+509 怪盗基德与四幅名画 上集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=lAPMlwR3iW	
+510 怪盗基德与四幅名画 下集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=mXpW37qyKp	
+511 失控的租赁汽车,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=AKwCP2QVxD	
+512 工藤新一少年冒险 上集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=EgaTvMacxm	
+513 工藤新一少年冒险 下集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=9AmCz9UcZA	
+514 妃英理律师之恋,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=mPGWighgUJ	
+515 厄运大奖,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=DWRBkY98HW	
+516 元太的必杀球 上集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=rsf5F2mZSD	
+517 元太的必杀球 下集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=GHwrE5jKeK	
+518 真实的三十分钟,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=FH8cpf2pQB	
+519 与服部平次共度的三天（一）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=BRiSidugr3	
+520 与服部平次共度的三天（二）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=7PVTnPhx5W	
+521 与服部平次共度的三天（三）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=iRwA4HEmGg	
+522 与服部平次共度的三天（四）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=x7NPLi6aKs	
+523 黄色的不在场证明,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=M2dll956c9	
+524 山妖婆婆的利刃 上集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=TiYTW8r6R8	
+525 山妖婆婆的利刃（下集）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=g3AgqTR3mZ	
+526 消失的巡警,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=cNlPBmlf8a	
+527 黑色相片的下落 上集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=yXwVzih4hr	
+528 黑色照片的下落 下集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=YwWS3YCWKs	
+529 从右至左的招财猫,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=Au9xnnFeKG	
+530 本厅警官恋爱故事8 左手无名指 上集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=WW6kJmvnkS	
+531 本厅警官恋爱故事8 左手无名指 下集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=PMqlclTkPR	
+532 电视台的恶魔 上集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=qYRMyLtBDm	
+533 电视台的恶魔 下集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=fjFFMEvm4r	
+534 法庭的对决3 检察官是目击者 上集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=xGRAExydu7	
+535 法庭的对决3 检察官是目击者 下集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=LU2BN5oqAw	
+536 服部平次vs工藤新一 滑雪场的推理对决 上集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=vBecP6Tt3R	
+537 服部平次vs工藤新一 滑雪场的推理对决 下集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=WcN9NeywsH	
+538 红与黑的撞击 开端,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=iyJsn68Nl7	
+539 红与黑的碰撞 血缘,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=mgmiBtcPxX	
+540 红与黑的碰撞 惨叫,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=DEX4YAmfVe	
+541 红与黑的撞击 冥土,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=H65vyGJcDE	
+542 红与黑的撞击 昏睡,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=GTMhl32b5y	
+543 红与黑的撞击 侵入,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=8yc7rhhTyE	
+544 红与黑的撞击 觉醒,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=lKD8ksDtia	
+545 红与黑的撞击 搅乱,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=fGiiKFz4i6	
+546 红与黑的碰撞击 伪装,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=GmKM7vkut8	
+547 红与黑的撞击 遗言,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=QqJYFk4TW2	
+548 红与黑的撞击 嫌疑,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=gJZiMeBGxM	
+549 红与黑的撞击 清白,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=euq8Wbkc5C	
+550 红与黑的撞击 决死,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=G3w2kppqhQ	
+551 红与黑的撞击 殉职,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=8PrDKteDKd	
+552 律师妃英理的证词 上集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=8PyYK88H47	
+553 律师妃英理的证词 下集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=lhyeHRAnpC	
+554 卡拉OK包厢的死角 上集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=XxF3SShfWw	
+555 卡拉OK包廂的死角 下集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=v53nsYXw9P	
+556 紅白黃色和侦探团,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=rwTSdyWutD	
+557 柯南VS双重暗号之謎,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=NPASNKdE9k	
+558 推理对决 新一VS沖矢昴,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=7NlY8APTTT	
+559 破碎的占星天宫图,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=ie3d3TuSU7	
+560 产生杀意的咖啡香 上集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=YMHfkpR4lc	
+561 产生杀意的咖啡香 下集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=kL5gShpNJz	
+562 怪盜基德的瞬间移动魔术（Ⅰ）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=WdQlpUEStZ	
+563 怪盜基德的瞬间移动魔术（Ⅱ）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=U25Ldr8y7Z	
+564 风林火山 迷宫的铠甲武士 上集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=Ee6TVJlm48	
+565 风林火山 迷宫的铠甲武士 下集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=bGicgykxKy	
+566 风林火山 阴影和雷光的对决,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=NXqtw8PhrL	
+567 明治维新神秘之旅 探索篇,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=y9kQvAMSai	
+568 明治维新神秘之旅 解读篇,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=EGNkDF955V	
+569 红酒的告发,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=MS2sZ9t7Gp	
+570 杀人犯 工藤新一 上集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=3c275tGmru	
+571 杀人犯 工藤新一 下集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=RlaZ99ccX5	
+572 新一的真实身份和小兰的眼泪 上集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=vfsZexKWcE	
+573 新一的真实身份和小兰的眼泪 下集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=jDZCxwJnpB	
+574 真正想知道的事,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=7ZxjjKArL7	
+575 憎恨的蓝色火花 上集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=TEs5ABWCcz	
+576 憎恨的蓝色火花 下集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=GUFd97hR5y	
+577 真凶送来的包裹,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=CeRbM3iZfV	
+578 面具下隐藏的恶意,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=HKXiiWSqsx	
+579 以柔攻克谜题 上集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=NNTLsBY4BK	
+580 以柔攻克谜题 下集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=mhbSSGBAKL	
+581 都市传说的真相 上集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=ultAyEZQU2	
+582 都市传说的真相 下集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=xhjCqVM8jk	
+583 初恋的伤痕,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=MyXW4L82qw	
+584 唤起过去的伤痕,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=G4MTHfqqpe	
+585 新伤痕和吹口哨的男子,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=L4Gz9olNhm	
+586 旧伤痕和刑警之魂,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=q4cEEZPueG	
+587 消失名画的秘密,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=9s7Pg3yToE	
+588 怪盗基德VS最强金库 上集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=3ShMHlzyRA	
+589 怪盗基德VS最强金库 下集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=5xC3F3ZvrD	
+590 给愚者的遗产,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=HMzyXgfrMG	
+591 毛利小五郎侦探停业的日子 上集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=piH9SDJ42g	
+592 毛利小五郎侦探停业的日子 下集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=Hj3HTU94Qr	
+593 鱼儿消失的一角岩 上集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=ry7bHVXFq9	
+594 鱼儿消失的一角岩 下集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=Scw6V56cvV	
+595 弹奏不和谐之音的手,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=9MZFRDrTUS	
+596 雾中惨叫的魔女 上集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=UejArksgcp	
+597 雾中惨叫的魔女 下集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=VZx8Vwxt78	
+598 和绑架犯在一起的两天 第一天,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=SNcHHLnSc4	
+599 和绑架犯在一起的两天 第二天,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=ctPmiodNrH	
+600 回转寿司之谜 上集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=Je2dwyAReW	
+601 回转寿司之谜 下集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=SDs6SdayMH	
+602 凶手是元太的父亲 上集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=MqBHeyXGsA	
+603 凶手是元太的父亲 下集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=GxnsmWq98C	
+604 THE 侦讯室,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=5GT9RGtheT	
+605 鹳的探索之旅 小兰搜索篇,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=nKj85MnriL	
+606 鹳的探索之旅 追踪阳菜篇,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=GURhamCgiX	
+607 恐怖的十字路口,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=wa8lpaQ9jp	
+608 危险的二人组,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=rdYWpSMap6	
+609 死亡之馆 赤壁 三顾之礼,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=rthyJ3dZ9T	
+610 死亡之馆 赤壁 掌中之物,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=q8bRxRkH4i	
+611 死亡之馆 赤壁 孔明之死,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=LPfDPgdAaF	
+612 死亡之馆 赤壁 空城计,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=FTVaWqMjlZ	
+613 彩虹色的绑架,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=7PqzRHc8uh	
+614 侦探团VS抢匪团 骚动,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=ytGAlu4Ebt	
+615 侦探团VS抢匪团 沉默,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=GrLsBM4j64	
+616 看不见的目击者,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=uGPiR2ukal	
+617 搭档是圣诞老人,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=TqXakBayH9	
+618 露天温泉从天而降的杀意,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=k3G4Jk8Dst	
+619 白鸟警官樱花的回忆（上集）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=copDmhhhSE	
+620 白鸟警官樱花的回忆 下集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=LYXgSjswCr	
+621 证实几率为零的犯罪,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=iLM4b3xrZK	
+622 妖怪仓库的寻宝 上集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=P8ciSrnctf	
+623 妖怪仓库的寻宝 下集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=9kSqWktzyD	
+624 令人害羞的护身符的下落 上集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=DLAsKcxj9D	
+625 令人害羞的护身符的下落 下集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=Y8FcKrDebD	
+626 黑色洋装的不在场证明 上集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=fPuh2vgMsx	
+627 黑色洋装的不在场证明 下集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=v3E4i2qsJR	
+628 萤火虫照亮的真相,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=FfdDL8c2QU	
+629 引发危机的红色前兆,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=nbXWBW8qtp	
+630 黑色13的暗示,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=2BsALJ2EZL	
+631 步步逼近的黑色期限,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=V9wsy7pbYS	
+632 摇曳的红色目标,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=b966qC9S4X	
+633 僵尸死亡之夜,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=6FLcVP7zPG	
+634 小林老师的恋情,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=5J76PvxbS6	
+635 白鸟警官的失恋,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=rGyNajgxVC	
+636 跨越时空的樱花之恋,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=ywMRW3xb7b	
+637 消失在黑暗中的麒麟角,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=Qvwf4AHGzJ	
+638 基德VS四神侦探团,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=867XtfG2X5	
+639 屋顶农园的陷阱,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=wK3Fo8bhLe	
+640 最糟糕的生日 上集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=4KUA9SjkFl	
+641 最糟糕的生日 下集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=gzBrMc9HB5	
+642 拥有水族馆的家,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=zS6ym2KeDF	
+643 猴子跟熊手的追捕令 上集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=am98xgVcVS	
+644 猴子跟熊手的追捕令 下集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=i365dM3rpM	
+645 广岛宫岛的七大不可思议之旅 宫岛篇章,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=2z8YR3AqYK	
+646 广岛宫岛的七大不可思议之旅 广岛篇章,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=47JJ9ShHsl	
+647 坠楼的不在场证明,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=WxUjLV4LUM	
+648 蒸汽密室的剧本 上集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=CXcVxlAHr4	
+649 蒸汽密室的剧本 下集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=AmAUe7Z7JC	
+650 正义的使者,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=sYQTzFoS94	
+651 河童的梦 上集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=AyA5D7eqDU	
+652 河童的梦 下集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=Ad9ScKDJwM	
+653 隐藏在网球场的恶魔,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=HAlqMhTnAJ	
+654 降灵会W密室事件 第一个密室,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=RcNJ49iwAu	
+655 降灵会W密室事件 第二个密室,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=cE8Znnhwsx	
+656 降灵会W密室事件 密室开放,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=pidpodXhq3	
+657 法庭的对决IV陪审员小林澄子 上集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=SR7KAWchav	
+658 法庭的对决IV陪审员小林澄子 下集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=mkMccsMSDh	
+659 背叛的白色情人节 上集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=JaowPaR8vi	
+660 背叛的白色情人节 下集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=xByujh9xPF	
+661 被害者是工藤新一,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=p45hBxc7AQ	
+662 犬伏城 炎之魔犬 鬼火之章,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=cvyiGGSsAj	
+663 犬伏城 炎之魔犬 足迹之章,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=jcSsWYpxDL	
+664 犬伏城 炎之魔犬 公主之章,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=Liq4wamv7M	
+665 日记奏出的秘密 上集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=bPcsHZ92nW	
+666 日记奏出的秘密 下集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=jhvbZDV3Sj	
+667 福尔摩斯默示录 名侦探的徒弟,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=ic9HyNrfed	
+668 福尔摩斯默示录 Love is O,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=cSyxFMdDbD	
+669 福尔摩斯默示录 撒旦,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=D8ocEVhZJd	
+670 福尔摩斯默示录 Code break,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=EEAZR4iPUC	
+671 福尔摩斯默示录 草地女王,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=vcH8ESjrmX	
+672 福尔摩斯默示录 0 is start,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=i5c3ekgThy	
+673 紧急事件252 上集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=7zJZaP4Zba	
+674 紧急事件252 下集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=ldDwx8d4ad	
+675 初恋的录影信,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=M7GwyppMY4	
+676 手术室惊魂 上集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=AGUj5y4sEC	
+677 手术室惊魂 下集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=LxJL9dfVTm	
+678 柯南与基德的龙马宝物攻防战 上集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=cXjlgRiEdk	
+679 柯南与基德的龙马宝物攻防战 下集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=SYsfmnepvd	
+680 宣传片拍摄事件 上集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=GVDjMPUsZT	
+681 宣传片拍摄事件 下集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=VYSH7Zzns4	
+682 花中见证的真相,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=qvJadt7L7B	
+683 时间守护者之剑 上集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=A7spv8VzdE	
+684 时间守护者之剑 下集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=HynhD2Tkul	
+685 犯罪现场是超级小店,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=6JtU8VpP7e	
+686 小心减肥的陷阱,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=PKcfbchPS5	
+687 世界上最想听的那堂课事件 上集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=xvc7YamaCZ	
+688 世界上最想听的那堂课事件 下集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=bowdtLiNg9	
+689 解开红叶公馆之谜 上集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=SVLzhEnwzz	
+690 解开红叶公馆之谜 下集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=LlYedxgs3S	
+691 八张素描画的记忆之旅 冈山篇,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=rFlgacq9EU	
+692 八张素描画的记忆之旅 仓敷篇,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=sjErcf86Pl	
+693 纸牌游戏千钧一发 上集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=Scbh2P9snt	
+694 纸牌游戏千钧一发 下集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=ZSrNHY9FBU	
+695 美味要死的拉面 上集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=FrhEz4Bw5M	
+696 美味要死的拉面 下集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=aSLgyd5bYS	
+697 幽灵饭店的推理对决 上集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=ceWqQs7Hs7	
+698 幽灵饭店的推理对决 下集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=mwjwDyqLK2	
+699 侦探事务所挟持事件 突发,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=DZ4tytuyo8	
+700 侦探事务所挟持事件 阻击,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=iayMuVsmsx	
+701 侦探事务所挟持事件 解放,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=qmkGcBNilX	
+702 柯南VS平次东西侦探推理对决（上集）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=zhllztknWK	
+703 柯南VS平次东西侦探推理对决（下集）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=Dsi2svUCHD	
+704 毒和恨的设计(EYE),https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=qSaLkmmVad	
+705 毒和恨的设计(S),https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=mA9GEQfhpP	
+706 毒和恨的设计(Poison),https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=THDNDrQF6h	
+707 毒和恨的设计(Illusion),https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=Ayb2reXyLV	
+708 博士的影音网站（上集）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=hlCAEmx9zt	
+709 博士的影音网站（下集）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=MHdBkDfleV	
+710 巧克力的火热陷阱,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=ZzRl6qqTFr	
+711 初恋情人的共同调查（上集）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=usnEm2qeUj	
+712 初恋情人的共同调查（下集）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=DS2AV85dT8	
+713 小五郎先生是一个好人（上集）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=2XD8qS8wVb	
+714 小五郎先生是一个好人（下集）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=pMzVHq4JSX	
+715 追逐深山锹形虫,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=tp9KUJaik9	
+716 名犬酷儿的功劳2,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=m46uKnet9Z	
+717 疑惑的姓名首字母K,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=m2ZExwWxzL	
+718 雨夜的恐吓犯,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=rrfkBZVNce	
+719 婚礼前夕（前篇）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=zM7f4wZkxE	
+720 婚礼前夕（后篇）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=rd84XZcjaN	
+721 黑暗塔的秘宝（前篇）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=SA6lFq94qV	
+722 黑暗塔的秘宝（后篇）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=yF45NyGwDh	
+723 侦探们的夜想曲（事件）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=Q5acxNbrRv	
+724 侦探们的夜想曲（诱拐）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=HMSkejPMru	
+725 侦探们的夜想曲（推理）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=zgscdKrbr8	
+726 侦探们的夜想曲（波本）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=DcMTeZqaSQ	
+727 一丁点都不原谅（前篇）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=qvHBsx46Ph	
+728 一丁点都不原谅（后篇）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=77V28xTGhT	
+729 没有脚印的沙滩,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=zhYaAji9dH	
+730 长崎谜之剧场（幕末篇）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=HxbGPMCK2v	
+731 长崎谜之剧场（现代篇）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=BXhPBr6mtu	
+732 仙人掌狂想曲,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=tyrM35hrps	
+733 以性命为赌注的恋爱转播（转播开始）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=3hgTl2BZ8t	
+734 以性命为赌注的恋爱转播（穷途末路）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=FhPSPmnAxf	
+735 以性命为赌注的恋爱转播（突击现场）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=mYvsFVqsAG	
+736 泡沫 热气与烟（上）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=8QAlWymUja	
+737 泡沫 热气与烟（下）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=JWUTSvbWas	
+738 安装计时炸弹的车,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=ZSKmRyA577	
+739 无人能解的冰之陷阱,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=zdnG9g3itt	
+740 高木警官捡到3千万元,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=r5SdTqssmc	
+741 委托人送来的留言,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=nk5hjuXhkH	
+742 工藤优作的未解决事件（上）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=CquzcWFeB8	
+743 工藤优作未解决事件（下）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=ScbRwgKrKu	
+744 隅田川夜樱路线（上）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=9tciXdvBrR	
+745 隅田川夜樱路线（下）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=ugrDTxvCkB	
+746 老店消失的日式甜点,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=Nz9WFGTkQT	
+747 葡萄园里的玫瑰花,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=y96rffpqT8	
+748 花坛破坏者的阴谋,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=L579SUBrdr	
+749 女校学园的窗户,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=dCWhfSKdaS	
+750 怎么可能！UFO坠落事件,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=JyfDQqdMpb	
+第751话 迫近灰原秘密的黑影（上集）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=CPhK92PMAw	
+第752话 迫近灰原秘密的黑影（下集）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=Xv9MgG5f5g	
+第753话 漆黑的神秘列车（发车）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=hgcJuH3Aqy	
+第754话 漆黑的神秘列车（隧道）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=zAhtpT9xjl	
+第755话 漆黑的神秘列车（交叉）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=ShnkavjE4s	
+第756话 漆黑的神秘列车（终点）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=GjyvxczMZk	
+第757话 密室中的柯南,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=9DoQsDrKGc	
+第758话 揭开谜底的波本,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=AGzpAMkgMe	
+第759话 被陷害的名侦探,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=b4R2x38NEa	
+第760话 缓慢坠落的男子,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=ZdsZHhWkk2	
+第761话 不明冲击事件,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=XtgM7JdgSy	
+第762话 大家都看见了（上集）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=Y6GflGXj2t	
+第763话 大家都看见了（下集）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=rRSv25WKne	
+第764话 服部平次与吸血鬼馆（一）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=qRJTmBSk7W	
+第765话 服部平次与吸血鬼馆（二）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=Wy2NW9HWti	
+第766话 服部平次与吸血鬼馆（三）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=xmDwXqideX	
+第767话 服部平次与吸血鬼馆（四）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=SP3ql8kEF5	
+第768话 能面宅邸中跳舞的鬼（上集）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=2SAKnoTbGN	
+第769话 能面宅邸中跳舞的鬼（下集）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=RgLRtBkcRG	
+第770话 恶魔的循环,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=Rnpvd2d6kt	
+第771话 白金票券骚动记,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=Axxs2MdMMj	
+第772话 火与水的神秘旅行（阿苏篇）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=r5FhVDS7i2	
+第773话 火与水的神秘旅行（熊本篇）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=8hW4W4SVjM	
+第774话 又甜又冷的宅急便（上集）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=xtZ2qcHM5B	
+第775话 又甜又冷的宅急便（下集）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=i8RmhsmpKR	
+第776话 怪盗基德与赤面人鱼（上集）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=9tmvMgaTNi	
+第777话 怪盗基德与赤面人鱼（下集）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=uWKLvqncrA	
+第778话 幸福讯息招来不幸,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=wZ5deSwbUX	
+第779话 装满水果的宝箱（上集）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=a72xeVLTZV	
+第780话 装满水果的宝箱（下集）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=bkmRAk8gDg	
+第781话 钻石和电影和大明星,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=sXP8mYCp4W	
+第782话 太过完美的模型作品,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=EiWAgfNiHD	
+第783话 现场的邻人是前男友（上集）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=3xuQnNfgVt	
+第784话 现场的邻人是前男友（下集）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=GQgnDNRi5U	
+第785话 喜宴与两声枪声,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=aBQ8wNfNuw	
+第786话 茱蒂的回忆与赏花的陷阱,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=ZzVGb5dU58	
+第787话 茱蒂的回忆与赏花的陷阱,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=qp4qqVS9QB	
+第788话 有暗号的邀请函,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=ZeAKkSYTWm	
+第789话 毛利小五郎像的秘密,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=xS6PR6WXMk	
+第790话 充满疑惑的步道,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=hBtSbujNTp	
+第791话 小五郎在酒吧里（上集）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=GCdhQhFaEC	
+第792话 小五郎在酒吧里（下集）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=Y9ZVJxJddP	
+第793话 小兰也倒在浴室了（上集）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=rLnrmwh9tf	
+第794话 小兰也倒在浴室了（下集）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=fTxmSkQeRg	
+第795话 与J联盟球员的约定,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=fFSAxpRFkc	
+第796话 两度重合的偶然,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=EsWqPFNzph	
+第797话 嫌疑犯是京极真（上集）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=HphS9MrKch	
+第798话 嫌疑犯是京极真（下集）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=vasSVFMo4j	
+第799话 怪盗基德vs京极真（上集）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=lHN6PmjPZ2	
+第800话 怪盗基德vs京极真（下集）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=6ikS922Qyn	
+第801话 总局刑警恋爱物语（表白）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=ctWXMLwBPi	
+第802话 总局刑警恋爱物语（真相）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=5DCgrJnJid	
+第803话 被大海背叛的男子,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=75Zz7E9tlx	
+第804话 招财三毛猫事件（上集）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=scE4kCil8G	
+第805话 招财三毛猫事件（下集）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=RWLaXHmwBJ	
+第806话 合租公寓的死角,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=AtR7E7EsX2	
+第807话 红衣女的惨剧（水蒸气）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=rsHV8kJ72n	
+第808话 红衣女的惨剧（恶灵）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=apSv3Whnvs	
+第809话 红衣女的惨剧（报仇）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=2oRykWytrq	
+第810话 自首的搞笑艺人（上集）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=GWlBXj42qV	
+第811话 自首的搞笑艺人（下集）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=BVX5HhvL4P	
+第812话 恋爱小说的意外结果（上集）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=sJpDH9N2kW	
+第813话 恋爱小说的意外结果（下集）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=7ucnvXuZ6a	
+第814话 加贺百万石神秘之旅（金泽篇）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=ru4cpqPise	
+第815话 加贺百万石神秘之旅（加贺温泉篇）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=AkhgDjwqFk	
+第816话 柯南与平次 恋爱的暗号（上集）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=zKFKlD7fB2	
+第817话 柯南与平次 恋爱的暗号（下集）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=BasCGrLXV6	
+第818话 堤无津川风筝事件（上集）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=t2DqSUhD9B	
+第819话 堤无津川风筝事件（下集）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=Gh283dH7AA	
+第820话 消失在风雪中的恋人,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=FBMAPhsy26	
+第821话 灰原哀监禁事件,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=kWKhSdt998	
+第822话 麻烦的急救患者,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=e7LkyApuGc	
+第823话 气氛僵硬的茶会（上集）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=hERteiMJ9J	
+第824话 气氛僵硬的茶会（下集）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=EKg4FlWJWg	
+第825话 工藤新一水族馆事件（上集）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=ZsBr4WTVGp	
+第826话 工藤新一水族馆事件（下集）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=WdSSeHnvhk	
+第827话 消失的蒙克呐喊,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=Zfbk9KnxME	
+第828话 受人操控的名侦探（上集）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=Ses7et5AWh	
+第829话 受人操控的名侦探（下集）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=BqqFC2n2sw	
+第830话 少年侦探团VS老人侦探团,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=RhhinqNLNr	
+第831话 消失在海市蜃楼的天使,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=65LcKFPfBn	
+第832话 绯色的序章,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=HwiZ3Ma5sW	
+第833话 绯色的追寻,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=v3nKw9ca99	
+第834话 绯色的交叉,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=oLnsSgHs8J	
+第835话 绯色的回归,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=DchYBaMRy4	
+第836话 绯色的真相,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=NhXQNyxL6C	
+第837话 欢迎来到织女俱乐部,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=8TiclqbVUr	
+第838话 太阁恋爱的名人战（上集）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=4y26fhvV9T	
+第839话 太阁恋爱的名人战（下集）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=WwPxxtwWHX	
+第840话 沉入盛夏游泳池的谜团（上集）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=RAapnSmEG8	
+第841话 沉入盛夏游泳池的谜团（下集）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=hjAvevqsYl	
+第842话 女王陛下的天气预报,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=TNkDy8zhCf	
+第843话 米花宝 出血大降价,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=Yd7mnUwdPJ	
+第844话 高木刑警 戴着手铐逃走,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=9qxh9piKe4	
+第845话 三个第一发现者（上集）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=ERWS6hynWs	
+第846话 三个第一发现者（下集）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=H8Ca39zHYi	
+第847话 保镖毛利小五郎,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=FWjhBv8TcR	
+第848话 年轻夫人消失的秘密,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=w4pJS4hhH4	
+第849话 鸳鸯夫妻的策略,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=GgiYaqiJr9	
+第850话 梦想少女的糊涂推理,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=rXy3c2kTG9	
+第851话 移动的目标,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=WWbxH29hKb	
+第852话 侦探团的密室推理之战,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=4xAmEMcy2D	
+第853话 追逐一亿日圆,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=KrAC3arzT8	
+第854话 鸟取沙丘神秘之旅（仓吉篇）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=2yiDAyqKDX	
+第855话 鸟取沙丘神秘之旅（鸟取篇）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=kaMHzssd2g	
+第856话 小心火烛的陷阱,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=tovGPTrZzt	
+第857话 柯南与海老藏 歌舞伎十八番之谜（上集）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=QmE9repyyv	
+第858话 柯南与海老藏 歌舞伎十八番之谜（上集）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=2Sktj4vSLm	
+第859话 柯南与海老藏 歌舞伎十八番之谜（下集）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=nNeB3hhGde	
+第860话 柯南与海老藏 歌舞伎十八番之谜（下集）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=GlGP46Sipg	
+第861话 腹语师的错觉（上集）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=gwpcHqCCip	
+第862话 腹语师的错觉（下集）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=SaKgEW2uhw	
+第863话 镰鼬旅馆（上集）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=HM9cSPWurb	
+第864话 镰鼬旅馆（下集）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=bgjHtyLAKK	
+第865话 县警的黑暗（上集）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=7nC2kpReLE	
+第866话 县警的黑暗（中集）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=Ks8lwX9hZF	
+第867话 县警的黑暗（下集）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=LAXGSyh89M	
+第868话 悄悄靠近安室的黑影,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=9NhMLGnMM6	
+第869话 博客女星密室事件（上集）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=Zs4rB9xXNK	
+第870话 博客女星密室事件（下集）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=vhjAnla5P2	
+第871话 令人遗憾的善良外星人,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=dSVixksgua	
+第872话 消失的未婚妻,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=tUg6q2mloA	
+第873话 小五郎 愤怒的大追踪（上集）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=RbcRBUn9hi	
+第874话 小五郎 愤怒的大追踪（下集）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=zy2caoyqBh	
+第875话 候车室的7个人,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=7nFK9sQmPu	
+第876话 昙柄寺隐藏的秘密,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=cidiCAfbAD	
+第877话 嫌犯是热恋情侣（上集）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=nVD9F7iUMU	
+第878话 嫌犯是热恋情侣（下集）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=MvRktKqin2	
+第879话 少年侦探团躲雨记,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=ehuKR8jSBe	
+第880话 潮入公园逆转事件,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=8w6ofwBSAb	
+第881话 美女与谎言与秘密,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=ZPWwBTrplw	
+第882话 好吃得要死的拉面2（上集）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=8r7KuT89t6	
+第883话 好吃得要死的拉面2（下集）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=es2hDJSdXW	
+第884话 不可思议的少年,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=xBcswhTx9T	
+第885话 被僵尸包围的别墅（上集）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=aybNJ4Ygsg	
+第886话 被僵尸包围的别墅（中集）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=rAveVAlknM	
+第887话 被僵尸包围的别墅（下集）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=kGeVarovET	
+第888话 有弱点的名侦探,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=qclPVtfrhZ	
+第889话 死了两次的男子（上集）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=CZRGQdhVLx	
+第890话 死了两次的男人（后篇）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=VNUhch8A7M	
+第891话 关系不好的女子乐团（前篇）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=tcqkYyulCr	
+第892话 关系不好的女子乐团（后篇）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=RDl5LaV2MK	
+第893话 轻飘飘气球怪异事件,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=s5GSgr9hQL	
+第894话 听见天狗的声音,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=9zWUrZ87iw	
+第895话 最后的赠礼,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=xcruP56Uw7	
+第896话 雨天的公车站,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=agnBG2psXm	
+第897话 兜风约会的岔路,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=pHRhxUmca2	
+第898话 不明真相的侦探团（前篇）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=rEBtScfyrq	
+第899话 不明真相的侦探团（后篇）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=Qs4vfe3ejc	
+第900话 穷途末路黑暗中的柯南（前篇）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=3Ge9zaQnQh	
+第901话 穷途末路黑暗中的柯南（后篇）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=ZLAyqGL4pG	
+第902话 千叶的UFO疑难事件（前篇）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=5sNNUJ2Qcr	
+第903话 千叶的UFO疑难事件（后篇）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=v4PKnrxdZo	
+第904话 结婚登记申请书的密码（前篇）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=krDg4SPlEz	
+第905话 结婚登记申请书的密码（后篇）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=7zQaLR8PUv	
+第906话 恋爱的地狱巡回之旅（别府篇）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=c7qcbzkGyx	
+第907话 恋爱的地狱巡回之旅（大分篇）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=LcMyWKR96S	
+第908话 樱花班的回忆（兰GIRL）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=s9cXPGWUWA	
+第909话 樱花班的回忆（新一BOY）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=yAEKhXFcgj	
+第910话 消失的黑带之谜,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=5DlcruEeuD	
+第911话 名流夫妻的秘密,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=JcYsLrP7Q5	
+第912话 米花町反复无常之谜（前篇）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=9vsmjJ9a3n	
+第913话 米花町反复无常之谜（后篇）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=xTSKlcGgzJ	
+第914话 黑暗的山岳路线,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=iR6LBCMZUs	
+第915话 防盗系统的陷阱,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=R4L4qrgwhB	
+第916话 与17年前相同的现场（前篇）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=wkc5SljkBB	
+第917话 与17年前相同的现场（后篇）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=RvJUkrRkDQ	
+第918话 灵魂侦探谋杀案（前篇）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=VvLhK5LZLz	
+第919话 灵魂侦探谋杀案（后篇）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=oudr6GT8aW	
+第920话 毒舌的九官鸟,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=gZ6gPx2cNy	
+第921话 背叛的舞台（前篇）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=T9szlJXXZj	
+第922话 背叛的舞台（后篇）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=esrsJs896L	
+第923话 听得见汽笛声的旧书店,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=JtCdrz9jDV	
+第924话 消失在悬崖的柯南（前篇）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=VMMaf4DV7A	
+第925话 消失在悬崖的柯南（后篇）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=AoLcxZmflq	
+第926话 信长450事件,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=9DlFztdyfE	
+第927话 柯南与平次的鵺传说（鸣叫篇）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=8Saj7ryCtE	
+第928话 柯南与平次的鵺传说（爪痕篇）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=rE9TeAKY9f	
+第929话 柯南与平次的鵺传说（解决篇）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=troNw2e8Di	
+第930话 预知未来的奇妙佛像,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=AXlcRGLjkW	
+第931话 机械发条的目击者,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=lekcPWZBXL	
+第932话 命运交错的两人,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=Aq6evVyiRE	
+第933话 试衣间的死角（前篇）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=7MR8s7fc7j	
+第934话 试衣间的死角（后篇）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=ojstH4cDRD	
+第935话 侦探团与幽灵宅邸,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=LN3nSJQ8oY	
+第936话 浪涛的魔法师（前篇）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=pyiVClxf9E	
+第937话 浪涛的魔法师（后篇）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=9qfasCc9ae	
+第938话 从图画书跑出来的炸弹魔（前篇）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=gfLtK7GUKR	
+第939话 从图画书跑出来的炸弹魔（后篇）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=hqSAkA9Rwl	
+第940话 解谜就在白罗咖啡厅（前篇）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=RqdtjEDxl4	
+第941话 解谜就在白罗咖啡厅（后篇）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=28GP4YdpGL	
+第942话 怪盗基德的机关盒（上集）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=mdxCRdVhVV	
+第943话 怪盗基德的机关盒（下集）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=7Rkf8Wu8JM	
+第944话 新老师的骸骨事件（上集）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=4SSFqlRPcn	
+第945话 新老师的骸骨事件（下集）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=hBY9WrXSnL	
+第946话 幕末维新推理之旅（山口篇）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=9mpJna95A2	
+第947话 幕末维新推理之旅（萩市篇）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=t4x7K9Wb9Y	
+第948话 星级餐厅之谜,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=n5TwRRhhAc	
+第949话 隔壁的江户式推理秀（上集）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=rBdy4NJV2h	
+第950话 隔壁的江户式推理秀（下集）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=zsoxhCQ9SZ	
+第951话 手臂白皙的女人（上集）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=dae99fvDM3	
+第952话 手臂白皙的女人（下集）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=l7nHNb5VAW	
+第953话 蛋糕融化了！,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=iVjylvHF9p	
+第954话 真凶的喊叫声,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=9bmSVnYyry	
+第955话 密室解谜秀,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=BE2fgLdc4X	
+第956话 妃律师的求救信号（上集）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=cd4XoRikcS	
+第957话 妃律师的求救信号（下集）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=uHAwCrKyRh	
+第958话 相似的死对头,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=rypNu9cDAD	
+第959话 两败俱伤的真相,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=Lpbcpdwukm	
+第960话 七年后的目击证词（上集）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=EUiytEfcyf	
+第961话 七年后的目击证词（下集）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=l6DJnuDqSp	
+第962话 J联赛的保镖,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=7HYPSymPqz	
+第963话 顺流而逝的友情,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=wgnGj3MxHm	
+第964话 燃烧帐篷的怪物（上集）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=WLuGWB5TkK	
+第965话 燃烧帐篷的怪物（下集）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=gtYv4LVDqn	
+第966话 来自目暮警官的委托,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=sA8qSUB92y	
+第967话 成为模特的侦探团,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=LNBtYvR9qG	
+第968话 被掳走的柯南（上集）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=iX5x96i2d8	
+第969话 被掳走的柯南（下集）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=KLk2DnChWC	
+第970话 女高中生侦探铃木园子,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=xFbgF2jsKE	
+第971话 恋爱与推理的剑道大赛（上集）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=hPJvyvHGUK	
+第972话 恋爱与推理的剑道大赛（下集）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=iBrecl5t4R	
+第973话 女警大追击,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=5HG2xlmsls	
+第974话 三名女高中生的秘密咖啡店（上集）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=SNtjqE4uix	
+第975话 三名女高中生的秘密咖啡店（下集）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=T9dMmPgg4G	
+第976话 充满杀意的同车人,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=BfGKrm2fMo	
+第977话 失踪的少年侦探团,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=fTA3iZAeDX	
+第978话 柯南不在的日子,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=drt3wj3SV4	
+第979话 夕阳下的橘子林,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=9ySkvvWCPY	
+第980话 饱含心意的手机挂件（上集）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=KJ9MKx9X63	
+第981话 饱含心意的手机挂件（下集）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=9TEXa3kgy5	
+第982话 红色的修学旅行（鲜红篇）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=J3bfdprLEK	
+第983话 红色的修学旅行（鲜红篇）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=xmsmRSrUfy	
+第984话 红色的修学旅行（恋红篇）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=FTEw3NZX2j	
+第985话 红色的修学旅行（恋红篇）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=wGtAaZxr4U	
+第986话 靠在窗边的女人（上集）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=yZtDCRt9LP	
+第987话 靠在窗边的女人（下集）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=NUkMt2t5ce	
+第988话 北九州神秘之旅（小仓篇）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=3D5taXybkw	
+第989话 北九州神秘之旅（门司篇）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=fbJkdtMGs9	
+第990话 纯种赛马绑架事件（上集）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=Ql6LRw9gEA	
+第991话 纯种赛马绑架事件（下集）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=wWLul5Jw84	
+第992话 占卜师与三位客人,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=czPDeTznMA	
+第993话 美食广场的阴谋,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=28sRrRDC6k	
+第994话 巨人塔罗斯的必杀拳（上集）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=zMyaAkMwXm	
+第995话 巨人塔罗斯的必杀拳（下集）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=ElCEBVVhGN	
+第996话 危险的化石采集,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=Lp52qlD7Jx	
+第997话 消失的恋人,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=TyDXFe8Bjc	
+第998话 寻找玛丽亚（上集）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=lrLcD2aVqp	
+第999话 寻找玛丽亚（下集）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=9adbrLHBG3	
+第1000话 东京潮流老太太盛典,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=JLcuFrkWM9	
+第1001话 点赞的代价（上集）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=nnYmZlnFK7	
+第1002话 点赞的代价（下集）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=CNlaglqV8d	
+第1003话 诅咒的宝石波吉亚之泪（上集）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=qSEt3r6SoL	
+第1004话 诅咒的宝石波吉亚之泪（下集）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=ii7KkSKLnA	
+第1005话 被恐龙压倒的男人,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=ngHKcWEgSL	
+第1006话 广播电台的烦恼咨询（挑战篇）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=Hs9YaA85c4	
+第1007话 广播电台的烦恼咨询（解谜篇）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=eV2n7dleks	
+第1008话 能听见汽笛声的旧书店2,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=BVQi7SNyvL	
+第1009话 充满谜团的鸡尾酒（上集）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=Lv5jgJXFhh	
+第1010话 充满谜团的鸡尾酒（中集）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=WqMYPtgRmB	
+第1011话 充满谜团的鸡尾酒（下集）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=qiGFHgPTCR	
+第1012话 昆虫人的秘密,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=cuxTJ2q6Vz	
+第1013话 在水上巴士解谜（上集）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=kZwpQmjuPj	
+第1014话 在水上巴士解谜（下集）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=69mJWQkYar	
+第1015话 贵宾犬与霰弹枪（上集）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=GLo44kD8CB	
+第1016话 贵宾犬与霰弹枪（下集）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=qZBnyFa6cV	
+第1017话 寡妇和侦探团,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=9dpLtXSSSB	
+第1018话 奢华露营怪异事件,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=ceb6MBqFHK	
+第1019话 毛利小五郎的盛大演讲会（上集）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=znhVTthyCC	
+第1020话 毛利小五郎的盛大演讲会（中集）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=4PisrhDHw4	
+第1021话 毛利小五郎的盛大演讲会（下集）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=J9xRDsBwTC	
+第1022话 大怪兽哥美拉对战假面超人（序）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=hgRCwMhxDG	
+第1023话 大怪兽哥美拉对战假面超人（破）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=5CbliH3KWL	
+第1024话 大怪兽哥美拉对战假面超人（急）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=N7Pwx7JfZS	
+第1025话 大怪兽哥美拉对战假面超人（结）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=rVMlyfVkW4	
+第1026话 加贺大小姐推理之旅（上集）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=LqCDeyLTBb	
+第1027话 加贺大小姐推理之旅（下集）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=S2aXiWz8g6	
+第1028话 目标是警视厅交通部（一）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=lch8tSdkBh	
+第1029话 目标是警视厅交通部（二）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=Eh2EqLTf5j	
+第1030话 目标是警视厅交通部（三）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=UNaK6JitJ2	
+第1031话 目标是警视厅交通部（四）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=4Hwe8AgU8N	
+第1032话 寻找妻子的秘密,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=zGe9X94WAQ	
+第1033话 追踪!侦探出租车,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=9PPTk8jArN	
+第1034话 摔碎的金鱼缸,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=qLbEHhVSpP	
+第1035话 对岸的案件,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=4xccNR3JQZ	
+第1036话 被人摆布的侦探,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=blq5moBq2i	
+第1037话 完美犯罪指南,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=LqELQBhcBD	
+第1038话 欢迎来到少爷亭(上集),https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=vMEGAqHwzs	
+第1039话 欢迎来到少爷亭(下集),https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=yaRchxyxmX	
+第1040话 基德对高明 被盯上的嘴唇（上集）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=t6ht3xA8mR	
+第1041话 基德对高明 被盯上的嘴唇（下集）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=TZsZmrM8Rd	
+第1042话 二副面孔(上集),https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=kXAzr6ly4q	
+第1043话 两副面孔（下集）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=eFctymxqFx	
+第1044话 公司解散聚会,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=JR2MLdjwcH	
+第1045话 争斗不休的少女们,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=jKWnEsV3RV	
+第1046话 步美绘画日记事件簿,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=JcLpnhNsRs	
+第1047话 连锁的悲剧（上集）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=WlHKZwGrs9	
+第1048话 连锁的悲剧（下集）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=3teKc7QMar	
+第1049话 民家咖啡店事件,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=bbVTy2mJaL	
+第1050话 替身京极真（上集）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=cYga6FnxWK	
+第1051话 替身京极真（中集）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=cUYXYhZgTb	
+第1052话 替身京极真（下集）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=Wi8mBn9LNh	
+第1053话 真人不露罪,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=K44yBb7nC5	
+第1054话 微笑之乡的阴谋,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=mnBnkTh8yP	
+第1055话 仇恨的平底锅,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=q4zWpAlARq	
+第1056话 好心帮倒忙,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=afC9Kgcmrh	
+第1057话 钢琴奏鸣曲《月光》杀人事件（上）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=s9DPFvesAM	
+第1058话 钢琴奏鸣曲《月光》杀人事件（下集）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=LFmfW7XWtr	
+第1059话 米花商业街的垃圾之迷,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=lNw5Bwk2mH	
+第1060话 36宫格的完美犯罪（上集）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=BEnYAHryD9	
+第1061话 36宫格的完美犯罪（中集）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=fJwwL8yrLG	
+第1062话 36宫格的完美犯罪（下集）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=rtvbpkoK84	
+第1063话 谁是投毒者,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=kpi4nGlpkL	
+第1064话 复仇者（上集）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=lNSL25hZqy	
+第1065话 复仇者（下集）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=qDLK92LLeG	
+第1066话 遗失物背后的案件,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=dQtAA7TCcD	
+第1067话 失去笑容的偶像,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=aWWBNnkpVi	
+第1068话 挖野菜与四叶草（上集）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=ZXgnaMslGz	
+第1069话 挖野菜与四叶草（下集）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=AWnCdimi4i	
+第1070话 爱太深的男人,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=Xl9GEEWoPt	
+第1071话 被称为魔王的小说家,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=zDrGPReh4i	
+第1072话 暗中监视,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=zJETxC3bx9	
+第1073话 列车狙击事件（上集）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=hDMYDAdW9u	
+第1074话 列车狙击事件（下集）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=KPxGDQFus4	
+第1075话 藏不住的古董盘（上集）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=ijCk6hMDmM	
+第1076话 藏不住的古董盘（中集）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=krnSrL4JSy	
+第1077话 藏不住的古董盘（下集）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=r34H6pvttY	
+第1078话 恶友轮舞曲,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=4LNaBtmNxj	
+第1079话 被诅咒的博物馆,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=sAheqxTklu	
+第1080话 能听见汽笛声的旧书店3,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=USh2swtE7l	
+第1081话 大冈红叶的挑战书（上集）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=FD8yZNG9cN	
+第1082话 大冈红叶的挑战书（下集）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=2fDXTrmjk4	
+第1083话 无法言说的目击者,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=h4Kz4332ZH	
+第1084话 帘子的另一侧,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=sTCBXhw8eZ	
+第1085话 甜品女的叙事诗,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=4a2U9gQ4yz	
+第1086话 警察学校篇 疯狂警察故事 松田阵平篇,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=gaFMCEgE3l	
+第1087话 空白的一年（上集）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=XBEdBV6SyB	
+第1088话 空白的一年（下集）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=LSzL2rCVL3	
+第1089话 模特毛利兰,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=Z7XQv4dXrR	
+第1090话 太阁名人的将棋盘（初手篇）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=rSZtgl4Wbg	
+第1091话 太阁名人的将棋盘（妙手篇）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=rSjmQS4rYq	
+第1092话 太阁名人的将棋盘（将军篇）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=PvPHosYH2q	
+第1093话 乳白天空（上集）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=jgnuJmcXHk	
+第1094话 乳白天空（下集）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=ons7sixSfW	
+第1095话 警察学校篇 疯狂警察故事 伊达航篇,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=rdtmt8Uh2c	
+第1096话 会飞的万圣节南瓜,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=U3Dlq2T9fC	
+第1097话 步美绘画日记事件簿2,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=z5jYqty4ka	
+第1098话 无法言说的不在场证明,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=jBMWW82tSU	
+第1099话 警察学校篇 疯狂警察故事 萩原研二篇,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=F48EB92htt	
+第1100话 复仇的手办,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=H6qJt8wFZZ	
+第1101话 肉汤是赌上性命的暗号,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=MflAY4nTRu	
+第1102话 遭天谴的生日宴（上集）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=gUnxWm9GpZ	
+第1103话 遭天谴的生日宴（下集）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=aUBXgmKjAt	
+第1104话 红色绵羊的可怕游戏（上集）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=XfuAMBKrJ4	
+第1105话 红色绵羊的可怕游戏（下集）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=gCaXFccCTq	
+第1106话 目暮 警察生涯的危机,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=ki4wkUZ5id	
+第1107话 森川宅邸的阴谋（上集）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=ZwU49Fdrmp	
+第1108话 森川宅邸的阴谋（下集）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=28gFyynZhd	
+第1109话 少年侦探团的试胆冒险,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=kwEbP2XePr	
+第1110话 掉入牧场的火种（上集）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=X5EhuzVawD	
+第1111话 掉入牧场的火种（下集）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=LH9SYRowKz	
+第1112话 幽灵的复仇,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=eCrgWGyPJe	
+第1113话 希望要回那个人,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=eFr3jmMUA7	
+第1114话 一群恶人,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=pigbGna2xU	
+第1115话 赖在警署的男人,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=yU6V2pxy8w	
+第1116话 冲野洋子和阁楼的密室（上集）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=YZSTleWNqH	
+第1117话 冲野洋子和阁楼的密室（下集）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=VB3l4LeaNA	
+第1118话 警察学校篇 疯狂警察故事 诸伏景光篇,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=DU2niNb2Ry	
+第1119话 雨和恶性循环,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=MF2KSNnlBs	
+第1120话 被盯上的小鸡鉴别师,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=FGNkznwsGl	
+第1121话 痴人说梦的贵妇人 和她最后的恋爱,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=nlWZoezRCt	
+第1122话 侦探不睡觉,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=VKyaGqEkMH	
+第1123话 阴阳分隔的两人,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=HTVdrk2Cld	
+第1124话 恋爱的商业街,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=tzUX7N2FPZ	
+第1125话 圆谷光彦的侦探笔记,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=UGcFWJgEjY	
+第1126话 电话那头的甜美声音,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=8MZPVucnpJ	
+第1127话 惊喜是悲剧的开始,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=SgceadRAe9	
+第1128话 工藤优作的推理秀（前篇）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=KoPisqrGn9	
+第1129话 工藤优作的推理秀（后篇）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=snpRgVknQ3	
+第1130话 侦探团的抢劫案大追踪,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=3b8QMQXnPk	
+第1131话 河豚火锅对决推理之旅（门司港・小仓篇）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=2eiLqTKVbZ	
+第1132话 河豚火锅对决推理之旅（下关篇）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=KCiPe5exkt	
+第1133话 魅力社長的絕密計劃,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=AQYEjbhtfa	
+第1134话 警察學校篇Wild Police Story CASE.降谷零,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=lVPRnnqrwP	
+第1135话 黑暗组织的谋略（狩猎）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=4nKWg83PEu	
+第1136话 黑暗组织的谋略（登陆）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=2XhtLM6mWR	
+第1137话 黑暗组织的谋略（真身）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=l4KFfc2qbh	
+第1138话 对准灰原的相机,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=LBWWtfmyQe	
+第1139话 爱犬小胖是个机灵鬼,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=9aqehaxifo	
+第1140话 悲伤的背叛小巷,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=9ULN9ncyCV	
+第1141话 J联赛决赛的幕后,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=guhhzNn95c	
+第1142话 冷冰冰的男人们,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=toaduADfpe	
+第1143话 不吉利的姻緣（前篇）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=b4gcyUKgNY	
+第1144话 不吉利的姻緣（后篇）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=dlNs9wfhg6	
+第1145话 步美绘画日记事件簿3,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=NydhQLefNY	
+第1146话 倒霉的可疑被害者,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=D9MJiVuGof	
+第1147话 天才餐厅,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=TMdgxiLwiP	
+第1148话 消失在沉睡街道的犯人,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=MfoVRdeiR2	
+第1149话 女生聚会神秘事件,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=NwJ3uCGF8y	
+第1150话 盯梢2,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=NluYby6zt9	
+第1151话 宫野明美的时间胶囊（前篇）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=kYpCfdKRVT	
+第1152话 宫野明美的时间胶囊（后篇）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=V6iXRYPrYW	
+第1153话 失踪男子的梦想,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=uK3QV4d7wp	
+第1154话 圆谷光彦的侦探笔记2,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=2ccz7KVGLG	
+第1155话 是我做的吗？,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=jaTQ6Xfc9k	
+第1156话 风之女神·萩原千速（前篇）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=8crCmno5ZN	
+第1157话 风之女神·萩原千速（后篇）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=hXJSWcUrNH	
+第1158话 疑团重重的两千万日元,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=bsNYcCCTv3	
+第1159话 不死男子的尊严,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=92E4TZXRYo	
+第1160话 红牛与三个福男,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=MEPDUo8dj5	
+第1161话 青春小说的犯罪气息,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=ldyqFPaByM	
+第1162话 真凶在逃窜,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=FC4m5jL9Ke	
+第1163话 基德vs安室 王妃的刘海（前篇）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=ZZAgqBCKVu	
+第1164话 基德vs安室 王妃的刘海（后篇）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=9UP94Ld2kn	
+第1165话 被陷害的是我,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=Ld6uZyyEdB	
+第1166话 卡牌下掩盖的秘密,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=QDXkYwRZdd	
+第1167话 高木与伊达与手账中的约定（前篇）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=2j7AqgiE9X	
+第1168话 高木与伊达与手账中的约定（后篇）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=XKpLMx9GF4	
+第1169话 鲁布·戈德堡机械（前篇）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=talzT7WV9m	
+第1170话 鲁布·戈德堡机械（后篇）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=W92NZVSch7	
+第1171话 献给你的最后的晚餐,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=MwJAMysCeZ	
+第1172话 引起骚乱的劫持,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=ufhHv7Fkzm	
+第1173话 千速与重悟的相亲派对（前篇）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=bxxPmpAHWd	
+第1174话 千速与重悟的相亲派对（后篇）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=QeD8pXw5fR	
+第1175话 空手道老师 毛利兰,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=UZqSeXAJqA	
+第1176话 女生聚会神秘事件2,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=UNiUbDSHZc	
+第1177话 只有四个人的同学会,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=xjBPNtyMFJ	
+第1178话 宝物损毁之谜,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=RtamWap3WE	
+第1179话 过于危险的蜜瓜田,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=q25H9H9DWE	
+第1180话 盯梢3,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=42u6JQlxN9	
+第1181话 群马与长野 县分界线上的遗体（前篇）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=KKULUbARQT	
+第1182话 群马与长野 县分界线上的遗体（后篇）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=TpbCLpzifg	
+第1183话 步美的绘画日记事件簿4,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=o2Npt88LjN	
+第1184话 晕头转向的侦探,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=pRX2gMpPZk	
+第1185话 THE·审讯室2,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=TRgP4r8dmc	
+第1186话 柯南和目暮 两位人质（前篇）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=LfqbMi2GNV	
+第1187话 柯南和目暮 两位人质（后篇）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=rm4vCqAwcD	
+第1188话 三重联动的出轨疑云（前篇）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=WxgsNPWXEG	
+第1189话 三重联动的出轨疑云（后篇）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=yTmDqwrRXk	
+第1190话 圆谷光彦的侦探笔记3,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=gkeL28ZtHZ	
+第1191话 最佳丈夫,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=gHYGi8TSJB	
+第1192话 乐观男子的灾难,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=YxCWVxkMfv	
+第1193话 大冈红叶的甜蜜陷阱（前篇）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=rqaRRukS47	
+第1194话 大冈红叶的甜蜜陷阱（后篇）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=FQ3NLBhNJ6	
+第1195话 排队名店 味道改变的秘密,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=AAoPJuC39e	
+第1196话 流动派出所,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=jGENaBG3RF	
+第1197话 对坏心眼的弟弟感到头疼的姐姐,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=vdfSAN3jaF	
+第1198话 女生聚会神秘事件3,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=nDYAgAXUwb	
+第1199话 替人看家的毛利一家,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=gY2xaoD6l5	
+第1200话 乱步宅邸杀人事件（前篇）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=J6HjgD3QUy	
+第1201话 乱步宅邸杀人事件（后篇）,https://www.xgcartoon.com/user/page_direct?cartoon_id=mingzhentankenanguoyu-qingshangangchang&chapter_id=yob6NWqJYT	
+		
