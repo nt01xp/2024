@@ -26,6 +26,8 @@ CatchPlay電影M,udp://@230.1.2.37:11111
 台視,rtmp://f13h.mine.nu/sat/tv071
 民視,rtmp://f13h.mine.nu/sat/tv051
 
+千與千尋,https://xgct-video.vzcdn.net/99d3a8f8-750b-446e-ad2d-43db9ddc31ee/1280x720/video.m3u8
+
 台灣新聞,#genre#
 
 TVBS新聞1,https://qq01xp.serv00.net/2024litv.php?id=4gtv-4gtv072
