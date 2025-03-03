@@ -30,6 +30,9 @@ CatchPlay電影M,udp://@230.1.2.37:11111
 龍貓,https://xgct-video.vzcdn.net/46bc39c7-1d8c-4526-9e63-2e83a64d0d6c/1280x720/video.m3u8
 魔女宅急便,https://xgct-video.vzcdn.net/80ea4f1e-8638-48b7-83f5-23b91d94fda7/1280x720/video.m3u8
 霍爾的移動城堡,https://xgct-video.vzcdn.net/0dd87cfa-3ca3-4add-bb9b-02abd357e2f3/1280x720/video.m3u8
+螢火蟲之墓,https://xgct-video.vzcdn.net/86f49b82-cda7-4648-b753-547a392c4d63/1280x720/video.m3u8
+風之谷,https://xgct-video.vzcdn.net/ef677ab2-0e0e-4cae-b077-31a65ac8a084/1280x720/video.m3u8
+天空之城,https://xgct-video.vzcdn.net/ca278218-7aaf-4396-8daf-7c1de218380b/1280x720/video.m3u8
 
 台灣新聞,#genre#
 
