@@ -28,6 +28,8 @@ CatchPlay電影M,udp://@230.1.2.37:11111
 
 千與千尋,https://xgct-video.vzcdn.net/99d3a8f8-750b-446e-ad2d-43db9ddc31ee/1280x720/video.m3u8
 龍貓,https://xgct-video.vzcdn.net/46bc39c7-1d8c-4526-9e63-2e83a64d0d6c/1280x720/video.m3u8
+魔女宅急便,https://xgct-video.vzcdn.net/80ea4f1e-8638-48b7-83f5-23b91d94fda7/1280x720/video.m3u8
+霍爾的移動城堡,https://xgct-video.vzcdn.net/0dd87cfa-3ca3-4add-bb9b-02abd357e2f3/1280x720/video.m3u8
 
 台灣新聞,#genre#
 
