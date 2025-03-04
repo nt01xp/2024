@@ -7,6 +7,10 @@
 ],
 
 
+"lives":[
+{"name": "ITV","type": 0,"url": "./ITV.txt","epg": "http://epg.51zmt.top:8000/e.xml","ua": "okhttp/3.15,AptvPlayer/1.4.0","timeout": 3,"playerType": 2},
+],
+
 https://github.com/qist/tvbox
 
 央視 https://github.com/qist/tvbox/blob/master/jsm.json
