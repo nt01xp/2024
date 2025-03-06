@@ -1,3 +1,8 @@
+Host=cache.ott.*.itv.cmvideo.cn=itv.dns.xuran1983.cn
+Decoder=3
+
+========================
+
 "hosts": [
 			"cache.ott.ystenlive.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com",
 			"cache.ott.bestlive.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com",
