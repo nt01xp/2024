@@ -554,6 +554,10 @@ NewTV频道,#genre#
 戏曲精选,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000011000288012&livemode=1&stbId=toShengfen&mode=1&$8M FHD
 百变课堂,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000011000288001&livemode=1&stbId=toShengfen&mode=1&$8M FHD
 看天下精选,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000011000288007&livemode=1&stbId=toShengfen&mode=1&$8M FHD
+東方影视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000010000032212&livemode=1&stbId=toShengfen&mode=1&$4M FHD
+東方影视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000013&livemode=1&stbId=toShengfen&mode=1&$4M FHD
+五星体育,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=toShengfen&mode=1&$4M FHD
+五星体育,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000007&livemode=1&stbId=toShengfen&mode=1&$4M FHD
 北京纪实科教,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000011000031204&livemode=1&stbId=toShengfen&mode=1&$8M FHD
 北京纪实科教,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000065&livemode=1&stbId=toShengfen&mode=1&$8M FHD
 北京纪实科教,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000026&livemode=1&stbId=toShengfen&mode=1&$4M FHD
@@ -566,12 +570,6 @@ NewTV频道,#genre#
 纪实人文,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000001000016545&livemode=1&stbId=toShengfen&mode=1&$8M FHD
 纪实人文,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265021&livemode=1&stbId=toShengfen&mode=1&$6M FHD HEVC
 金鹰纪实,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000011000031203&livemode=1&stbId=toShengfen&mode=1&$8M FHD
-東方影视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000010000032212&livemode=1&stbId=toShengfen&mode=1&$4M FHD
-東方影视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000013&livemode=1&stbId=toShengfen&mode=1&$4M FHD
-五星体育,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=toShengfen&mode=1&$4M FHD
-五星体育,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000007&livemode=1&stbId=toShengfen&mode=1&$4M FHD
-
-数字频道,#genre#
 求索动物,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=hnbblive&Contentid=2000000004000000009&livemode=1&stbId=toShengfen&mode=1&$8M FHD
 求索动物,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=wasusyt&Contentid=6000000002000010046&livemode=1&stbId=toShengfen&mode=1&$8M FHD
 求索纪录,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=hnbblive&Contentid=2000000004000000010&livemode=1&stbId=toShengfen&mode=1&$8M FHD
@@ -580,61 +578,5 @@ NewTV频道,#genre#
 求索科学,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=wasusyt&Contentid=6000000002000032344&livemode=1&stbId=toShengfen&mode=1&$8M FHD
 求索生活,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=hnbblive&Contentid=2000000004000000008&livemode=1&stbId=toShengfen&mode=1&$8M FHD
 求索生活,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=wasusyt&Contentid=6000000002000003382&livemode=1&stbId=toShengfen&mode=1&$8M FHD
-精彩影视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=hnbblive&Contentid=2000000004000000063&livemode=1&stbId=toShengfen&mode=1&$8M FHD
-精彩影视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=wasusyt&Contentid=6000000006000320630&livemode=1&stbId=toShengfen&mode=1&$8M FHD
-茶频道,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000011000031209&livemode=1&stbId=toShengfen&mode=1&$8M FHD
-茶频道,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000070&livemode=1&stbId=toShengfen&mode=1&$8M FHD
-快乐垂钓,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000011000031206&livemode=1&stbId=toShengfen&mode=1&$8M FHD
-快乐垂钓,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000067&livemode=1&stbId=toShengfen&mode=1&$8M FHD
-睛彩竞技,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011528&livemode=1&stbId=toShengfen&mode=1&$8M FHD
-睛彩竞技,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011530&livemode=1&stbId=toShengfen&mode=1&$8M FHD
-睛彩竞技,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000060&livemode=1&stbId=toShengfen&mode=1&$8M FHD
-睛彩竞技,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000006000270001&livemode=1&stbId=toShengfen&mode=1&$8M FHD
-睛彩青少,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011525&livemode=1&stbId=toShengfen&mode=1&$8M FHD
-睛彩青少,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000031315&livemode=1&stbId=toShengfen&mode=1&$8M FHD
-睛彩青少,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000068&livemode=1&stbId=toShengfen&mode=1&$8M FHD
-睛彩青少,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000006000270007&livemode=1&stbId=toShengfen&mode=1&$8M FHD
-睛彩篮球,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011529&livemode=1&stbId=toShengfen&mode=1&$8M FHD
-睛彩篮球,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011531&livemode=1&stbId=toShengfen&mode=1&$8M FHD
-睛彩篮球,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000061&livemode=1&stbId=toShengfen&mode=1&$8M FHD
-睛彩篮球,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000065&livemode=1&stbId=toShengfen&mode=1&$8M FHD
-睛彩篮球,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000006000270002&livemode=1&stbId=toShengfen&mode=1&$8M FHD
-睛彩篮球,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000006000270006&livemode=1&stbId=toShengfen&mode=1&$8M FHD
-睛彩广场舞,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011523&livemode=1&stbId=toShengfen&mode=1&$8M FHD
-睛彩广场舞,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011524&livemode=1&stbId=toShengfen&mode=1&$8M FHD
-睛彩广场舞,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000062&livemode=1&stbId=toShengfen&mode=1&$8M FHD
-睛彩广场舞,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000064&livemode=1&stbId=toShengfen&mode=1&$8M FHD
-睛彩广场舞,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000006000270003&livemode=1&stbId=toShengfen&mode=1&$8M FHD
-睛彩广场舞,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000006000270005&livemode=1&stbId=toShengfen&mode=1&$8M FHD
-欢笑剧场4K,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000002000009455&livemode=1&stbId=toShengfen&mode=1&$4M FHD
-欢笑剧场4K,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000007000010001&livemode=1&stbId=toShengfen&mode=1&$12M UHD HEVC
-欢笑剧场4K,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000016&livemode=1&stbId=toShengfen&mode=1&$4M FHD
-都市剧场,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000002000004412&livemode=1&stbId=toShengfen&mode=1&$4M FHD
-都市剧场,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000011000031111&livemode=1&stbId=toShengfen&mode=1&$8M FHD
-都市剧场,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000015&livemode=1&stbId=toShengfen&mode=1&$4M FHD
-动漫秀场,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000002000023636&livemode=1&stbId=toShengfen&mode=1&$4M FHD
-动漫秀场,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000011000031113&livemode=1&stbId=toShengfen&mode=1&$8M FHD
-动漫秀场,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000009&livemode=1&stbId=toShengfen&mode=1&$4M FHD
-乐游,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000006000040025&livemode=1&stbId=toShengfen&mode=1&$4M FHD
-乐游,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000011000031112&livemode=1&stbId=toShengfen&mode=1&$8M FHD
-乐游,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000059&livemode=1&stbId=toShengfen&mode=1&$4M FHD
-乐游,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000092&livemode=1&stbId=toShengfen&mode=1&$8M FHD
-游戏风云,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000002000027005&livemode=1&stbId=toShengfen&mode=1&$4M FHD
-游戏风云,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000011000031114&livemode=1&stbId=toShengfen&mode=1&$8M FHD
-游戏风云,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000011&livemode=1&stbId=toShengfen&mode=1&$4M FHD
-劲爆体育,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000002000029972&livemode=1&stbId=toShengfen&mode=1&$4M FHD
-劲爆体育,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000008&livemode=1&stbId=toShengfen&mode=1&$4M FHD
-魅力足球,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000011000031207&livemode=1&stbId=toShengfen&mode=1&$8M FHD
-魅力足球,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000068&livemode=1&stbId=toShengfen&mode=1&$8M FHD
-法治天地,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=9001547084732463424&livemode=1&stbId=toShengfen&mode=1&$8M FHD
-法治天地,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000014&livemode=1&stbId=toShengfen&mode=1&$8M FHD
-金色学堂,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000010000026105&livemode=1&stbId=toShengfen&mode=1&$8M FHD
-金色学堂,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000061&livemode=1&stbId=toShengfen&mode=1&$8M FHD
-七彩戏剧,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000011000031116&livemode=1&stbId=toShengfen&mode=1&$8M FHD
-七彩戏剧,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000010&livemode=1&stbId=toShengfen&mode=1&$8M FHD
-生活时尚,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000002000019634&livemode=1&stbId=toShengfen&mode=1&$4M FHD
-生活时尚,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000006&livemode=1&stbId=toShengfen&mode=1&$4M FHD
-東方财经,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000007000010003&livemode=1&stbId=toShengfen&mode=1&$8M FHD
-東方财经,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000090&livemode=1&stbId=toShengfen&mode=1&$8M FHD
-華數4K,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=hnbblive&Contentid=2000000004000000014&livemode=1&stbId=toShengfen&mode=1&$16M UHD
-華數4K,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=toShengfen&mode=1&$16M UHD
+
+
