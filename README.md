@@ -120,8 +120,6 @@ PG节奏熊猫发布频道 https://t.me/PandaGroovePG
 
 天光云影發布 https://t.me/mytv_android_release
 
-羅炸 https://t.me/nezhasux
-
 TMXKK https://t.me/tmxktg
 
 ********
