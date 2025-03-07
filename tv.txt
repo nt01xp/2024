@@ -57,7 +57,7 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 高雄蓮池潭,https://www.youtube.com/watch?v=BnPoNatG-HE
 淡水漁人碼頭,https://www.youtube.com/watch?v=xwAWSh35uuw
 
-靖天直播,#genre#
+靖天龍華,#genre#
 靖天日本台,udp://@224.1.4.103:11111
 靖天日本台,udp://@230.1.2.221:11111
 靖天卡通台,udp://@224.1.4.25:11111
