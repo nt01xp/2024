@@ -1,5 +1,9 @@
 聚玩盒子  https://www.juwanhezi.com/
 
+===========
+
+Host=cache.ott.*.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com
+
 ===================
 
 Host=cache.ott.*.itv.cmvideo.cn=itv.dns.xuran1983.cn
