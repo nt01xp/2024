@@ -1,3 +1,29 @@
+{
+  "spider": "",  // 爬虫配置（此处为空，表示未启用自定义爬虫）
+  "lives": [
+    {
+      "name": "中国移动ITV",  // 直播源名称
+      "type": 0,             // 类型0表示普通直播源
+      "url": "http://xg.52sw.top/iptv/dns-itv.txt",  // 播放列表地址
+      "ua": "okhttp/3.15",   // 模拟移动端请求头
+      "epg": "http://iptv.52sw.top:668/epg/?ch={name}&date={date}",  // EPG节目单接口
+      "catchup": {  // 时移回看配置
+        "type": "append",  // 在原始URL后追加参数
+        "source": "?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"
+      }
+    }
+  ],
+  "hosts": [
+    // 使用通配符批量重定向CDN域名
+    "cache.ott.*.itv.cmvideo.cn=itv.dns.xuran1983.cn",  // *匹配任意中间子域
+    
+    // 可添加其他具体域名覆盖通配符规则（优先级更高）
+    "cache.ott.backup.itv.cmvideo.cn=backup.dns.example.com"
+  ]
+}
+
+===================
+
 Host=cache.ott.*.itv.cmvideo.cn=itv.dns.xuran1983.cn
 
 Decoder=3
