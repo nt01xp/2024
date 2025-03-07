@@ -7,7 +7,11 @@ Decoder=3
 
 ========================
 
+http://xg.52sw.top/play/hxds/itv.json
 
+http://xg.52sw.top/iptv/dns-itv.txt
+
+=======================
 
 https://github.com/qist/tvbox
 
