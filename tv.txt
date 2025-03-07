@@ -1,7 +1,7 @@
 卡通頻道,#genre#
 
-CBeebies,udp://@224.1.4.213:11111
-CBeebies,udp://@224.1.4.75:11111
+CBeebiesM,udp://@224.1.4.213:11111
+CBeebieMs,udp://@224.1.4.75:11111
 CatchPlay電影M,udp://@230.1.2.217:11111
 CatchPlay電影M,udp://@230.1.2.37:11111
 華視M,udp://@230.1.2.229:11111
