@@ -4,6 +4,8 @@
 
 Host=cache.ott.*.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com
 
+Decoder=3
+
 ===================
 
 Host=cache.ott.*.itv.cmvideo.cn=itv.dns.xuran1983.cn
