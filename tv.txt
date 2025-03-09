@@ -106,12 +106,15 @@ KansaiNews24,https://www.youtube.com/watch?v=sTAqx_1Yrww
 日テレNEWS,https://www.youtube.com/watch?v=t9kwjZBLI-A
 
 澳門議事亭前地,https://www.youtube.com/watch?v=ctYalRx7kY4
-富士山(忍野八海),https://www.youtube.com/watch?v=UtxSrmmTQTk
-櫻島火山,https://www.youtube.com/watch?v=PeElJClXtzE
 函館山夜景,https://www.youtube.com/watch?v=s--MDmshT3I
-淡路島猴子,https://www.youtube.com/watch?v=lsxYH2XQQCg
 草津温泉,https://www.youtube.com/watch?v=GrEEoEmmrKs
 草津温泉（移動式),https://www.youtube.com/watch?v=B_Sc1v1qR-g
+
+富士山(忍野八海),https://www.youtube.com/watch?v=UtxSrmmTQTk
+櫻島火山,https://www.youtube.com/watch?v=PeElJClXtzE
+
+淡路島猴子,https://www.youtube.com/watch?v=lsxYH2XQQCg
+
 
 Host=cache.ott.*.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com
 Decoder=3
