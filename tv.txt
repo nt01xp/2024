@@ -109,12 +109,9 @@ KansaiNews24,https://www.youtube.com/watch?v=sTAqx_1Yrww
 函館山夜景,https://www.youtube.com/watch?v=s--MDmshT3I
 草津温泉,https://www.youtube.com/watch?v=GrEEoEmmrKs
 草津温泉（移動式),https://www.youtube.com/watch?v=B_Sc1v1qR-g
-
 富士山(忍野八海),https://www.youtube.com/watch?v=UtxSrmmTQTk
 櫻島火山,https://www.youtube.com/watch?v=PeElJClXtzE
-
 淡路島猴子,https://www.youtube.com/watch?v=lsxYH2XQQCg
-
 
 央視頻道,#genre#
 純享4K,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&stbId=toShengfen&mode=1&$16M UHD
@@ -430,7 +427,6 @@ parse=1
 東森幼幼,https://www.chaojidianshi.net/zhibo/gangtaizhibo/dongsenyouyouYoyoTV.html
 緯來日本,https://www.chaojidianshi.net/zhibo/gangtaizhibo/weilairibentai.html
 
-
 4  民視第一台,https://www.4gtv.tv/channel/4gtv-4gtv003?set=1&ch=1    
 5  民視台灣台,https://www.4gtv.tv/channel/4gtv-4gtv001?set=1&ch=2    
 6  民視,https://www.4gtv.tv/channel/4gtv-4gtv002?set=1&ch=3    
@@ -546,4 +542,3 @@ parse=1
 201  經典電影台,https://www.4gtv.tv/channel/4gtv-live021?set=1&ch=201    
 202  經典卡通台,https://www.4gtv.tv/channel/4gtv-live022?set=1&ch=202    
 204  精選動漫台,https://www.4gtv.tv/channel/4gtv-live024?set=1&ch=204    
-
