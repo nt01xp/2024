@@ -126,6 +126,11 @@ PG节奏熊猫发布频道 https://t.me/PandaGroovePG
 
 TMXKK https://t.me/tmxktg
 
+交流群：https://t.me/doubebly001
+
+通知群：https://t.me/doubebly003
+
+
 ********
 聽音樂 @vkmusbot
 
