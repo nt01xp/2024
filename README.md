@@ -104,6 +104,8 @@ pixman.io 交流群 https://t.me/livednowgroup
 
 
 羅炸頻道
+https://t.me/nezhajiasu
+
 交流群：https://t.me/doubebly001
 ＋＋＋＋＋＋＋＋＋
 
