@@ -100,11 +100,7 @@ pixman.io 交流群 https://t.me/livednowgroup
 
 天光云影 https://t.me/mytv_android
 
-羅炸交流https://t.me/nezhasux
-
-
-羅炸頻道
-https://t.me/nezhajiasu
+哪吒云 https://t.me/nezhasux
 
 交流群：https://t.me/doubebly001
 ＋＋＋＋＋＋＋＋＋
@@ -130,6 +126,9 @@ PG节奏熊猫发布频道 https://t.me/PandaGroovePG
 TMXKK https://t.me/tmxktg
 
 通知群：https://t.me/doubebly003
+
+哪吒云頻道
+https://t.me/nezhajiasu
 
 ********
 聽音樂 @vkmusbot
