@@ -551,13 +551,13 @@ ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gec
 
 CCTV1,https://www.yangshipin.cn/tv/home?pid=600001859
 CCTV2,https://www.yangshipin.cn/tv/home?pid=600001800
-CCTV3,http://tv.haoqu99.com/1/cctv3.html
+
 CCTV4,https://www.yangshipin.cn/tv/home?pid=600001814
 CCTV5,https://www.yangshipin.cn/tv/home?pid=600001818
 CCTV5+,https://www.yangshipin.cn/tv/home?pid=600001817
-CCTV6,http://tv.haoqu99.com/1/cctv6.html
+
 CCTV7,https://www.yangshipin.cn/tv/home?pid=600004092
-CCTV8,http://tv.haoqu99.com/1/353.html
+
 CCTV9,https://www.yangshipin.cn/tv/home?pid=600004078
 CCTV10,https://www.yangshipin.cn/tv/home?pid=600001805
 CCTV11,https://www.yangshipin.cn/tv/home?pid=600001806
@@ -588,7 +588,7 @@ ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gec
 四川卫视,https://www.yangshipin.cn/tv/home?pid=600002516
 河南卫视,https://www.yangshipin.cn/tv/home?pid=600002525
 东南卫视,https://www.yangshipin.cn/tv/home?pid=600002484
-贵州卫视,https://www.yangshipin.cn/tv/home?pid=600002490guizhouweishi.html
+贵州卫视,https://www.yangshipin.cn/tv/home?pid=600002490
 江西卫视,https://www.yangshipin.cn/tv/home?pid=600002503
 辽宁卫视,https://www.yangshipin.cn/tv/home?pid=600002505
 安徽卫视,https://www.yangshipin.cn/tv/home?pid=600002532
