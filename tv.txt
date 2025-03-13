@@ -542,3 +542,55 @@ parse=1
 201  經典電影台,https://www.4gtv.tv/channel/4gtv-live021?set=1&ch=201    
 202  經典卡通台,https://www.4gtv.tv/channel/4gtv-live022?set=1&ch=202    
 204  精選動漫台,https://www.4gtv.tv/channel/4gtv-live024?set=1&ch=204    
+
+
+央视频CCTV,#genre#
+parse=1
+Referer=https://www.yangshipin.cn/
+ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+
+CCTV1,https://www.yangshipin.cn/tv/home?pid=600001859
+CCTV2,https://www.yangshipin.cn/tv/home?pid=600001800
+CCTV3,http://tv.haoqu99.com/1/cctv3.html
+CCTV4,https://www.yangshipin.cn/tv/home?pid=600001814
+CCTV5,https://www.yangshipin.cn/tv/home?pid=600001818
+CCTV5+,https://www.yangshipin.cn/tv/home?pid=600001817
+CCTV6,http://tv.haoqu99.com/1/cctv6.html
+CCTV7,https://www.yangshipin.cn/tv/home?pid=600004092
+CCTV8,http://tv.haoqu99.com/1/353.html
+CCTV9,https://www.yangshipin.cn/tv/home?pid=600004078
+CCTV10,https://www.yangshipin.cn/tv/home?pid=600001805
+CCTV11,https://www.yangshipin.cn/tv/home?pid=600001806
+CCTV12,https://www.yangshipin.cn/tv/home?pid=600001807
+CCTV13,https://www.yangshipin.cn/tv/home?pid=600001811
+CCTV14,https://www.yangshipin.cn/tv/home?pid=600001809
+CCTV15,https://www.yangshipin.cn/tv/home?pid=600001815
+CCTV16,https://www.yangshipin.cn/tv/home?pid=600098637
+CCTV17,https://www.yangshipin.cn/tv/home?pid=600001810
+
+央视频地方,#genre#
+parse=1
+Referer=https://www.yangshipin.cn/
+ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+
+北京卫视,https://www.yangshipin.cn/tv/home?pid=600002309
+江苏卫视,https://www.yangshipin.cn/tv/home?pid=600002521
+东方卫视,https://www.yangshipin.cn/tv/home?pid=600002483
+浙江卫视,https://www.yangshipin.cn/tv/home?pid=600002520
+湖南卫视,https://www.yangshipin.cn/tv/home?pid=600002475
+湖北卫视,https://www.yangshipin.cn/tv/home?pid=600002508
+广东卫视,https://www.yangshipin.cn/tv/home?pid=600002485
+广西卫视,https://www.yangshipin.cn/tv/home?pid=600002509
+黑龙江卫视,https://www.yangshipin.cn/tv/home?pid=600002498
+海南卫视,https://www.yangshipin.cn/tv/home?pid=600002506
+重庆卫视,https://www.yangshipin.cn/tv/home?pid=600002531
+深圳卫视,https://www.yangshipin.cn/tv/home?pid=600002481
+四川卫视,https://www.yangshipin.cn/tv/home?pid=600002516
+河南卫视,https://www.yangshipin.cn/tv/home?pid=600002525
+东南卫视,https://www.yangshipin.cn/tv/home?pid=600002484
+贵州卫视,https://www.yangshipin.cn/tv/home?pid=600002490guizhouweishi.html
+江西卫视,https://www.yangshipin.cn/tv/home?pid=600002503
+辽宁卫视,https://www.yangshipin.cn/tv/home?pid=600002505
+安徽卫视,https://www.yangshipin.cn/tv/home?pid=600002532
+河北卫视,https://www.yangshipin.cn/tv/home?pid=600002493
+山东卫视,https://www.yangshipin.cn/tv/home?pid=600002513
