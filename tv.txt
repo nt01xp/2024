@@ -546,7 +546,6 @@ parse=1
 
 央视频CCTV,#genre#
 parse=1
-Referer=https://www.yangshipin.cn/
 ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 
 CCTV1,https://www.yangshipin.cn/tv/home?pid=600001859
@@ -570,7 +569,6 @@ CCTV17,https://www.yangshipin.cn/tv/home?pid=600001810
 
 央视频地方,#genre#
 parse=1
-Referer=https://www.yangshipin.cn/
 ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 
 北京卫视,https://www.yangshipin.cn/tv/home?pid=600002309
