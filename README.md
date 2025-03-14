@@ -1,3 +1,6 @@
+"static-mozai.4gtv.tv","mozai.4gtv.tv",
+
+
 蜂蜜影視或 ok 影視 點播 直播
 
 https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/jsm.json
