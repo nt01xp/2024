@@ -1,3 +1,33 @@
+蜂蜜影視或 ok 影視 點播 直播
+
+https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/jsm.json
+
+=======================
+
+電腦修改 hosts
+
+C:\Windows\System32\drivers\etc\hosts
+
+39.136.135.240 cache.ott.ystenlive.itv.cmvideo.cn
+
+
+39.136.135.240 cache.ott.bestlive.itv.cmvideo.cn
+
+39.136.135.240 cache.ott.wasulive.itv.cmvideo.cn
+
+39.136.135.240 cache.ott.fifalive.itv.cmvideo.cn
+
+39.136.135.240 cache.ott.hnbblive.itv.cmvideo.cn
+
+===============================
+
+itv 節目列表
+
+https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/ITV.txt
+
+==============================
+
+
 小飞电视
 
 https://www.y977.com/tv
