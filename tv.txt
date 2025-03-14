@@ -645,5 +645,41 @@ ELEVEN 2（DAZN 2）,https://iptv345.com/?act=play&token=e38215730786e665df32f1b
 大爱一台,https://iptv345.com/?act=play&token=f7b1e52a25312ca96f185980aef53f0c&tid=gt&id=83
 大爱二台,https://iptv345.com/?act=play&token=ff07b7dfe6393b5298861cd9e6ffa9f5&tid=gt&id=84
 	
+CCTV5体育,https://iptv345.com/?act=play&token=cc965f058eba2cba1843d6ca723fe545&tid=ty&id=1
+CCTV5+体育赛事,https://iptv345.com/?act=play&token=16954086654423905b42c5c8d5fb7061&tid=ty&id=2
+广东体育,https://iptv345.com/?act=play&token=5d77a135c9814611a4eb22f98f40538d&tid=ty&id=3
+劲爆体育,https://iptv345.com/?act=play&token=85111bc5b3505f00229b638f8ac4be37&tid=ty&id=4
+五星体育,https://iptv345.com/?act=play&token=9719877268bb8a2af2e622f5de6577ab&tid=ty&id=5
+新视觉HD,https://iptv345.com/?act=play&token=d55848191b7de79dc78ef36a326f56d4&tid=ty&id=6
+CCTV16奥林匹克,https://iptv345.com/?act=play&token=d216c0fac43033f134c8b7ba549010df&tid=ty&id=7
+极速汽车,https://iptv345.com/?act=play&token=9e40dd83485acc1d7c2cc1ec17e11182&tid=ty&id=12
+游戏风云,https://iptv345.com/?act=play&token=31bc7b5f579eec0ff0636b5c26c67a8d&tid=ty&id=13
+四海钓鱼,https://iptv345.com/?act=play&token=48e65677605669f1cd2065d8b14ef273&tid=ty&id=14
+快乐垂钓,https://iptv345.com/?act=play&token=047785dfb04e04815f7044eaa2902b3e&tid=ty&id=15
+先锋乒羽,https://iptv345.com/?act=play&token=9506f1dc017fade1e8d6bdbd5cba4bce&tid=ty&id=16
+南国都市,https://iptv345.com/?act=play&token=87b3974e3bb0c11ace48cdd42f439c6c&tid=ty&id=19
+广州竞赛,https://iptv345.com/?act=play&token=81927eb737a468d4bbc1f9721c90d609&tid=ty&id=20
+CCTV风云足球,https://iptv345.com/?act=play&token=81d0a644cace5759a68e02ef0247fed5&tid=ty&id=21
+魅力足球,https://iptv345.com/?act=play&token=e2f79a6f1daae50dc914adfb39e36f63&tid=ty&id=22
+緯來體育台,https://iptv345.com/?act=play&token=c2904caeb48b9430a987208c405115e2&tid=ty&id=23
+ELEVEN 1（DAZN 1）,https://iptv345.com/?act=play&token=0e8e8bccc3ad4db4f5c8fa8efdc44733&tid=ty&id=24
+ELEVEN 2（DAZN 2）,https://iptv345.com/?act=play&token=b409b620abef43ba283c6e4b985a458d&tid=ty&id=25
+爱尔达体育1台,https://iptv345.com/?act=play&token=1d1ffb5f851a48c49fb34b9feab8f787&tid=ty&id=28
+爱尔达体育2台,https://iptv345.com/?act=play&token=effde3b45e23cede7a1ed3187f595be0&tid=ty&id=29
+爱尔达体育3台,https://iptv345.com/?act=play&token=fafc26dce975f426bb7803ea2412838a&tid=ty&id=30
+爱尔达体育4台,https://iptv345.com/?act=play&token=94b308c00e62c384730ee5416911b594&tid=ty&id=31
+智林体育台,https://iptv345.com/?act=play&token=be39f166897f33106170fd262bb85377&tid=ty&id=41
+时尚运动X,https://iptv345.com/?act=play&token=bad9e66630b202372879d32a951b5fdb&tid=ty&id=42
+靖天育乐台,https://iptv345.com/?act=play&token=04ed7f66c22f328ac733ad74fed9e364&tid=ty&id=43
+博斯魅力,https://iptv345.com/?act=play&token=ed2542186b0765e35de6857cf788f0e5&tid=ty&id=44
+博斯高球1,https://iptv345.com/?act=play&token=2997c1888179b37948d5ecd245fc692c&tid=ty&id=45
+博斯高球2,https://iptv345.com/?act=play&token=5e2f978f1f36100558f7b58cf50fbe28&tid=ty&id=46
+博斯运动1,https://iptv345.com/?act=play&token=50781c3712b9780299d61c646afae3a0&tid=ty&id=47
+博斯运动2,https://iptv345.com/?act=play&token=b2afb6cb3d4551a725e24fa3bed248f5&tid=ty&id=48
+博斯网球,https://iptv345.com/?act=play&token=29ec09a4e4154020fb55272df32f0a28&tid=ty&id=49
+博斯无限,https://iptv345.com/?act=play&token=e68467e0c39b1aa543434869fde0d0d9&tid=ty&id=50
+博斯无限2,https://iptv345.com/?act=play&token=e72a01b9883c32cdc237d5187c3e2028&tid=ty&id=51
+TRACE SPORTS STARS,https://iptv345.com/?act=play&token=d4316c08855a828f5f255279740320d0&tid=ty&id=52
+	
 
       
