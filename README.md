@@ -31,14 +31,6 @@ https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/ITV.txt
 ==============================
 
 
-小飞电视
-
-https://www.y977.com/tv
-
-聚玩盒子  https://www.juwanhezi.com/
-
-===========
-
 Host=cache.ott.*.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com
 
 Decoder=3
@@ -58,10 +50,6 @@ https://github.com/qist/tvbox
 央視 https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/jsm.json
 
 PG最新接口: http://www.fish2018.us.kg/p/jsm.json
-
-PG最新接口: http://weixiao911.com:5522/2025/jsm.json
-
-PG最新接口: https://iptv.catvod.com/tv.m3u
 
 PG最新接口: https://tvbox.catvod.com/jsm.json
 
