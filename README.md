@@ -1,13 +1,12 @@
+"static-mozai.4gtv.tv","mozai.4gtv.tv",
+
 https://fanmingming.com/txt?url=https://live.fanmingming.cn/tv/m3u/ipv6.m3u
 
 https://fanmingming.com/txt?url=https://35455.koyeb.app/tv.m3u
 
+https://fanmingming.com/txt?url=https://1234.koyeb.app/tv.m3u
 
 https://fanmingming.com/txt?url=https://5678.koyeb.app/tv.m3u
-
-
-
-"static-mozai.4gtv.tv","mozai.4gtv.tv",
 
 
 蜂蜜影視或 ok 影視 點播 直播
