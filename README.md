@@ -1,3 +1,9 @@
+https://fanmingming.com/txt?url=https://live.fanmingming.cn/tv/m3u/ipv6.m3u
+
+https://fanmingming.com/txt?url=https://5678.koyeb.app/tv.m3u
+
+
+
 "static-mozai.4gtv.tv","mozai.4gtv.tv",
 
 
