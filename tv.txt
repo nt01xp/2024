@@ -226,10 +226,6 @@ parse=1
 115  鏡電視新聞台,https://www.4gtv.tv/channel/4gtv-4gtv075?set=1&ch=268
 116  霹靂布袋戲,https://www.4gtv.tv/channel/4gtv-live145?set=1&ch=301
 
-Host=cache.ott.*.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com
-
-Decoder=3
-
 央視頻道,#genre#
 純享4K,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&stbId=toShengfen&mode=1&$16M UHD
 1綜合,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000001000004953&livemode=1&stbId=toShengfen&mode=1&$4M FHD
