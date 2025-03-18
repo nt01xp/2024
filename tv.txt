@@ -225,3 +225,18 @@ parse=1
 114  韓國娛樂台 KMTV,https://www.4gtv.tv/channel/4gtv-4gtv016?set=1&ch=446
 115  鏡電視新聞台,https://www.4gtv.tv/channel/4gtv-4gtv075?set=1&ch=268
 116  霹靂布袋戲,https://www.4gtv.tv/channel/4gtv-live145?set=1&ch=301
+
+次界地理,#genre#
+
+世界地理,http://www.lizhinas.top:1009/rtp/239.252.219.93:5140
+风云足球,http://www.lizhinas.top:1009/rtp/239.252.219.96:5140
+风云音乐,http://www.lizhinas.top:1009/rtp/239.252.219.87:5140
+风云剧场,http://www.lizhinas.top:1009/rtp/239.252.219.89:5140
+第一剧场,http://www.lizhinas.top:1009/rtp/239.252.219.86:5140
+怀旧剧场,http://www.lizhinas.top:1009/rtp/239.252.219.90:5140
+文化精品,http://www.lizhinas.top:1009/rtp/239.252.219.81:5140
+女性时尚,http://www.lizhinas.top:1009/rtp/239.252.219.94:5140
+央视台球,http://www.lizhinas.top:1009/rtp/239.252.219.80:5140
+兵器科技,http://www.lizhinas.top:1009/rtp/239.252.219.98:5140
+高尔夫网球,http://www.lizhinas.top:1009/rtp/239.252.219.95:5140
+电视指南,http://www.lizhinas.top:1009/rtp/239.252.219.97:5140
