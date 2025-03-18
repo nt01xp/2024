@@ -8,6 +8,8 @@ https://fanmingming.com/txt?url=https://1234.koyeb.app/tv.m3u
 
 https://fanmingming.com/txt?url=https://5678.koyeb.app/tv.m3u
 
+https://fanmingming.com/txt?url=https://raw.githubusercontent.com/suxuang/myIPTV/refs/heads/main/ipv4.m3u
+
 
 蜂蜜影視或 ok 影視 點播 直播
 
