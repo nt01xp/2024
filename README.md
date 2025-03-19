@@ -1,3 +1,13 @@
+2財經  https://tv.cctv.com/live/cctv2
+
+9紀錄  https://tv.cctv.com/live/cctvjilu/
+
+10科教  https://tv.cctv.com/live/cctv10
+
+13新聞  https://tv.cctv.com/live/cctv13
+
+===============================================
+
 "static-mozai.4gtv.tv","mozai.4gtv.tv",
 
 https://fanmingming.com/txt?url=https://live.fanmingming.cn/tv/m3u/ipv6.m3u
