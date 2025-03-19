@@ -1,3 +1,14 @@
+PG本地包（Sync From Telegram）
+
+同步更新在线接口
+http://www.fish2018.ip-ddns.com/p/jsm.json
+
+http://www2.fish2018.ip-ddns.com/p/jsm.json
+
+http://www3.fish2018.ip-ddns.com/p/jsm.json
+
+===========
+
 2財經  https://tv.cctv.com/live/cctv2
 
 9紀錄  https://tv.cctv.com/live/cctvjilu/
