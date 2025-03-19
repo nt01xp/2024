@@ -119,11 +119,11 @@ http://43066.cc
 
 pixman.io 交流群 https://t.me/livednowgroup
 
-极致播放器交流群 https://t.me/jizhi00
+(申請)极致播放器交流群 https://t.me/jizhi00
 
-夏天影視資源交流群 https://t.me/atv168
+(申請)夏天影視資源交流群 https://t.me/atv168
 
-天光云影 https://t.me/mytv_android
+(申請)天光云影 https://t.me/mytv_android
 
 哪吒云 https://t.me/nezhasux
 
@@ -152,8 +152,7 @@ TMXKK https://t.me/tmxktg
 
 通知群：https://t.me/doubebly003
 
-哪吒云頻道
-https://t.me/nezhajiasu
+哪吒云頻道 https://t.me/nezhajiasu
 
 ********
 聽音樂 @vkmusbot
