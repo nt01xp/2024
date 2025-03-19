@@ -67,7 +67,7 @@ CatchPlay電影M,udp://@230.1.2.37:11111
 台灣新聞,#genre#
 parse=1
 
-TVBS新聞1,https://www.4gtv.tv/channel/4gtv-4gtv072?set=1&ch=291
+TVBS新聞1,https://today.line.me/tw/v2/article/jggMBa
 東森新聞1,https://www.4gtv.tv/channel/4gtv-4gtv152?set=1&ch=292
 
 TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
