@@ -1,4 +1,4 @@
-Host=cache.ott.*.itv.cmvideo.cn=39.135.97.81
+Host=cache.ott.*.itv.cmvideo.cn=39.135.97.83
 
 Decoder=3
 
