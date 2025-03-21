@@ -684,3 +684,55 @@ parse=1
 3第46集,https://www.xgcartoon.com/user/page_direct?cartoon_id=buluyiguoyu-joe_brumm&chapter_id=Kbmy8QJhRu	
 		
 
+三眼神童,#genre#
+parse=1
+
+第01集 三眼登場˙我就是寫樂,https://www.xgcartoon.com/user/page_direct?cartoon_id=sanyanshentongsanyanxiaoziguoyu-qinchuanyouwu&chapter_id=iMbR6AhSe7	
+第02集 拉麪戰爭！憤怒的反擊,https://www.xgcartoon.com/user/page_direct?cartoon_id=sanyanshentongsanyanxiaoziguoyu-qinchuanyouwu&chapter_id=x8WUx6tiAw	
+第03集 可愛的嬰兒是侵略者,https://www.xgcartoon.com/user/page_direct?cartoon_id=sanyanshentongsanyanxiaoziguoyu-qinchuanyouwu&chapter_id=4s9WcGHxA6	
+第04集 尋找迷路的UFO,https://www.xgcartoon.com/user/page_direct?cartoon_id=sanyanshentongsanyanxiaoziguoyu-qinchuanyouwu&chapter_id=wA6niXwnGK	
+第05集 追蹤高科技暴走車,https://www.xgcartoon.com/user/page_direct?cartoon_id=sanyanshentongsanyanxiaoziguoyu-qinchuanyouwu&chapter_id=SEZNhhZSbj	
+第06集 美少女是蛇魔使者？,https://www.xgcartoon.com/user/page_direct?cartoon_id=sanyanshentongsanyanxiaoziguoyu-qinchuanyouwu&chapter_id=nBikiSUpYR	
+第07集 被附身的寫樂,https://www.xgcartoon.com/user/page_direct?cartoon_id=sanyanshentongsanyanxiaoziguoyu-qinchuanyouwu&chapter_id=hrr5Wjc45Y	
+第08集 三眼狗誕生,https://www.xgcartoon.com/user/page_direct?cartoon_id=sanyanshentongsanyanxiaoziguoyu-qinchuanyouwu&chapter_id=F9aNPEfy8Q	
+第09集 三巖山的秘密,https://www.xgcartoon.com/user/page_direct?cartoon_id=sanyanshentongsanyanxiaoziguoyu-qinchuanyouwu&chapter_id=LLKKRUrfLM	
+第10集 不會吧？寫樂是惡魔,https://www.xgcartoon.com/user/page_direct?cartoon_id=sanyanshentongsanyanxiaoziguoyu-qinchuanyouwu&chapter_id=ozLv8nMxDA	
+第11集 保護我的寶貝,https://www.xgcartoon.com/user/page_direct?cartoon_id=sanyanshentongsanyanxiaoziguoyu-qinchuanyouwu&chapter_id=pscDuAe3wD	
+第12集 保護地下都市,https://www.xgcartoon.com/user/page_direct?cartoon_id=sanyanshentongsanyanxiaoziguoyu-qinchuanyouwu&chapter_id=owkMTTsrd5	
+第13集 保護第三隻眼,https://www.xgcartoon.com/user/page_direct?cartoon_id=sanyanshentongsanyanxiaoziguoyu-qinchuanyouwu&chapter_id=ggyAw9x63X	
+第14集 宇宙能量爆發,https://www.xgcartoon.com/user/page_direct?cartoon_id=sanyanshentongsanyanxiaoziguoyu-qinchuanyouwu&chapter_id=daVvcJ9V8d	
+第15集 超能力對抗超魔術,https://www.xgcartoon.com/user/page_direct?cartoon_id=sanyanshentongsanyanxiaoziguoyu-qinchuanyouwu&chapter_id=JbBlEDMZUA	
+第16集 發現傳說的怪物,https://www.xgcartoon.com/user/page_direct?cartoon_id=sanyanshentongsanyanxiaoziguoyu-qinchuanyouwu&chapter_id=rhrFaq8lWk	
+第17集 考試戰爭與和平？,https://www.xgcartoon.com/user/page_direct?cartoon_id=sanyanshentongsanyanxiaoziguoyu-qinchuanyouwu&chapter_id=RC82JMYwad	
+第18集 不可思議的摩亞鳥,https://www.xgcartoon.com/user/page_direct?cartoon_id=sanyanshentongsanyanxiaoziguoyu-qinchuanyouwu&chapter_id=pjJ6EZlib3	
+第19集 古代魔神甦醒,https://www.xgcartoon.com/user/page_direct?cartoon_id=sanyanshentongsanyanxiaoziguoyu-qinchuanyouwu&chapter_id=LL3GhBE4fE	
+第20集 打開心房吧！古代魔神,https://www.xgcartoon.com/user/page_direct?cartoon_id=sanyanshentongsanyanxiaoziguoyu-qinchuanyouwu&chapter_id=sBNr7TpMGN	
+第21集 三、二、一、爆炸,https://www.xgcartoon.com/user/page_direct?cartoon_id=sanyanshentongsanyanxiaoziguoyu-qinchuanyouwu&chapter_id=dw5aedkxVW	
+第22集 怪盜歐茲瑪的挑戰,https://www.xgcartoon.com/user/page_direct?cartoon_id=sanyanshentongsanyanxiaoziguoyu-qinchuanyouwu&chapter_id=4FSbqTenAD	
+第23集 三眼族之謎˙來自古代的使者,https://www.xgcartoon.com/user/page_direct?cartoon_id=sanyanshentongsanyanxiaoziguoyu-qinchuanyouwu&chapter_id=HSAFpFA9VL	
+第24集 三眼族之謎˙沉睡在湖底的秘密,https://www.xgcartoon.com/user/page_direct?cartoon_id=sanyanshentongsanyanxiaoziguoyu-qinchuanyouwu&chapter_id=qEPtcSsj8T	
+第25集 三眼族之謎˙找出財寶,https://www.xgcartoon.com/user/page_direct?cartoon_id=sanyanshentongsanyanxiaoziguoyu-qinchuanyouwu&chapter_id=pSMhkW8H23	
+第26集 三眼族之謎˙秘藏的使命,https://www.xgcartoon.com/user/page_direct?cartoon_id=sanyanshentongsanyanxiaoziguoyu-qinchuanyouwu&chapter_id=wj6cCMWpBe	
+第27集 寫樂夢遊仙境,https://www.xgcartoon.com/user/page_direct?cartoon_id=sanyanshentongsanyanxiaoziguoyu-qinchuanyouwu&chapter_id=LsLHtyBMDH	
+第28集 壞蛋文福出現,https://www.xgcartoon.com/user/page_direct?cartoon_id=sanyanshentongsanyanxiaoziguoyu-qinchuanyouwu&chapter_id=Su7JfswjBV	
+第29集 古代王子哥達魯˙另一個寫樂,https://www.xgcartoon.com/user/page_direct?cartoon_id=sanyanshentongsanyanxiaoziguoyu-qinchuanyouwu&chapter_id=n7QMA8pF4K	
+第30集 古代王子哥達魯˙尋找最後武器,https://www.xgcartoon.com/user/page_direct?cartoon_id=sanyanshentongsanyanxiaoziguoyu-qinchuanyouwu&chapter_id=Jr2BWZRYtc	
+第31集 古代王子哥達魯˙開始行動吧蛾摩拉,https://www.xgcartoon.com/user/page_direct?cartoon_id=sanyanshentongsanyanxiaoziguoyu-qinchuanyouwu&chapter_id=ksddljhSAr	
+第32集 古代王子哥達魯˙佔領地球計劃,https://www.xgcartoon.com/user/page_direct?cartoon_id=sanyanshentongsanyanxiaoziguoyu-qinchuanyouwu&chapter_id=un3yZuRrsr	
+第33集 古代王子哥達魯˙奪回靈魂,https://www.xgcartoon.com/user/page_direct?cartoon_id=sanyanshentongsanyanxiaoziguoyu-qinchuanyouwu&chapter_id=xSPsSylVke	
+第34集 文福再次出現,https://www.xgcartoon.com/user/page_direct?cartoon_id=sanyanshentongsanyanxiaoziguoyu-qinchuanyouwu&chapter_id=PhKMFnNcQh	
+第35集 怪植物團球根出現！出現七根柱子,https://www.xgcartoon.com/user/page_direct?cartoon_id=sanyanshentongsanyanxiaoziguoyu-qinchuanyouwu&chapter_id=3A5qtSRLTE	
+第36集 怪植物團球根˙不可思議的少女萌黃,https://www.xgcartoon.com/user/page_direct?cartoon_id=sanyanshentongsanyanxiaoziguoyu-qinchuanyouwu&chapter_id=ASDyb6qvBs	
+第37集 怪植物團球根˙藏在地底的暗影,https://www.xgcartoon.com/user/page_direct?cartoon_id=sanyanshentongsanyanxiaoziguoyu-qinchuanyouwu&chapter_id=SodmgTEfAe	
+第38集 怪植物團球根˙大地開始震動,https://www.xgcartoon.com/user/page_direct?cartoon_id=sanyanshentongsanyanxiaoziguoyu-qinchuanyouwu&chapter_id=gWz9dwBLvT	
+第39集 怪植物團球根決鬥！寫樂對抗團球根,https://www.xgcartoon.com/user/page_direct?cartoon_id=sanyanshentongsanyanxiaoziguoyu-qinchuanyouwu&chapter_id=3VhaN48upX	
+第40集 復活島航海˙猴子說話了！,https://www.xgcartoon.com/user/page_direct?cartoon_id=sanyanshentongsanyanxiaoziguoyu-qinchuanyouwu&chapter_id=Y9Uz8DX4U3	
+第41集 復活島航海˙登陸惡魔島,https://www.xgcartoon.com/user/page_direct?cartoon_id=sanyanshentongsanyanxiaoziguoyu-qinchuanyouwu&chapter_id=jJGsPZ92Sy	
+第42集 復活島航海˙結婚？波哥和寫樂,https://www.xgcartoon.com/user/page_direct?cartoon_id=sanyanshentongsanyanxiaoziguoyu-qinchuanyouwu&chapter_id=7LNDhCqkJB	
+第43集 復活島航海˙再見了波哥,https://www.xgcartoon.com/user/page_direct?cartoon_id=sanyanshentongsanyanxiaoziguoyu-qinchuanyouwu&chapter_id=ppq3R2wxlZ	
+第44集 摩亞被盯上了,https://www.xgcartoon.com/user/page_direct?cartoon_id=sanyanshentongsanyanxiaoziguoyu-qinchuanyouwu&chapter_id=MF2ePcjd4p	
+第45集 墨西哥上空大戰,https://www.xgcartoon.com/user/page_direct?cartoon_id=sanyanshentongsanyanxiaoziguoyu-qinchuanyouwu&chapter_id=CgSA6qr7HK	
+第46集 暗殺摩亞計劃,https://www.xgcartoon.com/user/page_direct?cartoon_id=sanyanshentongsanyanxiaoziguoyu-qinchuanyouwu&chapter_id=VDKk6TaLLv	
+第47集 超級團球根復活,https://www.xgcartoon.com/user/page_direct?cartoon_id=sanyanshentongsanyanxiaoziguoyu-qinchuanyouwu&chapter_id=VxX5Aec8cp	
+第48集 嚮明天發誓,https://www.xgcartoon.com/user/page_direct?cartoon_id=sanyanshentongsanyanxiaoziguoyu-qinchuanyouwu&chapter_id=dSzmlRgaA4	
+		
