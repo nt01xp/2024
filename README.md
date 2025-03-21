@@ -1,3 +1,13 @@
+39.135.132.221
+
+39.135.88.216
+
+39.135.97.81
+
+39.135.97.83
+
+===================
+
 39.135.97.81 cache.ott.ystenlive.itv.cmvideo.cn
 
 39.135.97.81 cache.ott.bestlive.itv.cmvideo.cn
