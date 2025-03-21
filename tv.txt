@@ -527,7 +527,7 @@ CCTV5+,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid
 山东教育卫视,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000002000004097&livemode=1&stbId=meyou&mode=1
 
 
-布莉卡通,#genre#
+妙妙犬布麗,#genre#
 parse=1
 
 1第01集,https://www.xgcartoon.com/user/page_direct?cartoon_id=buluyiguoyu-joe_brumm&chapter_id=9kftM2kmcX	
