@@ -246,7 +246,6 @@ parse=1
 116  霹靂布袋戲,https://www.4gtv.tv/channel/4gtv-live145?set=1&ch=301
 
 Host=cache.ott.*.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com
-
 Decoder=3
 
 央視頻道,#genre#
