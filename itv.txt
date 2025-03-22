@@ -65,12 +65,12 @@ CCTV8,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=
 CCTV8,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000001000031433&livemode=1&stbId=meyou&mode=1
 CCTV8,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000005000265008&livemode=1&stbId=meyou&mode=1
 CCTV8,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=8871488051501921127&livemode=1&stbId=meyou&mode=1
+CCTV9,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000001000028286&livemode=1&stbId=meyou&mode=1
 CCTV9,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000010000018384&livemode=1&stbId=meyou&mode=1
 CCTV9,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000011000288020&livemode=1&stbId=meyou&mode=1
 CCTV9,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=6000000001000032162&livemode=1&stbId=meyou&mode=1
 CCTV9,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=6350727550077620987&livemode=1&stbId=meyou&mode=1
 CCTV9,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000001000014583&livemode=1&stbId=meyou&mode=1
-CCTV9,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000001000028286&livemode=1&stbId=meyou&mode=1
 CCTV9,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000005000265009&livemode=1&stbId=meyou&mode=1
 CCTV9,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=6275371742726901431&livemode=1&stbId=meyou&mode=1
 CCTV10,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000004000012827&livemode=1&stbId=meyou&mode=1
