@@ -690,7 +690,7 @@ parse=1
 一休和尚,#genre#
 parse=1
 
-第001話媽媽的布娃娃,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=GnTx2eDY7u	
+第001話 媽媽的布娃娃,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=GnTx2eDY7u	
 第002話 菩薩作證,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=SXpZinggtk	
 第003話 過關斬將,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=Kf4A7xPSK5	
 第004話 一休和尚寫大字,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=Jq78RRRAEz	
@@ -702,9 +702,9 @@ parse=1
 第010話 新年快樂,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=9Lcq3SWytp	
 第011話 撒尿的公主,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=YtqWmE9yUN	
 第012話 魷魚、巫婆、青蛙,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=mrnPAVLiVm	
-第13話 大佛爺和草鞋,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=sHp72ptzcP	
+第013話 大佛爺和草鞋,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=sHp72ptzcP	
 第014話 仁愛至上,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=6RTaSmt4Lx	
-第015話驚嚇到馬和剪刀石頭布,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=mk9djqJEy3	
+第015話 驚嚇到馬和剪刀石頭布,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=mk9djqJEy3	
 第016話 守財奴與名歌手,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=KrPSv2slEL	
 第017話 智取高利貸,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=kBnDXPrKfh	
 第018話 小偷與石佛,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=ynKTiPcW5q	
@@ -713,7 +713,7 @@ parse=1
 第021話 死亡與飢餓,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=MBbuUaJeWr	
 第022話 陷阱,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=QdBuDA935g	
 第023話 寄存的黃金,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=dWVJmtA4o7	
-第024話測謊盒,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=FasdLhaWnB	
+第024話 測謊盒,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=FasdLhaWnB	
 第025話 將軍的鹿,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=QrCGhfnuxg	
 第026話 梳子的故事,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=A5lampuUxc	
 第027話 何老闆的回憶,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=Ax4sKZDKhp	
@@ -724,33 +724,33 @@ parse=1
 第032話 骨肉親情,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=UBUD9Za2WT	
 第033話 智退惡人,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=38FmaiexXn	
 第034話 竹媽與財富,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=kD2BQ7rPKP	
-第035話鬼廟,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=sB8J5WNETd	
+第035話 鬼廟,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=sB8J5WNETd	
 第036話 田螺與黃鼠狼,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=aoLSPKtBSM	
 第037話 忍受和鬥,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=KDnxqvG3cZ	
 第038話 緊急口令比賽,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=YZAUn4cdSw	
 第039話 孝順餅和蠟燭,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=z7xd88Qseb	
 第040話 武士與鯉魚,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=sFdxrMqhXl	
-第041話不杯茶和豪華的宮殿,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=z45CGARJMM	
+第041話 不杯茶和豪華的宮殿,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=z45CGARJMM	
 第042話 聽不到的鳥聲,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=tW3A7K5Xr8	
 第043話 拯救人和動物,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=LSSiKBiJsr	
 第044話 天氣娃娃失踪,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=WyPUZF7Kp4	
-第045話吃剩的包子,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=KZwKQQPcft	
+第045話 吃剩的包子,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=KZwKQQPcft	
 第046話 貪吃的將軍,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=lkDawmerKx	
 第047話 真假一休,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=VJFCnS6tts	
 第048話 失去的佛像,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=AJYdamhULA	
 第049話 葫蘆,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=qsbS4y8ojy	
 第050話 奇怪的動物,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=y7lDqyANtY	
-第051話詩歌比賽,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=aaK4ETX8aK	
+第051話 詩歌比賽,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=aaK4ETX8aK	
 第052話 真正的財寶,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=oZSjNQhdvg	
 第053話 飛鳥和小姐,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=mTBYVXKrMN	
-第054 話 智囊與葫蘆,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=Zhkq7gjAsh	
+第054話 智囊與葫蘆,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=Zhkq7gjAsh	
 第055話 英雄和美女,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=6BVWZ3Q52J	
 第056話 老頭與武士,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=xUgvP6RKRj	
 第057話 偏見與烏鴉,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=VhSytS8vBE	
 第058話 哥哥和妹妹,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=gNShfrVhct	
 第059話 石鳥與債人,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=gTVnrKC2hV	
 第060話 偶和猜字,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=EqZZRjaa8K	
-第061話畫畫抓魚,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=XcqFx5jAxE	
+第061話 畫畫抓魚,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=XcqFx5jAxE	
 第062話 鴨宴和硯台,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=rPnPj2lJ9Q	
 第063話 賞花和捉,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=4rraPJW2Ld	
 第064話 花盆與盜賊,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=URy4f9BqcT	
@@ -762,21 +762,21 @@ parse=1
 第070話 罪犯和貓爺,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=86UppAFXGL	
 第071話 竹籃與火鍋,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=buseewcdJZ	
 第072話 須和還債,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=DdLhaCrEac	
-第073話舌戰金田,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=At3VZDFkyK	
+第073話 舌戰金田,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=At3VZDFkyK	
 第074話 公主與將軍,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=TASteqidP8	
 第075話 體貼與修改,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=EPcJmqBZbA	
 第076話 討債怪盒,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=SAvfUPMa5E	
 第077話 門第和婚約,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=gsqGyQGU6r	
 第078話 鮮花與池水,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=nBNmVc4nvw	
 第079話 划船和游泳,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=qTWxmV4k9j	
-第080話雞蛋和陀螺,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=LZXPdilAzc	
+第080話 雞蛋和陀螺,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=LZXPdilAzc	
 第081話 老闆和夥計,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=Mhhr3wERt7	
 第082話 真假長老,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=2EUhPttMct	
 第083話 鸚鵡與佛事,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=aWYJbpMtyB	
 第084話 飯糰與怪信,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=rMnBJrtKUM	
-第085話紙捻和懶漢,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=Pg64Q4ibaB	
+第085話 紙捻和懶漢,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=Pg64Q4ibaB	
 第086話 麻呂和露姬,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=l2dEFl6R2s	
-第087話蘿蔔葉和一文錢,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=LXphrlYL7f	
+第087話 蘿蔔葉和一文錢,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=LXphrlYL7f	
 第088話 怪盜與怪石,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=JtklrkAJAL	
 第089話 盛宴與寶傘,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=D2GxetxFZM	
 第090話 漏房和推車,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=LRRBfmtw4w	
@@ -789,10 +789,10 @@ parse=1
 第097話 巫婆的騙術,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=9taMgFSRxl	
 第098話 義犬救援主,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=JurdqYAwbA	
 第099話 賽馬與比武,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=CZLs5MF2Fy	
-第100話一根小竹竿,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=tGHJheiM59	
+第100話 一根小竹竿,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=tGHJheiM59	
 第101話 快樂的新年,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=tuw8hr4bEi	
 第102話 搬家與搬山,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=nFAPuekEtv	
-第103話失落的錢包,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=eKxsvLhZxP	
+第103話 失落的錢包,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=eKxsvLhZxP	
 第104話 智慧與力量,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=knykNEshFj	
 第105話 白天打燈籠,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=PGm7VtvSBm	
 第106話 誰是大力士,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=BPLDjTUyqt	
@@ -801,7 +801,7 @@ parse=1
 第109話 路上的奇遇,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=KTHRZmmEUh	
 第110話 學以致用,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=Hlrhvc7Sdp	
 第111話 將軍的時鐘,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=QB8R2a8kAy	
-第112話賞花與拾錢,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=iflvHFD2nj	
+第112話 賞花與拾錢,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=iflvHFD2nj	
 第113話 油紙傘聯名狀,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=92ArAhuyvk	
 第114話 老鼠會,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=wtA5lW5HeG	
 第115話 馬洗澡和端午節,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=JoPCaTdn9A	
@@ -820,14 +820,14 @@ parse=1
 第128話 將軍與小猴,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=Hyh9eBTThJ	
 第129話小姐們的孝心,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=yNwrqc4NqX	
 第130話 冷汗將軍,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=AchF84MG9x	
-第131話不白之冤,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=AvcaQprMaA	
+第131話 不白之冤,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=AvcaQprMaA	
 第132話 螢火蟲與幽靈,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=mStod5Sewr	
 第133話 沒 娘的孩子,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=z9K5e7GnnV	
 第134話 小孩子的童心,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=ykKBMKLX3L	
-第135 個娃娃,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=qQqCiAseMW	
+第135話 一個娃娃,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=qQqCiAseMW	
 第136話 淘氣公主與罪惡,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=K7woiNCe4f	
 第137話 一隻小貓,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=iMQklVL3Sr	
-第138話漫畫老人,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=WD7xcygHGS	
+第138話 漫畫老人,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=WD7xcygHGS	
 第139話 好奇小子與好奇風波,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=amlbpssAtF	
 第140話 化成水的鷹,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=jSzVxKVV4N	
 第141話 桔梗店老闆的一加一,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=A9mTq3xwiE	
@@ -836,7 +836,7 @@ parse=1
 第144話 將軍和微笑的狗,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=x22Hmy2oe3	
 第145話 意外的答案,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=4bXn3kl8Xn	
 第146話 仗義執言,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=ZQChxFS8Je	
-第147話失蹤的將軍,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=MbnV8AmwPB	
+第147話 失蹤的將軍,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=MbnV8AmwPB	
 第148話 喝醉酒的一休,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=h4sPPehVum	
 第149話 調皮男孩佤淘氣公主,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=AcgDrYEW6h	
 第150話 貓大人與鬍鬚,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=WeSEa6tiqR	
@@ -845,24 +845,24 @@ parse=1
 第153話 一休與劍,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=asBJRqaSLq	
 第154話 女兒節,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=yl8xGtxp4x	
 第155話 雪女疑雲,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=nVjKQaYKsw	
-第156話一日官差,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=R424yAaeiA	
+第156話 一日官差,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=R424yAaeiA	
 第157話 智取年糕,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=cz6t4HYMwb	
-第158話兩美之爭,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=dCPAZx74Mt	
+第158話 兩美之爭,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=dCPAZx74Mt	
 第159話 花祭聯想,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=Rrn4WG54fJ	
-第160話偷雞不著蝕把米,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=K9ia6myRSB	
+第160話 偷雞不著蝕把米,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=K9ia6myRSB	
 第161話 新娘和媽媽和小葉（小妍）夢想的新娘,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=izmPKAlLVp	
-第162話運動會和小和尚們,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=VMiiWsul97	
+第162話 運動會和小和尚們,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=VMiiWsul97	
 第163話 長玫瑰經與珍惜的一文錢,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=h4l8Zs9MwL	
 第164話 留守的將軍和刁難問題,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=FlQE8qXPNW	
 第165話 鎌倉和長得像小葉子（小妍）的人,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=JaqPErRyid	
 第166話 歸來的一隻休與消失的淘氣公主,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=MAPrZec89e	
 第167話​​ 一個女兒，三個女丈夫,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=JG4By7awDs	
-第168話便宜的孔雀和紙包的火,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=GNXyN65u2A	
+第168話 便宜的孔雀和紙包的火,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=GNXyN65u2A	
 第169話 頑皮公主與海渦騷動,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=xVTgP9SkcV	
 第170話 撿到孩子和道後溫泉,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=pUxr7qZyu9	
-第171話琵琶法師與源平之戰,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=hvuZ7gbmAM	
+第171話 琵琶法師與源平之戰,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=hvuZ7gbmAM	
 第172話 地獄阪和天神,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=AzVjyDrWcz	
-第173話會說話的熊,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=ibR8ceaPWG	
+第173話 會說話的熊,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=ibR8ceaPWG	
 第174話 無聊的將軍,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=vQYhi489Ty	
 第175話 地獄的亡靈和鍋子裡的將軍,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=aNFKWQzmMG	
 第176話 將軍的暑假,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=A9qmfLDNAK	
@@ -870,14 +870,14 @@ parse=1
 第178話 小和尚們戲水,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=SokS5JmEnD	
 第179話 麻煩將軍和破了的杯子,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=kpLvVKqCYF	
 第180話 修念與情書動,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=kPkrmsMzwF	
-第181話和將軍互施騙計,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=MR7cKRaZVr	
+第181話 和將軍互施騙計,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=MR7cKRaZVr	
 第182話 被母親大人交給了一軍,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=DmtNUdgBnk	
-第183話默念與山中修行的僧侶的暴亂,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=SSrvyLaEnt	
+第183話 默念與山中修行的僧侶的暴亂,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=SSrvyLaEnt	
 第184話 自負的一休與將軍的挑戰,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=JJrK4Hhm4A	
-第185話漏雨及及時雨,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=JTzWlpLKWN	
-第186話愛吃塵念惹祝,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=yuNenVQVET	
+第185話 漏雨及及時雨,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=JTzWlpLKWN	
+第186話 愛吃塵念惹祝,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=yuNenVQVET	
 第187話 狐狸之爭,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=9gLVjywPlL	
-第188話頑皮公主和選美比賽,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=qWkeYSZGfw	
+第188話 頑皮公主和選美比賽,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=qWkeYSZGfw	
 第189話 投胎轉世會看書的貓,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=bAZqzV8KKX	
 第190話 真假一休,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=Q46Sdi7xha	
 第191話 高額商品和智慧通行費,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=2XwhX2SzJn	
@@ -896,13 +896,13 @@ parse=1
 第204話 沒用的東西和小和尚,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=MHHmbPJCBe	
 第205話 真假將軍,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=8l8eShMMk5	
 第206話 賞花與小氣的將軍,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=C9PWyr9zjq	
-第207 逃往鰻魚和溺水的河童,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=dHjtcci2bs	
+第207話 逃往鰻魚和溺水的河童,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=dHjtcci2bs	
 第208話 心愛公主的相親騷動,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=xPpyPtkSTl	
 第209話 淘氣公主的新娘課程,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=RPPFASSieV	
 第210話 大將軍和大狐狸何老闆,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=aPDWDJNqjB	
 第211話 長老隊的將軍,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=ZhB8AgZqSj	
 第212話 小妍的眼淚與金鴿,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=Mn2Ka7sT8V	
-第213話麗心的親事與吃醋的修念,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=dcTonLgf7i	
+第213話 麗心的親事與吃醋的修念,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=dcTonLgf7i	
 第214話 文字遊戲將軍的守護神,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=AyiANWLYnL	
 第215話 將軍的劫數與奇珍異鳥,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=wLlzq2fAzJ	
 第216話 遺失的扇子和紅雲,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=VVMKyTzDR2	
@@ -911,50 +911,50 @@ parse=1
 第219話 三隻鳥,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=kVbw4wb7Wu	
 第220話 淘氣公主與振作的將軍,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=ihS6X9HmrR	
 第221話 寶壺和大蛇山,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=88ctsDDrFe	
-第222話歪理大賽,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=GszdR8AiJ9	
-第223話尋佛記,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=t8q9nN4sWq	
+第222話 歪理大賽,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=GszdR8AiJ9	
+第223話 尋佛記,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=t8q9nN4sWq	
 第224話 笑魂丹與妙珍上人,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=nsgHimvaXW	
-第225話惡作劇的猴子和變成鳥的兔子,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=SBhBeYRc9S	
-第226話琵琶湖的鯰魚和避難袋,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=aNhiWZVQDL	
+第225話 惡作劇的猴子和變成鳥的兔子,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=SBhBeYRc9S	
+第226話 琵琶湖的鯰魚和避難袋,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=aNhiWZVQDL	
 第227話 騙子的將軍和一休的粉絲,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=SUQBWE5s5i	
-第228話頑皮小姐與收割之秋,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=8qRHaCxF9V	
+第228話 頑皮小姐與收割之秋,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=8qRHaCxF9V	
 第229話 小孩費用和垃圾將軍,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=irtsiBgcny	
 第230話 孝順與騎馬競賽,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=yTBEptuhyL	
 第231話 想要鸚鵡的將軍,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=qmihDFGTyV	
 第232話 返鄉記,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=BvsJitTRzA	
-第233話淘氣公主過新年,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=mKpSxzPAXs	
+第233話 淘氣公主過新年,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=mKpSxzPAXs	
 第234話 明國使節和老木匠,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=VDMReCVLGS	
-第235話頑固和尚和竹筍將軍,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=JtSqid4DJr	
+第235話 頑固和尚和竹筍將軍,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=JtSqid4DJr	
 第236話 說話的藥和智慧饅頭,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=onDJCkXqn9	
 第237話 大雪與小妍的梳子,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=LLlJVDokbj	
-第238話機智問答和將軍的墨寶,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=d2rLFZDuTh	
+第238話 機智問答和將軍的墨寶,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=d2rLFZDuTh	
 第239話 淘氣公主鬧雙胞,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=Vnw5tguwUk	
-第240話懶惰將軍與自動跑步機,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=B2Yx8RGAd5	
+第240話 懶惰將軍與自動跑步機,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=B2Yx8RGAd5	
 第241話 白酒風波,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=iPAKTtNie7	
 第242話 木馬和被縛將軍,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=Pt8us2SKoe	
 第243話 假新郎與不見的佛珠,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=jArQtA4kHW	
 第244話 無聊的將軍與隱形的貢獻品,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=sG93fjqk4R	
-第245話超級小偷和下雪的密寶,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=8plxol7DnS	
+第245話 超級小偷和下雪的密寶,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=8plxol7DnS	
 第246話 賞花酒與酒鬼丈夫,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=rxkB9xZHjj	
 第247話 狡猾的老闆與猴子,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=hQRyatH82H	
-第248話夢幻水墨畫與急智比賽,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=uAa7MSApgT	
+第248話 夢幻水墨畫與急智比賽,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=uAa7MSApgT	
 第249話 制墨與何老闆的屯積居奇,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=wyiDafEP7G	
 第250話 淘氣公主與頑固的殿下,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=GqQM4T2n7W	
 第251話 蘭花與將軍的禮物,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=8W5WLgs2Lm	
 第252話 紅鯽魚和競標將軍,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=BCkf4GeZa8	
-第253話智慧少女與蝙蝠俠,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=ovurlrp5WE	
-第254話逃走的鷹和機智口哨,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=lDLJll38CY	
-第255話騙言和四位淘氣公主,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=i7EArzKTbc	
-第256話鬧脾氣的將軍和理髮師一休,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=StLcczyKm7	
+第253話 智慧少女與蝙蝠俠,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=ovurlrp5WE	
+第254話 逃走的鷹和機智口哨,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=lDLJll38CY	
+第255話 騙言和四位淘氣公主,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=i7EArzKTbc	
+第256話 鬧脾氣的將軍和理髮師一休,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=StLcczyKm7	
 第257話 一日養女和玩黏土,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=xGeii3WnL7	
 第258話 飛上天的白兔和亮姑娘,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=yvm6CxCTSs	
-259號金錢糾紛及一休裁決,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=ezCPinz4X5	
-第260話山中小屋與暴風雨,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=mQmBgp3RJU	
+259號金 錢糾紛及一休裁決,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=ezCPinz4X5	
+第260話 山中小屋與暴風雨,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=mQmBgp3RJU	
 第261話 歸鄉,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=6ZFDTr3AsM	
 第262話 爭鬥與尋找真兇,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=vlSkBS8zPo	
 第263話 遠來的客人和傷腦筋的師父,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=kvxxzwM87n	
 第264話 修念的機智與七福神盜賊,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=HfKQM8U2wA	
-第265話貪心的轎夫,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=hVDPDUFBzM	
+第265話 貪心的轎夫,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=hVDPDUFBzM	
 第266話 討厭的李武靖和天氣預報,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=rKGAcAiq9C	
 第267話 絕食比賽與犯錯的將軍,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=eiB6yWhxs8	
 第268話 雞蛋與將軍的詭計,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=Mnoz2hRbpP	
@@ -970,7 +970,7 @@ parse=1
 第278話 將軍的水和掉到井裡的貓,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=pByKvqh2P9	
 第279話 大師的智慧與斷絕一休,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=susPlql2hz	
 第280話 大雪與貪心的何老闆,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=JcR79e523n	
-第281話卸下的招牌和將軍的夢,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=8ccenUrREr	
+第281話 卸下的招牌和將軍的夢,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=8ccenUrREr	
 第282話 起死回生的何老闆和毀的藉據,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=yaYRktlh2r	
 第283話 動怒的李武靖和下開除令的將軍,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=GKWGBvyKWQ	
 第284話 早市和一坪土地,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=rz232ssLSs	
@@ -979,13 +979,114 @@ parse=1
 第287話 將軍的愛貓,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=8ubqgcSAh2	
 第288話 著迷的如何老闆與某種錯誤,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=7xRWshz2Pe	
 第289話 一休髮型師與眼花的螢幕風,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=QJE9bMssjs	
-第290話無法步行的孩子和母親教育導論,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=g8RXUytT38	
+第290話 無法步行的孩子和母親教育導論,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=g8RXUytT38	
 第291話 麗心的夫君與吃醋的修念,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=PUC2lLWQnY	
 第292話 割麥與無底水桶,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=jjYqp83dPm	
-第293話陰錯陽差的李武靖和姬公主,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=coa8kuMqUW	
+第293話 陰錯陽差的李武靖和姬公主,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=coa8kuMqUW	
 第294話 花錢買零食的淘氣公主,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=QfafrgLBtR	
 第295話 漏雨寺廟與意外之財,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=lR7VkQlL9v	
 第296話 燒焦的飯和吃醋的一休,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=685rCgU25w	
-第297話李武靖進牢和一休的報答,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=lGYpcHzvp9	
+第297話 李武靖進牢和一休的報答,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=lGYpcHzvp9	
 第298話 媽媽、朋友們、安國寺再見了（大結局）,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=eh8ybeysc6	
+
+Decoder=3 
+
+新闻频道,#genre# 
+TVBS HD,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv073 
+TVBS新闻台,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv072 
+中天新闻,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv009 
+中天亚洲台,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv109 
+台视新闻,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv051 
+华视新闻,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv052 
+台视财经,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv056 
+中视新闻,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv074 
+非凡新闻,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv010 
+镜新闻,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv075 
+东森新闻,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv152 
+东森财经新闻,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv153 
+半岛新闻,http://xg.52sw.top/play/4gtv/dxlitv.php?id=litv-ftv10 
+民视新闻台,http://xg.52sw.top/play/4gtv/dxlitv.php?id=litv-ftv13 
+民视台湾台,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv001 
+寰宇新闻台,http://xg.52sw.top/play/4gtv/dxlitv.php?id=litv-longturn14 
+寰宇新闻台湾台,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv156 
+寰宇财经台,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv158 
+台视,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv066 
+民视,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv002 
+民视,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv155 
+中视,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv040 
+华视,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv041 
+民视台湾台,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv156 
+
+
+影迷數位電影台,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv011 
+AMC电影台,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv017 
+CATCHPLAY电影台,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv076 
+靖天电影台,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv061 
+龙华电影,http://xg.52sw.top/play/4gtv/dxlitv.php?id=litv-longturn03 
+采昌影剧,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv049 
+民视影剧,http://xg.52sw.top/play/4gtv/dxlitv.php?id=litv-ftv09 
+龙华经典,http://xg.52sw.top/play/4gtv/dxlitv.php?id=litv-longturn21 
+中视经典,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv080 
+台湾戏剧台,http://xg.52sw.top/play/4gtv/dxlitv.php?id=litv-longturn22 
+靖洋戏剧台,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv045 
+靖天戏剧台,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv058 
+公视戏剧,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv042 
+龙华戏剧,http://xg.52sw.top/play/4gtv/dxlitv.php?id=litv-longturn18 
+
+
+智林体育台,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv101 
+时尚运动X,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv014 
+靖天育乐台,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv062 
+博斯魅力,http://xg.52sw.top/play/4gtv/dxlitv.php?id=litv-longturn04 
+博斯高球1,http://xg.52sw.top/play/4gtv/dxlitv.php?id=litv-longturn05 
+博斯高球2,http://xg.52sw.top/play/4gtv/dxlitv.php?id=litv-longturn06 
+博斯运动1,http://xg.52sw.top/play/4gtv/dxlitv.php?id=litv-longturn07 
+博斯运动2,http://xg.52sw.top/play/4gtv/dxlitv.php?id=litv-longturn08 
+博斯网球,http://xg.52sw.top/play/4gtv/dxlitv.php?id=litv-longturn09 
+博斯无限,http://xg.52sw.top/play/4gtv/dxlitv.php?id=litv-longturn10 
+博斯无限2,http://xg.52sw.top/play/4gtv/dxlitv.php?id=litv-longturn13 
+TRACE SPORTS STARS,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv077 
+
+
+視納華仁紀實頻道,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv013 
+中视菁采,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv064 
+八大精彩台,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv034 
+八大综艺台,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv039 
+TVBS精采台,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv067 
+TVBS欢乐台,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv068 
+靖天欢乐台,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv054 
+靖天综合台,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv046 
+靖天资讯台,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv065 
+靖天卡通台,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv044 
+靖天日本台,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv047 
+靖洋卡通台,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv057 
+靖天国际台,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv063 
+靖天映画,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv055 
+爱尔达娱乐,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv070 
+龙华卡通,http://xg.52sw.top/play/4gtv/dxlitv.php?id=litv-longturn01 
+龙华日韩,http://xg.52sw.top/play/4gtv/dxlitv.php?id=litv-longturn11 
+龙华偶像,http://xg.52sw.top/play/4gtv/dxlitv.php?id=litv-longturn12 
+民视综艺,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv004 
+民视第一台,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv003 
+民视旅游,http://xg.52sw.top/play/4gtv/dxlitv.php?id=litv-ftv07 
+亚洲旅游台,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv076 
+客家电视台,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv043 
+爱放动漫,http://xg.52sw.top/play/4gtv/dxlitv.php?id=litv-ftv15 
+古典音乐台,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv059 
+猪哥亮歌厅秀,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv006 
+
+Smart知识台,http://xg.52sw.top/play/4gtv/dxlitv.php?id=litv-longturn19 
+达文西频道,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv018 
+阿里郎,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv079 
+生活英语台,http://xg.52sw.top/play/4gtv/dxlitv.php?id=litv-longturn20 
+国际财经,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv104 
+美国之音,http://xg.52sw.top/play/4gtv/dxlitv.php?id=litv-ftv03 
+好消息,http://xg.52sw.top/play/4gtv/dxlitv.php?id=litv-ftv16 
+好消息2台,http://xg.52sw.top/play/4gtv/dxlitv.php?id=litv-ftv17 
+非凡商业,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv048 
+国会频道1,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv084 
+国会频道2,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv085 
+TRACE URBAN,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv082 
+MEZZO LIVE,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv083 GLOBETROTTER,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv016 
+GinxTV,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv053
 		
