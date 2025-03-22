@@ -88,9 +88,6 @@ CatchPlay電影M,udp://@230.1.2.37:11111
 TVBS新聞L,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv072 	
 東森新聞L,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv152 
 
-TVBS新聞T,https://today.line.me/tw/v2/article/jggMBa
-東森新聞T,https://www.4gtv.tv/channel/4gtv-4gtv152?set=1&ch=292
-
 TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 東森新聞,https://www.youtube.com/watch?v=V1p33hqPrUk
 民視新聞,https://www.youtube.com/watch?v=ylYJSBUgaMA
