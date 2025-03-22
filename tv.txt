@@ -903,8 +903,6 @@ litv频道,#genre#
 ARIRANG阿里郎頻道,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv079	
 CLASSICA 古典樂,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv059	
 ELTV生活英語台,http://xg.52sw.top/play/4gtv/dxlitv.php?id=litv-longturn20	
-Focus風采戲劇台,http://xg.52sw.top/play/4gtv/dxlitv.php?id=litv-fast1224	
-Focus歡樂綜合台,http://xg.52sw.top/play/4gtv/dxlitv.php?id=litv-fast1223	
 GINX Esports TV,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv053	
 KLT-靖天國際台,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv063	
 Mezzo Live HD,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv083	
