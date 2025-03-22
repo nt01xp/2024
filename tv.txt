@@ -508,18 +508,18 @@ CatchPlay電影M,udp://@230.1.2.37:11111
 龍華影劇M,udp://@230.1.2.167:11111
 龍華影劇M,udp://@230.1.2.5:11111
 
-靖天日本,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv047 		
-靖天卡通,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv044 		
-靖天电影,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv061 		
-靖天戏剧,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv058 		
-靖天欢乐,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv054 		
-靖天育乐,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv062 		
-靖天国际,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv063 		
-靖天映画,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv055 		
-靖天资讯,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv065 		
-靖天综合,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv046 		
-靖洋卡通,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv057 		
-靖洋戏剧,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv045 		
+靖天日本台,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv047	
+靖天卡通台,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv044	
+靖天育樂台,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv062	
+靖天映畫台,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv055	
+靖天國際台,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv063	
+靖天資訊台,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv065	
+靖天電影台,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv061	
+靖天綜合台,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv046	
+靖天戲劇台,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv058	
+靖天歡樂台,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv054	
+靖洋卡通台,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv057	
+靖洋戲劇台,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv045			
 
 龙华日韩,http://xg.52sw.top/play/4gtv/dxlitv.php?id=litv-longturn11 		
 龙华卡通,http://xg.52sw.top/play/4gtv/dxlitv.php?id=litv-longturn01 		
