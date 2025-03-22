@@ -1,3 +1,23 @@
+靖天日本台,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv047	
+靖天卡通台,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv044	
+靖天育樂台,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv062	
+靖天映畫台,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv055	
+靖天國際台,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv063	
+靖天資訊台,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv065	
+靖天電影台,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv061	
+靖天綜合台,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv046	
+靖天戲劇台,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv058	
+靖天歡樂台,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv054	
+靖洋卡通台,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv057	
+靖洋戲劇台,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv045	
+龍華日韓台,http://xg.52sw.top/play/4gtv/dxlitv.php?id=litv-longturn11	
+龍華卡通台,http://xg.52sw.top/play/4gtv/dxlitv.php?id=litv-longturn01	
+龍華洋片台,http://xg.52sw.top/play/4gtv/dxlitv.php?id=litv-longturn02	
+龍華偶像台,http://xg.52sw.top/play/4gtv/dxlitv.php?id=litv-longturn12	
+龍華經典台,http://xg.52sw.top/play/4gtv/dxlitv.php?id=litv-longturn21	
+龍華電影台,http://xg.52sw.top/play/4gtv/dxlitv.php?id=litv-longturn03	
+龍華戲劇台,http://xg.52sw.top/play/4gtv/dxlitv.php?id=litv-longturn18	
+
 Host=cache.ott.*.itv.cmvideo.cn=itv.dns.52top.com.cn
 
 Decoder=3
