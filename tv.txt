@@ -2,8 +2,8 @@
 TVBS新聞L,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv072 	
 東森新聞L,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv152 
 
-TVBS新聞,https://qq01xp.serv00.net/litv.php?id=4gtv-4gtv072
-東森新聞,https://qq01xp.serv00.net/litv.php?id=4gtv-4gtv152
+TVBS新聞P,https://qq01xp.serv00.net/litv.php?id=4gtv-4gtv072
+東森新聞P,https://qq01xp.serv00.net/litv.php?id=4gtv-4gtv152
 TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 東森新聞,https://www.youtube.com/watch?v=V1p33hqPrUk
 民視新聞,https://www.youtube.com/watch?v=ylYJSBUgaMA
