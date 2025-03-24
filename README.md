@@ -1,3 +1,5 @@
+http://xg.52sw.top/iptv/dns-itv.txt
+
 http://xg.52sw.top/play/bst/json.php
 
 tvbox解密 https://ua.fongmi.eu.org
