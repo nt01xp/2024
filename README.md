@@ -2,6 +2,11 @@ https://api.wqwqwq.sbs/itvok.txt
 
 39.135.132.221
 
+39.135.88.216
+
+39.135.97.81
+
+======================
 https://8080.koyeb.app/litv.php?id=4gtv-4gtv152
 
 http://xg.52sw.top/iptv/dns-itv.txt
