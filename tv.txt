@@ -705,7 +705,7 @@ parse=1
 3第46集,https://www.xgcartoon.com/user/page_direct?cartoon_id=buluyiguoyu-joe_brumm&chapter_id=Kbmy8QJhRu	
 
 
-Host=cache.ott.*.itv.cmvideo.cn=itv.dns.52top.com.cn
+Host=cache.ott.*.itv.cmvideo.cn=39.135.132.221
 Decoder=3
 
 央视频道,#genre#
