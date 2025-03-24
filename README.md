@@ -1,4 +1,4 @@
-東森新聞,https://8080.koyeb.app/litv.php?id=4gtv-4gtv152
+https://8080.koyeb.app/litv.php?id=4gtv-4gtv152
 
 http://xg.52sw.top/iptv/dns-itv.txt
 
