@@ -1,3 +1,6 @@
+http://xg.52sw.top/iptv/dns-itv.txt
+
+
 https://api.wqwqwq.sbs/itvok.txt
 
 39.135.132.221
