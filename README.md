@@ -1,3 +1,10 @@
+http://xg.52sw.top/play/bst/json.php
+
+tvbox解密 https://ua.fongmi.eu.org
+
+===========
+
+
 靖天日本台,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv047	
 靖天卡通台,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv044	
 靖天育樂台,http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv062	
