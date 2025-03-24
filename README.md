@@ -1,4 +1,4 @@
-[39.135.132.221](https://api.wqwqwq.sbs/itvok.txt)
+https://api.wqwqwq.sbs/itvok.txt
 
 39.135.132.221
 
