@@ -1,3 +1,5 @@
+[39.135.132.221](https://api.wqwqwq.sbs/itvok.txt)
+
 39.135.132.221
 
 https://8080.koyeb.app/litv.php?id=4gtv-4gtv152
