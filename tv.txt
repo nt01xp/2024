@@ -792,6 +792,8 @@ parse=1
 3第46集,https://www.xgcartoon.com/user/page_direct?cartoon_id=buluyiguoyu-joe_brumm&chapter_id=Kbmy8QJhRu	
 
 熱門收視頻道,#genre#
+parse=1
+
 台視, video://https://www.ofiii.com/channel/watch/4gtv-4gtv066
 中視, video://https://www.ofiii.com/channel/watch/4gtv-4gtv040
 華視, video://https://www.ofiii.com/channel/watch/4gtv-4gtv041
