@@ -797,24 +797,16 @@ CCTV1,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=be
 CCTV1,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000010000030810&livemode=1&stbId=toShengfen&mode=1&$4M FHD
 CCTV1,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000011000265001&livemode=1&stbId=toShengfen&mode=1&$4M FHD HEVC
 CCTV1,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000052&livemode=1&stbId=toShengfen&mode=1&$4M FHD
-CCTV1,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=hnbblive&Contentid=5510876839019192947&livemode=1&stbId=toShengfen&mode=1&$2M SD
-CCTV1,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=hnbblive&Contentid=9198071806334826260&livemode=1&stbId=toShengfen&mode=1&$2M SD
-CCTV1,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=wasusyt&Contentid=5068253659616166748&livemode=1&stbId=toShengfen&mode=1&$2M HD
 CCTV1,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=wasusyt&Contentid=6000000001000029752&livemode=1&stbId=toShengfen&mode=1&$8M FHD
 CCTV1,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000001000018602&livemode=1&stbId=toShengfen&mode=1&$8M FHD
 CCTV1,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000001000021973&livemode=1&stbId=toShengfen&mode=1&$4M FHD
 CCTV1,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265001&livemode=1&stbId=toShengfen&mode=1&$6M FHD HEVC
-CCTV1,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=reallive-cctv1&livemode=1&stbId=toShengfen&mode=1&$2M HD
-CCTV1,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=reallive-hdcctv1&livemode=1&stbId=toShengfen&mode=1&$2M HD
 CCTV2,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000005000031113&livemode=1&stbId=toShengfen&mode=1&$4M FHD
 CCTV2,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000011000031101&livemode=1&stbId=toShengfen&mode=1&$8M FHD
-CCTV2,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=hnbblive&Contentid=7501364488890008391&livemode=1&stbId=toShengfen&mode=1&$2M SD
 CCTV2,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=wasusyt&Contentid=6000000001000014161&livemode=1&stbId=toShengfen&mode=1&$8M FHD
-CCTV2,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=wasusyt&Contentid=8878432746825677699&livemode=1&stbId=toShengfen&mode=1&$2M HD
 CCTV2,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000001000012442&livemode=1&stbId=toShengfen&mode=1&$4M FHD
 CCTV2,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000001000023315&livemode=1&stbId=toShengfen&mode=1&$8M FHD
 CCTV2,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265002&livemode=1&stbId=toShengfen&mode=1&$6M FHD HEVC
-CCTV2,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=5353323539453949720&livemode=1&stbId=toShengfen&mode=1&$2M HD
 CCTV3,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000002000020548&livemode=1&stbId=toShengfen&mode=1&$4M FHD
 CCTV3,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000004000008883&livemode=1&stbId=toShengfen&mode=1&$8M FHD
 CCTV3,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000011000265003&livemode=1&stbId=toShengfen&mode=1&$4M FHD HEVC
@@ -822,105 +814,76 @@ CCTV3,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=wa
 CCTV3,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000001000011218&livemode=1&stbId=toShengfen&mode=1&$4M FHD
 CCTV3,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000001000013682&livemode=1&stbId=toShengfen&mode=1&$8M FHD
 CCTV3,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265003&livemode=1&stbId=toShengfen&mode=1&$6M FHD HEVC
-CCTV3,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=8378175926191110263&livemode=1&stbId=toShengfen&mode=1&$2M HD
+
 CCTV4,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000005000030093&livemode=1&stbId=toShengfen&mode=1&$4M FHD
 CCTV4,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000011000031102&livemode=1&stbId=toShengfen&mode=1&$8M FHD
 CCTV4,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000011000265004&livemode=1&stbId=toShengfen&mode=1&$4M FHD HEVC
-CCTV4,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=hnbblive&Contentid=8830950643842119430&livemode=1&stbId=toShengfen&mode=1&$2M SD
-CCTV4,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=wasusyt&Contentid=4719673858948437836&livemode=1&stbId=toShengfen&mode=1&$2M SD
 CCTV4,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000002000031664&livemode=1&stbId=toShengfen&mode=1&$4M FHD
 CCTV4,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265004&livemode=1&stbId=toShengfen&mode=1&$6M FHD HEVC
-CCTV4,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=8183388942203045169&livemode=1&stbId=toShengfen&mode=1&$2M HD
 CCTV5,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000004000008885&livemode=1&stbId=toShengfen&mode=1&$8M FHD
 CCTV5,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000010000016619&livemode=1&stbId=toShengfen&mode=1&$4M FHD
 CCTV5,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000011000265005&livemode=1&stbId=toShengfen&mode=1&$4M FHD HEVC
 CCTV5,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=wasusyt&Contentid=4867251683694877276&livemode=1&stbId=toShengfen&mode=1&$2M HD
 CCTV5,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=wasusyt&Contentid=6000000001000016431&livemode=1&stbId=toShengfen&mode=1&$8M FHD
-CCTV5,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=wasusyt&Contentid=7680777599813046442&livemode=1&stbId=toShengfen&mode=1&$2M HD
 CCTV5,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000001000004794&livemode=1&stbId=toShengfen&mode=1&$4M FHD
 CCTV5,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000003000030177&livemode=1&stbId=toShengfen&mode=1&$8M FHD
 CCTV5,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000005000025222&livemode=1&stbId=toShengfen&mode=1&$12M FHD
 CCTV5,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265005&livemode=1&stbId=toShengfen&mode=1&$6M FHD HEVC
-CCTV5,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=reallive-cctv5&livemode=1&stbId=toShengfen&mode=1&$2M HD
 CCTV6,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000004000008886&livemode=1&stbId=toShengfen&mode=1&$8M FHD
 CCTV6,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000010000018433&livemode=1&stbId=toShengfen&mode=1&$4M FHD
 CCTV6,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000011000265006&livemode=1&stbId=toShengfen&mode=1&$4M FHD HEVC
 CCTV6,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=wasusyt&Contentid=6000000001000004574&livemode=1&stbId=toShengfen&mode=1&$8M FHD
-CCTV6,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=wasusyt&Contentid=6994512760913257617&livemode=1&stbId=toShengfen&mode=1&$2M HD
 CCTV6,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000001000001737&livemode=1&stbId=toShengfen&mode=1&$8M FHD
 CCTV6,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000001000016466&livemode=1&stbId=toShengfen&mode=1&$4M FHD
 CCTV6,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265006&livemode=1&stbId=toShengfen&mode=1&$6M FHD HEVC
-CCTV6,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=6117099895556651277&livemode=1&stbId=toShengfen&mode=1&$2M HD
 CCTV7,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000005000026715&livemode=1&stbId=toShengfen&mode=1&$4M FHD
 CCTV7,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000011000031104&livemode=1&stbId=toShengfen&mode=1&$8M FHD
-CCTV7,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=hnbblive&Contentid=7787764357983924496&livemode=1&stbId=toShengfen&mode=1&$2M SD
 CCTV7,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=wasusyt&Contentid=6000000001000009055&livemode=1&stbId=toShengfen&mode=1&$8M FHD
 CCTV7,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000001000017218&livemode=1&stbId=toShengfen&mode=1&$4M FHD
 CCTV7,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000001000024341&livemode=1&stbId=toShengfen&mode=1&$8M FHD
 CCTV7,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265007&livemode=1&stbId=toShengfen&mode=1&$6M FHD HEVC
-CCTV7,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=7050628689018054317&livemode=1&stbId=toShengfen&mode=1&$2M HD
 CCTV8,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000004000008888&livemode=1&stbId=toShengfen&mode=1&$8M FHD
 CCTV8,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000010000018377&livemode=1&stbId=toShengfen&mode=1&$4M FHD
 CCTV8,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=wasusyt&Contentid=6000000001000001070&livemode=1&stbId=toShengfen&mode=1&$8M FHD
-CCTV8,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=wasusyt&Contentid=8967744667154419073&livemode=1&stbId=toShengfen&mode=1&$2M HD
 CCTV8,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000001000003736&livemode=1&stbId=toShengfen&mode=1&$4M FHD
 CCTV8,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000001000031433&livemode=1&stbId=toShengfen&mode=1&$8M FHD
 CCTV8,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265008&livemode=1&stbId=toShengfen&mode=1&$6M FHD HEVC
-CCTV8,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=8871488051501921127&livemode=1&stbId=toShengfen&mode=1&$2M HD
 CCTV9,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000010000018384&livemode=1&stbId=toShengfen&mode=1&$4M FHD
 CCTV9,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000011000288020&livemode=1&stbId=toShengfen&mode=1&$8M FHD
-CCTV9,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=hnbblive&Contentid=5117943747640013023&livemode=1&stbId=toShengfen&mode=1&$2M SD
 CCTV9,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=wasusyt&Contentid=6000000001000032162&livemode=1&stbId=toShengfen&mode=1&$8M FHD
-CCTV9,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=wasusyt&Contentid=6350727550077620987&livemode=1&stbId=toShengfen&mode=1&$2M HD
 CCTV9,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000001000014583&livemode=1&stbId=toShengfen&mode=1&$8M FHD
 CCTV9,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000001000028286&livemode=1&stbId=toShengfen&mode=1&$4M FHD
 CCTV9,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265009&livemode=1&stbId=toShengfen&mode=1&$6M FHD HEVC
-CCTV9,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=6275371742726901431&livemode=1&stbId=toShengfen&mode=1&$2M HD
 CCTV10,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000004000012827&livemode=1&stbId=toShengfen&mode=1&$8M FHD
 CCTV10,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000010000016738&livemode=1&stbId=toShengfen&mode=1&$4M FHD
-CCTV10,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=hnbblive&Contentid=6099129499930970995&livemode=1&stbId=toShengfen&mode=1&$2M SD
 CCTV10,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=wasusyt&Contentid=6000000001000031506&livemode=1&stbId=toShengfen&mode=1&$8M FHD
 CCTV10,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000001000023734&livemode=1&stbId=toShengfen&mode=1&$8M FHD
 CCTV10,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000001000026367&livemode=1&stbId=toShengfen&mode=1&$4M FHD
 CCTV10,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265010&livemode=1&stbId=toShengfen&mode=1&$6M FHD HEVC
-CCTV10,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=7019587760656900133&livemode=1&stbId=toShengfen&mode=1&$2M HD
 CCTV11,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000006000040011&livemode=1&stbId=toShengfen&mode=1&$4M FHD
 CCTV11,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000011000031106&livemode=1&stbId=toShengfen&mode=1&$8M FHD
-CCTV11,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=hnbblive&Contentid=5028333576671744004&livemode=1&stbId=toShengfen&mode=1&$2M SD
-CCTV11,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=wasusyt&Contentid=8983629816140945539&livemode=1&stbId=toShengfen&mode=1&$2M SD
 CCTV11,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000002000019789&livemode=1&stbId=toShengfen&mode=1&$4M FHD
 CCTV11,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265011&livemode=1&stbId=toShengfen&mode=1&$6M FHD HEVC
-CCTV11,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=6351457414282570521&livemode=1&stbId=toShengfen&mode=1&$2M HD
-CCTV12,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000006000040012&livemode=1&stbId=toShengfen&mode=1&$4M FHD
+CCCTV12,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000006000040012&livemode=1&stbId=toShengfen&mode=1&$4M FHD
 CCTV12,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000011000031107&livemode=1&stbId=toShengfen&mode=1&$8M FHD
-CCTV12,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=hnbblive&Contentid=5789397805573190782&livemode=1&stbId=toShengfen&mode=1&$2M SD
 CCTV12,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=wasusyt&Contentid=6000000001000022586&livemode=1&stbId=toShengfen&mode=1&$8M FHD
 CCTV12,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000001000001640&livemode=1&stbId=toShengfen&mode=1&$4M FHD
 CCTV12,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000001000032494&livemode=1&stbId=toShengfen&mode=1&$8M FHD
 CCTV12,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265012&livemode=1&stbId=toShengfen&mode=1&$6M FHD HEVC
-CCTV12,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=5325631075193490169&livemode=1&stbId=toShengfen&mode=1&$2M HD
 CCTV13,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000005000001827&livemode=1&stbId=toShengfen&mode=1&$4M FHD
 CCTV13,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000011000031108&livemode=1&stbId=toShengfen&mode=1&$8M FHD
-CCTV13,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=hnbblive&Contentid=8144735820797832112&livemode=1&stbId=toShengfen&mode=1&$2M SD
-CCTV13,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=wasusyt&Contentid=8593685226043367730&livemode=1&stbId=toShengfen&mode=1&$2M SD
 CCTV13,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000002000021303&livemode=1&stbId=toShengfen&mode=1&$4M FHD
 CCTV13,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265101&livemode=1&stbId=toShengfen&mode=1&$6M FHD HEVC
-CCTV13,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=6918130250570453526&livemode=1&stbId=toShengfen&mode=1&$2M HD
 CCTV14,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000004000006673&livemode=1&stbId=toShengfen&mode=1&$8M FHD
 CCTV14,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000010000023358&livemode=1&stbId=toShengfen&mode=1&$4M FHD
-CCTV14,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=hnbblive&Contentid=8533174746904291143&livemode=1&stbId=toShengfen&mode=1&$2M SD
 CCTV14,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=wasusyt&Contentid=6000000001000013647&livemode=1&stbId=toShengfen&mode=1&$8M FHD
-CCTV14,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=wasusyt&Contentid=6113730085955692619&livemode=1&stbId=toShengfen&mode=1&$2M HD
 CCTV14,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000001000008170&livemode=1&stbId=toShengfen&mode=1&$8M FHD
 CCTV14,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000001000021349&livemode=1&stbId=toShengfen&mode=1&$4M FHD
 CCTV14,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265013&livemode=1&stbId=toShengfen&mode=1&$6M FHD HEVC
-CCTV14,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=8203666801302077036&livemode=1&stbId=toShengfen&mode=1&$2M HD
 CCTV15,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000005000018417&livemode=1&stbId=toShengfen&mode=1&$4M FHD
 CCTV15,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000011000031109&livemode=1&stbId=toShengfen&mode=1&$8M FHD
-CCTV15,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=hnbblive&Contentid=5527219383522032005&livemode=1&stbId=toShengfen&mode=1&$2M SD
 CCTV15,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000002000008163&livemode=1&stbId=toShengfen&mode=1&$4M FHD
 CCTV15,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265014&livemode=1&stbId=toShengfen&mode=1&$6M FHD HEVC
-CCTV15,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=4832596595465032187&livemode=1&stbId=toShengfen&mode=1&$2M HD
 CCTV16,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000008000023253&livemode=1&stbId=toShengfen&mode=1&$8M FHD
 CCTV16,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000006000233001&livemode=1&stbId=toShengfen&mode=1&$4M FHD
 CCTV16,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000006000233002&livemode=1&stbId=toShengfen&mode=1&$8M FHD
@@ -930,235 +893,126 @@ CCTV17,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=y
 CCTV17,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265015&livemode=1&stbId=toShengfen&mode=1&$6M FHD HEVC
 CCTV17,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000006000268004&livemode=1&stbId=toShengfen&mode=1&$8M FHD
 CCTV5+,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000011000031127&livemode=1&stbId=toShengfen&mode=1&$8M FHD
-CCTV5+,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=hnbblive&Contentid=5350361928876847638&livemode=1&stbId=toShengfen&mode=1&$2M HD
 CCTV5+,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=wasusyt&Contentid=6000000001000015875&livemode=1&stbId=toShengfen&mode=1&$8M FHD
 CCTV5+,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000001000018504&livemode=1&stbId=toShengfen&mode=1&$8M FHD
 CCTV5+,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000001000020505&livemode=1&stbId=toShengfen&mode=1&$4M FHD
 CCTV5+,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265016&livemode=1&stbId=toShengfen&mode=1&$6M FHD HEVC
-CCTV5+,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=reallive-cctv5plus&livemode=1&stbId=toShengfen&mode=1&$2M HD
+
 卫视频道,#genre#
-X湖南卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000004000006692&livemode=1&stbId=toShengfen&mode=1&$8M FHD
-湖南卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000010000030452&livemode=1&stbId=toShengfen&mode=1&$4M FHD
-湖南卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000011000265010&livemode=1&stbId=toShengfen&mode=1&$4M FHD HEVC
-湖南卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=hnbblive&Contentid=8134113048876071035&livemode=1&stbId=toShengfen&mode=1&$2M SD
-湖南卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=hnbblive&Contentid=9156315265568865780&livemode=1&stbId=toShengfen&mode=1&$2M SD
-湖南卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=wasusyt&Contentid=6000000001000018044&livemode=1&stbId=toShengfen&mode=1&$8M FHD
-湖南卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000001000009115&livemode=1&stbId=toShengfen&mode=1&$4M FHD
-湖南卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000001000032695&livemode=1&stbId=toShengfen&mode=1&$8M FHD
-湖南卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265024&livemode=1&stbId=toShengfen&mode=1&$6M FHD HEVC
-湖南卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=6954818217931477266&livemode=1&stbId=toShengfen&mode=1&$2M HD
-湖南卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=8655038471675748531&livemode=1&stbId=toShengfen&mode=1&$2M HD
-X东方卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000004000014098&livemode=1&stbId=toShengfen&mode=1&$8M FHD
-东方卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000010000032246&livemode=1&stbId=toShengfen&mode=1&$4M FHD
-东方卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000011000265007&livemode=1&stbId=toShengfen&mode=1&$4M FHD HEVC
-东方卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000056&livemode=1&stbId=toShengfen&mode=1&$2M SD
-东方卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=hnbblive&Contentid=5172136776786813822&livemode=1&stbId=toShengfen&mode=1&$2M SD
-东方卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=hnbblive&Contentid=6437032193071740776&livemode=1&stbId=toShengfen&mode=1&$2M SD
-东方卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=wasusyt&Contentid=6000000001000003639&livemode=1&stbId=toShengfen&mode=1&$8M FHD
-东方卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=wasusyt&Contentid=6690661682550849647&livemode=1&stbId=toShengfen&mode=1&$2M HD
-东方卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000001000005866&livemode=1&stbId=toShengfen&mode=1&$8M FHD
-东方卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000001000030202&livemode=1&stbId=toShengfen&mode=1&$4M FHD
-东方卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265018&livemode=1&stbId=toShengfen&mode=1&$6M FHD HEVC
-东方卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=4699937686040264690&livemode=1&stbId=toShengfen&mode=1&$2M HD
-东方卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=6081477947334326291&livemode=1&stbId=toShengfen&mode=1&$2M HD
-X江苏卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000004000019351&livemode=1&stbId=toShengfen&mode=1&$8M FHD
+
 江苏卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000010000018509&livemode=1&stbId=toShengfen&mode=1&$4M FHD
 江苏卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000011000265009&livemode=1&stbId=toShengfen&mode=1&$4M FHD HEVC
-江苏卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=hnbblive&Contentid=7397162709759672535&livemode=1&stbId=toShengfen&mode=1&$2M SD
-江苏卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=hnbblive&Contentid=7782585682414689856&livemode=1&stbId=toShengfen&mode=1&$2M SD
 江苏卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=wasusyt&Contentid=6000000001000014861&livemode=1&stbId=toShengfen&mode=1&$8M FHD
 江苏卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000001000001828&livemode=1&stbId=toShengfen&mode=1&$8M FHD
 江苏卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000001000004684&livemode=1&stbId=toShengfen&mode=1&$4M FHD
 江苏卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265030&livemode=1&stbId=toShengfen&mode=1&$6M FHD HEVC
-江苏卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=4690153511271751319&livemode=1&stbId=toShengfen&mode=1&$2M HD
-江苏卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=4796340999304424198&livemode=1&stbId=toShengfen&mode=1&$2M HD
-X广东卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000004000014694&livemode=1&stbId=toShengfen&mode=1&$8M FHD
-广东卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000010000030417&livemode=1&stbId=toShengfen&mode=1&$4M FHD
-广东卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=hnbblive&Contentid=6006643234125022740&livemode=1&stbId=toShengfen&mode=1&$2M SD
-广东卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=wasusyt&Contentid=5306115082857917057&livemode=1&stbId=toShengfen&mode=1&$2M HD
-广东卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=wasusyt&Contentid=6000000001000031076&livemode=1&stbId=toShengfen&mode=1&$8M FHD
-广东卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000001000014176&livemode=1&stbId=toShengfen&mode=1&$8M FHD
-广东卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000001000028357&livemode=1&stbId=toShengfen&mode=1&$4M FHD
-广东卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265034&livemode=1&stbId=toShengfen&mode=1&$6M FHD HEVC
-广东卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=5616881981321254555&livemode=1&stbId=toShengfen&mode=1&$2M HD
-广东卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=6604532991586541024&livemode=1&stbId=toShengfen&mode=1&$2M HD
 浙江卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000004000007275&livemode=1&stbId=toShengfen&mode=1&$8M FHD
 浙江卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000010000017320&livemode=1&stbId=toShengfen&mode=1&$4M FHD
-浙江卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=hnbblive&Contentid=5053644244529125038&livemode=1&stbId=toShengfen&mode=1&$2M SD
-浙江卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=hnbblive&Contentid=5822304506273784683&livemode=1&stbId=toShengfen&mode=1&$2M SD
 浙江卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=wasusyt&Contentid=6000000001000032070&livemode=1&stbId=toShengfen&mode=1&$8M FHD
 浙江卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000001000009806&livemode=1&stbId=toShengfen&mode=1&$4M FHD
 浙江卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000001000014260&livemode=1&stbId=toShengfen&mode=1&$8M FHD
 浙江卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265031&livemode=1&stbId=toShengfen&mode=1&$6M FHD HEVC
-浙江卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=4945391150963996912&livemode=1&stbId=toShengfen&mode=1&$2M HD
-浙江卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=7889730693553663314&livemode=1&stbId=toShengfen&mode=1&$2M HD
+湖南卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000010000030452&livemode=1&stbId=toShengfen&mode=1&$4M FHD
+湖南卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000011000265010&livemode=1&stbId=toShengfen&mode=1&$4M FHD HEVC
+湖南卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=wasusyt&Contentid=6000000001000018044&livemode=1&stbId=toShengfen&mode=1&$8M FHD
+湖南卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000001000009115&livemode=1&stbId=toShengfen&mode=1&$4M FHD
+湖南卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000001000032695&livemode=1&stbId=toShengfen&mode=1&$8M FHD
+湖南卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265024&livemode=1&stbId=toShengfen&mode=1&$6M FHD HEVC
 北京卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000004000031556&livemode=1&stbId=toShengfen&mode=1&$8M FHD
 北京卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000010000011502&livemode=1&stbId=toShengfen&mode=1&$4M FHD
 北京卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000011000265011&livemode=1&stbId=toShengfen&mode=1&$4M FHD HEVC
-X北京卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=hnbblive&Contentid=6356396163691637298&livemode=1&stbId=toShengfen&mode=1&$2M SD
-北京卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=hnbblive&Contentid=8656422569829547833&livemode=1&stbId=toShengfen&mode=1&$2M SD
 北京卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=wasusyt&Contentid=6000000001000020451&livemode=1&stbId=toShengfen&mode=1&$8M FHD
 北京卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000001000017156&livemode=1&stbId=toShengfen&mode=1&$4M FHD
 北京卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000001000021288&livemode=1&stbId=toShengfen&mode=1&$8M FHD
 北京卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265027&livemode=1&stbId=toShengfen&mode=1&$6M FHD HEVC
-北京卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=8186688740528366039&livemode=1&stbId=toShengfen&mode=1&$2M HD
-北京卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=8258663409451267714&livemode=1&stbId=toShengfen&mode=1&$2M HD
-X深圳卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000004000007410&livemode=1&stbId=toShengfen&mode=1&$8M FHD
+东方卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000010000032246&livemode=1&stbId=toShengfen&mode=1&$4M FHD
+东方卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000011000265007&livemode=1&stbId=toShengfen&mode=1&$4M FHD HEVC
+东方卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=wasusyt&Contentid=6000000001000003639&livemode=1&stbId=toShengfen&mode=1&$8M FHD
+东方卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000001000005866&livemode=1&stbId=toShengfen&mode=1&$8M FHD
+东方卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000001000030202&livemode=1&stbId=toShengfen&mode=1&$4M FHD
+东方卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265018&livemode=1&stbId=toShengfen&mode=1&$6M FHD HEVC
+广东卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000010000030417&livemode=1&stbId=toShengfen&mode=1&$4M FHD
+广东卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=wasusyt&Contentid=6000000001000031076&livemode=1&stbId=toShengfen&mode=1&$8M FHD
+广东卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000001000014176&livemode=1&stbId=toShengfen&mode=1&$8M FHD
+广东卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000001000028357&livemode=1&stbId=toShengfen&mode=1&$4M FHD
+广东卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265034&livemode=1&stbId=toShengfen&mode=1&$6M FHD HEVC
 深圳卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000010000024026&livemode=1&stbId=toShengfen&mode=1&$4M FHD
-深圳卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=hnbblive&Contentid=5810022399100543765&livemode=1&stbId=toShengfen&mode=1&$2M SD
-深圳卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=hnbblive&Contentid=8902912065170644677&livemode=1&stbId=toShengfen&mode=1&$2M SD
 深圳卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=wasusyt&Contentid=6000000001000002116&livemode=1&stbId=toShengfen&mode=1&$8M FHD
 深圳卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000001000009227&livemode=1&stbId=toShengfen&mode=1&$8M FHD
 深圳卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000001000011645&livemode=1&stbId=toShengfen&mode=1&$4M FHD
 深圳卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265028&livemode=1&stbId=toShengfen&mode=1&$6M FHD HEVC
-深圳卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=5352218613763113657&livemode=1&stbId=toShengfen&mode=1&$2M HD
-深圳卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=7696950400632248401&livemode=1&stbId=toShengfen&mode=1&$2M HD
 天津卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000001000030788&livemode=1&stbId=toShengfen&mode=1&$4M FHD
 天津卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000004000006827&livemode=1&stbId=toShengfen&mode=1&$8M FHD
-天津卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=hnbblive&Contentid=8389971589569141275&livemode=1&stbId=toShengfen&mode=1&$2M SD
-天津卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=hnbblive&Contentid=9062258020633980548&livemode=1&stbId=toShengfen&mode=1&$2M SD
 天津卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=wasusyt&Contentid=6000000001000009186&livemode=1&stbId=toShengfen&mode=1&$8M FHD
 天津卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000001000000831&livemode=1&stbId=toShengfen&mode=1&$4M FHD
 天津卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000001000003475&livemode=1&stbId=toShengfen&mode=1&$8M FHD
 天津卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265026&livemode=1&stbId=toShengfen&mode=1&$6M FHD HEVC
-天津卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=6707942579111517572&livemode=1&stbId=toShengfen&mode=1&$2M HD
-天津卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=8798367982904688776&livemode=1&stbId=toShengfen&mode=1&$2M HD
 山东卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000004000020424&livemode=1&stbId=toShengfen&mode=1&$8M FHD
 山东卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000010000027763&livemode=1&stbId=toShengfen&mode=1&$4M FHD
-山东卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=hnbblive&Contentid=5314654537380139019&livemode=1&stbId=toShengfen&mode=1&$2M SD
-山东卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=hnbblive&Contentid=9216797902845952310&livemode=1&stbId=toShengfen&mode=1&$2M SD
 山东卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=wasusyt&Contentid=6000000001000004134&livemode=1&stbId=toShengfen&mode=1&$8M FHD
 山东卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000001000012807&livemode=1&stbId=toShengfen&mode=1&$4M FHD
 山东卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000001000016568&livemode=1&stbId=toShengfen&mode=1&$8M FHD
 山东卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265019&livemode=1&stbId=toShengfen&mode=1&$6M FHD HEVC
-山东卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=7347081113971056899&livemode=1&stbId=toShengfen&mode=1&$2M HD
-山东卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=7744799445271696577&livemode=1&stbId=toShengfen&mode=1&$2M HD
 安徽卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000001000027288&livemode=1&stbId=toShengfen&mode=1&$4M FHD
-安徽卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000004000023002&livemode=1&stbId=toShengfen&mode=1&$8M FHD
-安徽卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=hnbblive&Contentid=8815051804265066702&livemode=1&stbId=toShengfen&mode=1&$2M SD
 安徽卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=wasusyt&Contentid=6000000001000009954&livemode=1&stbId=toShengfen&mode=1&$8M FHD
 安徽卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000001000020780&livemode=1&stbId=toShengfen&mode=1&$4M FHD
 安徽卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000001000030159&livemode=1&stbId=toShengfen&mode=1&$8M FHD
 安徽卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265025&livemode=1&stbId=toShengfen&mode=1&$6M FHD HEVC
-安徽卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=4774346722046993363&livemode=1&stbId=toShengfen&mode=1&$2M HD
 江西卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000001000032154&livemode=1&stbId=toShengfen&mode=1&$4M FHD
 江西卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000004000011210&livemode=1&stbId=toShengfen&mode=1&$8M FHD
-江西卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=hnbblive&Contentid=8501314381310215409&livemode=1&stbId=toShengfen&mode=1&$2M SD
 江西卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000001000013731&livemode=1&stbId=toShengfen&mode=1&$4M FHD
 江西卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265032&livemode=1&stbId=toShengfen&mode=1&$6M FHD HEVC
 江西卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000006000268001&livemode=1&stbId=toShengfen&mode=1&$8M FHD
-江西卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=5616078396620462481&livemode=1&stbId=toShengfen&mode=1&$2M HD
 黑龙江卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000004000025203&livemode=1&stbId=toShengfen&mode=1&$8M FHD
 黑龙江卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000010000031107&livemode=1&stbId=toShengfen&mode=1&$4M FHD
-黑龙江卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=hnbblive&Contentid=4708717482586167604&livemode=1&stbId=toShengfen&mode=1&$2M SD
-黑龙江卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=hnbblive&Contentid=8791922236512824525&livemode=1&stbId=toShengfen&mode=1&$2M SD
 黑龙江卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=wasusyt&Contentid=6000000001000016510&livemode=1&stbId=toShengfen&mode=1&$8M FHD
 黑龙江卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000001000001925&livemode=1&stbId=toShengfen&mode=1&$8M FHD
 黑龙江卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000001000009082&livemode=1&stbId=toShengfen&mode=1&$4M FHD
 黑龙江卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265029&livemode=1&stbId=toShengfen&mode=1&$6M FHD HEVC
 黑龙江卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=8467838254824392379&livemode=1&stbId=toShengfen&mode=1&$2M HD
 四川卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000004000006119&livemode=1&stbId=toShengfen&mode=1&$8M FHD
-四川卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=hnbblive&Contentid=6677438387677364824&livemode=1&stbId=toShengfen&mode=1&$2M SD
 四川卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000002000016825&livemode=1&stbId=toShengfen&mode=1&$4M FHD
-四川卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=8744805262559782299&livemode=1&stbId=toShengfen&mode=1&$2M SD
 贵州卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000004000025843&livemode=1&stbId=toShengfen&mode=1&$8M FHD
-贵州卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=hnbblive&Contentid=6399538709763552932&livemode=1&stbId=toShengfen&mode=1&$2M SD
 贵州卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000002000003169&livemode=1&stbId=toShengfen&mode=1&$4M FHD
-贵州卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=5468064193211864646&livemode=1&stbId=toShengfen&mode=1&$2M SD
 湖北卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000004000014954&livemode=1&stbId=toShengfen&mode=1&$8M FHD
 湖北卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000010000022140&livemode=1&stbId=toShengfen&mode=1&$4M FHD
-湖北卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=hnbblive&Contentid=5153590482567519311&livemode=1&stbId=toShengfen&mode=1&$2M SD
+湖
 湖北卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=wasusyt&Contentid=6000000001000015436&livemode=1&stbId=toShengfen&mode=1&$8M FHD
 湖北卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000001000010355&livemode=1&stbId=toShengfen&mode=1&$4M FHD
 湖北卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000001000024621&livemode=1&stbId=toShengfen&mode=1&$8M FHD
 湖北卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265023&livemode=1&stbId=toShengfen&mode=1&$6M FHD HEVC
-湖北卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=6956052407855047826&livemode=1&stbId=toShengfen&mode=1&$2M HD
 辽宁卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000001000008940&livemode=1&stbId=toShengfen&mode=1&$4M FHD
 辽宁卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000004000011671&livemode=1&stbId=toShengfen&mode=1&$8M FHD
-辽宁卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=hnbblive&Contentid=6354020802043163902&livemode=1&stbId=toShengfen&mode=1&$2M SD
 辽宁卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000001000001945&livemode=1&stbId=toShengfen&mode=1&$8M FHD
 辽宁卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000002000024033&livemode=1&stbId=toShengfen&mode=1&$4M FHD
 辽宁卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265022&livemode=1&stbId=toShengfen&mode=1&$6M FHD HEVC
-辽宁卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=7638375013635582245&livemode=1&stbId=toShengfen&mode=1&$2M HD
-广西卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000006000040014&livemode=1&stbId=toShengfen&mode=1&$4M SD
 广西卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000011000031118&livemode=1&stbId=toShengfen&mode=1&$8M FHD
-广西卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=hnbblive&Contentid=5411468428139664300&livemode=1&stbId=toShengfen&mode=1&$2M SD
 广西卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000002000019837&livemode=1&stbId=toShengfen&mode=1&$4M FHD
-广西卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=8069815772565148726&livemode=1&stbId=toShengfen&mode=1&$2M SD
 重庆卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000004000025797&livemode=1&stbId=toShengfen&mode=1&$8M FHD
-重庆卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=hnbblive&Contentid=5795701757771275875&livemode=1&stbId=toShengfen&mode=1&$2M SD
 重庆卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000001000001096&livemode=1&stbId=toShengfen&mode=1&$8M FHD
 重庆卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000002000018937&livemode=1&stbId=toShengfen&mode=1&$4M FHD
 重庆卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265017&livemode=1&stbId=toShengfen&mode=1&$6M FHD HEVC
-重庆卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=4995134319251569870&livemode=1&stbId=toShengfen&mode=1&$2M HD
+
 东南卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000001000005829&livemode=1&stbId=toShengfen&mode=1&$4M FHD
 东南卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000004000010584&livemode=1&stbId=toShengfen&mode=1&$8M FHD
-东南卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=hnbblive&Contentid=6877196208180525617&livemode=1&stbId=toShengfen&mode=1&$2M SD
 东南卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000002000009263&livemode=1&stbId=toShengfen&mode=1&$4M FHD
 东南卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265033&livemode=1&stbId=toShengfen&mode=1&$6M FHD HEVC
-东南卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=7721801662260370363&livemode=1&stbId=toShengfen&mode=1&$2M HD
 吉林卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000006000040013&livemode=1&stbId=toShengfen&mode=1&$4M FHD
 吉林卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000011000031117&livemode=1&stbId=toShengfen&mode=1&$8M FHD
 吉林卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000002000027730&livemode=1&stbId=toShengfen&mode=1&$4M FHD
-吉林卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=6042486520432105075&livemode=1&stbId=toShengfen&mode=1&$2M SD
 海南卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000004000006211&livemode=1&stbId=toShengfen&mode=1&$8M FHD
-海南卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=hnbblive&Contentid=6416920617511796880&livemode=1&stbId=toShengfen&mode=1&$2M SD
 海南卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000002000023773&livemode=1&stbId=toShengfen&mode=1&$4M FHD
-海南卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=7899627377857656087&livemode=1&stbId=toShengfen&mode=1&$2M SD
 云南卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000006000040019&livemode=1&stbId=toShengfen&mode=1&$4M FHD
 云南卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000011000031120&livemode=1&stbId=toShengfen&mode=1&$8M FHD
-云南卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=hnbblive&Contentid=6546334374314681368&livemode=1&stbId=toShengfen&mode=1&$2M SD
 云南卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000002000024694&livemode=1&stbId=toShengfen&mode=1&$4M FHD
-云南卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=8567124785369040339&livemode=1&stbId=toShengfen&mode=1&$2M SD
-厦门卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5084893189220221988&livemode=1&stbId=toShengfen&mode=1&$2M SD
-厦门卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000005000266006&livemode=1&stbId=toShengfen&mode=1&$4M SD
 河南卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000005000017925&livemode=1&stbId=toShengfen&mode=1&$4M FHD
 河南卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000011000031119&livemode=1&stbId=toShengfen&mode=1&$8M FHD
 河南卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000002000027731&livemode=1&stbId=toShengfen&mode=1&$4M FHD
-河南卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=7304224304099543804&livemode=1&stbId=toShengfen&mode=1&$2M SD
 河北卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000006000040016&livemode=1&stbId=toShengfen&mode=1&$8M FHD
 河北卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000002000017118&livemode=1&stbId=toShengfen&mode=1&$4M FHD
-河北卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=8360637122634561354&livemode=1&stbId=toShengfen&mode=1&$2M SD
-陕西卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000006000040017&livemode=1&stbId=toShengfen&mode=1&$4M SD
-陕西卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=hnbblive&Contentid=7400528621461986101&livemode=1&stbId=toShengfen&mode=1&$2M SD
-陕西卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000002000007495&livemode=1&stbId=toShengfen&mode=1&$4M SD
-陕西卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=7120278140251237664&livemode=1&stbId=toShengfen&mode=1&$2M SD
-山西卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000006000040023&livemode=1&stbId=toShengfen&mode=1&$4M SD
-山西卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000002000021220&livemode=1&stbId=toShengfen&mode=1&$4M SD
-山西卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=4821787565788875765&livemode=1&stbId=toShengfen&mode=1&$2M SD
 甘肃卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000006000040021&livemode=1&stbId=toShengfen&mode=1&$4M FHD
 甘肃卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000011000031121&livemode=1&stbId=toShengfen&mode=1&$8M FHD
 甘肃卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000002000017827&livemode=1&stbId=toShengfen&mode=1&$4M FHD
-甘肃卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=8938598377512027715&livemode=1&stbId=toShengfen&mode=1&$2M SD
-宁夏卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000006000040022&livemode=1&stbId=toShengfen&mode=1&$4M SD
-宁夏卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000002000031451&livemode=1&stbId=toShengfen&mode=1&$4M SD
-宁夏卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=7527747602951312973&livemode=1&stbId=toShengfen&mode=1&$2M SD
 青海卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000006000040015&livemode=1&stbId=toShengfen&mode=1&$4M FHD
 青海卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000002000013359&livemode=1&stbId=toShengfen&mode=1&$4M FHD
-青海卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=6721180114242078041&livemode=1&stbId=toShengfen&mode=1&$2M SD
-西藏卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5381760837640571168&livemode=1&stbId=toShengfen&mode=1&$2M SD
-西藏卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000002000015894&livemode=1&stbId=toShengfen&mode=1&$4M SD
-西藏卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=6603041244077933770&livemode=1&stbId=toShengfen&mode=1&$2M SD
-新疆卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000006000040018&livemode=1&stbId=toShengfen&mode=1&$4M SD
-新疆卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000002000029441&livemode=1&stbId=toShengfen&mode=1&$4M SD
-新疆卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=5802765535081445534&livemode=1&stbId=toShengfen&mode=1&$2M SD
-内蒙古卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=7331079758781182663&livemode=1&stbId=toShengfen&mode=1&$2M SD
-内蒙古卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000002000014080&livemode=1&stbId=toShengfen&mode=1&$4M SD
-内蒙古卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=5559214655508729688&livemode=1&stbId=toShengfen&mode=1&$2M SD
-三沙卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000011000288016&livemode=1&stbId=toShengfen&mode=1&$8M FHD
-农林卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000046&livemode=1&stbId=toShengfen&mode=1&$4M SD
-农林卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000005000266003&livemode=1&stbId=toShengfen&mode=1&$4M SD
-延边卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000049&livemode=1&stbId=toShengfen&mode=1&$4M SD
-延边卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000005000266008&livemode=1&stbId=toShengfen&mode=1&$4M SD
-兵团卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000006000040020&livemode=1&stbId=toShengfen&mode=1&$4M SD
-兵团卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000005000266005&livemode=1&stbId=toShengfen&mode=1&$4M SD
-山东教育卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000013&livemode=1&stbId=toShengfen&mode=1&$2M SD
-山东教育卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000002000004097&livemode=1&stbId=toShengfen&mode=1&$4M SD
-山东教育卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=7341476808603780321&livemode=1&stbId=toShengfen&mode=1&$2M SD
-康巴卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000003000001598&livemode=1&stbId=toShengfen&mode=1&$2M SD
-康巴卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000005000266002&livemode=1&stbId=toShengfen&mode=1&$4M SD
-康巴卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=9131971102485823367&livemode=1&stbId=toShengfen&mode=1&$2M SD
-安多卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000006000022124&livemode=1&stbId=toShengfen&mode=1&$2M SD
-安多卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000005000266001&livemode=1&stbId=toShengfen&mode=1&$4M SD
-安多卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=7248678452522064966&livemode=1&stbId=toShengfen&mode=1&$2M SD
 
