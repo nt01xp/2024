@@ -1,4 +1,5 @@
-
+港台頻道,#genre#
+parse=1
 
 凤凰卫视中文台,https://iptv345.com/?act=play&token=3bfef9827a8a6fadb79d3b4dd063c781&tid=gt&id=1
 凤凰卫视资讯台,https://iptv345.com/?act=play&token=45c7adbd2252276733acf53a914750a9&tid=gt&id=2
