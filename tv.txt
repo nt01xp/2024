@@ -704,10 +704,6 @@ parse=1
 3第45集,https://www.xgcartoon.com/user/page_direct?cartoon_id=buluyiguoyu-joe_brumm&chapter_id=gt7H2g5KtW	
 3第46集,https://www.xgcartoon.com/user/page_direct?cartoon_id=buluyiguoyu-joe_brumm&chapter_id=Kbmy8QJhRu	
 
-Host=cache.ott.*.itv.cmvideo.cn=39.135.132.221
-
-Decoder=3
-
 央视频道,#genre#
 CCTV1,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000001000004953&livemode=1&stbId=meyou&mode=1
 CCTV1,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000004000002226&livemode=1&stbId=meyou&mode=1
@@ -836,10 +832,6 @@ CCTV5+,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid
 CCTV5+,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000001000020505&livemode=1&stbId=meyou&mode=1
 CCTV5+,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000005000265016&livemode=1&stbId=meyou&mode=1
 CCTV5+,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=reallive-cctv5plus&livemode=1&stbId=meyou&mode=1
-
-Host=cache.ott.*.itv.cmvideo.cn=39.135.132.221
-
-Decoder=3
 
 卫视频道,#genre#
 
