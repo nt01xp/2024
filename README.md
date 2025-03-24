@@ -1,5 +1,10 @@
+
+
 http://xg.52sw.top/iptv/dns-itv.txt
 
+Host=cache.ott.*.itv.cmvideo.cn=itv.dns.52top.com.cn
+
+itv.dns.52top.com.cn
 
 https://api.wqwqwq.sbs/itvok.txt
 
