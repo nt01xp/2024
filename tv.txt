@@ -1012,32 +1012,3 @@ parse=1
 115  鏡電視新聞台,https://www.4gtv.tv/channel/4gtv-4gtv075?set=1&ch=268
 116  霹靂布袋戲,https://www.4gtv.tv/channel/4gtv-live145?set=1&ch=301	
 
-Host=www.ofiii.com
-script=const play=document.getElementsByClassName(\"play_icon\")[0];const event=new MouseEvent(\"click\",{bubbles:!0,cancelable:!0,view:window,screenX:100,screenY:100,clientX:50,clientY:50,button:0,shiftKey:!1,ctrlKey:!1,altKey:!1,metaKey:!1,modifierState:0});play.dispatchEvent(event);
-
-熱門收視頻道,#genre#
-台視,video://https://www.ofiii.com/channel/watch/4gtv-4gtv066
-中視,video://https://www.ofiii.com/channel/watch/4gtv-4gtv040
-華視,video://https://www.ofiii.com/channel/watch/4gtv-4gtv041
-好消息,video://https://www.ofiii.com/channel/watch/litv-ftv16
-哆啦Ａ夢台,video://https://www.ofiii.com/channel/watch/ofiii22
-亞洲旅遊台,video://https://www.ofiii.com/channel/watch/4gtv-4gtv076
-龍華戲劇台,video://https://www.ofiii.com/channel/watch/litv-longturn18
-台灣戲劇台,video://https://www.ofiii.com/channel/watch/litv-longturn22
-東森購物1台,video://https://www.ofiii.com/channel/watch/4gtv-4gtv102
-龍華偶像台,video://https://www.ofiii.com/channel/watch/litv-longturn12
-龍華日韓台,video://https://www.ofiii.com/channel/watch/litv-longturn11
-華視新聞,video://https://www.ofiii.com/channel/watch/4gtv-4gtv052
-三立新聞iNEWS,video://https://www.ofiii.com/channel/watch/iNEWS
-寰宇財經台,video://https://www.ofiii.com/channel/watch/4gtv-4gtv158
-台視新聞,video://https://www.ofiii.com/channel/watch/4gtv-4gtv051
-中視新聞,video://https://www.ofiii.com/channel/watch/4gtv-4gtv074
-中天新聞台,video://https://www.ofiii.com/channel/watch/4gtv-4gtv009
-寰宇新聞台灣台,video://https://www.ofiii.com/channel/watch/4gtv-4gtv156
-寰宇新聞台,video://https://www.ofiii.com/channel/watch/litv-longturn14
-龍華經典台,video://https://www.ofiii.com/channel/watch/litv-longturn21
-龍華電影台,video://https://www.ofiii.com/channel/watch/litv-longturn03
-去有風的地方,video://https://www.ofiii.com/channel/watch/ofiii116
-綜藝玩很大,video://https://www.ofiii.com/channel/watch/ofiii130
-全民星攻略,video://https://www.ofiii.com/channel/watch/ofiii131
-
