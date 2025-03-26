@@ -1,0 +1,10 @@
+{
+  "lives": [
+    {
+      "name": "LITV直播(python)",
+      "type": 3,
+      "api": "https://json.doube.eu.org/python/live_litv.py",
+      "ext": {}
+    }
+  ]
+}
