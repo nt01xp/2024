@@ -95,7 +95,6 @@ https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/ITV.txt
 
 央視 https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/jsm.json
 
-http://我不是.摸鱼儿.com
 
 "ads":["static-mozai.4gtv.tv","mozai.4gtv.tv"]}
 
@@ -132,8 +131,6 @@ ETHTV機上盒使用教學 https://www.tv6868.com/
 
 享悅機上盒使用教學
 http://43066.cc
-
-"ads":["static-mozai.4gtv.tv","mozai.4gtv.tv"]
 
 =============================
 
