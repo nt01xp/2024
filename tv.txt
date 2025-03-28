@@ -706,7 +706,7 @@ parse=1
 116  霹靂布袋戲,https://www.4gtv.tv/channel/4gtv-live145?set=1&ch=301	
 
 
-Host=cache.ott.*.itv.cmvideo.cn=39.135.97.81
+Host=cache.ott.*.itv.cmvideo.cn=fifalive.itv.tvsilo.vip
 
 Decoder=3
 
