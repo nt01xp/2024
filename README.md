@@ -156,7 +156,10 @@ pixman.io 交流群 https://t.me/livednowgroup
 
 哪吒云 https://t.me/nezhasux
 
-交流群：https://t.me/doubebly001
+點播直播交流群：https://t.me/doubebly001
+
+IPTV研究所  https://t.me/IPTV_9999999
+
 ＋＋＋＋＋＋＋＋＋
 
 訂閱
