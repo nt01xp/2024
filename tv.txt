@@ -708,6 +708,7 @@ parse=1
 
 央視頻道,#genre#
 parse=1
+ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 
 CCTV4K,https://www.yangshipin.cn/tv/home?pid=600002264
 CCTV8K,https://www.yangshipin.cn/tv/home?pid=600156816
@@ -733,6 +734,7 @@ X16奧林匹克(4K)https://www.yangshipin.cn/tv/home?pid=600099502
 
 衛視頻道,#genre#
 parse=1
+ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 
 北京衛視,https://www.yangshipin.cn/tv/home?pid=600002309
 江蘇衛視,https://www.yangshipin.cn/tv/home?pid=600002521
@@ -770,6 +772,7 @@ parse=1
 
 CCTV頻道,#genre#
 parse=1
+ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 
 1綜合,https://tv.cctv.com/live/cctv1/
 2財經,https://tv.cctv.com/live/cctv2/
