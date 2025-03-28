@@ -1,3 +1,6 @@
+东森幼幼 Yoyo TV,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/yoyo_twn/playlist.m3u8
+
+
 108.181.32.169
 
 169  https://raw.githubusercontent.com/xiongjian83/TvBox/cd9dea854860d4a51d2c6708fb0e389047c825f5/live.m3u
