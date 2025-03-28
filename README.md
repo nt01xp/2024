@@ -164,6 +164,8 @@ pixman.io 交流群 https://t.me/livednowgroup
 
 IPTV研究所  https://t.me/IPTV_9999999
 
+簡單iptv  https://t.me/jdiptv2024
+
 ＋＋＋＋＋＋＋＋＋
 
 訂閱
