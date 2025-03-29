@@ -1,0 +1,1138 @@
+#EXTM3U x-tvg-url="https://epg.aptv.app/pp.xml.gz" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
+#EXTINF:-1 tvg-id="华数4K" tvg-name="华数4K" tvg-logo="https://live.fanmingming.cn/tv/华数4K.png" group-title="4K频道",华数4K
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=6000000003000004748&channel-id=wasusyt$16M2160_华数
+#EXTINF:-1 tvg-id="华数4K" tvg-name="华数4K" tvg-logo="https://live.fanmingming.cn/tv/华数4K.png" group-title="4K频道",华数4K
+#EXTINF:-1 tvg-id="纯享4K" tvg-name="纯享4K" tvg-logo="https://live.fanmingming.cn/tv/纯享4K.png" group-title="4K频道",纯享4K
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=1000000004000011651&channel-id=ystenlive$20M2160_易视腾
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.cn/tv/CCTV16.png" group-title="4K频道",CCTV16 奥林匹克4K
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=5000000008000023254&channel-id=bestzb$12M2160HEVC_百视通
+#EXTINF:-1 tvg-id="欢笑剧场4K" tvg-name="欢笑剧场4K" tvg-logo="https://live.fanmingming.cn/tv/欢笑剧场.png" group-title="4K频道",SiTV欢笑剧场4K
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=5000000007000010001&channel-id=bestzb$12M2160HEVC_百视通
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=2000000004000000014&channel-id=hnbblive$15M2160_湖南bblive
+#EXTINF:-1 tvg-id="足球联赛" tvg-name="足球联赛" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频.png" group-title="4K频道",足球联赛咪咕4K
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=3000000010000005180&channel-id=FifastbLive$20M2160_咪视通
+#EXTINF:-1 tvg-id="移动云" tvg-name="移动云" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频.png" group-title="4K频道",移动云4K
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=3000000010000015686&channel-id=FifastbLive$20M2160_咪视通
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="央视频道",CCTV1 综合
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=6000000001000029752&channel-id=wasusyt$8M1080_华数
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="央视频道",CCTV1 综合
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=1000000001000018602&channel-id=ystenlive$8M1080_易视腾
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="央视频道",CCTV1 综合
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=5000000004000002226&channel-id=bestzb$7.5M1080_百视通
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="央视频道",CCTV1 综合
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=1000000005000265001&channel-id=ystenlive$5.5M1080HEVC_易视腾
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="央视频道",CCTV1 综合
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=5000000010000030810&channel-id=bestzb$4M1080_百视通
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="央视频道",CCTV1 综合
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=1000000001000021973&channel-id=ystenlive$4M1080_易视腾
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://live.fanmingming.cn/tv/CCTV2.png" group-title="央视频道",CCTV2 财经
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=6000000001000014161&channel-id=wasusyt$8M1080_华数
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://live.fanmingming.cn/tv/CCTV2.png" group-title="央视频道",CCTV2 财经
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=1000000001000023315&channel-id=ystenlive$8M1080_易视腾
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://live.fanmingming.cn/tv/CCTV2.png" group-title="央视频道",CCTV2 财经
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=5000000011000031101&channel-id=bestzb$6.8M1080_百视通
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://live.fanmingming.cn/tv/CCTV2.png" group-title="央视频道",CCTV2 财经
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=1000000005000265002&channel-id=ystenlive$5.5M1080HEVC_易视腾
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://live.fanmingming.cn/tv/CCTV2.png" group-title="央视频道",CCTV2 财经
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=1000000001000012442&channel-id=ystenlive$4M1080_易视腾
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://live.fanmingming.cn/tv/CCTV3.png" group-title="央视频道",CCTV3 综艺
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=6000000001000022313&channel-id=wasusyt$8M1080_华数
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://live.fanmingming.cn/tv/CCTV3.png" group-title="央视频道",CCTV3 综艺
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=1000000001000013682&channel-id=ystenlive$8M1080_易视腾
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://live.fanmingming.cn/tv/CCTV3.png" group-title="央视频道",CCTV3 综艺
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=5000000004000008883&channel-id=bestzb$6.8M1080_百视通
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://live.fanmingming.cn/tv/CCTV3.png" group-title="央视频道",CCTV3 综艺
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=1000000005000265003&channel-id=ystenlive$5.5M1080HEVC_易视腾
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://live.fanmingming.cn/tv/CCTV3.png" group-title="央视频道",CCTV3 综艺
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=5000000002000020548&channel-id=bestzb$4M1080_百视通
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://live.fanmingming.cn/tv/CCTV3.png" group-title="央视频道",CCTV3 综艺
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=1000000001000011218&channel-id=ystenlive$4M1080_易视腾
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://live.fanmingming.cn/tv/CCTV4.png" group-title="央视频道",CCTV4 中文国际
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=5000000011000031102&channel-id=bestzb$6.8M1080_百视通
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://live.fanmingming.cn/tv/CCTV4.png" group-title="央视频道",CCTV4 中文国际
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=1000000005000265004&channel-id=ystenlive$5.5M1080HEVC_易视腾
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://live.fanmingming.cn/tv/CCTV4.png" group-title="央视频道",CCTV4 中文国际
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=1000000002000031664&channel-id=ystenlive$4M1080_易视腾
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://live.fanmingming.cn/tv/CCTV4.png" group-title="央视频道",CCTV4 中文国际
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=5000000005000030093&channel-id=bestzb$4M720_百视通
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://live.fanmingming.cn/tv/CCTV5.png" group-title="央视频道",CCTV5 体育
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=1000000005000025222&channel-id=ystenlive$12M1080_易视腾
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://live.fanmingming.cn/tv/CCTV5.png" group-title="央视频道",CCTV5 体育
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=6000000001000016431&channel-id=wasusyt$8M1080_华数
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://live.fanmingming.cn/tv/CCTV5.png" group-title="央视频道",CCTV5 体育
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=1000000003000030177&channel-id=ystenlive$8M1080_易视腾
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://live.fanmingming.cn/tv/CCTV5.png" group-title="央视频道",CCTV5 体育
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=5000000004000008885&channel-id=bestzb$6.8M1080_百视通
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://live.fanmingming.cn/tv/CCTV5.png" group-title="央视频道",CCTV5 体育
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=1000000005000265005&channel-id=ystenlive$5.5M1080HEVC_易视腾
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://live.fanmingming.cn/tv/CCTV5.png" group-title="央视频道",CCTV5 体育
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=5000000010000016619&channel-id=bestzb$4M1080_百视通
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://live.fanmingming.cn/tv/CCTV5.png" group-title="央视频道",CCTV5 体育
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=1000000001000004794&channel-id=ystenlive$4M1080_易视腾
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.cn/tv/CCTV5+.png" group-title="央视频道",CCTV5+ 体育赛事
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=6000000001000015875&channel-id=wasusyt$8M1080_华数
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.cn/tv/CCTV5+.png" group-title="央视频道",CCTV5+ 体育赛事
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=1000000001000018504&channel-id=ystenlive$8M1080_易视腾
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.cn/tv/CCTV5+.png" group-title="央视频道",CCTV5+ 体育赛事
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=5000000011000031127&channel-id=bestzb$6.8M1080_百视通
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.cn/tv/CCTV5+.png" group-title="央视频道",CCTV5+ 体育赛事
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=1000000005000265016&channel-id=ystenlive$5.5M1080HEVC_易视腾
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.cn/tv/CCTV5+.png" group-title="央视频道",CCTV5+ 体育赛事
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=1000000001000020505&channel-id=ystenlive$4M1080_易视腾
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://live.fanmingming.cn/tv/CCTV6.png" group-title="央视频道",CCTV6 电影
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=6000000001000004574&channel-id=wasusyt$8M1080_华数
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://live.fanmingming.cn/tv/CCTV6.png" group-title="央视频道",CCTV6 电影
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=1000000001000001737&channel-id=ystenlive$8M1080_易视腾
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://live.fanmingming.cn/tv/CCTV6.png" group-title="央视频道",CCTV6 电影
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=5000000004000008886&channel-id=bestzb$6.8M1080_百视通
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://live.fanmingming.cn/tv/CCTV6.png" group-title="央视频道",CCTV6 电影
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=1000000005000265006&channel-id=ystenlive$5.5M1080HEVC_易视腾
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://live.fanmingming.cn/tv/CCTV6.png" group-title="央视频道",CCTV6 电影
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=5000000010000018433&channel-id=bestzb$4M1080_百视通
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://live.fanmingming.cn/tv/CCTV6.png" group-title="央视频道",CCTV6 电影
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=1000000001000016466&channel-id=ystenlive$4M1080_易视腾
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://live.fanmingming.cn/tv/CCTV7.png" group-title="央视频道",CCTV7 国防军事
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=6000000001000009055&channel-id=wasusyt$8M1080_华数
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://live.fanmingming.cn/tv/CCTV7.png" group-title="央视频道",CCTV7 国防军事
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=1000000001000024341&channel-id=ystenlive$8M1080_易视腾
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://live.fanmingming.cn/tv/CCTV7.png" group-title="央视频道",CCTV7 国防军事
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=5000000011000031104&channel-id=bestzb$6.8M1080_百视通
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://live.fanmingming.cn/tv/CCTV7.png" group-title="央视频道",CCTV7 国防军事
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=1000000005000265007&channel-id=ystenlive$5.5M1080HEVC_易视腾
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://live.fanmingming.cn/tv/CCTV7.png" group-title="央视频道",CCTV7 国防军事
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=1000000001000017218&channel-id=ystenlive$4M1080_易视腾
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://live.fanmingming.cn/tv/CCTV7.png" group-title="央视频道",CCTV7 国防军事
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=5000000005000026715&channel-id=bestzb$4M720_百视通
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://live.fanmingming.cn/tv/CCTV8.png" group-title="央视频道",CCTV8 电视剧
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=6000000001000001070&channel-id=wasusyt$8M1080_华数
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://live.fanmingming.cn/tv/CCTV8.png" group-title="央视频道",CCTV8 电视剧
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=1000000001000031433&channel-id=ystenlive$8M1080_易视腾
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://live.fanmingming.cn/tv/CCTV8.png" group-title="央视频道",CCTV8 电视剧
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=5000000004000008888&channel-id=bestzb$6.8M1080_百视通
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://live.fanmingming.cn/tv/CCTV8.png" group-title="央视频道",CCTV8 电视剧
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=1000000005000265008&channel-id=ystenlive$5.5M1080HEVC_易视腾
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://live.fanmingming.cn/tv/CCTV8.png" group-title="央视频道",CCTV8 电视剧
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=5000000010000018377&channel-id=bestzb$4M1080_百视通
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://live.fanmingming.cn/tv/CCTV8.png" group-title="央视频道",CCTV8 电视剧
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=1000000001000003736&channel-id=ystenlive$4M1080_易视腾
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://live.fanmingming.cn/tv/CCTV9.png" group-title="央视频道",CCTV9 记录
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=6000000001000032162&channel-id=wasusyt$8M1080_华数
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://live.fanmingming.cn/tv/CCTV9.png" group-title="央视频道",CCTV9 记录
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=1000000001000014583&channel-id=ystenlive$8M1080_易视腾
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://live.fanmingming.cn/tv/CCTV9.png" group-title="央视频道",CCTV9 记录
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=1000000005000265009&channel-id=ystenlive$5.5M1080HEVC_易视腾
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://live.fanmingming.cn/tv/CCTV9.png" group-title="央视频道",CCTV9 记录
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=5000000010000018384&channel-id=bestzb$4M1080_百视通
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://live.fanmingming.cn/tv/CCTV9.png" group-title="央视频道",CCTV9 记录
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=1000000001000028286&channel-id=ystenlive$4M1080_易视腾
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://live.fanmingming.cn/tv/CCTV10.png" group-title="央视频道",CCTV10 科教
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=5000000004000012827&channel-id=bestzb$8M1080_百视通
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://live.fanmingming.cn/tv/CCTV10.png" group-title="央视频道",CCTV10 科教
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=6000000001000031506&channel-id=wasusyt$8M1080_华数
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://live.fanmingming.cn/tv/CCTV10.png" group-title="央视频道",CCTV10 科教
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=1000000001000023734&channel-id=ystenlive$8M1080_易视腾
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://live.fanmingming.cn/tv/CCTV10.png" group-title="央视频道",CCTV10 科教
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=1000000005000265010&channel-id=ystenlive$5.5M1080HEVC_易视腾
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://live.fanmingming.cn/tv/CCTV10.png" group-title="央视频道",CCTV10 科教
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=5000000010000016738&channel-id=bestzb$4M1080_百视通
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://live.fanmingming.cn/tv/CCTV10.png" group-title="央视频道",CCTV10 科教
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=1000000001000026367&channel-id=ystenlive$4M1080_易视腾
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://live.fanmingming.cn/tv/CCTV11.png" group-title="央视频道",CCTV11 戏曲
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=5000000011000031106&channel-id=bestzb$6.8M1080_百视通
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://live.fanmingming.cn/tv/CCTV11.png" group-title="央视频道",CCTV11 戏曲
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=1000000005000265011&channel-id=ystenlive$5.5M1080HEVC_易视腾
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://live.fanmingming.cn/tv/CCTV11.png" group-title="央视频道",CCTV11 戏曲
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=5000000006000040011&channel-id=bestzb$4M1080_百视通
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://live.fanmingming.cn/tv/CCTV11.png" group-title="央视频道",CCTV11 戏曲
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=1000000002000019789&channel-id=ystenlive$4M1080_易视腾
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://live.fanmingming.cn/tv/CCTV12.png" group-title="央视频道",CCTV12 社会与法
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=6000000001000022586&channel-id=wasusyt$8M1080_华数
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://live.fanmingming.cn/tv/CCTV12.png" group-title="央视频道",CCTV12 社会与法
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=1000000001000032494&channel-id=ystenlive$8M1080_易视腾
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://live.fanmingming.cn/tv/CCTV12.png" group-title="央视频道",CCTV12 社会与法
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=5000000011000031107&channel-id=bestzb$6.8M1080_百视通
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://live.fanmingming.cn/tv/CCTV12.png" group-title="央视频道",CCTV12 社会与法
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=1000000005000265012&channel-id=ystenlive$5.5M1080HEVC_易视腾
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://live.fanmingming.cn/tv/CCTV12.png" group-title="央视频道",CCTV12 社会与法
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=1000000001000001640&channel-id=ystenlive$4M1080_易视腾
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://live.fanmingming.cn/tv/CCTV12.png" group-title="央视频道",CCTV12 社会与法
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=5000000006000040012&channel-id=bestzb$4M540_百视通
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://live.fanmingming.cn/tv/CCTV13.png" group-title="央视频道",CCTV13 新闻
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=5000000011000031108&channel-id=bestzb$6.8M1080_百视通
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://live.fanmingming.cn/tv/CCTV13.png" group-title="央视频道",CCTV13 新闻
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=5000000005000001827&channel-id=bestzb$4M1080_百视通
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://live.fanmingming.cn/tv/CCTV13.png" group-title="央视频道",CCTV13 新闻
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=1000000002000021303&channel-id=ystenlive$4M1080_易视腾
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://live.fanmingming.cn/tv/CCTV14.png" group-title="央视频道",CCTV14 少儿
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=5000000004000006673&channel-id=bestzb$8M1080_百视通
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://live.fanmingming.cn/tv/CCTV14.png" group-title="央视频道",CCTV14 少儿
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=6000000001000013647&channel-id=wasusyt$8M1080_华数
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://live.fanmingming.cn/tv/CCTV14.png" group-title="央视频道",CCTV14 少儿
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=1000000001000008170&channel-id=ystenlive$8M1080_易视腾
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://live.fanmingming.cn/tv/CCTV14.png" group-title="央视频道",CCTV14 少儿
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=1000000005000265013&channel-id=ystenlive$5.5M1080HEVC_易视腾
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://live.fanmingming.cn/tv/CCTV14.png" group-title="央视频道",CCTV14 少儿
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=5000000010000023358&channel-id=bestzb$4M1080_百视通
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://live.fanmingming.cn/tv/CCTV14.png" group-title="央视频道",CCTV14 少儿
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=1000000001000021349&channel-id=ystenlive$4M1080_易视腾
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://live.fanmingming.cn/tv/CCTV15.png" group-title="央视频道",CCTV15 音乐
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=5000000011000031109&channel-id=bestzb$6.8M1080_百视通
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://live.fanmingming.cn/tv/CCTV15.png" group-title="央视频道",CCTV15 音乐
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=1000000005000265014&channel-id=ystenlive$5.5M1080HEVC_易视腾
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://live.fanmingming.cn/tv/CCTV15.png" group-title="央视频道",CCTV15 音乐
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=1000000002000008163&channel-id=ystenlive$4M1080_易视腾
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.cn/tv/CCTV16.png" group-title="央视频道",CCTV16 奥林匹克
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=1000000006000233002&channel-id=ystenlive$8M1080_易视腾
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.cn/tv/CCTV16.png" group-title="央视频道",CCTV16 奥林匹克
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=5000000008000023253&channel-id=bestzb$6.8M1080_百视通
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.cn/tv/CCTV16.png" group-title="央视频道",CCTV16 奥林匹克
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=1000000006000233001&channel-id=ystenlive$4M1080_易视腾
+#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://live.fanmingming.cn/tv/CCTV17.png" group-title="央视频道",CCTV17 农业农村
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=1000000006000268004&channel-id=ystenlive$8M1080_易视腾
+#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://live.fanmingming.cn/tv/CCTV17.png" group-title="央视频道",CCTV17 农业农村
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=1000000005000265015&channel-id=ystenlive$5.5M1080HEVC_易视腾
+#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://live.fanmingming.cn/tv/CCTV17.png" group-title="央视频道",CCTV17 农业农村
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=1000000005000056836&channel-id=ystenlive$4M1080_易视腾
+#EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://live.fanmingming.cn/tv/安徽卫视.png" group-title="卫视频道",安徽卫视
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=6000000001000009954&channel-id=wasusyt$8M1080_华数
+#EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://live.fanmingming.cn/tv/安徽卫视.png" group-title="卫视频道",安徽卫视
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=1000000001000030159&channel-id=ystenlive$8M1080_易视腾
+#EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://live.fanmingming.cn/tv/安徽卫视.png" group-title="卫视频道",安徽卫视
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=5000000004000023002&channel-id=bestzb$7.5M1080_百视通
+#EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://live.fanmingming.cn/tv/安徽卫视.png" group-title="卫视频道",安徽卫视
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=1000000005000265025&channel-id=ystenlive$5.5M1080HEVC_易视腾
+#EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://live.fanmingming.cn/tv/安徽卫视.png" group-title="卫视频道",安徽卫视
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=5000000001000027288&channel-id=bestzb$4M1080_百视通
+#EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://live.fanmingming.cn/tv/安徽卫视.png" group-title="卫视频道",安徽卫视
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=1000000001000020780&channel-id=ystenlive$4M1080_易视腾
+#EXTINF:-1 tvg-id="纪实科教" tvg-name="纪实科教" tvg-logo="https://live.fanmingming.cn/tv/北京纪实科教.png" group-title="卫视频道",北京纪实科教
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=1000000001000001910&channel-id=ystenlive$8M1080_易视腾
+#EXTINF:-1 tvg-id="纪实科教" tvg-name="纪实科教" tvg-logo="https://live.fanmingming.cn/tv/北京纪实科教.png" group-title="卫视频道",北京纪实科教
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=5000000011000031204&channel-id=bestzb$6.8M1080_百视通
+#EXTINF:-1 tvg-id="纪实科教" tvg-name="纪实科教" tvg-logo="https://live.fanmingming.cn/tv/北京纪实科教.png" group-title="卫视频道",北京纪实科教
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=2000000002000000065&channel-id=hnbblive$6.8M1080_湖南bblive
+#EXTINF:-1 tvg-id="纪实科教" tvg-name="纪实科教" tvg-logo="https://live.fanmingming.cn/tv/北京纪实科教.png" group-title="卫视频道",北京纪实科教
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=1000000005000265020&channel-id=ystenlive$5.5M1080HEVC_易视腾
+#EXTINF:-1 tvg-id="纪实科教" tvg-name="纪实科教" tvg-logo="https://live.fanmingming.cn/tv/北京纪实科教.png" group-title="卫视频道",北京纪实科教
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=2000000003000000026&channel-id=hnbblive$4M1080_湖南bblive
+#EXTINF:-1 tvg-id="纪实科教" tvg-name="纪实科教" tvg-logo="https://live.fanmingming.cn/tv/北京纪实科教.png" group-title="卫视频道",北京纪实科教
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=1000000001000028380&channel-id=ystenlive$4M1080_易视腾
+#EXTINF:-1 tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://live.fanmingming.cn/tv/卡酷少儿.png" group-title="卫视频道",北京卡酷少儿
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=7851974109718180595&channel-id=bestzb$6.8M1080_百视通
+#EXTINF:-1 tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://live.fanmingming.cn/tv/卡酷少儿.png" group-title="卫视频道",北京卡酷少儿
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=1000000002000002413&channel-id=ystenlive$4M576_易视腾
+#EXTINF:-1 tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://live.fanmingming.cn/tv/卡酷少儿.png" group-title="卫视频道",北京卡酷少儿
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=6000000003000002709&channel-id=wasusyt$1.8M576_华数
+#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://live.fanmingming.cn/tv/北京卫视.png" group-title="卫视频道",北京卫视
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=6000000001000020451&channel-id=wasusyt$8M1080_华数
+#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://live.fanmingming.cn/tv/北京卫视.png" group-title="卫视频道",北京卫视
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=1000000001000021288&channel-id=ystenlive$8M1080_易视腾
+#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://live.fanmingming.cn/tv/北京卫视.png" group-title="卫视频道",北京卫视
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=5000000004000031556&channel-id=bestzb$7.5M1080_百视通
+#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://live.fanmingming.cn/tv/北京卫视.png" group-title="卫视频道",北京卫视
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=1000000005000265027&channel-id=ystenlive$5.5M1080HEVC_易视腾
+#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://live.fanmingming.cn/tv/北京卫视.png" group-title="卫视频道",北京卫视
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=5000000010000011502&channel-id=bestzb$4M1080_百视通
+#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://live.fanmingming.cn/tv/北京卫视.png" group-title="卫视频道",北京卫视
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=1000000001000017156&channel-id=ystenlive$4M1080_易视腾
+#EXTINF:-1 tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="https://live.fanmingming.cn/tv/兵团卫视.png" group-title="卫视频道",兵团卫视
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=1000000005000266005&channel-id=ystenlive$4M576_易视腾
+#EXTINF:-1 tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="https://live.fanmingming.cn/tv/兵团卫视.png" group-title="卫视频道",兵团卫视
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=5000000006000040020&channel-id=bestzb$4M540_百视通
+#EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://live.fanmingming.cn/tv/东南卫视.png" group-title="卫视频道",福建东南卫视
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=5000000004000010584&channel-id=bestzb$8M1080_百视通
+#EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://live.fanmingming.cn/tv/东南卫视.png" group-title="卫视频道",福建东南卫视
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=1000000005000265033&channel-id=ystenlive$5.5M1080HEVC_易视腾
+#EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://live.fanmingming.cn/tv/东南卫视.png" group-title="卫视频道",福建东南卫视
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=5000000001000005829&channel-id=bestzb$4M1080_百视通
+#EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://live.fanmingming.cn/tv/东南卫视.png" group-title="卫视频道",福建东南卫视
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=1000000002000009263&channel-id=ystenlive$4M1080_易视腾
+#EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://live.fanmingming.cn/tv/甘肃卫视.png" group-title="卫视频道",甘肃卫视
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=5000000011000031121&channel-id=bestzb$6.8M1080_百视通
+#EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://live.fanmingming.cn/tv/甘肃卫视.png" group-title="卫视频道",甘肃卫视
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=1000000002000017827&channel-id=ystenlive$4M1080_易视腾
+#EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://live.fanmingming.cn/tv/甘肃卫视.png" group-title="卫视频道",甘肃卫视
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=5000000006000040021&channel-id=bestzb$4M540_百视通
+#EXTINF:-1 tvg-id="大湾区卫视" tvg-name="大湾区卫视" tvg-logo="https://live.fanmingming.cn/tv/大湾区卫视.png" group-title="卫视频道",广东大湾区卫视
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=2000000003000000045&channel-id=hnbblive$4M576_湖南bblive
+#EXTINF:-1 tvg-id="大湾区卫视" tvg-name="大湾区卫视" tvg-logo="https://live.fanmingming.cn/tv/大湾区卫视.png" group-title="卫视频道",广东大湾区卫视
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=1000000002000011619&channel-id=ystenlive$4M576_易视腾
+#EXTINF:-1 tvg-id="嘉佳卡通" tvg-name="嘉佳卡通" tvg-logo="https://live.fanmingming.cn/tv/嘉佳卡通.png" group-title="卫视频道",广东嘉佳卡通
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=1000000002000025964&channel-id=ystenlive$4M576_易视腾
+#EXTINF:-1 tvg-id="嘉佳卡通" tvg-name="嘉佳卡通" tvg-logo="https://live.fanmingming.cn/tv/嘉佳卡通.png" group-title="卫视频道",广东嘉佳卡通
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=6000000003000025508&channel-id=wasusyt$1.8M576_华数
+#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://live.fanmingming.cn/tv/广东卫视.png" group-title="卫视频道",广东卫视
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=5000000004000014694&channel-id=bestzb$8M1080_百视通
+#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://live.fanmingming.cn/tv/广东卫视.png" group-title="卫视频道",广东卫视
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=6000000001000031076&channel-id=wasusyt$8M1080_华数
+#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://live.fanmingming.cn/tv/广东卫视.png" group-title="卫视频道",广东卫视
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=1000000001000014176&channel-id=ystenlive$8M1080_易视腾
+#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://live.fanmingming.cn/tv/广东卫视.png" group-title="卫视频道",广东卫视
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=1000000005000265034&channel-id=ystenlive$5.5M1080HEVC_易视腾
+#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://live.fanmingming.cn/tv/广东卫视.png" group-title="卫视频道",广东卫视
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=5000000010000030417&channel-id=bestzb$4M1080_百视通
+#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://live.fanmingming.cn/tv/广东卫视.png" group-title="卫视频道",广东卫视
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=1000000001000028357&channel-id=ystenlive$4M1080_易视腾
+#EXTINF:-1 tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://live.fanmingming.cn/tv/广东珠江.png" group-title="卫视频道",广东珠江
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=2000000003000000033&channel-id=hnbblive$2.5M720_湖南bblive
+#EXTINF:-1 tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://live.fanmingming.cn/tv/广东珠江.png" group-title="卫视频道",广东珠江
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=1000000004000011655&channel-id=ystenlive$2.5M720_易视腾
+#EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://live.fanmingming.cn/tv/广西卫视.png" group-title="卫视频道",广西卫视
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=5000000011000031118&channel-id=bestzb$6.8M1080_百视通
+#EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://live.fanmingming.cn/tv/广西卫视.png" group-title="卫视频道",广西卫视
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=1000000002000019837&channel-id=ystenlive$4M1080_易视腾
+#EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://live.fanmingming.cn/tv/广西卫视.png" group-title="卫视频道",广西卫视
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=5000000006000040014&channel-id=bestzb$4M540_百视通
+#EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://live.fanmingming.cn/tv/贵州卫视.png" group-title="卫视频道",贵州卫视
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=5000000004000025843&channel-id=bestzb$8M1080_百视通
+#EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://live.fanmingming.cn/tv/贵州卫视.png" group-title="卫视频道",贵州卫视
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=1000000002000003169&channel-id=ystenlive$4M1080_易视腾
+#EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://live.fanmingming.cn/tv/海南卫视.png" group-title="卫视频道",海南卫视
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=5000000004000006211&channel-id=bestzb$8M1080_百视通
+#EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://live.fanmingming.cn/tv/海南卫视.png" group-title="卫视频道",海南卫视
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=1000000002000023773&channel-id=ystenlive$4M1080_易视腾
+#EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://live.fanmingming.cn/tv/河北卫视.png" group-title="卫视频道",河北卫视
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=5000000006000040016&channel-id=bestzb$8M1080_百视通
+#EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://live.fanmingming.cn/tv/河北卫视.png" group-title="卫视频道",河北卫视
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=1000000002000017118&channel-id=ystenlive$4M1080_易视腾
+#EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://live.fanmingming.cn/tv/河南卫视.png" group-title="卫视频道",河南卫视
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=5000000011000031119&channel-id=bestzb$6.8M1080_百视通
+#EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://live.fanmingming.cn/tv/河南卫视.png" group-title="卫视频道",河南卫视
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=1000000002000027731&channel-id=ystenlive$4M1080_易视腾
+#EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://live.fanmingming.cn/tv/河南卫视.png" group-title="卫视频道",河南卫视
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=5000000005000017925&channel-id=bestzb$4M720_百视通
+#EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://live.fanmingming.cn/tv/黑龙江卫视.png" group-title="卫视频道",黑龙江卫视
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=6000000001000016510&channel-id=wasusyt$8M1080_华数
+#EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://live.fanmingming.cn/tv/黑龙江卫视.png" group-title="卫视频道",黑龙江卫视
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=1000000001000001925&channel-id=ystenlive$8M1080_易视腾
+#EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://live.fanmingming.cn/tv/黑龙江卫视.png" group-title="卫视频道",黑龙江卫视
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=5000000004000025203&channel-id=bestzb$6.8M1080_百视通
+#EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://live.fanmingming.cn/tv/黑龙江卫视.png" group-title="卫视频道",黑龙江卫视
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=1000000005000265029&channel-id=ystenlive$5.5M1080HEVC_易视腾
+#EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://live.fanmingming.cn/tv/黑龙江卫视.png" group-title="卫视频道",黑龙江卫视
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=5000000010000031107&channel-id=bestzb$4M1080_百视通
+#EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://live.fanmingming.cn/tv/黑龙江卫视.png" group-title="卫视频道",黑龙江卫视
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=1000000001000009082&channel-id=ystenlive$4M1080_易视腾
+#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://live.fanmingming.cn/tv/湖北卫视.png" group-title="卫视频道",湖北卫视
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=6000000001000015436&channel-id=wasusyt$8M1080_华数
+#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://live.fanmingming.cn/tv/湖北卫视.png" group-title="卫视频道",湖北卫视
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=1000000001000024621&channel-id=ystenlive$8M1080_易视腾
+#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://live.fanmingming.cn/tv/湖北卫视.png" group-title="卫视频道",湖北卫视
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=5000000004000014954&channel-id=bestzb$6.8M1080_百视通
+#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://live.fanmingming.cn/tv/湖北卫视.png" group-title="卫视频道",湖北卫视
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=1000000005000265023&channel-id=ystenlive$5.5M1080HEVC_易视腾
+#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://live.fanmingming.cn/tv/湖北卫视.png" group-title="卫视频道",湖北卫视
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=5000000010000022140&channel-id=bestzb$4M1080_百视通
+#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://live.fanmingming.cn/tv/湖北卫视.png" group-title="卫视频道",湖北卫视
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=1000000001000010355&channel-id=ystenlive$4M1080_易视腾
+#EXTINF:-1 tvg-id="茶频道" tvg-name="茶频道" tvg-logo="https://live.fanmingming.cn/tv/茶.png" group-title="卫视频道",湖南茶频道
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=5000000011000031209&channel-id=bestzb$6.8M1080_百视通
+#EXTINF:-1 tvg-id="茶频道" tvg-name="茶频道" tvg-logo="https://live.fanmingming.cn/tv/茶.png" group-title="卫视频道",湖南茶频道
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=2000000002000000070&channel-id=hnbblive$6.8M1080_湖南bblive
+#EXTINF:-1 tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://live.fanmingming.cn/tv/金鹰纪实.png" group-title="卫视频道",湖南金鹰纪实
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=5000000011000031203&channel-id=bestzb$6.8M1080_百视通
+#EXTINF:-1 tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://live.fanmingming.cn/tv/金鹰纪实.png" group-title="卫视频道",湖南金鹰纪实
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=1000000002000011724&channel-id=ystenlive$4M576_易视腾
+#EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://live.fanmingming.cn/tv/金鹰卡通.png" group-title="卫视频道",湖南金鹰卡通
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=1000000002000016601&channel-id=ystenlive$4M576_易视腾
+#EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://live.fanmingming.cn/tv/金鹰卡通.png" group-title="卫视频道",湖南金鹰卡通
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=5000000006000040024&channel-id=bestzb$4M540_百视通
+#EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://live.fanmingming.cn/tv/金鹰卡通.png" group-title="卫视频道",湖南金鹰卡通
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=6000000003000016791&channel-id=wasusyt$1.8M576_华数
+#EXTINF:-1 tvg-id="快乐垂钓" tvg-name="快乐垂钓" tvg-logo="https://live.fanmingming.cn/tv/快乐垂钓.png" group-title="卫视频道",湖南快乐垂钓
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=5000000011000031206&channel-id=bestzb$6.8M1080_百视通
+#EXTINF:-1 tvg-id="快乐垂钓" tvg-name="快乐垂钓" tvg-logo="https://live.fanmingming.cn/tv/快乐垂钓.png" group-title="卫视频道",湖南快乐垂钓
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=2000000002000000067&channel-id=hnbblive$6.8M1080_湖南bblive
+#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.cn/tv/湖南卫视.png" group-title="卫视频道",湖南卫视
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=5000000004000006692&channel-id=bestzb$8M1080_百视通
+#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.cn/tv/湖南卫视.png" group-title="卫视频道",湖南卫视
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=6000000001000018044&channel-id=wasusyt$8M1080_华数
+#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.cn/tv/湖南卫视.png" group-title="卫视频道",湖南卫视
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=1000000001000032695&channel-id=ystenlive$8M1080_易视腾
+#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.cn/tv/湖南卫视.png" group-title="卫视频道",湖南卫视
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=1000000005000265024&channel-id=ystenlive$5.5M1080HEVC_易视腾
+#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.cn/tv/湖南卫视.png" group-title="卫视频道",湖南卫视
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=5000000010000030452&channel-id=bestzb$4M1080_百视通
+#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.cn/tv/湖南卫视.png" group-title="卫视频道",湖南卫视
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=1000000001000009115&channel-id=ystenlive$4M1080_易视腾
+#EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://live.fanmingming.cn/tv/吉林卫视.png" group-title="卫视频道",吉林卫视
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=5000000011000031117&channel-id=bestzb$6.8M1080_百视通
+#EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://live.fanmingming.cn/tv/吉林卫视.png" group-title="卫视频道",吉林卫视
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=1000000002000027730&channel-id=ystenlive$4M1080_易视腾
+#EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://live.fanmingming.cn/tv/吉林卫视.png" group-title="卫视频道",吉林卫视
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=5000000006000040013&channel-id=bestzb$4M540_百视通
+#EXTINF:-1 tvg-id="延边卫视" tvg-name="延边卫视" tvg-logo="https://live.fanmingming.cn/tv/延边卫视.png" group-title="卫视频道",吉林延边卫视
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=2000000003000000049&channel-id=hnbblive$4M576_湖南bblive
+#EXTINF:-1 tvg-id="延边卫视" tvg-name="延边卫视" tvg-logo="https://live.fanmingming.cn/tv/延边卫视.png" group-title="卫视频道",吉林延边卫视
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=1000000005000266008&channel-id=ystenlive$4M576_易视腾
+#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.cn/tv/江苏卫视.png" group-title="卫视频道",江苏卫视
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=6000000001000014861&channel-id=wasusyt$8M1080_华数
+#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.cn/tv/江苏卫视.png" group-title="卫视频道",江苏卫视
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=1000000001000001828&channel-id=ystenlive$8M1080_易视腾
+#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.cn/tv/江苏卫视.png" group-title="卫视频道",江苏卫视
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=5000000004000019351&channel-id=bestzb$7.5M1080_百视通
+#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.cn/tv/江苏卫视.png" group-title="卫视频道",江苏卫视
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=1000000005000265030&channel-id=ystenlive$5.5M1080HEVC_易视腾
+#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.cn/tv/江苏卫视.png" group-title="卫视频道",江苏卫视
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=5000000010000018509&channel-id=bestzb$4M1080_百视通
+#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.cn/tv/江苏卫视.png" group-title="卫视频道",江苏卫视
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=1000000001000004684&channel-id=ystenlive$4M1080_易视腾
+#EXTINF:-1 tvg-id="优漫卡通" tvg-name="优漫卡通" tvg-logo="https://live.fanmingming.cn/tv/优漫卡通.png" group-title="卫视频道",江苏优漫卡通
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=1000000002000010063&channel-id=ystenlive$4M576_易视腾
+#EXTINF:-1 tvg-id="优漫卡通" tvg-name="优漫卡通" tvg-logo="https://live.fanmingming.cn/tv/优漫卡通.png" group-title="卫视频道",江苏优漫卡通
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=6000000003000030492&channel-id=wasusyt$1.8M576_华数
+#EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://live.fanmingming.cn/tv/江西卫视.png" group-title="卫视频道",江西卫视
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=1000000006000268001&channel-id=ystenlive$8M1080_易视腾
+#EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://live.fanmingming.cn/tv/江西卫视.png" group-title="卫视频道",江西卫视
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=5000000004000011210&channel-id=bestzb$6.8M1080_百视通
+#EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://live.fanmingming.cn/tv/江西卫视.png" group-title="卫视频道",江西卫视
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=1000000005000265032&channel-id=ystenlive$5.5M1080HEVC_易视腾
+#EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://live.fanmingming.cn/tv/江西卫视.png" group-title="卫视频道",江西卫视
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=5000000001000032154&channel-id=bestzb$4M1080_百视通
+#EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://live.fanmingming.cn/tv/江西卫视.png" group-title="卫视频道",江西卫视
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=1000000001000013731&channel-id=ystenlive$4M1080_易视腾
+#EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://live.fanmingming.cn/tv/辽宁卫视.png" group-title="卫视频道",辽宁卫视
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=5000000004000011671&channel-id=bestzb$8M1080_百视通
+#EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://live.fanmingming.cn/tv/辽宁卫视.png" group-title="卫视频道",辽宁卫视
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=1000000001000001945&channel-id=ystenlive$8M1080_易视腾
+#EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://live.fanmingming.cn/tv/辽宁卫视.png" group-title="卫视频道",辽宁卫视
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=1000000005000265022&channel-id=ystenlive$5.5M1080HEVC_易视腾
+#EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://live.fanmingming.cn/tv/辽宁卫视.png" group-title="卫视频道",辽宁卫视
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=5000000001000008940&channel-id=bestzb$4M1080_百视通
+#EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://live.fanmingming.cn/tv/辽宁卫视.png" group-title="卫视频道",辽宁卫视
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=1000000002000024033&channel-id=ystenlive$4M1080_易视腾
+#EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://live.fanmingming.cn/tv/内蒙古卫视.png" group-title="卫视频道",内蒙古卫视
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=1000000002000014080&channel-id=ystenlive$4M576_易视腾
+#EXTINF:-1 tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="https://live.fanmingming.cn/tv/宁夏卫视.png" group-title="卫视频道",宁夏卫视
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=1000000002000031451&channel-id=ystenlive$4M576_易视腾
+#EXTINF:-1 tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="https://live.fanmingming.cn/tv/宁夏卫视.png" group-title="卫视频道",宁夏卫视
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=5000000006000040022&channel-id=bestzb$4M540_百视通
+#EXTINF:-1 tvg-id="安多卫视" tvg-name="安多卫视" tvg-logo="https://live.fanmingming.cn/tv/安多卫视.png" group-title="卫视频道",青海安多卫视
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=1000000005000266001&channel-id=ystenlive$4M576_易视腾
+#EXTINF:-1 tvg-id="安多卫视" tvg-name="安多卫视" tvg-logo="https://live.fanmingming.cn/tv/安多卫视.png" group-title="卫视频道",青海安多卫视
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=5000000006000022124&channel-id=bestzb$2.5M576_百视通
+#EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://live.fanmingming.cn/tv/青海卫视.png" group-title="卫视频道",青海卫视
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=1000000002000013359&channel-id=ystenlive$4M1080_易视腾
+#EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://live.fanmingming.cn/tv/青海卫视.png" group-title="卫视频道",青海卫视
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=5000000006000040015&channel-id=bestzb$4M540_百视通
+#EXTINF:-1 tvg-id="厦门卫视" tvg-name="厦门卫视" tvg-logo="https://live.fanmingming.cn/tv/厦门卫视.png" group-title="卫视频道",厦门卫视
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=1000000005000266006&channel-id=ystenlive$4M576_易视腾
+#EXTINF:-1 tvg-id="山东教育" tvg-name="山东教育" tvg-logo="https://live.fanmingming.cn/tv/山东教育.png" group-title="卫视频道",山东教育卫视
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=1000000002000004097&channel-id=ystenlive$4M576_易视腾
+#EXTINF:-1 tvg-id="山东教育" tvg-name="山东教育" tvg-logo="https://live.fanmingming.cn/tv/山东教育.png" group-title="卫视频道",山东教育卫视
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=2000000003000000013&channel-id=hnbblive$1.5M576_湖南bblive
+#EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://live.fanmingming.cn/tv/山东卫视.png" group-title="卫视频道",山东卫视
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=6000000001000004134&channel-id=wasusyt$8M1080_华数
+#EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://live.fanmingming.cn/tv/山东卫视.png" group-title="卫视频道",山东卫视
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=1000000001000016568&channel-id=ystenlive$8M1080_易视腾
+#EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://live.fanmingming.cn/tv/山东卫视.png" group-title="卫视频道",山东卫视
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=5000000004000020424&channel-id=bestzb$6.8M1080_百视通
+#EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://live.fanmingming.cn/tv/山东卫视.png" group-title="卫视频道",山东卫视
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=1000000005000265019&channel-id=ystenlive$5.5M1080HEVC_易视腾
+#EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://live.fanmingming.cn/tv/山东卫视.png" group-title="卫视频道",山东卫视
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=5000000010000027763&channel-id=bestzb$4M1080_百视通
+#EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://live.fanmingming.cn/tv/山东卫视.png" group-title="卫视频道",山东卫视
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=1000000001000012807&channel-id=ystenlive$4M1080_易视腾
+#EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="https://live.fanmingming.cn/tv/山西卫视.png" group-title="卫视频道",山西卫视
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=1000000002000021220&channel-id=ystenlive$4M576_易视腾
+#EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="https://live.fanmingming.cn/tv/山西卫视.png" group-title="卫视频道",山西卫视
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=5000000006000040023&channel-id=bestzb$4M540_百视通
+#EXTINF:-1 tvg-id="农林卫视" tvg-name="农林卫视" tvg-logo="https://live.fanmingming.cn/tv/农林卫视.png" group-title="卫视频道",陕西农林卫视
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=2000000003000000046&channel-id=hnbblive$4M576_湖南bblive
+#EXTINF:-1 tvg-id="农林卫视" tvg-name="农林卫视" tvg-logo="https://live.fanmingming.cn/tv/农林卫视.png" group-title="卫视频道",陕西农林卫视
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=1000000005000266003&channel-id=ystenlive$4M576_易视腾
+#EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://live.fanmingming.cn/tv/陕西卫视.png" group-title="卫视频道",陕西卫视
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=1000000002000007495&channel-id=ystenlive$4M576_易视腾
+#EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://live.fanmingming.cn/tv/陕西卫视.png" group-title="卫视频道",陕西卫视
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=5000000006000040017&channel-id=bestzb$4M540_百视通
+#EXTINF:-1 tvg-id="上海ICS外语" tvg-name="上海ICS外语" tvg-logo="https://live.fanmingming.cn/tv/上海外语.png" group-title="卫视频道",上海ICS外语
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=5000000010000030951&channel-id=bestzb$4M1080_百视通
+#EXTINF:-1 tvg-id="上海ICS外语" tvg-name="上海ICS外语" tvg-logo="https://live.fanmingming.cn/tv/上海外语.png" group-title="卫视频道",上海ICS外语
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=2000000002000000001&channel-id=hnbblive$2.5M720_湖南bblive
+#EXTINF:-1 tvg-id="第一财经" tvg-name="第一财经" tvg-logo="https://live.fanmingming.cn/tv/上海第一财经.png" group-title="卫视频道",上海第一财经
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=5000000010000027146&channel-id=bestzb$4M1080_百视通
+#EXTINF:-1 tvg-id="第一财经" tvg-name="第一财经" tvg-logo="https://live.fanmingming.cn/tv/上海第一财经.png" group-title="卫视频道",上海第一财经
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=2000000002000000004&channel-id=hnbblive$2.5M720_湖南bblive
+#EXTINF:-1 tvg-id="东方财经" tvg-name="东方财经" tvg-logo="https://live.fanmingming.cn/tv/东方财经.png" group-title="卫视频道",上海东方财经
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=5000000007000010003&channel-id=bestzb$6.8M1080_百视通
+#EXTINF:-1 tvg-id="东方财经" tvg-name="东方财经" tvg-logo="https://live.fanmingming.cn/tv/东方财经.png" group-title="卫视频道",上海东方财经
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=2000000002000000090&channel-id=hnbblive$6.8M1080_湖南bblive
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://live.fanmingming.cn/tv/东方卫视.png" group-title="卫视频道",上海东方卫视
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=5000000004000014098&channel-id=bestzb$8M1080_百视通
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://live.fanmingming.cn/tv/东方卫视.png" group-title="卫视频道",上海东方卫视
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=6000000001000003639&channel-id=wasusyt$8M1080_华数
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://live.fanmingming.cn/tv/东方卫视.png" group-title="卫视频道",上海东方卫视
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=1000000001000005866&channel-id=ystenlive$8M1080_易视腾
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://live.fanmingming.cn/tv/东方卫视.png" group-title="卫视频道",上海东方卫视
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=1000000005000265018&channel-id=ystenlive$5.5M1080HEVC_易视腾
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://live.fanmingming.cn/tv/东方卫视.png" group-title="卫视频道",上海东方卫视
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=5000000010000032246&channel-id=bestzb$4M1080_百视通
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://live.fanmingming.cn/tv/东方卫视.png" group-title="卫视频道",上海东方卫视
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=1000000001000030202&channel-id=ystenlive$4M1080_易视腾
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://live.fanmingming.cn/tv/东方卫视.png" group-title="卫视频道",上海东方卫视
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=2000000002000000056&channel-id=hnbblive$2M720_湖南bblive
+#EXTINF:-1 tvg-id="上海东方影视" tvg-name="上海东方影视" tvg-logo="https://live.fanmingming.cn/tv/东方影视.png" group-title="卫视频道",上海东方影视
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=5000000010000032212&channel-id=bestzb$4M1080_百视通
+#EXTINF:-1 tvg-id="上海东方影视" tvg-name="上海东方影视" tvg-logo="https://live.fanmingming.cn/tv/东方影视.png" group-title="卫视频道",上海东方影视
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=2000000002000000013&channel-id=hnbblive$2.5M720_湖南bblive
+#EXTINF:-1 tvg-id="上海都市" tvg-name="上海都市" tvg-logo="https://live.fanmingming.cn/tv/上海都市.png" group-title="卫视频道",上海都市
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=5000000010000018926&channel-id=bestzb$4M1080_百视通
+#EXTINF:-1 tvg-id="上海都市" tvg-name="上海都市" tvg-logo="https://live.fanmingming.cn/tv/上海都市.png" group-title="卫视频道",上海都市
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=2000000002000000012&channel-id=hnbblive$2.5M720_湖南bblive
+#EXTINF:-1 tvg-id="法治天地" tvg-name="法治天地" tvg-logo="https://live.fanmingming.cn/tv/法治天地.png" group-title="卫视频道",上海法治天地
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=2000000002000000014&channel-id=hnbblive$7M1080_湖南bblive
+#EXTINF:-1 tvg-id="哈哈炫动" tvg-name="哈哈炫动" tvg-logo="https://live.fanmingming.cn/tv/哈哈炫动.png" group-title="卫视频道",上海哈哈炫动
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=5000000011000031123&channel-id=bestzb$7M1080_百视通
+#EXTINF:-1 tvg-id="哈哈炫动" tvg-name="哈哈炫动" tvg-logo="https://live.fanmingming.cn/tv/哈哈炫动.png" group-title="卫视频道",上海哈哈炫动
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=5000000005000031641&channel-id=bestzb$4M1080_百视通
+#EXTINF:-1 tvg-id="哈哈炫动" tvg-name="哈哈炫动" tvg-logo="https://live.fanmingming.cn/tv/哈哈炫动.png" group-title="卫视频道",上海哈哈炫动
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=1000000002000000172&channel-id=ystenlive$4M576_易视腾
+#EXTINF:-1 tvg-id="纪实人文" tvg-name="纪实人文" tvg-logo="https://live.fanmingming.cn/tv/纪实人文.png" group-title="卫视频道",上海纪实人文
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=1000000001000016545&channel-id=ystenlive$8M1080_易视腾
+#EXTINF:-1 tvg-id="纪实人文" tvg-name="纪实人文" tvg-logo="https://live.fanmingming.cn/tv/纪实人文.png" group-title="卫视频道",上海纪实人文
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=5000000004000010282&channel-id=bestzb$7M1080_百视通
+#EXTINF:-1 tvg-id="纪实人文" tvg-name="纪实人文" tvg-logo="https://live.fanmingming.cn/tv/纪实人文.png" group-title="卫视频道",上海纪实人文
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=1000000005000265021&channel-id=ystenlive$5.5M1080HEVC_易视腾
+#EXTINF:-1 tvg-id="纪实人文" tvg-name="纪实人文" tvg-logo="https://live.fanmingming.cn/tv/纪实人文.png" group-title="卫视频道",上海纪实人文
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=5000000001000021713&channel-id=bestzb$4M1080_百视通
+#EXTINF:-1 tvg-id="纪实人文" tvg-name="纪实人文" tvg-logo="https://live.fanmingming.cn/tv/纪实人文.png" group-title="卫视频道",上海纪实人文
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=1000000001000010606&channel-id=ystenlive$4M1080_易视腾
+#EXTINF:-1 tvg-id="上海五星体育" tvg-name="上海五星体育" tvg-logo="https://live.fanmingming.cn/tv/五星体育.png" group-title="卫视频道",上海五星体育
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=5000000010000017540&channel-id=bestzb$4M1080_百视通
+#EXTINF:-1 tvg-id="上海五星体育" tvg-name="上海五星体育" tvg-logo="https://live.fanmingming.cn/tv/五星体育.png" group-title="卫视频道",上海五星体育
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=2000000002000000007&channel-id=hnbblive$2.5M720_湖南bblive
+#EXTINF:-1 tvg-id="上海新闻综合" tvg-name="上海新闻综合" tvg-logo="https://live.fanmingming.cn/tv/上海都市.png" group-title="卫视频道",上海新闻综合
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=5000000011000031110&channel-id=bestzb$7M1080_百视通
+#EXTINF:-1 tvg-id="上海新闻综合" tvg-name="上海新闻综合" tvg-logo="https://live.fanmingming.cn/tv/上海都市.png" group-title="卫视频道",上海新闻综合
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=2000000002000000005&channel-id=hnbblive$2.5M576_湖南bblive
+#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.cn/tv/深圳卫视.png" group-title="卫视频道",深圳卫视
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=5000000004000007410&channel-id=bestzb$8M1080_百视通
+#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.cn/tv/深圳卫视.png" group-title="卫视频道",深圳卫视
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=6000000001000002116&channel-id=wasusyt$8M1080_华数
+#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.cn/tv/深圳卫视.png" group-title="卫视频道",深圳卫视
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=1000000001000009227&channel-id=ystenlive$8M1080_易视腾
+#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.cn/tv/深圳卫视.png" group-title="卫视频道",深圳卫视
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=1000000005000265028&channel-id=ystenlive$5.5M1080HEVC_易视腾
+#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.cn/tv/深圳卫视.png" group-title="卫视频道",深圳卫视
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=5000000010000024026&channel-id=bestzb$4M1080_百视通
+#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.cn/tv/深圳卫视.png" group-title="卫视频道",深圳卫视
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=1000000001000011645&channel-id=ystenlive$4M1080_易视腾
+#EXTINF:-1 tvg-id="康巴卫视" tvg-name="康巴卫视" tvg-logo="https://live.fanmingming.cn/tv/康巴卫视.png" group-title="卫视频道",四川康巴卫视
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=1000000005000266002&channel-id=ystenlive$4M576_易视腾
+#EXTINF:-1 tvg-id="康巴卫视" tvg-name="康巴卫视" tvg-logo="https://live.fanmingming.cn/tv/康巴卫视.png" group-title="卫视频道",四川康巴卫视
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=5000000003000001598&channel-id=bestzb$2.5M576_百视通
+#EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://live.fanmingming.cn/tv/四川卫视.png" group-title="卫视频道",四川卫视
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=5000000004000006119&channel-id=bestzb$7.5M1080_百视通
+#EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://live.fanmingming.cn/tv/四川卫视.png" group-title="卫视频道",四川卫视
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=1000000002000016825&channel-id=ystenlive$4M1080_易视腾
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.cn/tv/IPTVEFEL.png" group-title="卫视频道",探索纪录
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=2000000004000000007&channel-id=hnbblive$2.5M720_湖南bblive
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.cn/tv/IPTVEFEL.png" group-title="卫视频道",探索纪录
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=5359008697329269813&channel-id=wasusyt$2.5M720_华数
+#EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://live.fanmingming.cn/tv/天津卫视.png" group-title="卫视频道",天津卫视
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=5000000004000006827&channel-id=bestzb$8M1080_百视通
+#EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://live.fanmingming.cn/tv/天津卫视.png" group-title="卫视频道",天津卫视
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=6000000001000009186&channel-id=wasusyt$8M1080_华数
+#EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://live.fanmingming.cn/tv/天津卫视.png" group-title="卫视频道",天津卫视
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=1000000001000003475&channel-id=ystenlive$8M1080_易视腾
+#EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://live.fanmingming.cn/tv/天津卫视.png" group-title="卫视频道",天津卫视
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=1000000005000265026&channel-id=ystenlive$5.5M1080HEVC_易视腾
+#EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://live.fanmingming.cn/tv/天津卫视.png" group-title="卫视频道",天津卫视
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=5000000001000030788&channel-id=bestzb$4M1080_百视通
+#EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://live.fanmingming.cn/tv/天津卫视.png" group-title="卫视频道",天津卫视
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=1000000001000000831&channel-id=ystenlive$4M1080_易视腾
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.cn/tv/IPTVEFEL.png" group-title="卫视频道",西藏藏语卫视
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=5000000002000021549&channel-id=bestzb$2.5M576_百视通
+#EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="https://live.fanmingming.cn/tv/西藏卫视.png" group-title="卫视频道",西藏卫视
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=1000000002000015894&channel-id=ystenlive$4M576_易视腾
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.cn/tv/IPTVEFEL.png" group-title="卫视频道",新海南
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=2000000003000000011&channel-id=hnbblive$2.5M720_湖南bblive
+#EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://live.fanmingming.cn/tv/新疆卫视.png" group-title="卫视频道",新疆卫视
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=1000000002000029441&channel-id=ystenlive$4M576_易视腾
+#EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://live.fanmingming.cn/tv/新疆卫视.png" group-title="卫视频道",新疆卫视
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=5000000006000040018&channel-id=bestzb$4M540_百视通
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.cn/tv/IPTVEFEL.png" group-title="卫视频道",炫动3D
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=2000000004000000012&channel-id=hnbblive$2.5M720_湖南bblive
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.cn/tv/IPTVEFEL.png" group-title="卫视频道",炫动3D
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=6000000003000000558&channel-id=wasusyt$2.5M720_华数
+#EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://live.fanmingming.cn/tv/云南卫视.png" group-title="卫视频道",云南卫视
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=5000000011000031120&channel-id=bestzb$6.8M1080_百视通
+#EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://live.fanmingming.cn/tv/云南卫视.png" group-title="卫视频道",云南卫视
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=1000000002000024694&channel-id=ystenlive$4M1080_易视腾
+#EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://live.fanmingming.cn/tv/云南卫视.png" group-title="卫视频道",云南卫视
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=5000000006000040019&channel-id=bestzb$4M540_百视通
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.cn/tv/IPTVEFEL.png" group-title="卫视频道",浙江教科影视
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=2000000004000000001&channel-id=hnbblive$1.8M576_湖南bblive
+#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.cn/tv/浙江卫视.png" group-title="卫视频道",浙江卫视
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=5000000004000007275&channel-id=bestzb$8M1080_百视通
+#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.cn/tv/浙江卫视.png" group-title="卫视频道",浙江卫视
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=6000000001000032070&channel-id=wasusyt$8M1080_华数
+#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.cn/tv/浙江卫视.png" group-title="卫视频道",浙江卫视
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=1000000001000014260&channel-id=ystenlive$8M1080_易视腾
+#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.cn/tv/浙江卫视.png" group-title="卫视频道",浙江卫视
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=1000000005000265031&channel-id=ystenlive$5.5M1080HEVC_易视腾
+#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.cn/tv/浙江卫视.png" group-title="卫视频道",浙江卫视
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=5000000010000017320&channel-id=bestzb$4M1080_百视通
+#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.cn/tv/浙江卫视.png" group-title="卫视频道",浙江卫视
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=1000000001000009806&channel-id=ystenlive$4M1080_易视腾
+#EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://live.fanmingming.cn/tv/重庆卫视.png" group-title="卫视频道",重庆卫视
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=1000000001000001096&channel-id=ystenlive$8M1080_易视腾
+#EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://live.fanmingming.cn/tv/重庆卫视.png" group-title="卫视频道",重庆卫视
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=5000000004000025797&channel-id=bestzb$6.8M1080_百视通
+#EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://live.fanmingming.cn/tv/重庆卫视.png" group-title="卫视频道",重庆卫视
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=1000000005000265017&channel-id=ystenlive$5.5M1080HEVC_易视腾
+#EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://live.fanmingming.cn/tv/重庆卫视.png" group-title="卫视频道",重庆卫视
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=1000000002000018937&channel-id=ystenlive$4M1080_易视腾
+#EXTINF:-1 tvg-id="CETV1" tvg-name="CETV1" tvg-logo="https://live.fanmingming.cn/tv/CETV1.png" group-title="卫视频道",中国教育1
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=5000000002000002652&channel-id=bestzb$4M1080_百视通
+#EXTINF:-1 tvg-id="CETV1" tvg-name="CETV1" tvg-logo="https://live.fanmingming.cn/tv/CETV1.png" group-title="卫视频道",中国教育1
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=1000000002000027253&channel-id=ystenlive$4M576_易视腾
+#EXTINF:-1 tvg-id="CETV1" tvg-name="CETV1" tvg-logo="https://live.fanmingming.cn/tv/CETV1.png" group-title="卫视频道",中国教育1
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=6000000003000018981&channel-id=wasusyt$1.8M576_华数
+#EXTINF:-1 tvg-id="CETV2" tvg-name="CETV2" tvg-logo="https://live.fanmingming.cn/tv/CETV2.png" group-title="卫视频道",中国教育2
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=2000000003000000047&channel-id=hnbblive$4M576_湖南bblive
+#EXTINF:-1 tvg-id="CETV2" tvg-name="CETV2" tvg-logo="https://live.fanmingming.cn/tv/CETV2.png" group-title="卫视频道",中国教育2
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=1000000005000266004&channel-id=ystenlive$4M576_易视腾
+#EXTINF:-1 tvg-id="CETV2" tvg-name="CETV2" tvg-logo="https://live.fanmingming.cn/tv/CETV2.png" group-title="卫视频道",中国教育2
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=5000000011000031201&channel-id=bestzb$2.5M576_百视通
+#EXTINF:-1 tvg-id="CETV4" tvg-name="CETV4" tvg-logo="https://live.fanmingming.cn/tv/CETV4.png" group-title="卫视频道",中国教育4
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=5000000011000031126&channel-id=bestzb$6.8M1080_百视通
+#EXTINF:-1 tvg-id="CETV4" tvg-name="CETV4" tvg-logo="https://live.fanmingming.cn/tv/CETV4.png" group-title="卫视频道",中国教育4
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=1000000005000025333&channel-id=ystenlive$4M576_易视腾
+#EXTINF:-1 tvg-id="CETV4" tvg-name="CETV4" tvg-logo="https://live.fanmingming.cn/tv/CETV4.png" group-title="卫视频道",中国教育4
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=5000000006000012123&channel-id=bestzb$2.5M576_百视通
+#EXTINF:-1 tvg-id="CETV4" tvg-name="CETV4" tvg-logo="https://live.fanmingming.cn/tv/CETV4.png" group-title="卫视频道",中国教育4
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=6000000005000042312&channel-id=wasusyt$1.8M576_华数
+#EXTINF:-1 tvg-id="中国天气" tvg-name="中国天气" tvg-logo="https://live.fanmingming.cn/tv/中国天气.png" group-title="卫视频道",中国天气
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=5000000005000031974&channel-id=bestzb$3.5M576_百视通
+#EXTINF:-1 tvg-id="中国天气" tvg-name="中国天气" tvg-logo="https://live.fanmingming.cn/tv/中国天气.png" group-title="卫视频道",中国天气
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=2000000002000000057&channel-id=hnbblive$3.5M540_湖南bblive
+#EXTINF:-1 tvg-id="中华美食" tvg-name="中华美食" tvg-logo="https://live.fanmingming.cn/tv/中华美食.png" group-title="卫视频道",中华美食
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=2000000003000000052&channel-id=hnbblive$4M576_湖南bblive
+#EXTINF:-1 tvg-id="中华美食" tvg-name="中华美食" tvg-logo="https://live.fanmingming.cn/tv/中华美食.png" group-title="卫视频道",中华美食
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=1000000005000266015&channel-id=ystenlive$4M576_易视腾
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.cn/tv/IPTVEFEL.png" group-title="卫视频道",少儿动漫
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=2000000004000000003&channel-id=hnbblive$2.5M720_湖南bblive
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.cn/tv/IPTVEFEL.png" group-title="卫视频道",少儿动漫
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=8145334647720731271&channel-id=wasusyt$2.5M720_华数
+#EXTINF:-1 tvg-id="家庭理财" tvg-name="家庭理财" tvg-logo="https://live.fanmingming.cn/tv/家庭理财.png" group-title="卫视频道",家庭理财频道
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=5000000011000031210&channel-id=bestzb$2.5M576_百视通
+#EXTINF:-1 tvg-id="家庭理财" tvg-name="家庭理财" tvg-logo="https://live.fanmingming.cn/tv/家庭理财.png" group-title="卫视频道",家庭理财频道
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=2000000002000000064&channel-id=hnbblive$2.5M576_湖南bblive
+#EXTINF:-1 tvg-id="财富天下" tvg-name="财富天下" tvg-logo="https://live.fanmingming.cn/tv/财富天下.png" group-title="卫视频道",江苏财富天下
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=5000000011000031208&channel-id=bestzb$3.5M540_百视通
+#EXTINF:-1 tvg-id="财富天下" tvg-name="财富天下" tvg-logo="https://live.fanmingming.cn/tv/财富天下.png" group-title="卫视频道",江苏财富天下
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=2000000002000000069&channel-id=hnbblive$3.5M540_湖南bblive
+#EXTINF:-1 tvg-id="哒啵电竞" tvg-name="哒啵电竞" tvg-logo="https://live.fanmingming.cn/tv/哒啵电竞.png" group-title="卫视频道",哒啵电竞
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=2000000003000000066&channel-id=hnbblive$4M1080_湖南bblive
+#EXTINF:-1 tvg-id="哒啵电竞" tvg-name="哒啵电竞" tvg-logo="https://live.fanmingming.cn/tv/哒啵电竞.png" group-title="卫视频道",哒啵电竞
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=1000000006000032327&channel-id=ystenlive$4M1080_易视腾
+#EXTINF:-1 tvg-id="哒啵赛事" tvg-name="哒啵赛事" tvg-logo="https://live.fanmingming.cn/tv/哒啵赛事.png" group-title="卫视频道",哒啵赛事
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=2000000003000000004&channel-id=hnbblive$4M1080_湖南bblive
+#EXTINF:-1 tvg-id="哒啵赛事" tvg-name="哒啵赛事" tvg-logo="https://live.fanmingming.cn/tv/哒啵赛事.png" group-title="卫视频道",哒啵赛事
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=2000000003000000039&channel-id=hnbblive$4M1080_湖南bblive
+#EXTINF:-1 tvg-id="哒啵赛事" tvg-name="哒啵赛事" tvg-logo="https://live.fanmingming.cn/tv/哒啵赛事.png" group-title="卫视频道",哒啵赛事
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=2000000003000000040&channel-id=hnbblive$4M1080_湖南bblive
+#EXTINF:-1 tvg-id="哒啵赛事" tvg-name="哒啵赛事" tvg-logo="https://live.fanmingming.cn/tv/哒啵赛事.png" group-title="卫视频道",哒啵赛事
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=1000000001000003775&channel-id=ystenlive$4M1080_易视腾
+#EXTINF:-1 tvg-id="哒啵赛事" tvg-name="哒啵赛事" tvg-logo="https://live.fanmingming.cn/tv/哒啵赛事.png" group-title="卫视频道",哒啵赛事
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=1000000001000006906&channel-id=ystenlive$4M1080_易视腾
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.cn/tv/IPTVEFEL.png" group-title="卫视频道",电子竞技
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=2000000004000000015&channel-id=hnbblive$2.5M720_湖南bblive
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.cn/tv/IPTVEFEL.png" group-title="卫视频道",电子竞技
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=6000000003000011654&channel-id=wasusyt$2.5M720_华数
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.cn/tv/IPTVEFEL.png" group-title="卫视频道",高清娱乐
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=2000000004000000013&channel-id=hnbblive$2.5M720_湖南bblive
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.cn/tv/IPTVEFEL.png" group-title="卫视频道",高清娱乐
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=6000000003000001569&channel-id=wasusyt$2.5M720_华数
+#EXTINF:-1 tvg-id="黑莓电影" tvg-name="黑莓电影" tvg-logo="https://live.fanmingming.cn/tv/黑莓电影.png" group-title="卫视频道",黑莓电影
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=2000000003000000001&channel-id=hnbblive$4M1080_湖南bblive
+#EXTINF:-1 tvg-id="黑莓电影" tvg-name="黑莓电影" tvg-logo="https://live.fanmingming.cn/tv/黑莓电影.png" group-title="卫视频道",黑莓电影
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=1000000004000019624&channel-id=ystenlive$4M1080_易视腾
+#EXTINF:-1 tvg-id="黑莓动画" tvg-name="黑莓动画" tvg-logo="https://live.fanmingming.cn/tv/黑莓动画.png" group-title="卫视频道",黑莓动画
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=2000000003000000002&channel-id=hnbblive$4M1080_湖南bblive
+#EXTINF:-1 tvg-id="黑莓动画" tvg-name="黑莓动画" tvg-logo="https://live.fanmingming.cn/tv/黑莓动画.png" group-title="卫视频道",黑莓动画
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=1000000004000021734&channel-id=ystenlive$4M1080_易视腾
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.cn/tv/IPTVEFEL.png" group-title="卫视频道",华数服务
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=2000000004000000025&channel-id=hnbblive$4M720_湖南bblive
+#EXTINF:-1 tvg-id="精彩影视" tvg-name="精彩影视" tvg-logo="https://live.fanmingming.cn/radio/BTV影视.png" group-title="卫视频道",精彩影视
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=2000000004000000063&channel-id=hnbblive$7.2M1080_湖南bblive
+#EXTINF:-1 tvg-id="精彩影视" tvg-name="精彩影视" tvg-logo="https://live.fanmingming.cn/radio/BTV影视.png" group-title="卫视频道",精彩影视
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=6000000006000320630&channel-id=wasusyt$6.5M1080_华数
+#EXTINF:-1 tvg-id="聚鲨环球精选" tvg-name="聚鲨环球精选" tvg-logo="https://live.fanmingming.cn/tv/聚鲨环球精选.png" group-title="卫视频道",聚鲨环球精选
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=6000000004000014516&channel-id=wasusyt$1.8M576_华数
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.cn/tv/IPTVEFEL.png" group-title="卫视频道",漫游世界
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=2000000004000000017&channel-id=hnbblive$2.5M720_湖南bblive
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.cn/tv/IPTVEFEL.png" group-title="卫视频道",漫游世界
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=6000000003000028434&channel-id=wasusyt$2.5M720_华数
+#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://live.fanmingming.cn/tv/CGTN.png" group-title="CGTN频道",CGTN
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=7745129417417101820&channel-id=hnbblive$8M1080_湖南bblive
+#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://live.fanmingming.cn/tv/CGTN.png" group-title="CGTN频道",CGTN
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=1000000002000009569&channel-id=ystenlive$4M576_易视腾
+#EXTINF:-1 tvg-id="CGTN阿拉伯语" tvg-name="CGTN阿拉伯语" tvg-logo="https://live.fanmingming.cn/tv/CGTN阿语.png" group-title="CGTN频道",CGTN阿拉伯语
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=1000000006000280001&channel-id=ystenlive$4M576_易视腾
+#EXTINF:-1 tvg-id="CGTN俄语" tvg-name="CGTN俄语" tvg-logo="https://live.fanmingming.cn/tv/CGTN俄语.png" group-title="CGTN频道",CGTN俄语
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=1000000006000280004&channel-id=ystenlive$4M576_易视腾
+#EXTINF:-1 tvg-id="CGTN法语" tvg-name="CGTN法语" tvg-logo="https://live.fanmingming.cn/tv/CGTN法语.png" group-title="CGTN频道",CGTN法语
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=1000000006000280003&channel-id=ystenlive$4M576_易视腾
+#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://live.fanmingming.cn/tv/CGTN.png" group-title="CGTN频道",CGTN记录
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=7114647837765104058&channel-id=hnbblive$8M1080_湖南bblive
+#EXTINF:-1 tvg-id="CGTN西班牙语" tvg-name="CGTN西班牙语" tvg-logo="https://live.fanmingming.cn/tv/CGTN西语.png" group-title="CGTN频道",CGTN西班牙语
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=1000000006000280002&channel-id=ystenlive$4M576_易视腾
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/风尚音乐.png" group-title="HOT频道",Hot风尚音乐
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=2000000004000000004&channel-id=hnbblive$2.5M720_湖南bblive
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/风尚音乐.png" group-title="HOT频道",Hot风尚音乐
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=5529729098703832176&channel-id=wasusyt$2.5M720_华数
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/精品剧场.png" group-title="HOT频道",Hot精品剧场
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=2000000004000000002&channel-id=hnbblive$2.5M720_湖南bblive
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/精品剧场.png" group-title="HOT频道",Hot精品剧场
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=8230197131234717902&channel-id=wasusyt$2.5M720_华数
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/欧美影院.png" group-title="HOT频道",Hot欧美影院
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=2000000004000000005&channel-id=hnbblive$2.5M720_湖南bblive
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/欧美影院.png" group-title="HOT频道",Hot欧美影院
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=7185203501769528108&channel-id=wasusyt$2.5M720_华数
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/华数亚洲影院.png" group-title="HOT频道",Hot亚洲影院
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=2000000004000000006&channel-id=hnbblive$2.5M720_湖南bblive
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/华数亚洲影院.png" group-title="HOT频道",Hot亚洲影院
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=5841816227539527643&channel-id=wasusyt$2.5M720_华数
+#EXTINF:-1 tvg-id="NEWTV爱情喜剧" tvg-name="NEWTV爱情喜剧" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV爱情喜剧.png" group-title="NEWTV频道",NEWTV爱情喜剧
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=2000000003000000010&channel-id=hnbblive$4M1080_湖南bblive
+#EXTINF:-1 tvg-id="NEWTV超级电视剧" tvg-name="NEWTV超级电视剧" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV超级电视剧.png" group-title="NEWTV频道",NEWTV超级电视剧
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=1000000006000268003&channel-id=ystenlive$8M1080_易视腾
+#EXTINF:-1 tvg-id="NEWTV超级电视剧" tvg-name="NEWTV超级电视剧" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV超级电视剧.png" group-title="NEWTV频道",NEWTV超级电视剧
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=2000000003000000032&channel-id=hnbblive$4M1080_湖南bblive
+#EXTINF:-1 tvg-id="NEWTV超级电视剧" tvg-name="NEWTV超级电视剧" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV超级电视剧.png" group-title="NEWTV频道",NEWTV超级电视剧
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=1000000001000008139&channel-id=ystenlive$4M1080_易视腾
+#EXTINF:-1 tvg-id="NEWTV超级电视剧" tvg-name="NEWTV超级电视剧" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV超级电视剧.png" group-title="NEWTV频道",NEWTV超级电视剧
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=1000000004000024993&channel-id=ystenlive$4M1080_易视腾
+#EXTINF:-1 tvg-id="NEWTV超级电影" tvg-name="NEWTV超级电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV超级电影.png" group-title="NEWTV频道",NEWTV超级电影
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=1000000003000012426&channel-id=ystenlive$8M1080_易视腾
+#EXTINF:-1 tvg-id="NEWTV超级电影" tvg-name="NEWTV超级电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV超级电影.png" group-title="NEWTV频道",NEWTV超级电影
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=2000000003000000031&channel-id=hnbblive$4M1080_湖南bblive
+#EXTINF:-1 tvg-id="NEWTV超级电影" tvg-name="NEWTV超级电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV超级电影.png" group-title="NEWTV频道",NEWTV超级电影
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=1000000001000012884&channel-id=ystenlive$4M1080_易视腾
+#EXTINF:-1 tvg-id="NEWTV超级电影" tvg-name="NEWTV超级电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV超级电影.png" group-title="NEWTV频道",NEWTV超级电影
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=1000000004000002120&channel-id=ystenlive$4M1080_易视腾
+#EXTINF:-1 tvg-id="NEWTV超级体育" tvg-name="NEWTV超级体育" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV超级体育.png" group-title="NEWTV频道",NEWTV超级体育
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=1000000001000009601&channel-id=ystenlive$8M1080_易视腾
+#EXTINF:-1 tvg-id="NEWTV超级体育" tvg-name="NEWTV超级体育" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV超级体育.png" group-title="NEWTV频道",NEWTV超级体育
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=2000000003000000030&channel-id=hnbblive$4M1080_湖南bblive
+#EXTINF:-1 tvg-id="NEWTV超级体育" tvg-name="NEWTV超级体育" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV超级体育.png" group-title="NEWTV频道",NEWTV超级体育
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=1000000001000009204&channel-id=ystenlive$4M1080_易视腾
+#EXTINF:-1 tvg-id="NEWTV超级体育" tvg-name="NEWTV超级体育" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV超级体育.png" group-title="NEWTV频道",NEWTV超级体育
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=1000000004000007755&channel-id=ystenlive$4M1080_易视腾
+#EXTINF:-1 tvg-id="NEWTV超级综艺" tvg-name="NEWTV超级综艺" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV超级综艺.png" group-title="NEWTV频道",NEWTV超级综艺
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=1000000006000268002&channel-id=ystenlive$8M1080_易视腾
+#EXTINF:-1 tvg-id="NEWTV超级综艺" tvg-name="NEWTV超级综艺" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV超级综艺.png" group-title="NEWTV频道",NEWTV超级综艺
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=2000000003000000029&channel-id=hnbblive$4M1080_湖南bblive
+#EXTINF:-1 tvg-id="NEWTV超级综艺" tvg-name="NEWTV超级综艺" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV超级综艺.png" group-title="NEWTV频道",NEWTV超级综艺
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=1000000001000025771&channel-id=ystenlive$4M1080_易视腾
+#EXTINF:-1 tvg-id="NEWTV超级综艺" tvg-name="NEWTV超级综艺" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV超级综艺.png" group-title="NEWTV频道",NEWTV超级综艺
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=1000000004000023658&channel-id=ystenlive$4M1080_易视腾
+#EXTINF:-1 tvg-id="NEWTV潮妈辣婆" tvg-name="NEWTV潮妈辣婆" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV潮妈辣婆.png" group-title="NEWTV频道",NEWTV潮妈辣婆
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=2000000003000000018&channel-id=hnbblive$4M1080_湖南bblive
+#EXTINF:-1 tvg-id="NEWTV东北热剧" tvg-name="NEWTV东北热剧" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV东北热剧.png" group-title="NEWTV频道",NEWTV东北剧场
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=1000000005000266013&channel-id=ystenlive$4M1080_易视腾
+#EXTINF:-1 tvg-id="NEWTV东北热剧" tvg-name="NEWTV东北热剧" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV东北热剧.png" group-title="NEWTV频道",NEWTV东北热剧
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=2000000003000000051&channel-id=hnbblive$4M1080_湖南bblive
+#EXTINF:-1 tvg-id="NEWTV动作电影" tvg-name="NEWTV动作电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV动作电影.png" group-title="NEWTV频道",NEWTV动作电影
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=2000000003000000017&channel-id=hnbblive$4M1080_湖南bblive
+#EXTINF:-1 tvg-id="NEWTV动作电影" tvg-name="NEWTV动作电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV动作电影.png" group-title="NEWTV频道",NEWTV动作电影
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=1000000004000018653&channel-id=ystenlive$4M1080_易视腾
+#EXTINF:-1 tvg-id="NEWTV古装剧场" tvg-name="NEWTV古装剧场" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV古装剧场.png" group-title="NEWTV频道",NEWTV古装剧场
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=2000000003000000024&channel-id=hnbblive$4M1080_湖南bblive
+#EXTINF:-1 tvg-id="NEWTV欢乐剧场" tvg-name="NEWTV欢乐剧场" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV欢乐剧场.png" group-title="NEWTV频道",NEWTV欢乐剧场
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=2000000003000000050&channel-id=hnbblive$4M1080_湖南bblive
+#EXTINF:-1 tvg-id="NEWTV欢乐剧场" tvg-name="NEWTV欢乐剧场" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV欢乐剧场.png" group-title="NEWTV频道",NEWTV欢乐剧场
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=1000000005000266012&channel-id=ystenlive$4M1080_易视腾
+#EXTINF:-1 tvg-id="NEWTV家庭剧场" tvg-name="NEWTV家庭剧场" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV家庭剧场.png" group-title="NEWTV频道",NEWTV家庭剧场
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=2000000003000000012&channel-id=hnbblive$4M1080_湖南bblive
+#EXTINF:-1 tvg-id="NEWTV家庭剧场" tvg-name="NEWTV家庭剧场" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV家庭剧场.png" group-title="NEWTV频道",NEWTV家庭剧场
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=1000000004000008284&channel-id=ystenlive$4M1080_易视腾
+#EXTINF:-1 tvg-id="NEWTV金牌综艺" tvg-name="NEWTV金牌综艺" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV金牌综艺.png" group-title="NEWTV频道",NEWTV金牌综艺
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=2000000003000000005&channel-id=hnbblive$4M1080_湖南bblive
+#EXTINF:-1 tvg-id="NEWTV金牌综艺" tvg-name="NEWTV金牌综艺" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV金牌综艺.png" group-title="NEWTV频道",NEWTV金牌综艺
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=1000000004000026167&channel-id=ystenlive$4M1080_易视腾
+#EXTINF:-1 tvg-id="NEWTV惊悚悬疑" tvg-name="NEWTV惊悚悬疑" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV惊悚悬疑.png" group-title="NEWTV频道",NEWTV惊悚悬疑
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=2000000003000000015&channel-id=hnbblive$4M1080_湖南bblive
+#EXTINF:-1 tvg-id="NEWTV惊悚悬疑" tvg-name="NEWTV惊悚悬疑" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV惊悚悬疑.png" group-title="NEWTV频道",NEWTV惊悚悬疑
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=1000000004000024282&channel-id=ystenlive$4M1080_易视腾
+#EXTINF:-1 tvg-id="NEWTV精品大剧" tvg-name="NEWTV精品大剧" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV精品大剧.png" group-title="NEWTV频道",NEWTV精品大剧
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=2000000003000000020&channel-id=hnbblive$4M1080_湖南bblive
+#EXTINF:-1 tvg-id="NEWTV精品大剧" tvg-name="NEWTV精品大剧" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV精品大剧.png" group-title="NEWTV频道",NEWTV精品大剧
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=1000000004000013968&channel-id=ystenlive$4M1080_易视腾
+#EXTINF:-1 tvg-id="NEWTV精品纪录" tvg-name="NEWTV精品纪录" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV精品纪录.png" group-title="NEWTV频道",NEWTV精品纪录
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=1000000004000013730&channel-id=ystenlive$4M1080_易视腾
+#EXTINF:-1 tvg-id="NEWTV精品纪录" tvg-name="NEWTV精品纪录" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV精品纪录.png" group-title="NEWTV频道",NEWTV精品记录
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=2000000003000000019&channel-id=hnbblive$4M1080_湖南bblive
+#EXTINF:-1 tvg-id="NEWTV精品萌宠" tvg-name="NEWTV精品萌宠" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV精品萌宠.png" group-title="NEWTV频道",NEWTV精品萌宠
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=2000000003000000067&channel-id=hnbblive$4M1080_湖南bblive
+#EXTINF:-1 tvg-id="NEWTV精品萌宠" tvg-name="NEWTV精品萌宠" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV精品萌宠.png" group-title="NEWTV频道",NEWTV精品萌宠
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=1000000006000032328&channel-id=ystenlive$4M1080_易视腾
+#EXTINF:-1 tvg-id="NEWTV精品体育" tvg-name="NEWTV精品体育" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV精品体育.png" group-title="NEWTV频道",NEWTV精品体育
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=2000000003000000021&channel-id=hnbblive$4M1080_湖南bblive
+#EXTINF:-1 tvg-id="NEWTV精品体育" tvg-name="NEWTV精品体育" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV精品体育.png" group-title="NEWTV频道",NEWTV精品体育
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=1000000004000014634&channel-id=ystenlive$4M1080_易视腾
+#EXTINF:-1 tvg-id="NEWTV精品综合" tvg-name="NEWTV精品综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV精品综合.png" group-title="NEWTV频道",NEWTV精品综合
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=2000000003000000008&channel-id=hnbblive$4M1080_湖南bblive
+#EXTINF:-1 tvg-id="NEWTV精品综合" tvg-name="NEWTV精品综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV精品综合.png" group-title="NEWTV频道",NEWTV精品综合
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=1000000004000019008&channel-id=ystenlive$4M1080_易视腾
+#EXTINF:-1 tvg-id="NEWTV军旅剧场" tvg-name="NEWTV军旅剧场" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV军旅剧场.png" group-title="NEWTV频道",NEWTV军旅剧场
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=2000000003000000014&channel-id=hnbblive$4M1080_湖南bblive
+#EXTINF:-1 tvg-id="NEWTV军事评论" tvg-name="NEWTV军事评论" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV军事评论.png" group-title="NEWTV频道",NEWTV军事评论
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=2000000003000000022&channel-id=hnbblive$4M1080_湖南bblive
+#EXTINF:-1 tvg-id="NEWTV魅力潇湘" tvg-name="NEWTV魅力潇湘" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV魅力潇湘.png" group-title="NEWTV频道",NEWTV魅力潇湘
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=2000000003000000041&channel-id=hnbblive$4M1080_湖南bblive
+#EXTINF:-1 tvg-id="NEWTV魅力潇湘" tvg-name="NEWTV魅力潇湘" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV魅力潇湘.png" group-title="NEWTV频道",NEWTV魅力潇湘
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=1000000001000006197&channel-id=ystenlive$4M1080_易视腾
+#EXTINF:-1 tvg-id="NEWTV魅力潇湘" tvg-name="NEWTV魅力潇湘" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV魅力潇湘.png" group-title="NEWTV频道",NEWTV魅力潇湘
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=1000000005000266014&channel-id=ystenlive$4M1080_易视腾
+#EXTINF:-1 tvg-id="NEWTV明星大片" tvg-name="NEWTV明星大片" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV明星大片.png" group-title="NEWTV频道",NEWTV明星大片
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=2000000003000000016&channel-id=hnbblive$4M1080_湖南bblive
+#EXTINF:-1 tvg-id="NEWTV农业致富" tvg-name="NEWTV农业致富" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV农业致富.png" group-title="NEWTV频道",NEWTV农业致富
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=2000000003000000003&channel-id=hnbblive$4M1080_湖南bblive
+#EXTINF:-1 tvg-id="NEWTV武搏世界" tvg-name="NEWTV武搏世界" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV武搏世界.png" group-title="NEWTV频道",NEWTV武博世界
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=2000000003000000007&channel-id=hnbblive$4M1080_湖南bblive
+#EXTINF:-1 tvg-id="NEWTV炫舞未来" tvg-name="NEWTV炫舞未来" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV炫舞未来.png" group-title="NEWTV频道",NEWTV炫舞未来
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=2000000003000000044&channel-id=hnbblive$4M1080_湖南bblive
+#EXTINF:-1 tvg-id="NEWTV炫舞未来" tvg-name="NEWTV炫舞未来" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV炫舞未来.png" group-title="NEWTV频道",NEWTV炫舞未来
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=1000000001000000515&channel-id=ystenlive$4M1080_易视腾
+#EXTINF:-1 tvg-id="NEWTV怡伴健康" tvg-name="NEWTV怡伴健康" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV怡伴健康.png" group-title="NEWTV频道",NEWTV怡伴健康
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=2000000003000000023&channel-id=hnbblive$4M1080_湖南bblive
+#EXTINF:-1 tvg-id="NEWTV怡伴健康" tvg-name="NEWTV怡伴健康" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV怡伴健康.png" group-title="NEWTV频道",NEWTV怡伴健康
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=1000000005000266011&channel-id=ystenlive$4M1080_易视腾
+#EXTINF:-1 tvg-id="NEWTV中国功夫" tvg-name="NEWTV中国功夫" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV中国功夫.png" group-title="NEWTV频道",NEWTV中国功夫
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=2000000003000000009&channel-id=hnbblive$4M1080_湖南bblive
+#EXTINF:-1 tvg-id="动漫秀场" tvg-name="动漫秀场" tvg-logo="https://live.fanmingming.cn/tv/动漫秀场.png" group-title="SiTV频道",SiTV动漫秀场
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=5000000011000031113&channel-id=bestzb$7M1080_百视通
+#EXTINF:-1 tvg-id="动漫秀场" tvg-name="动漫秀场" tvg-logo="https://live.fanmingming.cn/tv/动漫秀场.png" group-title="SiTV频道",SiTV动漫秀场
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=5000000002000023636&channel-id=bestzb$4M1080_百视通
+#EXTINF:-1 tvg-id="动漫秀场" tvg-name="动漫秀场" tvg-logo="https://live.fanmingming.cn/tv/动漫秀场.png" group-title="SiTV频道",SiTV动漫秀场
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=2000000002000000009&channel-id=hnbblive$2.5M576_湖南bblive
+#EXTINF:-1 tvg-id="都市剧场" tvg-name="都市剧场" tvg-logo="https://live.fanmingming.cn/tv/都市剧场.png" group-title="SiTV频道",SiTV都市剧场
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=5000000011000031111&channel-id=bestzb$7M1080_百视通
+#EXTINF:-1 tvg-id="都市剧场" tvg-name="都市剧场" tvg-logo="https://live.fanmingming.cn/tv/都市剧场.png" group-title="SiTV频道",SiTV都市剧场
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=5000000002000004412&channel-id=bestzb$4M1080_百视通
+#EXTINF:-1 tvg-id="都市剧场" tvg-name="都市剧场" tvg-logo="https://live.fanmingming.cn/tv/都市剧场.png" group-title="SiTV频道",SiTV都市剧场
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=2000000002000000015&channel-id=hnbblive$2.5M576_湖南bblive
+#EXTINF:-1 tvg-id="法治天地" tvg-name="法治天地" tvg-logo="https://live.fanmingming.cn/tv/法治天地.png" group-title="SiTV频道",SiTV法治天地
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=9001547084732463424&channel-id=bestzb$7M1080_百视通
+#EXTINF:-1 tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://live.fanmingming.cn/tv/欢笑剧场.png" group-title="SiTV频道",SiTV欢笑剧场
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=5000000002000009455&channel-id=bestzb$4M1080_百视通
+#EXTINF:-1 tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://live.fanmingming.cn/tv/欢笑剧场.png" group-title="SiTV频道",SiTV欢笑剧场
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=2000000002000000016&channel-id=hnbblive$3.5M1080_湖南bblive
+#EXTINF:-1 tvg-id="金色学堂" tvg-name="金色学堂" tvg-logo="https://live.fanmingming.cn/tv/金色学堂.png" group-title="SiTV频道",SiTV金色学堂
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=5000000010000026105&channel-id=bestzb$7M1080_百视通
+#EXTINF:-1 tvg-id="金色学堂" tvg-name="金色学堂" tvg-logo="https://live.fanmingming.cn/tv/金色学堂.png" group-title="SiTV频道",SiTV金色学堂
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=2000000002000000061&channel-id=hnbblive$7M1080_湖南bblive
+#EXTINF:-1 tvg-id="劲爆体育" tvg-name="劲爆体育" tvg-logo="https://live.fanmingming.cn/tv/劲爆体育.png" group-title="SiTV频道",SiTV劲爆体育
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=5000000002000029972&channel-id=bestzb$4M1080_百视通
+#EXTINF:-1 tvg-id="劲爆体育" tvg-name="劲爆体育" tvg-logo="https://live.fanmingming.cn/tv/劲爆体育.png" group-title="SiTV频道",SiTV劲爆体育
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=2000000002000000008&channel-id=hnbblive$1.2M540_湖南bblive
+#EXTINF:-1 tvg-id="睛彩竞技" tvg-name="睛彩竞技" tvg-logo="https://live.fanmingming.cn/tv/睛彩竞技.png" group-title="SiTV频道",SiTV睛彩竞技
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=3000000020000011528&channel-id=FifastbLive$8M1080_咪视通
+#EXTINF:-1 tvg-id="睛彩竞技" tvg-name="睛彩竞技" tvg-logo="https://live.fanmingming.cn/tv/睛彩竞技.png" group-title="SiTV频道",SiTV睛彩竞技
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=3000000020000011530&channel-id=FifastbLive$8M1080_咪视通
+#EXTINF:-1 tvg-id="睛彩竞技" tvg-name="睛彩竞技" tvg-logo="https://live.fanmingming.cn/tv/睛彩竞技.png" group-title="SiTV频道",SiTV睛彩竞技
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=2000000003000000060&channel-id=hnbblive$8M1080_湖南bblive
+#EXTINF:-1 tvg-id="睛彩篮球" tvg-name="睛彩篮球" tvg-logo="https://live.fanmingming.cn/tv/睛彩篮球.png" group-title="SiTV频道",SiTV睛彩篮球
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=3000000020000011529&channel-id=FifastbLive$8M1080_咪视通
+#EXTINF:-1 tvg-id="睛彩篮球" tvg-name="睛彩篮球" tvg-logo="https://live.fanmingming.cn/tv/睛彩篮球.png" group-title="SiTV频道",SiTV睛彩篮球
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=3000000020000011531&channel-id=FifastbLive$8M1080_咪视通
+#EXTINF:-1 tvg-id="睛彩篮球" tvg-name="睛彩篮球" tvg-logo="https://live.fanmingming.cn/tv/睛彩篮球.png" group-title="SiTV频道",SiTV睛彩篮球
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=2000000003000000061&channel-id=hnbblive$8M1080_湖南bblive
+#EXTINF:-1 tvg-id="睛彩广场舞" tvg-name="睛彩广场舞" tvg-logo="https://live.fanmingming.cn/tv/睛彩广场舞.png" group-title="SiTV频道",SiTV睛彩广场舞
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=2000000003000000062&channel-id=hnbblive$8M1080_湖南bblive
+#EXTINF:-1 tvg-id="乐游" tvg-name="乐游" tvg-logo="https://live.fanmingming.cn/tv/乐游.png" group-title="SiTV频道",SiTV乐游
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=5000000011000031112&channel-id=bestzb$7M1080_百视通
+#EXTINF:-1 tvg-id="乐游" tvg-name="乐游" tvg-logo="https://live.fanmingming.cn/tv/乐游.png" group-title="SiTV频道",SiTV乐游
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=2000000002000000092&channel-id=hnbblive$7M1080_湖南bblive
+#EXTINF:-1 tvg-id="乐游" tvg-name="乐游" tvg-logo="https://live.fanmingming.cn/tv/乐游.png" group-title="SiTV频道",SiTV乐游
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=5000000006000040025&channel-id=bestzb$4M1080_百视通
+#EXTINF:-1 tvg-id="乐游" tvg-name="乐游" tvg-logo="https://live.fanmingming.cn/tv/乐游.png" group-title="SiTV频道",SiTV乐游
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=2000000002000000059&channel-id=hnbblive$1.2M576_湖南bblive
+#EXTINF:-1 tvg-id="魅力足球" tvg-name="魅力足球" tvg-logo="https://live.fanmingming.cn/tv/魅力足球.png" group-title="SiTV频道",SiTV魅力足球
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=5000000011000031207&channel-id=bestzb$7M1080_百视通
+#EXTINF:-1 tvg-id="魅力足球" tvg-name="魅力足球" tvg-logo="https://live.fanmingming.cn/tv/魅力足球.png" group-title="SiTV频道",SiTV魅力足球
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=2000000002000000068&channel-id=hnbblive$7M1080_湖南bblive
+#EXTINF:-1 tvg-id="七彩戏剧" tvg-name="七彩戏剧" tvg-logo="https://live.fanmingming.cn/tv/七彩戏剧.png" group-title="SiTV频道",SiTV七彩戏剧
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=5000000011000031116&channel-id=bestzb$7M1080_百视通
+#EXTINF:-1 tvg-id="七彩戏剧" tvg-name="七彩戏剧" tvg-logo="https://live.fanmingming.cn/tv/七彩戏剧.png" group-title="SiTV频道",SiTV七彩戏剧
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=2000000002000000010&channel-id=hnbblive$7M1080_湖南bblive
+#EXTINF:-1 tvg-id="生活时尚" tvg-name="生活时尚" tvg-logo="https://live.fanmingming.cn/tv/生活时尚.png" group-title="SiTV频道",SiTV生活时尚
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=5000000002000019634&channel-id=bestzb$4M1080_百视通
+#EXTINF:-1 tvg-id="生活时尚" tvg-name="生活时尚" tvg-logo="https://live.fanmingming.cn/tv/生活时尚.png" group-title="SiTV频道",SiTV生活时尚
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=2000000002000000006&channel-id=hnbblive$2.5M720_湖南bblive
+#EXTINF:-1 tvg-id="游戏风云" tvg-name="游戏风云" tvg-logo="https://live.fanmingming.cn/tv/游戏风云.png" group-title="SiTV频道",SiTV游戏风云
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=5000000011000031114&channel-id=bestzb$7M1080_百视通
+#EXTINF:-1 tvg-id="游戏风云" tvg-name="游戏风云" tvg-logo="https://live.fanmingming.cn/tv/游戏风云.png" group-title="SiTV频道",SiTV游戏风云
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=5000000002000027005&channel-id=bestzb$4M1080_百视通
+#EXTINF:-1 tvg-id="游戏风云" tvg-name="游戏风云" tvg-logo="https://live.fanmingming.cn/tv/游戏风云.png" group-title="SiTV频道",SiTV游戏风云
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=2000000002000000011&channel-id=hnbblive$2.5M576_湖南bblive
+#EXTINF:-1 tvg-id="IHOT爱谍战" tvg-name="IHOT爱谍战" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IHOT爱谍战.png" group-title="IHOT频道",爱谍战
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=6000000006000070630&channel-id=wasusyt$7.2M1080_华数
+#EXTINF:-1 tvg-id="IHOT爱谍战" tvg-name="IHOT爱谍战" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IHOT爱谍战.png" group-title="IHOT频道",爱谍战
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=2000000004000000038&channel-id=hnbblive$6.8M1080_湖南bblive
+#EXTINF:-1 tvg-id="IHOT爱动漫" tvg-name="IHOT爱动漫" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IHOT爱动漫.png" group-title="IHOT频道",爱动漫
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=6000000006000280630&channel-id=wasusyt$7.2M1080_华数
+#EXTINF:-1 tvg-id="IHOT爱动漫" tvg-name="IHOT爱动漫" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IHOT爱动漫.png" group-title="IHOT频道",爱动漫
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=2000000004000000059&channel-id=hnbblive$6.8M1080_湖南bblive
+#EXTINF:-1 tvg-id="IHOT爱都市" tvg-name="IHOT爱都市" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IHOT爱都市.png" group-title="IHOT频道",爱都市
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=6000000006000080630&channel-id=wasusyt$7.2M1080_华数
+#EXTINF:-1 tvg-id="IHOT爱怀旧" tvg-name="IHOT爱怀旧" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IHOT爱怀旧.png" group-title="IHOT频道",爱怀旧
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=6000000006000260630&channel-id=wasusyt$7.2M1080_华数
+#EXTINF:-1 tvg-id="IHOT爱经典" tvg-name="IHOT爱经典" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IHOT爱经典.png" group-title="IHOT频道",爱经典
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=6000000006000060630&channel-id=wasusyt$7.2M1080_华数
+#EXTINF:-1 tvg-id="IHOT爱科幻" tvg-name="IHOT爱科幻" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IHOT爱科幻.png" group-title="IHOT频道",爱科幻
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=6000000006000020630&channel-id=wasusyt$7.2M1080_华数
+#EXTINF:-1 tvg-id="IHOT爱科幻" tvg-name="IHOT爱科幻" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IHOT爱科幻.png" group-title="IHOT频道",爱科幻
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=2000000004000000033&channel-id=hnbblive$6.8M1080_湖南bblive
+#EXTINF:-1 tvg-id="IHOT爱科学" tvg-name="IHOT爱科学" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IHOT爱科学.png" group-title="IHOT频道",爱科学
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=6000000006000160630&channel-id=wasusyt$7.2M1080_华数
+#EXTINF:-1 tvg-id="IHOT爱科学" tvg-name="IHOT爱科学" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IHOT爱科学.png" group-title="IHOT频道",爱科学
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=2000000004000000047&channel-id=hnbblive$6.8M1080_湖南bblive
+#EXTINF:-1 tvg-id="IHOT爱浪漫" tvg-name="IHOT爱浪漫" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IHOT爱浪漫.png" group-title="IHOT频道",爱浪漫
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=6000000006000040630&channel-id=wasusyt$7.2M1080_华数
+#EXTINF:-1 tvg-id="IHOT爱浪漫" tvg-name="IHOT爱浪漫" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IHOT爱浪漫.png" group-title="IHOT频道",爱浪漫
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=2000000004000000035&channel-id=hnbblive$6.8M1080_湖南bblive
+#EXTINF:-1 tvg-id="IHOT爱历史" tvg-name="IHOT爱历史" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IHOT爱历史.png" group-title="IHOT频道",爱历史
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=6000000006000150630&channel-id=wasusyt$7.2M1080_华数
+#EXTINF:-1 tvg-id="IHOT爱历史" tvg-name="IHOT爱历史" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IHOT爱历史.png" group-title="IHOT频道",爱历史
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=2000000004000000046&channel-id=hnbblive$6.8M1080_湖南bblive
+#EXTINF:-1 tvg-id="IHOT爱旅行" tvg-name="IHOT爱旅行" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IHOT爱旅行.png" group-title="IHOT频道",爱旅行
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=6000000006000250630&channel-id=wasusyt$7.2M1080_华数
+#EXTINF:-1 tvg-id="IHOT爱旅行" tvg-name="IHOT爱旅行" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IHOT爱旅行.png" group-title="IHOT频道",爱旅行
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=2000000004000000056&channel-id=hnbblive$6.8M1080_湖南bblive
+#EXTINF:-1 tvg-id="IHOT爱奇谈" tvg-name="IHOT爱奇谈" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IHOT爱奇谈.png" group-title="IHOT频道",爱奇谈
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=6000000006000270630&channel-id=wasusyt$7.2M1080_华数
+#EXTINF:-1 tvg-id="IHOT爱奇谈" tvg-name="IHOT爱奇谈" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IHOT爱奇谈.png" group-title="IHOT频道",爱奇谈
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=2000000004000000058&channel-id=hnbblive$6.8M1080_湖南bblive
+#EXTINF:-1 tvg-id="IHOT爱青春" tvg-name="IHOT爱青春" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IHOT爱青春.png" group-title="IHOT频道",爱青春
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=6000000006000100630&channel-id=wasusyt$7.2M1080_华数
+#EXTINF:-1 tvg-id="IHOT爱赛车" tvg-name="IHOT爱赛车" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IHOT爱赛车.png" group-title="IHOT频道",爱赛车
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=6000000006000240630&channel-id=wasusyt$7.2M1080_华数
+#EXTINF:-1 tvg-id="IHOT爱赛车" tvg-name="IHOT爱赛车" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IHOT爱赛车.png" group-title="IHOT频道",爱赛车
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=2000000004000000055&channel-id=hnbblive$6.8M1080_湖南bblive
+#EXTINF:-1 tvg-id="IHOT爱体育" tvg-name="IHOT爱体育" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IHOT爱体育.png" group-title="IHOT频道",爱体育
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=6000000006000290630&channel-id=wasusyt$7.2M1080_华数
+#EXTINF:-1 tvg-id="IHOT爱体育" tvg-name="IHOT爱体育" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IHOT爱体育.png" group-title="IHOT频道",爱体育
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=2000000004000000060&channel-id=hnbblive$6.8M1080_湖南bblive
+#EXTINF:-1 tvg-id="IHOT爱玩具" tvg-name="IHOT爱玩具" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IHOT爱玩具.png" group-title="IHOT频道",爱玩具
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=6000000006000220630&channel-id=wasusyt$7.2M1080_华数
+#EXTINF:-1 tvg-id="IHOT爱玩具" tvg-name="IHOT爱玩具" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IHOT爱玩具.png" group-title="IHOT频道",爱玩具
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=2000000004000000053&channel-id=hnbblive$6.8M1080_湖南bblive
+#EXTINF:-1 tvg-id="IHOT爱喜剧" tvg-name="IHOT爱喜剧" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IHOT爱喜剧.png" group-title="IHOT频道",爱喜剧
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=6000000006000010630&channel-id=wasusyt$7.2M1080_华数
+#EXTINF:-1 tvg-id="IHOT爱喜剧" tvg-name="IHOT爱喜剧" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IHOT爱喜剧.png" group-title="IHOT频道",爱喜剧
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=2000000004000000032&channel-id=hnbblive$6.8M1080_湖南bblive
+#EXTINF:-1 tvg-id="IHOT爱悬疑" tvg-name="IHOT爱悬疑" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IHOT爱悬疑.png" group-title="IHOT频道",爱悬疑
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=6000000006000050630&channel-id=wasusyt$7.2M1080_华数
+#EXTINF:-1 tvg-id="IHOT爱悬疑" tvg-name="IHOT爱悬疑" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IHOT爱悬疑.png" group-title="IHOT频道",爱悬疑
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=2000000004000000036&channel-id=hnbblive$6.8M1080_湖南bblive
+#EXTINF:-1 tvg-id="IHOT爱幼教" tvg-name="IHOT爱幼教" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IHOT爱幼教.png" group-title="IHOT频道",爱幼教
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=6000000006000180630&channel-id=wasusyt$7.2M1080_华数
+#EXTINF:-1 tvg-id="IHOT爱幼教" tvg-name="IHOT爱幼教" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IHOT爱幼教.png" group-title="IHOT频道",爱幼教
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=2000000004000000049&channel-id=hnbblive$6.8M1080_湖南bblive
+#EXTINF:-1 tvg-id="IHOT爱院线" tvg-name="IHOT爱院线" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IHOT爱院线.png" group-title="IHOT频道",爱院线
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=6000000006000030630&channel-id=wasusyt$7.2M1080_华数
+#EXTINF:-1 tvg-id="IHOT爱院线" tvg-name="IHOT爱院线" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IHOT爱院线.png" group-title="IHOT频道",爱院线
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=2000000004000000034&channel-id=hnbblive$6.8M1080_湖南bblive
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.cn/tv/IPTVEFEL.png" group-title="百视通频道",华语影院
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=5000000011000288005&channel-id=bestzb
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.cn/tv/IPTVEFEL.png" group-title="百视通频道",星光影院
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=5000000011000288013&channel-id=bestzb
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.cn/tv/IPTVEFEL.png" group-title="百视通频道",全球大片
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=5000000011000288009&channel-id=bestzb
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.cn/tv/IPTVEFEL.png" group-title="百视通频道",热门剧场
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=5000000011000288010&channel-id=bestzb
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.cn/tv/IPTVEFEL.png" group-title="百视通频道",谍战剧场
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=5000000011000288004&channel-id=bestzb
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.cn/tv/IPTVEFEL.png" group-title="百视通频道",青春动漫
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=5000000011000288008&channel-id=bestzb
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.cn/tv/IPTVEFEL.png" group-title="百视通频道",宝宝动画
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=5000000011000288002&channel-id=bestzb
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.cn/tv/IPTVEFEL.png" group-title="百视通频道",戏曲精选
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=5000000011000288012&channel-id=bestzb
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.cn/tv/IPTVEFEL.png" group-title="百视通频道",热门综艺
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=5000000011000288011&channel-id=bestzb
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.cn/tv/IPTVEFEL.png" group-title="百视通频道",健康养生
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=5000000011000288006&channel-id=bestzb
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.cn/tv/IPTVEFEL.png" group-title="百视通频道",百变课堂
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=5000000011000288001&channel-id=bestzb
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.cn/tv/IPTVEFEL.png" group-title="百视通频道",看天下精选
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=5000000011000288007&channel-id=bestzb
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.cn/tv/IPTVEFEL.png" group-title="百视通频道",电竞天堂
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=5000000011000288003&channel-id=bestzb
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.cn/tv/IPTVEFEL.png" group-title="百视通频道",百视通
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=5000000001000001116&channel-id=bestzb$4M1080_百视通
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.cn/tv/IPTVEFEL.png" group-title="百视通频道",百视通
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=5000000001000002898&channel-id=bestzb$4M1080_百视通
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.cn/tv/IPTVEFEL.png" group-title="百视通频道",百视通
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=5000000001000004876&channel-id=bestzb$4M1080_百视通
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.cn/tv/IPTVEFEL.png" group-title="百视通频道",百视通
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=5000000001000004953&channel-id=bestzb$4M1080_百视通
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.cn/tv/IPTVEFEL.png" group-title="百视通频道",百视通
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=5000000001000006777&channel-id=bestzb$4M1080_百视通
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.cn/tv/IPTVEFEL.png" group-title="百视通频道",百视通
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=5000000001000017342&channel-id=bestzb$4M1080_百视通
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.cn/tv/IPTVEFEL.png" group-title="百视通频道",百视通
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=5000000001000018009&channel-id=bestzb$4M1080_百视通
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.cn/tv/IPTVEFEL.png" group-title="百视通频道",百视通
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=5000000001000019233&channel-id=bestzb$4M1080_百视通
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.cn/tv/IPTVEFEL.png" group-title="百视通频道",百视通
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=5000000001000022620&channel-id=bestzb$4M1080_百视通
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.cn/tv/IPTVEFEL.png" group-title="百视通频道",百视通
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=5000000001000023256&channel-id=bestzb$4M1080_百视通
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.cn/tv/IPTVEFEL.png" group-title="百视通频道",百视通
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=5000000001000026930&channel-id=bestzb$4M1080_百视通
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.cn/tv/IPTVEFEL.png" group-title="百视通频道",百视通
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=2000000002000000050&channel-id=hnbblive$2.5M720_湖南bblive
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.cn/tv/IPTVEFEL.png" group-title="百视通频道",百视通
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=2000000002000000052&channel-id=hnbblive$2.5M720_湖南bblive
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.cn/tv/IPTVEFEL.png" group-title="百视通频道",百视通
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=2000000002000000024&channel-id=hnbblive$1.2M576_湖南bblive
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.cn/tv/IPTVEFEL.png" group-title="百视通频道",百视通
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=2000000002000000025&channel-id=hnbblive$1.2M576_湖南bblive
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.cn/tv/IPTVEFEL.png" group-title="百视通频道",百视通
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=2000000002000000026&channel-id=hnbblive$1.2M576_湖南bblive
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.cn/tv/IPTVEFEL.png" group-title="百视通频道",百视通
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=2000000002000000027&channel-id=hnbblive$1.2M576_湖南bblive
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.cn/tv/IPTVEFEL.png" group-title="百视通频道",百视通
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=2000000002000000028&channel-id=hnbblive$1.2M576_湖南bblive
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.cn/tv/IPTVEFEL.png" group-title="百视通频道",百视通
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=2000000002000000029&channel-id=hnbblive$1.2M576_湖南bblive
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.cn/tv/IPTVEFEL.png" group-title="百视通频道",百视通
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=2000000002000000030&channel-id=hnbblive$1.2M576_湖南bblive
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.cn/tv/IPTVEFEL.png" group-title="百视通频道",百视通
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=2000000002000000049&channel-id=hnbblive$1.2M576_湖南bblive
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.cn/tv/IPTVEFEL.png" group-title="百视通频道",百视通
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=2000000002000000051&channel-id=hnbblive$1.2M576_湖南bblive
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.cn/tv/IPTVEFEL.png" group-title="咪咕频道",咪咕全民热练
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=2000000003000000068&channel-id=hnbblive$8M1080_湖南bblive
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.cn/tv/IPTVEFEL.png" group-title="咪咕频道",咪咕全民热练
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=1000000006000270007&channel-id=ystenlive$8M1080_易视腾
+#EXTINF:-1 tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频.png" group-title="咪咕频道",咪咕视频1
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=2000000003000000063&channel-id=hnbblive$8M1080_湖南bblive
+#EXTINF:-1 tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频.png" group-title="咪咕频道",咪咕视频2
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=2000000003000000064&channel-id=hnbblive$8M1080_湖南bblive
+#EXTINF:-1 tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频.png" group-title="咪咕频道",咪咕视频3
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=2000000003000000065&channel-id=hnbblive$8M1080_湖南bblive
+#EXTINF:-1 tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频.png" group-title="咪咕频道",咪咕视频4
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=1000000006000270001&channel-id=ystenlive$8M1080_易视腾
+#EXTINF:-1 tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频.png" group-title="咪咕频道",咪咕视频5
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=1000000006000270002&channel-id=ystenlive$8M1080_易视腾
+#EXTINF:-1 tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频.png" group-title="咪咕频道",咪咕视频6
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=1000000006000270003&channel-id=ystenlive$8M1080_易视腾
+#EXTINF:-1 tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频.png" group-title="咪咕频道",咪咕视频7
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=1000000006000270004&channel-id=ystenlive$8M1080_易视腾
+#EXTINF:-1 tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频.png" group-title="咪咕频道",咪咕视频8
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=1000000006000270005&channel-id=ystenlive$8M1080_易视腾
+#EXTINF:-1 tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频.png" group-title="咪咕频道",咪咕视频9
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=1000000006000270006&channel-id=ystenlive$8M1080_易视腾
+#EXTINF:-1 tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频.png" group-title="咪咕频道",咪咕视频10
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=3000000010000000097&channel-id=FifastbLive$5M1080_咪视通
+#EXTINF:-1 tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频.png" group-title="咪咕频道",咪咕视频11
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=3000000010000002019&channel-id=FifastbLive$5M1080_咪视通
+#EXTINF:-1 tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频.png" group-title="咪咕频道",咪咕视频12
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=3000000010000002809&channel-id=FifastbLive$5M1080_咪视通
+#EXTINF:-1 tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频.png" group-title="咪咕频道",咪咕视频13
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=3000000010000003915&channel-id=FifastbLive$5M1080_咪视通
+#EXTINF:-1 tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频.png" group-title="咪咕频道",咪咕视频14
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=3000000010000004193&channel-id=FifastbLive$5M1080_咪视通
+#EXTINF:-1 tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频.png" group-title="咪咕频道",咪咕视频15
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=3000000010000006077&channel-id=FifastbLive$5M1080_咪视通
+#EXTINF:-1 tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频.png" group-title="咪咕频道",咪咕视频16
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=3000000010000006658&channel-id=FifastbLive$5M1080_咪视通
+#EXTINF:-1 tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频.png" group-title="咪咕频道",咪咕视频17
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=3000000010000009788&channel-id=FifastbLive$5M1080_咪视通
+#EXTINF:-1 tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频.png" group-title="咪咕频道",咪咕视频18
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=3000000010000010833&channel-id=FifastbLive$5M1080_咪视通
+#EXTINF:-1 tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频.png" group-title="咪咕频道",咪咕视频19
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=3000000010000011297&channel-id=FifastbLive$5M1080_咪视通
+#EXTINF:-1 tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频.png" group-title="咪咕频道",咪咕视频20
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=3000000010000011518&channel-id=FifastbLive$5M1080_咪视通
+#EXTINF:-1 tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频.png" group-title="咪咕频道",咪咕视频21
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=3000000010000012558&channel-id=FifastbLive$5M1080_咪视通
+#EXTINF:-1 tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频.png" group-title="咪咕频道",咪咕视频22
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=3000000010000012616&channel-id=FifastbLive$5M1080_咪视通
+#EXTINF:-1 tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频.png" group-title="咪咕频道",咪咕视频23
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=3000000010000015470&channel-id=FifastbLive$5M1080_咪视通
+#EXTINF:-1 tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频.png" group-title="咪咕频道",咪咕视频24
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=3000000010000015560&channel-id=FifastbLive$5M1080_咪视通
+#EXTINF:-1 tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频.png" group-title="咪咕频道",咪咕视频25
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=3000000010000017678&channel-id=FifastbLive$5M1080_咪视通
+#EXTINF:-1 tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频.png" group-title="咪咕频道",咪咕视频26
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=3000000010000019839&channel-id=FifastbLive$5M1080_咪视通
+#EXTINF:-1 tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频.png" group-title="咪咕频道",咪咕视频27
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=3000000010000021904&channel-id=FifastbLive$5M1080_咪视通
+#EXTINF:-1 tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频.png" group-title="咪咕频道",咪咕视频28
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=3000000010000023434&channel-id=FifastbLive$5M1080_咪视通
+#EXTINF:-1 tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频.png" group-title="咪咕频道",咪咕视频29
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=3000000010000025380&channel-id=FifastbLive$5M1080_咪视通
+#EXTINF:-1 tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频.png" group-title="咪咕频道",咪咕视频30
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=3000000010000027691&channel-id=FifastbLive$5M1080_咪视通
+#EXTINF:-1 tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频.png" group-title="咪咕频道",咪咕视频31
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=3000000010000031669&channel-id=FifastbLive$5M1080_咪视通
+#EXTINF:-1 tvg-id="求索动物" tvg-name="求索动物" tvg-logo="https://live.fanmingming.cn/tv/求索动物.png" group-title="求索频道",求索动物
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=6000000002000010046&channel-id=wasusyt$8M1080_华数
+#EXTINF:-1 tvg-id="求索动物" tvg-name="求索动物" tvg-logo="https://live.fanmingming.cn/tv/求索动物.png" group-title="求索频道",求索动物
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=2000000004000000009&channel-id=hnbblive$7.5M1080_湖南bblive
+#EXTINF:-1 tvg-id="求索纪录" tvg-name="求索纪录" tvg-logo="https://live.fanmingming.cn/tv/求索纪录.png" group-title="求索频道",求索纪录
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=6000000002000032052&channel-id=wasusyt$8M1080_华数
+#EXTINF:-1 tvg-id="求索纪录" tvg-name="求索纪录" tvg-logo="https://live.fanmingming.cn/tv/求索纪录.png" group-title="求索频道",求索纪录
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=2000000004000000010&channel-id=hnbblive$7.5M1080_湖南bblive
+#EXTINF:-1 tvg-id="求索科学" tvg-name="求索科学" tvg-logo="https://live.fanmingming.cn/tv/求索科学.png" group-title="求索频道",求索科学
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=6000000002000032344&channel-id=wasusyt$8M1080_华数
+#EXTINF:-1 tvg-id="求索科学" tvg-name="求索科学" tvg-logo="https://live.fanmingming.cn/tv/求索科学.png" group-title="求索频道",求索科学
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=2000000004000000011&channel-id=hnbblive$7.5M1080_湖南bblive
+#EXTINF:-1 tvg-id="求索生活" tvg-name="求索生活" tvg-logo="https://live.fanmingming.cn/tv/求索生活.png" group-title="求索频道",求索生活
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=6000000002000003382&channel-id=wasusyt$8M1080_华数
+#EXTINF:-1 tvg-id="求索生活" tvg-name="求索生活" tvg-logo="https://live.fanmingming.cn/tv/求索生活.png" group-title="求索频道",求索生活
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=2000000004000000008&channel-id=hnbblive$7.5M1080_湖南bblive
+#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.cn/tv/湖南卫视.png" group-title="湖南频道",湖南卫视
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=5000000004000006692&channel-id=bestzb$8M1080_百视通
+#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.cn/tv/湖南卫视.png" group-title="湖南频道",湖南卫视
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=6000000001000018044&channel-id=wasusyt$8M1080_华数
+#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.cn/tv/湖南卫视.png" group-title="湖南频道",湖南卫视
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=1000000001000032695&channel-id=ystenlive$8M1080_易视腾
+#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.cn/tv/湖南卫视.png" group-title="湖南频道",湖南卫视
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=1000000005000265024&channel-id=ystenlive$5.5M1080HEVC_易视腾
+#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.cn/tv/湖南卫视.png" group-title="湖南频道",湖南卫视
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=5000000010000030452&channel-id=bestzb$4M1080_百视通
+#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.cn/tv/湖南卫视.png" group-title="湖南频道",湖南卫视
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=1000000001000009115&channel-id=ystenlive$4M1080_易视腾
+#EXTINF:-1 tvg-id="茶频道" tvg-name="茶频道" tvg-logo="https://live.fanmingming.cn/tv/茶.png" group-title="湖南频道",湖南茶频道
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=5000000011000031209&channel-id=bestzb$6.8M1080_百视通
+#EXTINF:-1 tvg-id="茶频道" tvg-name="茶频道" tvg-logo="https://live.fanmingming.cn/tv/茶.png" group-title="湖南频道",湖南茶频道
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=2000000002000000070&channel-id=hnbblive$6.8M1080_湖南bblive
+#EXTINF:-1 tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://live.fanmingming.cn/tv/金鹰纪实.png" group-title="湖南频道",湖南金鹰纪实
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=5000000011000031203&channel-id=bestzb$6.8M1080_百视通
+#EXTINF:-1 tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://live.fanmingming.cn/tv/金鹰纪实.png" group-title="湖南频道",湖南金鹰纪实
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=1000000002000011724&channel-id=ystenlive$4M576_易视腾
+#EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://live.fanmingming.cn/tv/金鹰卡通.png" group-title="湖南频道",湖南金鹰卡通
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=1000000002000016601&channel-id=ystenlive$4M576_易视腾
+#EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://live.fanmingming.cn/tv/金鹰卡通.png" group-title="湖南频道",湖南金鹰卡通
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=5000000006000040024&channel-id=bestzb$4M540_百视通
+#EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://live.fanmingming.cn/tv/金鹰卡通.png" group-title="湖南频道",湖南金鹰卡通
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=6000000003000016791&channel-id=wasusyt$1.8M576_华数
+#EXTINF:-1 tvg-id="快乐垂钓" tvg-name="快乐垂钓" tvg-logo="https://live.fanmingming.cn/tv/快乐垂钓.png" group-title="湖南频道",湖南快乐垂钓
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=5000000011000031206&channel-id=bestzb$6.8M1080_百视通
+#EXTINF:-1 tvg-id="快乐垂钓" tvg-name="快乐垂钓" tvg-logo="https://live.fanmingming.cn/tv/快乐垂钓.png" group-title="湖南频道",湖南快乐垂钓
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=2000000002000000067&channel-id=hnbblive$6.8M1080_湖南bblive
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.cn/tv/IPTVEFEL.png" group-title="湖南频道",湖南爱晚
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=6307875884530512195&channel-id=FifastbLive
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.cn/tv/IPTVEFEL.png" group-title="湖南频道",湖南电视剧
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=8765482907954673867&channel-id=FifastbLive
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.cn/tv/IPTVEFEL.png" group-title="湖南频道",湖南电影
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=7884242846753128038&channel-id=FifastbLive
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.cn/tv/IPTVEFEL.png" group-title="湖南频道",湖南都市
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=4682579636905393407&channel-id=FifastbLive
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.cn/tv/IPTVEFEL.png" group-title="湖南频道",湖南国际
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=5015828848322021526&channel-id=FifastbLive
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.cn/tv/IPTVEFEL.png" group-title="湖南频道",湖南经视
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=6306119848317438256&channel-id=FifastbLive
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.cn/tv/IPTVEFEL.png" group-title="湖南频道",湖南经视
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=7766420291569067385&channel-id=FifastbLive
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.cn/tv/IPTVEFEL.png" group-title="湖南频道",湖南娱乐
+https://gitee.com/k-web/PLTV/ku9/js/hxfkof/itv/raw/master/itv.js?Contentid=6427893650335440392&channel-id=FifastbLive
+Gitee - 基于 Git 的代码托管和研发协作平台
