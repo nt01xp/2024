@@ -1,4 +1,4 @@
-4gtv網頁嗅探,#genre#
+4gtv謝安琪網頁嗅探,#genre#
 parse=1
 
 1  amc電影台,https://www.4gtv.tv/channel/4gtv-4gtv017?set=1&ch=39    
@@ -116,4 +116,93 @@ parse=1
 113  戲劇免費看 1台,https://www.4gtv.tv/channel/4gtv-live010?set=1&ch=270    
 114  韓國娛樂台 KMTV,https://www.4gtv.tv/channel/4gtv-4gtv016?set=1&ch=446    
 115  鏡電視新聞台,https://www.4gtv.tv/channel/4gtv-4gtv075?set=1&ch=268    
-116  霹靂布袋戲,https://www.4gtv.tv/channel/4gtv-live145?set=1&ch=301    
+116  霹靂布袋戲,https://www.4gtv.tv/channel/4gtv-live145?set=1&ch=301   
+501  市井豪門-FastTV飛速看,https://www.4gtv.tv/channel/fast-live001?set=4&ch=341
+502  戲說台灣-FastTV飛速看,https://www.4gtv.tv/channel/fast-live002?set=4&ch=342
+503  中視經典戲劇-FastTV飛速看,https://www.4gtv.tv/channel/fast-live003?set=4&ch=328
+504  花系列戲劇-FastTV飛速看,https://www.4gtv.tv/channel/fast-live004?set=4&ch=329
+505  華視好劇-FastTV飛速看,https://www.4gtv.tv/channel/fast-live005?set=4&ch=330
+506  公視好劇-FastTV飛速看,https://www.4gtv.tv/channel/fast-live006?set=4&ch=337
+507  客家好劇-FastTV飛速看,https://www.4gtv.tv/channel/fast-live007?set=4&ch=346
+508  懷舊經典電影-FastTV飛速看,https://www.4gtv.tv/channel/fast-live008?set=4&ch=333
+509  精選華語電影-FastTV飛速看,https://www.4gtv.tv/channel/fast-live009?set=4&ch=335
+510  台灣靈異事件-FastTV飛速看,https://www.4gtv.tv/channel/fast-live010?set=4&ch=326
+511  新兵日記-FastTV飛速看,https://www.4gtv.tv/channel/fast-live011?set=4&ch=382
+512  以家人之名-FastTV飛速看,https://www.4gtv.tv/channel/fast-live012?set=4&ch=383
+513  加油喜事-FastTV飛速看,https://www.4gtv.tv/channel/fast-live013?set=4&ch=384
+514  去有風的地方-FastTV飛速看,https://www.4gtv.tv/channel/fast-live014?set=4&ch=386
+515  多情城市-FastTV飛速看,https://www.4gtv.tv/channel/fast-live015?set=4&ch=389
+516  黃金歲月-FastTV飛速看,https://www.4gtv.tv/channel/fast-live016?set=4&ch=392
+517  花千骨-FastTV飛速看,https://www.4gtv.tv/channel/fast-live017?set=4&ch=397
+518  別打擾我種田-FastTV飛速看,https://www.4gtv.tv/channel/fast-live018?set=4&ch=398
+519  5566偶像劇-FastTV飛速看,https://www.4gtv.tv/channel/fast-live019?set=4&ch=399
+520  不敗愛情偶像劇-FastTV飛速看,https://www.4gtv.tv/channel/fast-live020?set=4&ch=401
+521  國外電影精選-FastTV飛速看,https://www.4gtv.tv/channel/fast-live021?set=4&ch=414
+522  日韓電影大賞-FastTV飛速看,https://www.4gtv.tv/channel/fast-live022?set=4&ch=415
+523  大愛精選-FastTV飛速看,https://www.4gtv.tv/channel/fast-live023?set=4&ch=416
+524  飛龍在天-FastTV飛速看,https://www.4gtv.tv/channel/fast-live024?set=4&ch=417
+525  女士的品格-FastTV飛速看,https://www.4gtv.tv/channel/fast-live025?set=4&ch=418
+526  台灣傳奇-FastTV飛速看,https://www.4gtv.tv/channel/fast-live026?set=4&ch=419
+527  小資女孩向前衝-FastTV飛速看,https://www.4gtv.tv/channel/fast-live027?set=4&ch=420
+528  世間路-FastTV飛速看,https://www.4gtv.tv/channel/fast-live028?set=4&ch=421
+529  恐怖電影-FastTV飛速看,https://www.4gtv.tv/channel/fast-live029?set=4&ch=422
+530  古裝武俠劇-FastTV飛速看,https://www.4gtv.tv/channel/fast-live030?set=4&ch=423
+531  以愛為營-FastTV飛速看,https://www.4gtv.tv/channel/fast-live031?set=4&ch=424
+532  藍色水玲瓏-FastTV飛速看,https://www.4gtv.tv/channel/fast-live032?set=4&ch=425
+533  精彩陸劇-FastTV飛速看,https://www.4gtv.tv/channel/fast-live033?set=4&ch=426
+534  包青天-FastTV飛速看,https://www.4gtv.tv/channel/fast-live034?set=4&ch=427
+535  007情報員-FastTV飛速看,https://www.4gtv.tv/channel/fast-live035?set=4&ch=439
+538  葉青歌仔戲-FastTV飛速看,https://www.4gtv.tv/channel/fast-live038?set=4&ch=451
+539  大兵日記-FastTV飛速看,https://www.4gtv.tv/channel/fast-live039?set=4&ch=452
+540  親戚不計較(特輯)-FastTV飛速看,https://www.4gtv.tv/channel/fast-live040?set=4&ch=453
+701  天才衝衝衝-FastTV飛速看,https://www.4gtv.tv/channel/fast-live201?set=4&ch=343
+702  一字千金-FastTV飛速看,https://www.4gtv.tv/channel/fast-live202?set=4&ch=344
+703  綜藝大集合-FastTV飛速看,https://www.4gtv.tv/channel/fast-live203?set=4&ch=345
+704  女人我最大-FastTV飛速看,https://www.4gtv.tv/channel/fast-live204?set=4&ch=347
+705  食尚玩家-FastTV飛速看,https://www.4gtv.tv/channel/fast-live205?set=4&ch=348
+706  11點熱吵店-FastTV飛速看,https://www.4gtv.tv/channel/fast-live206?set=4&ch=349
+707  WTO姐妹會-FastTV飛速看,https://www.4gtv.tv/channel/fast-live207?set=4&ch=350
+708  威廉沈歡樂送-FastTV飛速看,https://www.4gtv.tv/channel/fast-live208?set=4&ch=435
+709  全家有智慧-FastTV飛速看,https://www.4gtv.tv/channel/fast-live209?set=4&ch=375
+710  少康戰情室-FastTV飛速看,https://www.4gtv.tv/channel/fast-live210?set=4&ch=376
+711  姊妹亮起來-FastTV飛速看,https://www.4gtv.tv/channel/fast-live211?set=4&ch=377
+712  娛樂百分百-FastTV飛速看,https://www.4gtv.tv/channel/fast-live212?set=4&ch=378
+713  超級冰冰Show-FastTV飛速看,https://www.4gtv.tv/channel/fast-live213?set=4&ch=379
+714  豬哥會社-FastTV飛速看,https://www.4gtv.tv/channel/fast-live214?set=4&ch=380
+716  全能歌手-FastTV飛速看,https://www.4gtv.tv/channel/fast-live216?set=4&ch=385
+717  上奅台灣歌-FastTV飛速看,https://www.4gtv.tv/channel/fast-live217?set=4&ch=387
+718  鬥陣大廟埕-FastTV飛速看,https://www.4gtv.tv/channel/fast-live218?set=4&ch=388
+719  我的成長-FastTV飛速看,https://www.4gtv.tv/channel/fast-live219?set=4&ch=390
+720  健康2.0-FastTV飛速看,https://www.4gtv.tv/channel/fast-live220?set=4&ch=391
+721  輕鬆看法律-FastTV飛速看,https://www.4gtv.tv/channel/fast-live221?set=4&ch=393
+722  TVBS看板人物-FastTV飛速看,https://www.4gtv.tv/channel/fast-live222?set=4&ch=394
+723  野蠻遊戲：We Play -FastTV飛速看,https://www.4gtv.tv/channel/fast-live223?set=4&ch=395
+724  最愛韓星-FastTV飛速看,https://www.4gtv.tv/channel/fast-live224?set=4&ch=396
+725  美食+-x廚-FastTV飛速看,https://www.4gtv.tv/channel/fast-live225?set=4&ch=400
+726  廚神明星秀-FastTV飛速看,https://www.4gtv.tv/channel/fast-live226?set=4&ch=402
+727  浩克慢遊-FastTV飛速看,https://www.4gtv.tv/channel/fast-live227?set=4&ch=403
+728  環遊世界800天 -FastTV飛速看,https://www.4gtv.tv/channel/fast-live228?set=4&ch=413
+729  娛樂超skr-FastTV飛速看,https://www.4gtv.tv/channel/fast-live229?set=4&ch=428
+730  綜藝新時代-FastTV飛速看,https://www.4gtv.tv/channel/fast-live230?set=4&ch=429
+731  幸福保衛戰-FastTV飛速看,https://www.4gtv.tv/channel/fast-live231?set=4&ch=430
+732  同學！搞什麼鬼-FastTV飛速看,https://www.4gtv.tv/channel/fast-live232?set=4&ch=431
+733  爸媽囧很大-FastTV飛速看,https://www.4gtv.tv/channel/fast-live233?set=4&ch=432
+734  醫學大聯盟-FastTV飛速看,https://www.4gtv.tv/channel/fast-live234?set=4&ch=433
+735  GoGoTaiwan-FastTV飛速看,https://www.4gtv.tv/channel/fast-live235?set=4&ch=434
+739  一起追韓星-FastTV飛速看,https://www.4gtv.tv/channel/fast-live239?set=4&ch=447
+740  韓流美食料理秀-FastTV飛速看,https://www.4gtv.tv/channel/fast-live240?set=4&ch=449
+901  霹靂布袋戲-FastTV飛速看,https://www.4gtv.tv/channel/fast-live401?set=4&ch=338
+902  金光布袋戲-FastTV飛速看,https://www.4gtv.tv/channel/fast-live402?set=4&ch=339
+903  超人力霸王《TV版》FastTV飛速看,https://www.4gtv.tv/channel/fast-live403?set=4&ch=318
+904  超人力霸王《劇場版》FastTV飛速看,https://www.4gtv.tv/channel/fast-live404?set=4&ch=325
+905  哆啦A夢-FastTV飛速看,https://www.4gtv.tv/channel/fast-live405?set=4&ch=331
+906  經典卡通-FastTV飛速看,https://www.4gtv.tv/channel/fast-live406?set=4&ch=332
+907  免費精選動畫-FastTV飛速看,https://www.4gtv.tv/channel/fast-live407?set=4&ch=437
+908  經典迪士尼-FastTV飛速看,https://www.4gtv.tv/channel/fast-live408?set=4&ch=340
+909  免費兒童卡通-FastTV飛速看,https://www.4gtv.tv/channel/fast-live409?set=4&ch=334
+910  FOOD超人-FastTV飛速看,https://www.4gtv.tv/channel/fast-live410?set=4&ch=327
+911  小兒子-FastTV飛速看,https://www.4gtv.tv/channel/fast-live411?set=4&ch=336
+912  親子一起看-FastTV飛速看,https://www.4gtv.tv/channel/fast-live412?set=4&ch=436
+913  怪獸之王-FastTV飛速看,https://www.4gtv.tv/channel/fast-live413?set=4&ch=438
+914  東離劍遊紀-FastTV飛速看,https://www.4gtv.tv/channel/fast-live414?set=4&ch=448
+
