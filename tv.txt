@@ -375,10 +375,6 @@ CatchPlay電影M,udp://@230.1.2.37:11111
 龍華影劇M,udp://@230.1.2.167:11111
 龍華影劇M,udp://@230.1.2.5:11111
 
-
-柯南劇場版1,https://www.goodiptv.club/douyu/6484910
-柯南劇場版2,https://www.goodiptv.club/douyu/1487654
-
 動物星球,http://61.221.215.25:8800/hls/57/index.m3u8
 八大綜合,http://61.221.215.25:8800/hls/56/index.m3u8
 
